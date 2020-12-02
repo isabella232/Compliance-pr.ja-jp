@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d573e78ddf0f6f4b9845635a37f8dc8f82350066
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: db1168d494fd5a8d0a31176ccccdff72dd096f1d
+ms.sourcegitcommit: c697549cdc5785e163bd6147cf0d95ba61b078fe
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508421"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528893"
 ---
 # <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>ニュージーランド政府機関向けクラウドコンピューティングのセキュリティとプライバシーに関する考慮事項
 
@@ -65,8 +65,7 @@ Azure セキュリティおよびコンプライアンスブループリント�
 - [NZ 政府 ICT 戦略2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [クラウドコンピューティングのための NZ 政府の要件](https://aka.ms/NZ-Cloud-Requirements)
 - [クラウドコンピューティング: 情報のセキュリティとプライバシーに関する考慮事項 (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
-- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
-- [Office 365: SEEMail 統合と参照アーキテクチャ](https://download.microsoft.com/download/8/5/9/859CDCEE-D293-47D8-9B6A-670B108B48E1/Microsoft_Office_365_white_paper_EN_US.pdf) (クラウドサービス導入に関する Microsoft NZ の追加ガイダンス)
+- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>' クラウドコンピューティング IPSC ' への Microsoft の応答
