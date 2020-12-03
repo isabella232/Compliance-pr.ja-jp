@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e04239b8dcbe50d054ec02f2164a301c775aaac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4766d0152e2ee5b372157dd56f28690161f04045
+ms.sourcegitcommit: 5ebe2ba746bba2d5058dcc0469a67e81fa3a8dce
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509522"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49559853"
 ---
 # <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>医療保険の携行性と責任に関する法律と HITECH 法 (Health Insurance Portability and Accountability (HIPAA) & HITECH Acts)
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>HIPAA と HITECH 法の概要
 
-健康保険の携行性と責任に関する法律 (HIPAA) は、個人を特定できる健康情報の使用、開示、および保護に関する要件を定めた米国の医療法です。 これは、医師の事務所、病院、健康 insurers、その他の医療会社 (患者の保護された健康情報 (PHI) にアクセスできること、および、クラウドサービスや IT プロバイダーなどのビジネス関連者に対して、PHI を代行して処理する) に適用されます。 (ほとんどの対象事業体は、クレームやデータ処理などの機能を単独では実行しません。それらの機能の実行については、ビジネス関係者に依存しています。)
+健康保険の携行性と責任に関する法律 (HIPAA) は、個人を特定できる健康情報の使用、開示、および保護に関する要件を定めた米国の医療法です。 これは、対象となるエンティティ、医師の事務所、病院、健康 insurers、その他の医療会社に適用され、患者の保護された健康情報 (PHI) へのアクセス、およびクラウドサービスや IT プロバイダーなどのビジネス関連のため、PHI を処理することができます。 (ほとんどの対象事業体は、クレームやデータ処理などの機能を単独では実行しません。それらの機能の実行については、ビジネス関係者に依存しています。)
 
 法律は、4 つの一般的な分野での PHI の使用および普及を規制しています。
 
@@ -45,7 +45,7 @@ HITECH 違反の通知に関する最終ルール。セキュリティ保護さ�
 
 ## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Microsoft と HIPAA および HITECH 法
 
-HIPAA 規制では、対象事業体およびそのビジネス関係者 (この場合、対象事業体にクラウド サービスなどを含むサービスを提供する Microsoft) が、これらのビジネス関係者による PHI の適切な保護を保証する契約を締結する必要があります。 これらのコントラクトまたは BAAs では、ビジネス関連が PHI を処理する方法を明確にし、各当事者が HIPAA およびお客様に対して設定されたセキュリティとプライバシーに関する規定に準拠するように設定します。BAA が配置されると、Microsoft のお客様 (対象となるエンティティ) は、そのサービスを使用して PHI を処理および保存できるようになります。
+HIPAA 規制では、対象となるエンティティとそのビジネスに関連するものを必要とします。この場合、Microsoft は、クラウドサービスを含むサービスをエンティティに提供するときに、契約を締結して、それらのビジネス関係者が PHI を適切に保護できるようにします。 これらのコントラクトまたは BAAs では、ビジネス関連が PHI を処理する方法を明確にし、各当事者が HIPAA およびお客様に対して設定されたセキュリティとプライバシーに関する規定に準拠するように設定します。BAA が配置されると、Microsoft のお客様 (対象となるエンティティ) は、そのサービスを使用して PHI を処理および保存できるようになります。
 
 現在、HIPAA または HITECH 法のコンプライアンスに関する公式の認定資格はありません。 ただし、BAA の対象となるこれらの Microsoft サービスは、Microsoft ISO/IEC 27001 認定の独立監査人によって実施された監査を受けています。
 
@@ -57,12 +57,13 @@ Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠�
 
 - [Azure および Azure Government](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- Microsoft Microsoft 医療ボットサービス
+- [医療機関向け Microsoft Cloud](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- Microsoft 医療ボットサービス
+- Microsoft マネージド デスクトップ
 - Microsoft Stream
 - Microsoft Professional Services: Azure、Dynamics 365、Intune と、Microsoft 365 for business の Medium Business および Enterprise のお客様への Premier およびオンプレミス サポート
 - [Dynamics 365、Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
-- Power Automate (以前の Microsoft Flow) クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
 - Intune
 - [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
@@ -71,9 +72,7 @@ Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠�
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Azure での HIPAA/HITRUST ソリューションの展開を加速する
 
-Azure のセキュリティとコンプライアンスのブループリント (HIPAA/HITRUST 健康データおよび AI) を使用して、健康データ ソリューション向けのクラウドの利点を活用する上での有利なスタートを切りましょう。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
-
-「[Start using the Azure HIPAA/HITRUST Blueprint (Azure HIPAA/HITRUST ブループリントの使用を開始する)](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)」
+[Azure のセキュリティとコンプライアンスのブループリント (HIPAA/HITRUST Health data AND AI)](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)を使用した正常性データソリューションのクラウドの利点を活用するための、すぐに開始できます。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -107,7 +106,7 @@ Microsoft のサービスはすべての顧客に対して一貫しているた�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 
@@ -117,4 +116,4 @@ Microsoft のサービスはすべての顧客に対して一貫しているた�
 - [Microsoft Government クラウド](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Azure の HIPAA コンプライアンスについて](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0) (2016 年 5 月 19 日)
 - [Azure HIPAA HITRUST ブループリントのサンプル](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust/)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
