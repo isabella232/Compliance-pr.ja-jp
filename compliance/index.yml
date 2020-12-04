@@ -1,10 +1,10 @@
 ### YamlMime:Hub
-title: コンプライアンスのドキュメント
-summary: お客様のビジネスや組織でコンプライアンスの使用を開始するために必要な Microsoft ドキュメントとリソースを案内します。
+title: コンプライアンスに関するドキュメント
+summary: お客様のビジネスまたは組織のコンプライアンスを開始するには、Microsoft のドキュメントとリソースを参照する必要があります。
 brand: m365
 metadata:
-  title: コンプライアンスのドキュメント
-  description: お客様のビジネスや組織でコンプライアンスの使用を開始するために必要な Microsoft ドキュメントとリソースを案内します。
+  title: コンプライアンスに関するドキュメント
+  description: お客様のビジネスまたは組織のコンプライアンスを開始するには、Microsoft のドキュメントとリソースを参照する必要があります。
   services: service
   ms.service: service
   ms.subservice: subservice
@@ -15,12 +15,12 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 9f175f0f0e3b42518999d2cc6c334cbd9b15b65b
-  ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
-  ms.translationtype: HT
+  ms.openlocfilehash: 12de0e81e8a9d1ee908207dc4e3d2dc50a797f7e
+  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
+  ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 11/30/2020
-  ms.locfileid: "49508396"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "49568643"
 highlightedContent:
   items:
   - title: Microsoft 365 コンプライアンスを開始するためのクイック タスク
@@ -29,13 +29,13 @@ highlightedContent:
   - title: データ プライバシー規制用の情報保護を展開する
     itemType: get-started
     url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
-  - title: クラウドでの共有責任の詳細
+  - title: クラウドでの共有責任について説明します。
     itemType: overview
     url: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
   - title: Microsoft がお客様のデータを保護する方法について
     itemType: learn
     url: https://docs.microsoft.com/learn/paths/audit-safeguard-customer-data/
-  - title: コンプライアンス マネージャーの詳細
+  - title: Microsoft コンプライアンスマネージャーについて
     itemType: learn
     url: https://docs.microsoft.com/learn/paths/compmgmt/
   - title: Microsoft 365 で insider リスクを管理する
@@ -44,34 +44,34 @@ highlightedContent:
   - title: 情報保護とガバナンスを管理する
     itemType: learn
     url: https://docs.microsoft.com/learn/paths/m365-compliance-information/
-  - title: Advanced eDiscovery と高度な監査の詳細
+  - title: 高度な電子情報開示と高度な監査について
     itemType: learn
     url: https://docs.microsoft.com/learn/paths/compliance-discover/
 productDirectory:
   title: 法令遵守
-  summary: 国際および国内の標準および規制への準拠に関する Microsoft のガイダンス。
+  summary: 国際および国内の標準および規制に準拠するための Microsoft のガイダンス。
   items:
   - title: EU 一般データ保護規則 (GDPR)
     imageSrc: https://docs.microsoft.com/office/media/icons/compliance-blue.svg
-    summary: Microsoft の製品およびサービスを使用する際に、GDPR に基づく権利を尊重し、義務を履行するためのガイダンス。
+    summary: Microsoft の製品とサービスを使用する際に、GDPR の下で権利を尊重し、義務を履行するのに役立つガイダンス。
     url: /compliance/regulatory/gdpr
   - title: Microsoft コンプライアンスのサービス
     imageSrc: https://docs.microsoft.com/office/media/icons/globe-internet.svg
-    summary: Microsoft は、組織がデータの収集と使用を管理する国、地域、および業界固有の要件に準拠するのに役立つ包括的なコンプライアンス製品のセットを提供しています。
+    summary: Microsoft は、お客様の組織がデータの収集と使用を管理する国内、地域、および業界固有の要件に準拠するための包括的なコンプライアンス製品を提供しています。
     url: /compliance/regulatory/offering-home
-  - title: 法令順守と Microsoft Azure
+  - title: 法令遵守と Microsoft Azure
     imageSrc: https://docs.microsoft.com/media/logos/logo_azure.svg
-    summary: 法令順守と Microsoft Azure クラウド サービスについて説明します。
+    summary: 法令遵守と Microsoft Azure について説明します。
     url: https://docs.microsoft.com/azure/compliance/
 conceptualContent:
   title: サービス アシュアランス
-  summary: Microsoft が顧客データを保護する方法を理解することから、セキュリティとリスクの評価を開始します。
+  summary: Microsoft がお客様のデータを保護する方法について理解して、セキュリティとリスクの評価を開始します。
   items:
   - title: アーキテクチャ
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-architecture/
       itemType: learn
-      text: アーキテクチャの詳細
+      text: アーキテクチャについて学習する
     - url: /compliance/assurance/assurance-architecture
       itemType: concept
       text: アーキテクチャの概要
@@ -79,7 +79,7 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-logging-monitoring/
       itemType: learn
-      text: 監査ログの詳細
+      text: 監査ログについて
     - url: /compliance/assurance/assurance-audit-logging
       itemType: concept
       text: 監査ログの概要
@@ -87,15 +87,15 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-physical-security/
       itemType: learn
-      text: データセンターのセキュリティの詳細
+      text: データセンターのセキュリティについて
     - url: /compliance/assurance/assurance-datacenter-security
       itemType: concept
       text: データセンターのセキュリティの概要
-  - title: 暗号化とキー管理
+  - title: 暗号化とキーの管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-encryption/
       itemType: learn
-      text: 暗号化とキー管理の詳細
+      text: 暗号化とキー管理について
     - url: /compliance/assurance/assurance-encryption
       itemType: concept
       text: 暗号化とキー管理の概要
@@ -103,76 +103,76 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/
       itemType: learn
-      text: ID とアクセス管理の詳細
+      text: Id およびアクセス管理について
     - url: /compliance/assurance/assurance-governance
       itemType: concept
       text: ガバナンスの概要
-  - title: 人事管理
+  - title: 人事
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-governance/personnel-security-governance
       itemType: learn
-      text: 人事管理の詳細
+      text: 人事管理について
     - url: /compliance/assurance/assurance-human-resources
       itemType: concept
-      text: 人事管理の概要
+      text: 人事の概要
   - title: ID およびアクセス管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-identity-access-management/
       itemType: learn
-      text: ID およびアクセス管理の詳細
+      text: Id およびアクセス管理について
     - url: /compliance/assurance/assurance-identity-and-access-management
       itemType: concept
-      text: ID およびアクセス管理の概要
+      text: Id およびアクセス管理の概要
   - title: インシデント管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-incident-management/
       itemType: learn
-      text: レコード管理の詳細
+      text: インシデント管理について
     - url: /compliance/assurance/assurance-incident-management
       itemType: concept
-      text: ドキュメント管理の概要
+      text: インシデント管理の概要
   - title: ネットワーク セキュリティ
     links:
     - url: /compliance/assurance/assurance-network-security
       itemType: concept
-      text: ネットワーク セキュリティの概要
+      text: ネットワークセキュリティの概要
   - title: プライバシー
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-privacy/
       itemType: learn
-      text: プライバシーの詳細
+      text: プライバシーについて
     - url: /compliance/assurance/assurance-privacy
       itemType: concept
       text: プライバシーの概要
-  - title: 回復性および継続性
+  - title: 復元性と継続性
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-resiliency-continuity/
       itemType: learn
-      text: 回復性および継続性の詳細
+      text: 復元と継続性について
     - url: /compliance/assurance/assurance-resiliency-and-continuity
       itemType: concept
-      text: 回復性および継続性の概要
+      text: 復元と継続性の概要
   - title: リスク管理
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-risk-management/
       itemType: learn
-      text: リスク管理の詳細
+      text: リスク管理について学習する
     - url: /compliance/assurance/assurance-risk-management
       itemType: concept
       text: リスク管理の概要
-  - title: セキュリティ開発と運用
+  - title: セキュリティの開発と運用
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-security-development-operation/
       itemType: learn
-      text: セキュリティ開発と運用の詳細
+      text: セキュリティ開発操作について
     - url: /compliance/assurance/assurance-security-development-and-operation
       itemType: concept
-      text: セキュリティ開発と運用概要
-  - title: セキュリティ監視
+      text: セキュリティ開発操作の概要
+  - title: セキュリティの監視
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/security-monitoring
       itemType: learn
-      text: セキュリティ監視の詳細
+      text: セキュリティ監視について
     - url: /compliance/assurance/assurance-security-monitoring
       itemType: concept
       text: セキュリティ監視の概要
@@ -180,7 +180,7 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-subprocessor-management/
       itemType: learn
-      text: サプライヤー管理の詳細
+      text: サプライヤ管理について学習する
     - url: /compliance/assurance/assurance-supplier-management
       itemType: concept
       text: サプライヤー管理の概要
@@ -188,30 +188,30 @@ conceptualContent:
     links:
     - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/
       itemType: learn
-      text: 脆弱性管理の詳細
+      text: 脆弱性管理について
     - url: /compliance/assurance/assurance-vulnerability-management
       itemType: concept
       text: 脆弱性管理の概要
 additionalContent:
   sections:
-  - title: Microsoft 365 のコンプライアンスを開始する
-    summary: Microsoft 365 のコンプライアンスに不慣れで、どこから始めればよいかわからない場合は、このセクションで提供する主要なソリューションへのリンクを利用し、重要なコンプライアンス領域に優先順位を付けます。
+  - title: Microsoft 365 でコンプライアンスの概要を理解する
+    summary: Microsoft 365 へのコンプライアンスの新機能をご利用になる方は、このセクションでは重要なソリューションへのリンクを提供し、重要な法令遵守領域の優先順位を指定します。
     items:
-    - title: コンプライアンス マネージャーの詳細
-      summary: コンプライアンス マネージャーとは何か、コンプライアンスを簡素化し、リスクを軽減するのにどのように役立つか、およびその主要コンポーネントについて説明します。
+    - title: コンプライアンスマネージャーの詳細
+      summary: コンプライアンスマネージャーとは何か、コンプライアンスを簡素化してリスクを軽減する方法、および主要なコンポーネントについて説明します。
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-manager
     - title: インサイダー リスクを管理する
-      summary: 組織内の悪意のある不注意なアクティビティを検出、調査、および対処することにより、内部リスクを最小限に抑えます。
+      summary: 組織内の悪意のある偶発的なアクティビティを検出、調査、および処理することによって、内部的なリスクを最小限に抑えます。
       url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management
     - title: 情報保護の管理
-      summary: Microsoft Information Protection (MIP) を使用すれば、機密情報がどこに保存されていても、どこに移動しても、それらの情報の検出、分類、保護が可能になります。
+      summary: Microsoft Information Protection (MIP) を使用して、機密性の高い情報をどこにいても、どこからでも検出、分類、保護することができます。
       url: https://docs.microsoft.com/microsoft-365/compliance/protect-information
     - title: 情報ガバナンスの管理
-      summary: コンプライアンスや規制の要件を満たすようにデータを管理するには、Microsoft 情報ガバナンス (MIG) 機能を使用します。
+      summary: Microsoft Information ガバナンス (MIG) 機能を使用して、コンプライアンスまたは規制要件に合わせてデータを管理します。
       url: https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance
-    - title: 電子情報開示の管理
-      summary: 電子情報開示を使用して、訴訟の証拠としてコンテンツを特定および分析します。
+    - title: eDiscovery の管理
+      summary: 電子情報開示を使用して、法的なケースの証拠としてコンテンツを識別し、分析します。
       url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
     - title: データ プライバシー規制用の情報保護を展開する
-      summary: データ プライバシー規制の対象となる Microsoft 365 サービスに保存されている個人データのデータ プライバシー インシデントを特定、保護、管理、および対応します。
+      summary: Microsoft 365 services に格納されている個人データに関するデータプライバシーインシデントを特定、検索、保護、管理、および対応する。データプライバシーに関する規制が適用されます。
       url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy

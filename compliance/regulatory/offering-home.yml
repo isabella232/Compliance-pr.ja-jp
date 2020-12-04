@@ -3,7 +3,7 @@ title: Microsoft コンプライアンスのサービス
 summary: マイクロソフトの製品とサービスが、組織が規制準拠の基準を満たすためにどのように役立つかについて説明します。
 brand: m365
 metadata:
-  title: Microsoft 365、Azure クラウドサービス、およびその他の Microsoft サービスのコンプライアンスサービス。
+  title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス。
   description: マイクロソフトの製品とサービスが、組織が規制準拠の基準を満たすためにどのように役立つかについて説明します。
   services: service
   ms.service: O365-seccomp
@@ -16,14 +16,14 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 95c5b020d516d5fc7ccce6978c6f4cf0ad590b5f
-  ms.sourcegitcommit: 98b2d08699e942b4d4f3d7960df6e8e85030f5ec
+  ms.openlocfilehash: 46592794abb76821595c95cea2d66cd529d727c5
+  ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 12/01/2020
-  ms.locfileid: "49527124"
+  ms.lasthandoff: 12/03/2020
+  ms.locfileid: "49568653"
 conceptualContent:
-  title: Microsoft 365、Azure クラウドサービス、およびその他の Microsoft サービスのコンプライアンスサービス
+  title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス
   summary: Microsoft は、組織がデータの収集と使用を管理する国内、地域、および業界固有の要件に準拠するためのコンプライアンスサービスを提供しています。
   items:
   - title: グローバル
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (中国)
 additionalContent:
   sections:
-  - title: Azure クラウドサービスに特化したコンプライアンスサービス
-    summary: コンプライアンスサービス特に、組織がデータの収集と使用を管理する国、地域、および業界固有の要件に準拠できるようにするための Azure クラウドサービスの場合。
+  - title: Azure に特化したコンプライアンスサービス
+    summary: コンプライアンスソリューション特に、組織がデータの収集と使用を管理する国内、地域、および業界固有の要件に準拠するために役立ちます。
     items:
     - title: グローバル
       links:

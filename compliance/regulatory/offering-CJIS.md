@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 46de9832d4ba155e0e500462b7c82fad16a3bda2
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 05458ef4c0ef85a00939f53698639ef1be9174ff
+ms.sourcegitcommit: 7651cdc4af88278aef02114b4331d8d379f10def
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508904"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49568663"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>刑事司法 Information Services (CJIS) セキュリティポリシー
 
@@ -31,7 +31,7 @@ ms.locfileid: "49508904"
 
 CJIS のセキュリティポリシーには、presidential と FBI のディレクティブ、連邦法、犯罪者の勧告ポリシーボードの決定、および米国標準技術局 (NIST) のガイダンスが統合されています。 ポリシーは定期的に更新され、セキュリティ要件の変化を反映しています。
 
-CJIS のセキュリティポリシーでは、クラウドサービスプロバイダーなどのプライベート請負業者が、クラウドサービスの使用を CJIS の要件と一致できるかどうかを判断するために評価する必要がある13の領域を定義します。 これらの分野は、NIST 800-53 に密接に対応しています。これは、連邦リスクおよび承認管理プログラム ([Fedramp (Office 365)](offering-FedRAMP.md))、マイクロソフトが政府機関向けクラウド製品に対して認定されているプログラムのことです。
+CJIS のセキュリティポリシーでは、クラウドサービスプロバイダーなどのプライベート請負業者が、クラウドサービスの使用を CJIS の要件と一致できるかどうかを判断するために評価する必要がある13の領域を定義します。 これらの領域は、NIST 800-53 に密接に対応しています。これは、 [連邦リスクおよび承認管理プログラム (FedRAMP)](offering-FedRAMP.md)の基礎でもあります。これは、マイクロソフトが政府機関向けクラウド製品の認定を受けているプログラムです。
 
 さらに、CJI を処理するすべてのプライベート請負業者は、CJI セキュリティポリシーに必要なセキュリティと機密性を確保するために、米弁護士の一般に承認された一様な契約書である CJIS のセキュリティ補遺に署名する必要があります。 また、連邦および州の法律、規制、および標準に準拠したセキュリティプログラムを維持するために請負業者にもコミットし、CJI の使用を政府機関が提供する目的に限定します。
 
@@ -47,9 +47,9 @@ Azure セキュリティおよびコンプライアンスブループリント�
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
-- [Azure Government](https://aka.ms/AzureCompliance)
-- [Dynamics 365 米国政府](https://aka.ms/d365-compliance-list)
-- [Office 365 米国政府機関](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- [Azure Government](https://docs.microsoft.com/azure/azure-government/documentation-government-welcome)
+- [Dynamics 365 米国政府](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
+- [Office 365 米国政府機関](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
@@ -82,7 +82,7 @@ Microsoft は、状態 CJIS Systems Agency (CSA) を使用して、情報契約�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 
