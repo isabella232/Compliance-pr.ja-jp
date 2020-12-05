@@ -1,13 +1,12 @@
 ---
 title: 顧客およびクラウド パートナー エンタープライズ ビジネス継続性の責任
 description: サービス インシデントの発生時に Microsoft が何を行っているかを理解し、ビジネス継続性プランをより適切に準備できるようにします。
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: ''
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -17,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: efcbc57f2b22c185f023fc49c928fbab86f1f02e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508573"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574769"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>エンタープライズ ビジネス継続性管理の顧客とクラウド パートナーの責任
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f1eba5677869e337764b4b0864fac27222d4d77
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b2b7374eff6bcce8f0c36f6bc40709123041a2a7
+ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509699"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49574879"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>オーストラリア自治体情報セキュリティ登録された査定者プログラム (IRAP)
 
@@ -68,6 +68,7 @@ Microsoft のサービスの IRAP 評価では、政府機関の公的機関の�
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
 - [Azure および Dynamics](https://aka.ms/AzureCompliance)
+- Microsoft マネージド デスクトップ
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
@@ -78,7 +79,7 @@ IRAP は、クラウドサービスを使用するすべてのオーストラリ
 
 **組織のリスク評価および承認プロセスにおいて、Microsoft のコンプライアンスを使用できますか。**
 
-はい。 組織で、ISM を使用して運用するための承認を必要とする場合、またはその要求を求める場合は、リスク評価で Azure と Office 365 の IRAP セキュリティ評価を使用できます。 できます。しかし、Microsoft のプラットフォームに展開された実装を評価するための査定官と、自分の組織内の統制およびプロセスについて評価する責任を担います。
+はい、できます。 組織で、ISM を使用して運用するための承認を必要とする場合、またはその要求を求める場合は、リスク評価で Azure と Office 365 の IRAP セキュリティ評価を使用できます。 できます。しかし、Microsoft のプラットフォームに展開された実装を評価するための査定官と、自分の組織内の統制およびプロセスについて評価する責任を担います。
 
 **組織のリスク評価と、運用の承認については、どこから始めますか?**
 
@@ -90,7 +91,7 @@ IRAP は、クラウドサービスを使用するすべてのオーストラリ
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 
