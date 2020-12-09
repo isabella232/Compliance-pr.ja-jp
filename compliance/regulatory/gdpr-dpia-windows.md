@@ -8,20 +8,21 @@ ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: daniha
-author: DaniHalfin
-manager: dansimp
+ms.author: robmazz
+author: robmaz
+manager: laurawi
+ms.reviewer: delinat
 audience: itpro
 ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 00b9904b02a69c9166c8a7916ca8a9f07fd4bfa4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b0f23f9143d96ddc1f22f1bc1014769384838531
+ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508717"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49585382"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-data-processor-service-for-windows-enterprise"></a>データ保護影響評価: Windows Enterprise 向け Microsoft データ プロセッサー サービスを利用するデータ管理者向けガイダンス
 
