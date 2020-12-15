@@ -1,6 +1,6 @@
 ---
-title: 英国の財務倫理当局 (FCA)
-description: 英国の金融機関向けの Microsoft ガイダンスでは、クラウドへのアウトソーシングに関する財務行為権限とガイドラインに従っています。
+title: 英国金融行動庁 (FCA)
+description: 英国の金融機関向け Microsoft ガイダンスは、金融行動機関およびクラウドへのアウトソーシングのガイドラインに従っています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,34 +16,34 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 17c43992f813ba8f0b5b3e9400fadb29eb4174d5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fe7572c8b9f5d8d73d09e57c873a092a97c3226c
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507976"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669758"
 ---
-# <a name="united-kingdom-financial-conduct-authority-fca"></a>英国の財務倫理当局 (FCA)
+# <a name="united-kingdom-financial-conduct-authority-fca"></a>英国金融行動庁 (FCA)
 
-## <a name="fca-uk-overview"></a>FCA (UK) の概要
+## <a name="fca-uk-overview"></a>FCA (英国) の概要
 
-[財務遂行機関](https://www.fca.org.uk/)(FCA) は、財務に対して責任を持つ独立した公開団体であり、英国では58000の金融会社と市場を規制し、それらの組織の prudential を18000超えるために、レギュレータとして機能します。 [Prudential の規制機関](https://www.bankofengland.co.uk/pra/pages/default.aspx) (PRA) は、イギリスの Prudential レギュレータとしても機能します。また、銀行、ビル societies、クレジット組合、insurers、投資会社などの大規模な金融サービス機関の1500を規制します。 (FCA は、PRA 送金に含まれていない会社に対して prudential の規制をピックアップします。)
+財務[](https://www.fca.org.uk/)省の責任を持つ独立した公的機関である金融行動機関 (FCA) は、英国の 58,000 の金融機関と市場を規制し、それらの組織の 18,000 を超える慎重な規制機関として機能します。 [Prudential Regulation Authority](https://www.bankofengland.co.uk/pra/pages/default.aspx) (PRA) は、英国銀行の慎重な規制機関の役割をもち、銀行、建物の部下、信用組合、保険業者、投資会社など、大規模な金融サービス機関の 1,500 を規制しています。 (FCA は PRA 送金に該当しない企業に対する慎重な規制を受け取っています。
 
-FCA では、クラウドへのアウトソーシングに関するルールを適用する方法について、金融機関とクラウドサービスプロバイダーが不明確だったというフィードバックが得られました。 FCA の委任によって効果的な競合 (イノベーションがドライバーになる可能性がある) が含まれている場合、FCA はクラウドサービスの使用をサポートすることを目的としていますが、このルールに準拠した方法で、クラウドサービス (パブリッククラウドサービスを含む) を実装できない理由を適切に検討する必要はありません。 そのため、FCA は、クラウドにアウトソーシングするための要件を明確にし、クラウドへのアウトソーシング、または金融機関とクラウドサービスプロバイダーがクラウドにアウトソーシングした場合に FCA の期待を理解するための [ガイダンス](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf) に基づいて、2016年11月に最終ガイダンスを公開します (または、計画を立てる場合)。 このガイダンスはバインドされていませんが、FCA は、必要に応じて企業が使用することを想定しています。 (PRA には異なる法的目的があるため、規制対象の企業が PRA を使用してそのアプローチを確認する必要があります)。これは詳細なドキュメントで、IT サービスの配信におけるサードパーティの使用、評価、および継続的な監視に関する具体的なガイダンスを提供します。 考慮すべきことは、法的、法律、規制に関する考慮事項、リスク管理から、アウトソーシングの計画や、アウトソーシングの開始に関する計画に至るまでの、13の重要な分野に分けられています。
+FCA は、金融機関やクラウド サービス プロバイダーが、クラウドへのアウトソーシングに関するルールを適用する方法について不明瞭であり、クラウド使用の障壁になる可能性があるというフィードバックを受け取っています。 FCA の命令には効果的な競争を促進する (技術革新が推進される可能性がある) ことを考慮し、FCA はクラウド サービスの使用をサポートしたいと考えました。「規則に準拠した方法で、クラウド サービス (パブリック クラウド サービスを含む) を適切な考慮事項で実装できない基本的な理由は見当たります」と述べた。 そこで、FCA はクラウドへのアウトソーシングに関する要件を明確にし、2016 年 11 月に、企業がクラウドにアウトソーシングするためのガイダンス、および金融機関やクラウド サービス プロバイダーがクラウドにアウトソーシングする際の FCA の期待を理解することを目的としたその他のサードパーティ [の IT](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf) サービスに関するガイダンスを公開しました (または、そうする予定です)。 このガイダンスはバインドされていないが、FCA は企業が必要に応じてそれを使用すると期待している。 (PRA には法的な目標が異なっているので、規制する企業は PRA に対するアプローチを確認する必要があります)。これは詳細なドキュメントであり、IT サービスの提供におけるサード パーティの使用、評価、および継続的な監視に関する具体的なガイダンスを提供します。 法的および規制上の考慮事項とリスク管理から、継続性計画、アウトソーシング契約終了の計画まで、検討事項を 13 の関心領域に分割します。
 
-## <a name="microsoft-and-fca-uk"></a>Microsoft および FCA (UK)
+## <a name="microsoft-and-fca-uk"></a>Microsoft と FCA (英国)
 
-Microsoft は、コンプライアンスを可能にするための包括的なガイドを公開してい [ます。 FCA ファイナライズされたクラウドガイダンスへの Microsoft のアプローチ](https://go.microsoft.com/fwlink/p/?linkid=2101561)では、Azure が、クラウドに移行する際に、英国の金融行為機関 (FCA) および Prudential 規制機関 (PRA) によって承認および規制される金融サービスの顧客を支援します。
+Microsoft は、コンプライアンスの実現に関する包括的なガイドを公開しました [。FCA](https://go.microsoft.com/fwlink/p/?linkid=2101561)最終決定クラウド ガイダンスに対する Microsoft のアプローチは、IT 運用をクラウドに移行する際に、英国金融行動機関 (FCA) および Prudential Regulation Authority (PRA) によって承認および規制されている金融サービスのお客様を Azure がどのように支援できるのかについて詳しく説明しています。
 
-Microsoft のガイドでは、認識されたさまざまな国際標準への準拠について詳細に説明しています。顧客データをどのように処理して管理できるようにするか、また、契約によって住所固有の財務上の規制要件を規定しています。
+Microsoft ガイドでは、数多くの認識されている国際基準への準拠、お客様がデータを制御するために顧客データを処理する方法に関する透明性、および特定の金融規制要件に対応する契約条項について、詳細に説明しています。
 
-FCA ガイダンスの各分野についての詳細な説明は、Microsoft ガイドの各セクションで構成されています。 たとえば、規制アウトソーシングの要件の重要な側面は、金融サービス企業が、アウトソーシングがビジネスに持ち込むリスクを特定して管理する必要があるということです。 Microsoft は、リスク評価を実施し、それを文書化し、現在のベストプラクティスなどを特定するためのアプローチについて説明しています。 関連するリスクを評価して、お客様のデューデリジェンスを促進するために幅広いリソースを利用できるようにするのに役立ちます。
+Microsoft ガイドのセクションは、FCA ガイダンスの関心領域ごとに詳細にマップされます。 たとえば、規制アウトソーシング要件の重要な側面は、金融サービス会社が、アウトソーシングがビジネスに導入する可能性のあるリスクを特定して管理する必要があるという点です。 Microsoft では、リスク評価の実施、文書化、現在のベスト プラクティスの特定などにおけるアプローチについて説明しています。 We help you assess the relevant risks and make available a wide range of resources to facilitate your due diligence.
 
-英国の銀行での FCA 準拠の有効化については、「 [Microsoft の共同作業をお読みください。 ClearBank にお目を通してください。最初の新しい UK クリア bank of 250 年](https://customers.microsoft.com/story/microsoft-collaborates-with-clearbank)以上を発表します。
+Azure が英国の銀行で FCA コンプライアンスを有効にする方法について説明します。Microsoft が ClearBank と共同作業を行っている場合を読む[: 250](https://customers.microsoft.com/story/microsoft-collaborates-with-clearbank)年以上で初めての新しい英国のクリアリング 銀行の立ち上げ
 
-## <a name="accelerate-your-deployment-on-azure"></a>Azure での展開を促進する
+## <a name="accelerate-your-deployment-on-azure"></a>Azure での展開を加速する
 
-[Microsoft のアプローチを FCA ファイナライズされるクラウドガイダンスにダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=2101561)
+[FCA の最終決定クラウド ガイダンスに対する Microsoft のアプローチをダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
@@ -53,18 +53,16 @@ FCA ガイダンスの各分野についての詳細な説明は、Microsoft ガ
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**組織のコンプライアンスプロセスで、このフレームワークに対する Microsoft の応答を使用できますか?**
+**組織のコンプライアンス プロセスで、このフレームワークに対する Microsoft の応答を使用できますか?**
 
-はい。 ただし、このフレームワークへの Microsoft の応答はサードパーティによって確認されていますが、お客様は Azure または Power BI で実装されているソリューションのコンプライアンスを検証する責任があります。
-
-はい。 ただし、このフレームワークへの Microsoft の応答はサードパーティによって確認されていますが、お客様は Azure または Power BI で実装されているソリューションのコンプライアンスを検証する責任があります。
+はい。 ただし、このフレームワークに対する Microsoft の対応はサード パーティによる準拠を確認しますが、お客様は Azure または Power BI に実装したソリューションのコンプライアンスを検証する責任があります。
 
 ## <a name="resources"></a>リソース
 
-- [英国の金融機関の Microsoft クラウドチェックリスト](https://aka.ms/Azure-UK-compliance)
-- [FG 16/5-クラウドおよびその他のサードパーティ製 IT サービスに対する企業のアウトソーシングのガイダンス](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf)
-- [コンプライアンスの有効化: Microsoft のアプローチによる FCA 完了クラウドガイダンス](https://go.microsoft.com/fwlink/p/?linkid=2101561)
+- [英国の金融機関向け Microsoft Cloud チェックリスト](https://aka.ms/Azure-UK-compliance)
+- [FG 16/5 - 企業がクラウドや他のサード パーティの IT サービスにアウトソーシングする場合のガイダンス](https://www.fca.org.uk/publication/finalised-guidance/fg16-5.pdf)
+- [コンプライアンスの有効化: FCA の最終決定クラウド ガイダンスに対する Microsoft のアプローチ](https://go.microsoft.com/fwlink/p/?linkid=2101561)
 - [Microsoft 金融サービス コンプライアンス プログラム](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
