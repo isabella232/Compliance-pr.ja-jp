@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 5a3b192e4c374dac4248300627e5659a1b5f66fd
-ms.sourcegitcommit: 18c7e403d6ffbc9afa323fadc04c673dbb7bd391
+ms.openlocfilehash: b750fcc6bceec12a13b909e65dc6283b8938c6da
+ms.sourcegitcommit: fc1da22cf40dfd807c182d3f6df967eee192eacd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49620762"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49669728"
 ---
 # <a name="gdpr-for-on-premises-windows-server-file-shares"></a>オンプレミスの Windows Server ファイル共有の GDPR
 
@@ -56,6 +56,6 @@ ms.locfileid: "49620762"
 
     -   データ主体要求の個人データを検索するため、Azure Information Protection スキャナーを使用します。また、ファイル共有をクロールするよう、SharePoint Server 検索を構成することもできます。
 
-Azure Information Protection スキャナーを使用して個人データを検索したりラベル付けしたりすることに関する詳細については、「Deploy AIP Scanner (AIP スキャナーの展開)」(<https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner) を参照してください。
+Azure Information Protection スキャナーを使用して個人データを検索したりラベル付けすることに関する詳細については、「[Deploy AIP Scanner (AIP スキャナーの展開)](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)」 を参照してください。
 
 さまざまな条件でスキャナーを構成すること、また Office 365 データ損失防止 (DLP) のさまざまな機密情報タイプを使用することに関する情報については、「[Azure Information Protection 用の自動および推奨分類の条件を構成する方法](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification)」を参照してください。新しいタイプの Office 365 機密情報はスキャナーですぐに利用できるようになるわけではなく、カスタム機密情報タイプはスキャナーで使用できないことに注意ください。
