@@ -2,7 +2,7 @@
   items:
     - name: アーキテクチャの概要
       href: assurance-architecture.md
-    - name: Microsoft 365 の分離コントロール
+    - name: Microsoft 365 での分離コントロール
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls'
     - name: Microsoft 365 でのテナントの分離
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview'
@@ -14,9 +14,9 @@
       href: assurance-audit-logging.md
     - name: アクセス制御の監視と管理
       href: assurance-monitoring-and-auditing-access-controls.md
-    - name: エンジニアリングの内部ログ
+    - name: エンジニアリング内部ログ
       href: assurance-internal-logging.md
-    - name: クラウドサービスの監査とレポート
+    - name: クラウド サービスの監査とレポート
       href: assurance-auditing-and-reporting-overview.md
     - name: レポート作成機能
       href: assurance-reporting-features.md
@@ -24,7 +24,7 @@
   items:
     - name: データセンターのセキュリティの概要
       href: assurance-datacenter-security.md
-- name: 暗号化とキーの管理
+- name: 暗号化とキー管理
   items:
     - name: 暗号化とキー管理の概要
       href: assurance-encryption.md
@@ -34,15 +34,15 @@
       href: assurance-encryption-in-transit.md
     - name: Microsoft 365 サービスの暗号化
       href: assurance-encryption-for-microsoft-365-services.md
-    - name: 保存データ用のサービス暗号化
+    - name: 保存中のデータの暗号化
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption'
     - name: Microsoft 365 でのメールの暗号化
       href: 'https://docs.microsoft.com/microsoft-365/compliance/email-encryption'
     - name: Exchange Online がメールの機密情報をセキュリティで保護する方法
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-secures-email-secrets'
-    - name: Exchange Online が TLS を使用して電子メール接続をセキュリティで保護する方法
+    - name: メール接続をセキュリティで保護するために、Exchange Online が TLS を使用する方法
       href: 'https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections'
-    - name: 暗号化の BitLocker および分散キーマネージャー (DKM)
+    - name: BitLocker と Distributed Key Manager (DKM) による暗号化
       href: 'https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption'
     - name: 暗号化についてのテクニカル リファレンスの詳細
       href: 'https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption'
@@ -52,75 +52,75 @@
       href: assurance-governance.md
     - name: セキュリティ/コンプライアンス センターのサービス アシュアランス
       href: 'https://docs.microsoft.com/microsoft-365/compliance/service-assurance'
-- name: 人事
+- name: 人事管理
   items:
-    - name: 人事の概要
+    - name: 人事管理の概要
       href: assurance-human-resources.md
-    - name: Microsoft 雇用前審査
+    - name: Microsoft 就職前スクリーニング
       href: assurance-pre-employment-screening.md
-    - name: Microsoft クラウドの背景チェック
+    - name: Microsoft Cloud の背景チェック
       href: assurance-cloud-background-check.md
 - name: ID およびアクセス管理
   items:
-    - name: Id およびアクセス管理の概要
+    - name: ID およびアクセス管理の概要
       href: assurance-identity-and-access-management.md
-    - name: 管理アクセス制御
+    - name: 管理用アクセス制御
       href: assurance-administrative-access-controls-overview.md
     - name: テクノロジの制御
       href: assurance-technology-controls.md
     - name: 顧客ロックボックス
       href: 'https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests'
-    - name: Yammer エンタープライズアクセスコントロール
+    - name: Yammer Enterprise でのアクセス制御
       href: assurance-yammer-enterprise-access-controls.md
 - name: インシデント管理
   items:
-    - name: インシデント管理の概要
+    - name: ドキュメント管理の概要
       href: assurance-incident-management.md
 - name: ネットワーク セキュリティ
   items:
-    - name: ネットワークセキュリティの概要
+    - name: ネットワーク セキュリティの概要
       href: assurance-network-security.md
     - name: サービス拒否防御
       href: assurance-defending-cloud-services-against-dos-attacks.md
-    - name: サービス拒否防御戦略
+    - name: サービス拒否防御の戦略
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: 重要なサービス拒否防御原則
+    - name: サービス拒否防御の基幹原則
       href: assurance-core-principles-of-defense-against-dos-attacks.md
-    - name: Microsoft 365 サービスでのウイルス検出
+    - name: Microsoft 365 サービスのウイルス検出
       href: 'https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo'
 - name: プライバシー
   items:
     - name: プライバシーの概要
       href: assurance-privacy.md
-    - name: Microsoft 365 顧客データの保存場所
+    - name: Microsoft 365 の顧客データの保存場所
       href: 'https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations'
     - name: データの保持、削除、および破棄
       href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: Microsoft 365 データ破壊
+    - name: Microsoft 365 のデータ破壊
       href: assurance-data-destruction.md
-    - name: Exchange Online データの削除
+    - name: Exchange Online のデータ削除
       href: assurance-exchange-online-data-deletion.md
-    - name: SharePoint Online データの削除
+    - name: SharePoint Online のデータ削除
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Microsoft 365 データの不変性
+    - name: Microsoft 365 のデータ不変性
       href: assurance-data-immutability.md
-- name: 復元性と継続性
+- name: 回復性および継続性
   items:
-    - name: 復元と継続性の概要
+    - name: 回復性および継続性の概要
       href: assurance-resiliency-and-continuity.md
-    - name: クラウドサービスの復元
+    - name: クラウド サービスの回復性
       href: assurance-m365-service-resiliency.md
     - name: サービスの正常性および継続性
       href: 'https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity'
-    - name: サービスリソースの制限
+    - name: サービス リソースの制限
       href: assurance-resource-limits.md
     - name: データの回復性
       href: assurance-data-resiliency-overview.md
-    - name: データ破損の処理
+    - name: データ破損の対処
       href: assurance-dealing-with-data-corruption.md
-    - name: データの監視と自己復旧
+    - name: データ監視と自己修復
       href: assurance-monitoring-and-self-healing.md
-    - name: Exchange Online データの復元
+    - name: Exchange Online データの削除
       href: assurance-exchange-data-resiliency.md
     - name: クラウドサービスによるエンタープライズ ビジネスの継続性の管理 (EBCM) について
       href: assurance-understanding-ebcm-with-cloud-services.md
@@ -130,17 +130,17 @@
       href: assurance-developing-your-ebcm-plan.md
     - name: サービス インシデントの軽減戦略
       href: assurance-microsoft-365-mitigations.md
-    - name: 継続性計画のリハーサルとユーザートレーニング
+    - name: 継続計画のリハーサルとユーザー トレーニング
       href: assurance-ebcm-plan-rehearsal-and-user-training.md
 - name: リスク管理
   items:
     - name: リスク管理の概要
       href: assurance-risk-management.md
-- name: セキュリティの開発と運用
+- name: セキュリティ開発と運用
   items:
-    - name: セキュリティ開発と操作の概要
+    - name: セキュリティ開発と運用概要
       href: assurance-security-development-and-operation.md
-- name: セキュリティの監視
+- name: セキュリティ監視
   items:
     - name: セキュリティ監視の概要
       href: assurance-security-monitoring.md
@@ -152,11 +152,11 @@
   items:
     - name: 脆弱性管理の概要
       href: assurance-vulnerability-management.md
-    - name: マルウェアとランサムウェアの保護
+    - name: マルウェアと ランサムウェアからの保護
       href: assurance-malware-and-ransomware-protection.md
-    - name: Microsoft 365 でのアタックシミュレーション
+    - name: Microsoft 365 の攻撃シミュレータ
       href: assurance-monitoring-and-testing.md
-- name: Azure セキュリティの基礎
+- name: Azure セキュリティ の基本
   items:
-    - name: Azure セキュリティの基礎
+    - name: Azure セキュリティ の基本
       href: 'https://docs.microsoft.com/azure/security/fundamentals/'
