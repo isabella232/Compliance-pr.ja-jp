@@ -1,6 +1,6 @@
 ---
-title: 米国国防総省 (DoD) 暫定認証
-description: Microsoft は、影響レベル5、4、および2で、米国国防総省 (DoD) の仮承認を受けました。
+title: 米国国防総省 (DoD) 暫定承認
+description: Microsoft は、影響レベル 5、4、および 2 で国防総省 (DoD) の暫定承認を受け取っています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,96 +16,97 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 33ce1796ffa8fbf2e77dee49f682fb68c90b8111
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3bd95648e9ae36f5ccaab25bd504524e7d1e4afa
+ms.sourcegitcommit: 7864222909b7d8d0b1dbdbbdee66f5697dac7940
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509622"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49757822"
 ---
-# <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>米国国防総省 (DoD) の影響レベル2、4、および5の仮承認
+# <a name="us-department-of-defense-dod-provisional-authorization-at-impact-levels-2-4-and-5"></a>影響レベル 2、4、および 5 での米国国防総省 (DoD) 暫定承認
 
-## <a name="dod-and-disa-overview"></a>DoD および DISA の概要
+## <a name="dod-and-disa-overview"></a>DoD と DISA の概要
 
-防衛情報システムエージェンシー (DISA) は、米国国防総省 (DoD) の戦闘サポートエージェンシーです。 これにより、エンタープライズ情報インフラストラクチャ、通信のサポート、DoD、ホワイトハウス、および米国の防御の役割を果たすその他の組織のための、セキュリティで保護された安全なエンタープライズクラウド環境が提供されます。
+国防情報システム局 (DISA) は、米国国防総省 (DoD) の対抗サポート機関です。 DoD、ホワイト ペーパー、および米国の防御の役割を果たすその他の組織に対して、企業情報インフラストラクチャ、通信サポート、および安全で回復力のあるエンタープライズ クラウド環境を提供します。
 
-委任状を実装するには、「DoD クラウドコンピューティングのセキュリティ要件ガイド (SRG)」を展開します。 SRG は、DoD 情報、システム、およびアプリケーションをホストするクラウドサービスプロバイダー (Csp) のベースラインセキュリティ要件と、DoD によるクラウドサービスの使用について定義します。 DoD クラウドセキュリティモデルを置き換え、DoD リスク管理フレームワークと NIST 800-37/53 にマッピングします。
+その命令を実施するために、DISA は DoD Cloud Computing Security Requirements Guide (SRG) を開発しました。 SRG は、DoD 情報、システム、アプリケーションをホストするクラウド サービス プロバイダー (SSP) と、DoD によるクラウド サービスの使用に関する基本セキュリティ要件を定義します。 DoD クラウド セキュリティ モデルを置き換え、DoD リスク管理フレームワークと NIST 800-37/53 にマップします。
 
-DoD Cloud Service のサポートによって、SRG のポリシー、セキュリティ制御、およびその他の要件が定義されます。これにより、が公開および保守されます。 このガイドでは、クラウドサービスプロバイダーの計画と承認に関して、DoD エージェンシーと部署について説明します。 また、クラウドサービスのサポートは、attestations が DoD 標準に準拠していることを示すために、csp が提供する認証プロセスである SRG に準拠するために CSP を評価します。 必要に応じて DoD 暫定承認 (PAs) を発行します。そのため、DoD エージェンシーおよびサポート組織は、自分の完全な承認プロセスを実行することなく、クラウドサービスを使用して、時間と労力を節約できます。
+DoD クラウド サービス サポートは、公開および保守する SRG のポリシー、セキュリティ制御、その他の要件を定義します。 このガイドでは、クラウド サービス プロバイダーの使用を計画および承認する DoD 機関と部門を紹介します。 クラウド サービス サポートでは、CSP サービスが SRG に準拠するための評価も行います。CSP は、CSP が DoD 標準への準拠の構成証明を提供できる承認プロセスです。 必要に応じて DoD 暫定承認 (PA) が発行されます。そのため、DoD 機関やサポート組織は、独自に完全な承認プロセスを行わずにクラウド サービスを使用できます。時間と労力を節約できます。
 
-## <a name="microsoft-and-us-dod-provisional-authorization"></a>Microsoft および米国の米国の暫定認証
+## <a name="microsoft-and-us-dod-provisional-authorization"></a>Microsoft および米国の DoD 暫定承認
 
-Microsoft の官公庁クラウドサービスは、影響レベル2から5までの米国国防総省の要件を満たしています。米国国防総省は、Microsoft Cloud のコスト削減と厳重なセキュリティによる恩恵を受けることができます。 Azure Government、Office 365 米国政府、および Dynamics 365 Government を含む保護されたサービスを展開することで、防衛機関は、準拠しているサービスの豊富なアレイを使用できます。
+Microsoft の政府機関向けクラウド サービスは、影響レベル 2 から 5 まで、米国国防総省の厳しい要件を満たしています。米国の国防総省は、Microsoft Cloud のコスト削減と厳格なセキュリティの恩恵を受けることができます。 Azure Government、Office 365 U.S. Government、Dynamics 365 Government などの保護されたサービスを展開することで、防御機関は豊富な準拠サービスを使用できます。
 
-- Microsoft [Azure Dod ブループリント](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)を使用して、DoD を迅速に展開し、L4 を展開する方法について説明します。
+- Azure DoD Blueprint を使用して DoD DISA L2、L4 の展開を加速する [方法について説明します。](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)
 
-## <a name="dod-impact-level-5-provisional-authorization"></a>DoD 影響レベル5の暫定認証
+## <a name="dod-impact-level-5-provisional-authorization"></a>DoD 影響レベル 5 の暫定承認
 
-DISA Cloud Service のサポートには、DoD に関して Microsoft Azure Government の DoD 影響レベル 5 PA が与えられています。 DISA には、Office 365 の米国政府機関による DoD への影響レベル5の PA が与えられています。 影響レベル5法律、その他の政府規制、または情報を所有し、レベル4より高いレベルの保護を必要とする機関によって示される、統制されていない未分類情報 (CUI) を対象としています。 また、未分類の National セキュリティシステムについても説明します。
+DISA クラウド サービス サポートは、Microsoft Azure Government for DoD に対して DoD 影響レベル 5 PA を付与しています。 DISA は、365 Office 365 U.S. Government Defense a DoD Impact Level 5 PA も付与しています。 影響レベル 5 は、法律、その他の政府規制、または情報を所有し、レベル 4 よりも高いレベルの保護が必要な機関によって判断される、制御された未分類情報 (CUI) を対象とします。 また、未分類の国家セキュリティ システムも対象とします。
 
-## <a name="dod-impact-level-4-provisional-authorization"></a>DoD 影響レベル4暫定認証
+## <a name="dod-impact-level-4-provisional-authorization"></a>DoD 影響レベル 4 の暫定承認
 
-DISA Cloud Service のサポートには、Microsoft Azure Government に DoD 影響レベル4の PA が与えられています。 これは、FedRAMP 認証のレビューと、クラウドコンピューティング SRG に必要な追加のセキュリティ制御に基づいていました。 (FedRAMP は、政府機関向けのセキュアなクラウドコンピューティングを可能にする US プログラムです)。
+DISA クラウド サービス サポートは、Microsoft Azure Government 向け DoD 影響レベル 4 PA を付与しています。 これは、FedRAMP 承認のレビューと、Cloud Computing SRG で必要とされる追加のセキュリティ 制御に基づいていました。 (FedRAMP は、政府向けセキュリティで保護されたクラウド コンピューティングを可能にする米国のプログラムです。
 
-影響レベル4制御されていない未分類の情報 (エグゼクティブオーダー 13556 (2010 年11月) およびその他のミッションクリティカルなデータを保護する必要があるデータを対象としています。 公式の使用のみ、法的執行機関の機密情報、または機密性の高いセキュリティ情報として指定されたデータが含まれている場合があります。 この承認により、連邦政府のお客様は、範囲内の Microsoft government クラウドサービスにこれらの種類の機密性の高いデータを展開できます。
+影響レベル 4 は、制御された未分類の情報 (エグゼクティブ オーダー 13556 (2010 年 11 月) の承認されていない開示からの保護を必要とするデータ、およびミッション クリティカルなその他のデータを対象とします。 正式な使用のみ、法執行機関の機密、または機密セキュリティ情報として指定されたデータが含まれる場合があります。 この承認により、米国連邦政府のお客様は、この種の機密性の高いデータを対象の Microsoft 政府機関向けクラウド サービスに展開できます。
 
-## <a name="covered-services-for-dod-impact-level-2-authorization"></a>DoD 影響レベル2承認の対象となるサービス
+## <a name="covered-services-for-dod-impact-level-2-authorization"></a>DoD 影響レベル 2 の承認に関する対象サービス
 
-FedRAMP の承認に基づいて、クラウドサービスのサポートに DoD 影響レベル 2 PA が与えられています。
+FedRAMP の承認に基づき、DISA クラウド サービス サポートは、次の場合に DoD 影響レベル 2 PA を付与しました。
 
-- Azure および Azure Government Infrastructure as Service (IaaS) とプラットフォームとしてのプラットフォーム (PaaS) は、FedRAMP ジョイント認証ボードからの運用 (ATO) に基づいてこの認証を許可されていました。
-- Dynamics 365 米国政府機関のサービスとしてのソフトウェア (SaaS) には、機関 (ATO) と都市開発 (HUD) の運用 () に基づいてこの承認が付与されていました。
-- Office 365 の米国政府機関には、ATO のエージェンシー FedRAMP に基づいて、この承認が付与されています (DHHS)。
+- サービスとしての Azure および Azure Government Infrastructure (IaaS) およびサービスとしてのプラットフォーム (PaaS) は、FedRAMP 共同承認委員会から運用暫定機関 (P-ATO) に基づいてこの承認を付与されました。
+- Dynamics 365 U.S. Government Software as a Service (SaaS) は、都市都市開発省 (HUD) の機関 FedRAMP 運用機関 (ATO) に基づいてこの承認を付与されました。
+- Office 365 米国政府は、米国保健省 (DHHS) の FedRAMP ATO 機関に基づいてこの承認を付与されました。
 
-影響レベル2は、制御されていない未分類情報 (公開リリースに対して承認されるデータ) を対象としています。 また、「ミッションクリティカル」とは見なされませんが、最小限のレベルのアクセス制御が必要なその他の未分類情報についても説明します。 この承認により、連邦政府のお客様は、範囲内の Microsoft クラウドサービスに機密情報や基本的な防衛アプリケーションと web サイトを展開できます。
+影響レベル 2 は、非制御非分類情報 (一般リリースに対して承認されているデータ) を対象とします。 また、"ミッション クリティカル" とは見なされませんが、最小限のレベルのアクセス制御を必要とする、未分類のその他の情報も取り上されています。 この承認により、米国連邦政府のお客様は、機密性の高い情報や基本的な防御アプリケーションと Web サイトを対象範囲の Microsoft クラウド サービスに展開できます。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
-### <a name="covered-services-for-dod-impact-level-5"></a>DoD 影響レベル5の対象となるサービス
+### <a name="covered-services-for-dod-impact-level-5"></a>DoD 影響レベル 5 の対象サービス
 
-- [DoD のための Azure Government](https://aka.ms/AzureCompliance)
+- [Azure Government for DoD](https://aka.ms/AzureCompliance)
 - [Office 365 米国防総省](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-### <a name="covered-services-for-dod-impact-level-4"></a>DoD 影響レベル4の対象となるサービス
+### <a name="covered-services-for-dod-impact-level-4"></a>DoD 影響レベル 4 の対象サービス
 
 - [Azure Government](https://aka.ms/AzureCompliance)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - [Office 365 米国防総省](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
-### <a name="covered-services-for-dod-impact-level-2"></a>DoD 影響レベル2の対象となるサービス
+### <a name="covered-services-for-dod-impact-level-2"></a>DoD 影響レベル 2 の対象サービス
 
 - [Azure](https://aka.ms/AzureCompliance)
-- [Dynamics 365 米国政府](https://aka.ms/d365-compliance-list)
-- [Office 365 米国政府機関](https://aka.ms/o365-compliance-framework)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- [Office 365 U.S. Government](https://aka.ms/o365-compliance-framework)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-DoD PA が付与されると、Microsoft cloud services が毎年監視および評価されます。 [Microsoft FedRAMP 承認](https://marketplace.fedramp.gov/#/products?sort=productName&productNameSearch=microsoft)
+DoD PA が付与された後、Microsoft クラウド サービスは毎年監視および評価されます [。Microsoft FedRAMP の承認](https://marketplace.fedramp.gov/#/products?sort=productName&productNameSearch=microsoft)
 
 ## <a name="fast-track-your-deployment-of-dod-solutions-on-azure"></a>Azure での DoD ソリューションの展開を迅速に追跡する
 
-Azure のセキュリティとコンプライアンス部門の防御の青写真を使用して、government のクラウドの利点を活用することについて、すぐに開始します。 この青写真は、今日の DoD 準拠ソリューションの構築を開始するためのツールとガイダンスを提供します。 [Azure DoD 青写真の使用を開始](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)します。
+Azure Security and Compliance Department of Defense Blueprint を使用して、政府機関向けクラウドのメリットを活用しましょう。 この青写真は、DoD 準拠のソリューションの構築を開始するためのツールとガイダンスを提供します。 [Azure DoD Blueprint の使用を開始します](https://docs.microsoft.com/azure/governance/blueprints/samples/dod-impact-level-4/)。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **Microsoft のコンプライアンスを自分の組織の認定プロセスに利用できますか?**
 
-はい。 すべての DoD 機関は、DoD 認証を必要とするプログラムまたはイニシアチブの基礎として、Microsoft クラウドサービスの証明書に頼ることができます。 (これは、DoD をサポートし、クラウドサービスを必要とする他の組織にも適用されます)。ただし、これらのサービスの外部にあるコンポーネントについては、独自の承認を得る必要があります。
+はい。 すべての DoD 機関は、DoD の承認を必要とするプログラムまたはイニシアチブの基盤として、Microsoft クラウド サービスの認定を利用できます。 (これは、DoD をサポートし、クラウド サービスを必要とする他の組織にも適用されます。ただし、これらのサービス外のコンポーネントに対して独自の承認を行う必要があります。
 
-**Microsoft の DoD 認定資格は、NIST 800 –171の要件を満たしていますか?**
+**Microsoft の DoD 認定は NIST 800 ~ 171 の要件を満たしていますか?**
 
-2016年10月に、国防総省 (DoD) は、情報システムを使用して、"対象となる防衛情報" を処理、保存、または送信するすべての DoD 請負業者に適用される、連邦防御 (promulgated) 句を実装する最終規則を示しています。 このようなシステムは、NIST SP 800 –171で規定されているセキュリティ要件を満たしている必要があります。 [連邦情報システムや組織内の規制](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)されていない未分類情報を保護すること、または DoD 契約責任者によって承認された「代替の効果的なセキュリティ対策」というものです。 また、DoD 請負業者は、対象となる防御情報を処理、保存、または送信するために外部クラウドサービスプロバイダーを使用する必要があります。このプロバイダーは、FedRAMP の適度なベースラインと同等のセキュリティ要件を満たしている必要があります。
+2016 年 10 月、国防総省 (DoD) は、情報システムを通じて 「対象となる防御情報」を処理、保存、または送信する DoD 請負業者全員に適用される、国防総省入手規則補足 (DFARS) 条項を実施する最終的な規則を規定しました。 この規則では、このようなシステムは、NIST SP 800–171、非組織の未分類[](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)の制御された情報の保護、または DoD 契約責任者によって承認された「代替の、かつ同様に効果的なセキュリティ対策」を満たす必要があるという定めがあります。 また、DoD 請負業者が外部のクラウド サービス プロバイダーを使用して対象となる防御情報を処理、保存、または送信する場合、そのようなプロバイダーは FedRAMP Moderate ベースラインと同等のセキュリティ要件を満たす必要があります。
 
-次の Microsoft クラウドサービスは、FedRAMP の中程度の承認を受信しています。 Azure、Azure Government、Dynamics 365 米国政府、Office 365 MT、Office 365 米国政府機関、および Office 365 米国政府機関による防御。
+次の Microsoft クラウド サービスは、FedRAMP の中程度の承認を受けた:Azure、Azure Government、Dynamics 365 U.S. Government、Office 365 MT、Office 365 U.S.Government、および Office 365 U.S. Government Defense。
 
-また、「対象となる防衛情報」を処理、保存、または送信するために DoD 請負業者によって使用される可能性がある、FedRAMP で認証された境界の外側にあるマイクロソフトのサービスは、2017年12月31日のコンプライアンスの期限に達したことをレビューしています。 Microsoft は、このような内部サービスおよび顧客向けサービスが、DFARS 800 –171または適切なセキュリティ同等のものに準拠しているかどうかを文書化して、dfars 関連する句を満たすようにしています。
+また、Microsoft は FedRAMP 認定の境界外の製品を提供しています。DoD 契約者が「対象となる防御情報」の処理、保存、または送信に使用する可能性がある製品は、コンプライアンスの期限である 2017 年 12 月 31 日を満たすためにレビューを実施しています。 Microsoft は、DFARS 関連の条項を満たすために、これらの内部および顧客向けサービスが NIST SP 800–171 または許容されるセキュリティ同等物に準拠する方法を文書化する取り組みです。
 
 ## <a name="resources"></a>リソース
 
-- [DoD クラウドコンピューティングのセキュリティ要件ガイド (SRG) とその他のドキュメント](https://public.cyber.mil/dccs/dccs-documents/)
-- [DISA Cloud Service サポート](https://storefront.disa.mil/kinetic/disa/service-catalog#/forms/cloud-service-support)
-- [連邦情報システムおよび組織での制御されていない未分類情報の保護](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)
-- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [DoD Cloud Computing Security Requirements Guide (SRG) および他のドキュメント](https://public.cyber.mil/dccs/dccs-documents/)
+- [DISA クラウド サービスのサポート](https://storefront.disa.mil/kinetic/disa/service-catalog#/forms/cloud-service-support)
+- [非Federal information systems and organizations での未分類の制御された情報の保護](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)
+- [NIST サイバーセキュリティ フレームワーク](https://www.nist.gov/cyberframework)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government クラウド](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
