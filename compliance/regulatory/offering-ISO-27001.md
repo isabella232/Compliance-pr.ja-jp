@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f58caebee758c9e4d4d1159ebd701c09df81e018
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
+ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508861"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49759692"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 
@@ -35,7 +35,7 @@ ISO/IEC 27001 は情報セキュリティ管理システム (ISMS) を正式に�
 
 ## <a name="microsoft-and-isoiec-27001"></a>Microsoft と ISO/IEC 27001
 
-ISO/IEC 27001 は国際的に受け入れられ、広く適用されています。この基準の認定が情報セキュリティの実施と管理に対する Microsoft アプローチの中心になっている大きな理由はここにあります。 Microsoft が ISO/IEC 27001 認定を達成していることは、ビジネス、セキュリティ、およびコンプライアンスの観点から顧客との約束を果たすために Microsoft が尽力していることをはっきり示しています。 現在、Azure Public と Azure Germany は、毎年、ISO/IEC 27001 コンプライアンスに関して、第三者の公認認定機関の監査を受けています。この機関は、セキュリティ コントロールが導入されていて、効果的に運用されていることを独自に検証します。
+ISO/IEC 27001 は国際的に受け入れられ、広く適用されています。この基準の認定が情報セキュリティの実施と管理に対する Microsoft アプローチの中心になっている大きな理由は、ここにあります。 Microsoft が ISO/IEC 27001 認定を達成していることは、ビジネス、セキュリティ、およびコンプライアンスの観点から顧客との約束を果たすために Microsoft が尽力していることをはっきりと示しています。 現在、Azure Public と Azure Germany は、毎年、ISO/IEC 27001 コンプライアンスに関して、第三者の公認認定機関の監査を受けています。この機関は、セキュリティ コントロールが導入されていて、効果的に運用されていることを独自に検証します。
 
 Microsoft Cloud における ISO/IEC 27001 のメリットをご確認ください: [ISO/IEC 27001:2013 をダウンロードする](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 
@@ -117,14 +117,14 @@ Microsoft Cloud における ISO/IEC 27001 のメリットをご確認くださ�
 
 はい。 1 年に 1 回実施される Microsoft Cloud Infrastructure and Operations グループの ISO/IEC 27001 認定プロセスには、運用回復性の監査が含まれます。 最新の証明書をプレビューするには、下記のリンクをクリックします。
 
-- Microsoft Azure: [Microsoft Cloud Infrastructure and Operations の ISO/IEC 27001:2013 証明書](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure: [Microsoft Cloud Infrastructure and Operations の ISO/IEC 27001:2013 証明書](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure German
 
-**私の組織の ISO/IEC 27001 コンプライアンス順守は何から始めればいいですか?**
+**組織の ISO/IEC 27001 コンプライアンス順守は、何から始めればいいですか?**
 
 ISO/IEC 27001 を適用することは戦略的なコミットです。 まずは、[ISO/IEC 27000 ディレクトリ](https://www.27000.org/index.htm)を確認してください。
 
-**Microsoft サービスの ISO/IEC 27001 コンプライアンスを私の組織の認定に利用できますか?**
+**Microsoft サービスの ISO/IEC 27001 コンプライアンスを、自分の組織の認定に利用できますか?**
 
 はい。 ビジネスに必要なのが、Microsoft サービスでデプロイされている実装の ISO/IEC 27001 認定である場合は、該当する認定をコンプライアンス評価で利用できます。 ただし、ご自身の責任で、査定人が、組織内での制御やプロセスと ISO/IEC 27001 コンプライアンスの実装を評価するよう、手配する必要があります。
 
