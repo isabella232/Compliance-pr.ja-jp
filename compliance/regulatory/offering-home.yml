@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Microsoft コンプライアンスのサービス
-summary: マイクロソフトの製品とサービスが、組織が規制準拠の基準を満たすためにどのように役立つかについて説明します。
+summary: Microsoft 製品とサービスが、組織が規制コンプライアンス基準を満たす上でどのように役立つのかについて説明します。
 brand: m365
 metadata:
   title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス。
-  description: マイクロソフトの製品とサービスが、組織が規制準拠の基準を満たすためにどのように役立つかについて説明します。
+  description: Microsoft 製品とサービスが、組織が規制コンプライアンス基準を満たす上でどのように役立つのかについて説明します。
   services: service
   ms.service: O365-seccomp
   ms.subservice: subservice
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 82d7c9b4c39d4916a81d08abb34c3d8bc6d65b31
-  ms.sourcegitcommit: db4bd64256f52087d450c2f7fd4632718aa2c33d
+  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
+  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "49588701"
+  ms.lasthandoff: 01/22/2021
+  ms.locfileid: "49924850"
 conceptualContent:
   title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス
-  summary: Microsoft は、組織がデータの収集と使用を管理する国内、地域、および業界固有の要件に準拠するためのコンプライアンスサービスを提供しています。
+  summary: Microsoft は、お客様の組織がデータの収集と使用に関する国、地域、業界固有の要件に準拠するのに役立つコンプライアンスサービスを提供しています。
   items:
   - title: グローバル
     links:
@@ -64,13 +64,13 @@ conceptualContent:
       text: DFARS
     - url: offering-dod-disa-l2-l4-l5.md
       itemType: reference
-      text: DoD DISA、L4、L5
+      text: DoD DISA L2、L4、L5
     - url: offering-doe-10-cfr-part-810.md
       itemType: reference
       text: DoE 10 CFR Part 810
     - url: offering-ear.md
       itemType: reference
-      text: イヤー (US エクスポート Adm。 Reg)
+      text: EAR (US Export Adm. Reg.)
     - url: offering-fedramp.md
       itemType: reference
       text: FedRAMP
@@ -150,7 +150,7 @@ conceptualContent:
       text: HDS (フランス)
     - url: offering-hipaa-hitech.md
       itemType: reference
-      text: HIPAA/ヒットエコー
+      text: HIPAA /HITECH
     - url: offering-hitrust.md
       itemType: reference
       text: HITRUST
@@ -193,13 +193,13 @@ conceptualContent:
       text: C5 (ドイツ)
     - url: offering-ccpa.md
       itemType: reference
-      text: CCPA (米国-カリフォルニア)
-    - url: offering-ccsl-irap-australia.md
+      text: CCPA (US-California)
+    - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP/CCSL (オーストラリア)
+      text: IRAP (オーストラリア)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
-      text: CS マークゴールド (日本)
+      text: CS マーク ゴールド (日本)
     - url: https://www.trustcenter.cn/compliance/default.html#DJCP
       itemType: reference
       text: DJCP (中国)
@@ -216,7 +216,7 @@ conceptualContent:
       text: EU モデル条項
     - url: offering-eu-us-privacy-shield.md
       itemType: reference
-      text: EU-US Privacy シールド
+      text: EU-US プライバシー シールド
     - url: https://www.trustcenter.cn/compliance/default.html#GB18030
       itemType: reference
       text: GB 18030 (中国)
@@ -260,8 +260,8 @@ conceptualContent:
       text: TRUCS (中国)
 additionalContent:
   sections:
-  - title: Azure に特化したコンプライアンスサービス
-    summary: コンプライアンスソリューション特に、組織がデータの収集と使用を管理する国内、地域、および業界固有の要件に準拠するために役立ちます。
+  - title: Azure 専用のコンプライアンスサービス
+    summary: データの収集と使用に関する国、地域、業界固有の要件への準拠を支援するために、Azure 専用のコンプライアンスサービス。
     items:
     - title: グローバル
       links:
