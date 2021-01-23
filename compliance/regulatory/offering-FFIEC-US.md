@@ -1,6 +1,6 @@
 ---
-title: 連邦金融機関調査委員会 (FFIEC)
-description: Microsoft は、金融サービスクライアントが連邦金融機関調査委員会 (FFIEC) の監査要件に準拠しています。
+title: 連邦金融機関審査会 (FFIEC)
+description: Microsoft は、金融サービスクライアントが連邦金融機関審査会 (FFIEC) の監査要件に準拠するのに役立ちます。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,35 +16,30 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 536377c718b2957e71efc268885d248addd69bed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2425d81ae5f539e1942203abc3afcd58319fb1dd
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509592"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936943"
 ---
-# <a name="federal-financial-institutions-examination-council-ffiec"></a>連邦金融機関調査委員会 (FFIEC)
+# <a name="federal-financial-institutions-examination-council-ffiec"></a>連邦金融機関審査会 (FFIEC)
 
 ## <a name="ffiec-overview"></a>FFIEC の概要
 
-連邦金融機関の調査協議会 (FFIEC) は、米国の金融機関の連邦政府機関による試験を担当する5つの銀行監督を構成する正式な interagency 本文です。 FFIEC の試験現場では、FFIEC メンバーエージェンシーからのフィールド examiners を対象とした調査ハンドブックを公開しています。
+連邦金融機関検査委員会 (FFIEC) は、米国の金融機関に対する米国連邦政府の審査を担当する 5 つの銀行規制機関で構成される正式な機関です。 FFIEC 審査担当者教育Office、FFIEC メンバー機関のフィールド検査者を対象とした IT 検査ハンドブックを公開しています。
 
-[FFIEC AUDIT it の調査ハンドブック](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)には、これらの examiners のためのガイダンスが含まれており、金融機関と TSPS の IT 監査プログラムの品質と有効性を評価します。 具体的には、独立した監査レポートの例として、米国公認会計士 (AICPA) の SOC 1、SOC 2、および SOC 3 の証明書レポートを記載しています。 ただし、FFIEC では、これらのレポートに含まれる情報のみに依存するのではなく、 [FFIEC アウトソーシングテクノロジサービスの IT 調査ハンドブック](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)で詳しく説明されている検証と監視の手順も使用することをお勧めします。
+[FFIEC 監査 IT 検査](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)ハンドブックには、金融機関と TSP の両方の IT 監査プログラムの品質と有効性を評価するための、これらの検査担当者向けガイダンスが含されています。 具体的には、独立監査レポートの例として、米国認定公的会計員協会 (AICPA) の SOC 1、SOC 2、SOC 3 の構成証明レポートに言及しています。 ただし、FFIEC では、金融機関がこれらのレポートに含まれる情報だけに頼らず [、FFIEC](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)アウトソーシング テクノロジ サービス IT 検査ハンドブックで詳細に説明されている検証と監視の手順も使用してください。
 
-## <a name="microsoft-and-ffiec"></a>Microsoft および FFIEC
+## <a name="microsoft-and-ffiec"></a>Microsoft と FFIEC
 
-Microsoft Azure、Microsoft Power BI、Microsoft Office 365 は、金融サービス機関にクラウドサービスを提供するための厳しい要件を満たすように構築されています。 サポートの一環として、microsoft は、FFIEC の情報技術の監査要件を満たすためのガイダンスを提供します。また、FFIEC のコンプライアンス義務を採用する際に Azure SOC attestations を使用することもできます。
+Microsoft Azure、Microsoft Power BI、および Microsoft Office 365 は、金融サービス機関向けのクラウド サービスの提供に関する厳しい要件を満たして構築されています。 サポートの一環として、情報技術に関する FFIEC 監査要件への準拠と、FFIEC コンプライアンスの義務を遵守する際に Azure SOC 構成証明を使用する機能に関するガイダンスを提供します。
 
-金融サービスの展開を促進する: [Azure Security And コンプライアンス FFIEC 金融サービスブループリントをダウンロードする](https://servicetrust.officeppe.com/ViewPage/FFIECBlueprint)
+金融機関の顧客が Azure に対する FFIEC コンプライアンス要件を満たすのを支援するために、Microsoft は [FFIEC](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)規制サービスワークロード用の Azure Security and Compliance Blueprint を開発しました。 Azure クラウド サービスの使用に関するガイダンスと、お客様が FFIEC 要件とリスク評価ガイドラインに準拠する際の考慮事項について説明します。
 
-金融機関クライアントが Azure との FFIEC のコンプライアンス要件を満たすために、Microsoft では以下を開発しています。
+FFIEC 要件への準拠を支援するために、Microsoft クラウド サービスは、独立した CPA 企業によって作成された [SOC](offering-SOC.md) 構成証明レポートを提供します。 たとえば、SOC 1 Type 2 の構成証明は、SAS 70 に取って代わる AICPA SSAE 18 標準 (AT-C Section 105 を参照) に基づいており、財務報告の特定のコントロールに関する報告に適しています。 SOC レポートには、指定された監視期間中に関連するコントロール目標を達成する際の Microsoft コントロールの有効性に関する監査人の意見が含まれます。 金融機関は、Azure、Power BI、および Office 365 に展開された資産に対する FFIEC 固有のコンプライアンス義務を遵守するときに、この正式な監査を使用できます。
 
-- [クラウドセキュリティ診断ツール * *](https://aka.ms/FFIEC-CSDT) を使用して、Azure サービスのリスク評価を効率的に実施できるようにします。 このツール (Excel スプレッドシート) には、金融サービス規制やその他の関連基準の要件を追跡する19個の情報セキュリティドメイン (ネットワークおよびシステムのセキュリティ、情報およびリスク管理など) があります。また、FFIEC IT の調査ハンドブックもあります。 このツールは、技術サービスプロバイダ (TSPs) に適用される各要件を Azure が準拠する方法について説明します。
-- [FFIEC 規制サービスのワークロードのための Azure セキュリティおよびコンプライアンスブループリント](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)。診断ツールの付属。 このガイドでは、Azure クラウドサービスの使用方法と、FFIEC の要件およびリスク評価ガイドラインに関するお客様のコンプライアンスに関する考慮事項について説明します。
-
-FFIEC の要件に準拠するために、Microsoft クラウドサービスは、独立した CPA 企業によって作成された [SOC 構成証明書](offering-SOC.md) を提供します。 たとえば、認証された SOC の種類2は、AICPA SSAE 18 標準に基づいています (105 セクションを参照)。これは、SAS 70 を交換したものであり、財務報告に関する特定のコントロールのレポートに適しています。 SOC レポートには、指定された監視期間中に関連する制御目標を達成するために、監査者が Microsoft 統制の有効性についての意見が記載されています。 金融機関は、Azure、Power BI、および Office 365 に展開された資産に対して FFIEC 固有のコンプライアンス義務を遵守するときに、この公式監査を使用できます。
-
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Intune
@@ -53,26 +48,25 @@ FFIEC の要件に準拠するために、Microsoft クラウドサービスは�
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-Azure および Office 365 の SOC 構成証明レポート。
+Azure および Office 365 SOC 構成証明レポート。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**マイクロソフトの SOC 標準を使用して、組織の機関の FFIEC 準拠の義務を満たすことはできますか?**
+**SoC 標準に準拠している Microsoft を使用して、教育機関の FFIEC コンプライアンスの義務を果たできますか?**
 
-これらの義務を満たすために、Microsoft は、前述した SOC 標準への準拠についての詳細を提供しています。 しかし最終的には、お客様は自分のサービスが、お客様の機関に適用される特定の法律および規制に準拠しているかどうかを判断する必要があります。 また、FFIEC は、「監査レポートまたはレビューのユーザーは、レポートに含まれる情報のみに依存して TSP の内部統制環境を検証することはできないことにもアドバイスしています。 FFIEC IT の調査ハンドブックの「 [アウトソーシング技術](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx) 」のブックレットに記載されているように、追加の確認および監視手順を使用する必要があります。
+これらの義務を果たすために、Microsoft は上記の SOC 基準への準拠に関する具体的な情報を提供します。 ただし、最終的には、お客様の機関に適用される特定の法律および規制にサービスが準拠するかどうかを判断する必要があります。 FFIEC は、'監査レポートまたはレビューのユーザーは、TSP の内部制御環境を検証するために、レポートに含まれる情報だけに依存しろというのではないというアドバイスも示しています。 FFIEC IT 検査ハンドブックのアウトソーシング テクノロジの小[](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)冊子で詳しい説明に従って、他の検証および監視手順を使用する必要があります。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 
-- [連邦金融機関調査委員会 (FFIEC)](https://www.ffiec.gov/)
-- [当社のクラウドコンピューティングおよび規制原則のコンプライアンスマップ](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [FFIEC 監査 IT 調査ハンドブック](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
-- [FFIEC アウトソーシングテクノロジサービス IT 試験ハンドブック](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
-- [Azure 金融サービス クラウド リスク評価ツール](https://aka.ms/FFIEC-CSDT)
-- [Azure のセキュリティとコンプライアンス FFIEC 金融サービスブループリント](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
+- [連邦金融機関審査会 (FFIEC)](https://www.ffiec.gov/)
+- [米国におけるクラウド コンピューティングと規制の原則のコンプライアンス マップ](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [FFIEC 監査 IT 検査ハンドブック](https://ithandbook.ffiec.gov/it-booklets/audit.aspx)
+- [FFIEC アウトソーシング テクノロジ サービス IT 検査ハンドブック](https://ithandbook.ffiec.gov/it-booklets/outsourcing-technology-services.aspx)
+- [Azure Security and Compliance FFIEC Financial Services Blueprint](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint)
 
 ## <a name="other-microsoft-resources-for-financial-services"></a>金融サービス向けのその他の Microsoft リソース
 
@@ -80,4 +74,4 @@ Azure および Office 365 の SOC 構成証明レポート。
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

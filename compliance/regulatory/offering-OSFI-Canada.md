@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c0f12f2363d333a5ce1d1e41aa8376fba4938631
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508336"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937012"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>カナダの金融機関監督官局 (OSFI)
 
@@ -78,5 +78,4 @@ Microsoft チェックリストでは、カナダの金融機関による Micros
 - [Microsoft 金融サービス コンプライアンス プログラム](https://aka.ms/FSCP-Print)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融サービス クラウド リスク評価ツール](https://aka.ms/FFIEC-CSDT)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
