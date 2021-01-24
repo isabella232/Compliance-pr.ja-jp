@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8b6b9a44137f024b9d4af35b62458d3e90e6db4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508019"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49937032"
 ---
 # <a name="european-banking-authority-eba"></a>欧州銀行監督局 (EBA)
 
 ## <a name="about-the-eba"></a>EBA について
 
-[欧州銀行監督局](https://eba.europa.eu/) (EBA) は、 “EU の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関です。” 2017 年 12 月、EBA は[最終レポート: クラウド サービス プロバイダーへのアウトソーシングに関する勧告](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)を発行しました。これは、EU 圏内の金融機関によるクラウド コンピューティングのアウトソーシングに対する包括的なアプローチの概要を示しています。 勧告は、クラウドへのアウトソーシングが許可される時期を明確にし、技術的に中立な観点からのリスク測定に原則ベースのアプローチを適用し、ヨーロッパ内外での調和の拡大に努めています。
+[欧州銀行監督局](https://eba.europa.eu/) (EBA) は、「EU の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関」です。 2017 年 12 月、EBA は[最終レポート: クラウド サービス プロバイダーへのアウトソーシングに関する勧告](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)を発行しました。これは、EU 圏内の金融機関によるクラウド コンピューティングのアウトソーシングに対する包括的なアプローチの概要を示しています。 勧告は、クラウドへのアウトソーシングが許可される時期を明確にし、技術的に中立な観点からのリスク測定に原則ベースのアプローチを適用し、ヨーロッパ内外での調和の拡大に努めています。
 
 EBA の勧告は 2018 年 7 月に発効し、2006 年に欧州銀行監督委員会によって公開された一般的なアウトソーシング ガイドラインに明瞭さを追加する形で構築されました。 実際、これらの勧告の発行は Microsoft が実質的なフィードバックを提供した協議期間の後に行われます。 最終的な勧告の多くは、Microsoft が EBA に提供したコメントについて説明しています。
 
@@ -66,9 +66,9 @@ EU 圏内の金融機関向けに、Microsoft は EBA ガイダンスをモデ�
 ## <a name="resources"></a>リソース
 
 - [Microsoft Service Trust Portal](https://aka.ms/STP)
+- [ヨーロッパの金融機関向けの Microsoft Cloud チェックリスト](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Microsoft 金融サービス コンプライアンス プログラム](https://aka.ms/FSCP-Print)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融サービス クラウド リスク評価ツール](https://aka.ms/FFIEC-CSDT)
 - [Microsoft 金融サービスのブログ](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

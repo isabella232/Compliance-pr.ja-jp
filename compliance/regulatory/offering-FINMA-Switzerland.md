@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 054d6a9f86e1d696472ee2091bc5b98c4312f5b5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
+ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507966"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49936951"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督当局 (FINMA) スイス
 
@@ -35,7 +35,7 @@ FINMA は「[2018 年 3 月期のアウトソーシング (Circular 2018/3 Outso
 
 ビジネス機能をクラウドにアウトソーシングすることを検討しているスイスの金融機関の決定を支援するために、Microsoft では、「[スイスの金融機関向けコンプライアンスのチェックリスト](https://aka.ms/FinServ-Guide-Switzerland)」を発行しました。 チェックリストを確認して完了すると、金融機関では、適用される規制要件に従い、自信をもって Microsoft 法人向けクラウド サービスを導入することができます。
 
-スイスの金融機関が事業活動をアウトソーシングする場合、スイスの金融市場監督当局 (FINMA) の要件を遵守し、スイス銀行法、スイス銀行条例、およびスイス保険監督法の要件を含む追加の要件とガイドラインを認識している必要があります。
+スイスの金融機関が事業活動をアウトソーシングする場合、スイスの金融市場監督当局 (FINMA) の要件を遵守し、スイス銀行法、スイス銀行条例、およびスイス保険監督法の要件を含むその他の要件とガイドラインを認識している必要があります。
 
 Microsoft チェックリストでは、スイスの金融機関による Microsoft 法人向けクラウド サービスのデューデリジェンス評価および以下の実施を支援します。
 
@@ -69,5 +69,4 @@ Microsoft チェックリストでは、スイスの金融機関による Micros
 - [Microsoft 金融サービス コンプライアンス プログラム](https://aka.ms/FSCP-Print)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融サービス クラウド リスク評価ツール](https://aka.ms/FFIEC-CSDT)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
