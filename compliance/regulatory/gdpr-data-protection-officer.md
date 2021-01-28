@@ -17,12 +17,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: f41583c07ec5a8d1c711444b43daf0fd8de754ea
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 127528f40f5939b8fe0a5585cee7a212d35af82e
+ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508776"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50012933"
 ---
 # <a name="microsofts-data-protection-officer"></a>Microsoft のデータ保護責任者
 
@@ -38,7 +38,7 @@ DPO は、個人データの保護に関するすべての主要な問題に適�
 
 ## <a name="position-of-the-data-protection-officer"></a>データ保護責任者の位置づけ
 
-EU DPO は、Microsoft の企業行動および法務部門の上級管理職である個人情報保護管理責任者に直接報告します。DPO 役割には、独立した公平な立場で職務を遂行するための自主性が与えられています。個人情報保護管理責任者の組織を通して、DPO はその職務を遂行するために必要なトレーニングと顧客対応リソースにアクセスできます。DPO には、秘密保持契約書の使用を通して、その作業に関する守秘義務が課されます。  
+EU DPO は、Microsoft の企業行動および法務部門の上級管理職である個人情報保護管理責任者に直接報告します。DPO 役割には、独立した公平な立場で職務を遂行するための自主性が与えられています。個人情報保護管理責任者の組織を通して、DPO はその職務を遂行するために必要なトレーニングと顧客対応リソースにアクセスできます。DPO には、秘密保持契約書を使用することにより、その作業に関する守秘義務が課されます。  
 
 ## <a name="contact"></a>Contact
 
