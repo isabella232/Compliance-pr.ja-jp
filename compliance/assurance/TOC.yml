@@ -76,6 +76,16 @@
   items:
     - name: ドキュメント管理の概要
       href: assurance-incident-management.md
+    - name: Microsoft 365 のセキュリティ インシデント管理
+      href: assurance-security-incident-management.md
+    - name: セキュリティ インシデント管理の準備
+      href: assurance-sim-preparation.md
+    - name: セキュリティ インシデント管理のコンテインメント、根絶、および回復
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: セキュリティ インシデント管理の検出と分析
+      href: assurance-sim-detection-analysis.md
+    - name: セキュリティ インシデント管理のインシデント発生後のアクティビティ
+      href: assurance-sim-post-incident-activity.md
 - name: ネットワーク セキュリティ
   items:
     - name: ネットワーク セキュリティの概要
