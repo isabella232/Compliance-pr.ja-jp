@@ -80,10 +80,10 @@
       href: assurance-security-incident-management.md
     - name: セキュリティ インシデント管理の準備
       href: assurance-sim-preparation.md
-    - name: セキュリティ インシデント管理のコンテインメント、根絶、および回復
-      href: assurance-sim-containment-eradication-recovery.md
     - name: セキュリティ インシデント管理の検出と分析
       href: assurance-sim-detection-analysis.md
+    - name: セキュリティ インシデント管理のコンテインメント、根絶、および回復
+      href: assurance-sim-containment-eradication-recovery.md
     - name: セキュリティ インシデント管理のインシデント発生後のアクティビティ
       href: assurance-sim-post-incident-activity.md
 - name: ネットワーク セキュリティ
@@ -132,6 +132,8 @@
       href: assurance-monitoring-and-self-healing.md
     - name: Exchange Online データの削除
       href: assurance-exchange-data-resiliency.md
+    - name: SharePoint と OneDrive のデータの復元性
+      href: assurance-sharepoint-onedrive-data-resiliency.md
     - name: クラウドサービスによるエンタープライズ ビジネスの継続性の管理 (EBCM) について
       href: assurance-understanding-ebcm-with-cloud-services.md
     - name: 顧客およびクラウド パートナーの EBCM 責任
