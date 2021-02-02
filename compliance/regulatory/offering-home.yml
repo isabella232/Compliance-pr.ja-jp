@@ -3,7 +3,7 @@ title: Microsoft コンプライアンスのサービス
 summary: Microsoft 製品とサービスが、組織が規制コンプライアンス基準を満たす上でどのように役立つのかについて説明します。
 brand: m365
 metadata:
-  title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス。
+  title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンス サービス。
   description: Microsoft 製品とサービスが、組織が規制コンプライアンス基準を満たす上でどのように役立つのかについて説明します。
   services: service
   ms.service: O365-seccomp
@@ -16,15 +16,15 @@ metadata:
   ms.author: robmazz
   ms.date: 11/30/2020
   localization_priority: Normal
-  ms.openlocfilehash: 55a5d3691e7b27f5823eb07662dc7b44f09e2870
-  ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
+  ms.openlocfilehash: e3604114977188d8c74bd3c8a3d283e8e98aaf11
+  ms.sourcegitcommit: 81522892bcb66641eddb8cfa85c1160c689e2599
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 01/22/2021
-  ms.locfileid: "49924850"
+  ms.lasthandoff: 02/01/2021
+  ms.locfileid: "50068639"
 conceptualContent:
-  title: Microsoft 365、Azure、その他の Microsoft サービスのコンプライアンスサービス
-  summary: Microsoft は、お客様の組織がデータの収集と使用に関する国、地域、業界固有の要件に準拠するのに役立つコンプライアンスサービスを提供しています。
+  title: Microsoft コンプライアンスのサービス
+  summary: Microsoft 365、Azure、Dynamics 365、Power Platform、その他のサービスに関する情報。データの収集と使用に関する国、地域、業界固有の規制に役立ちます。
   items:
   - title: グローバル
     links:
@@ -196,7 +196,7 @@ conceptualContent:
       text: CCPA (US-California)
     - url: offering-irap-australia.md
       itemType: reference
-      text: IRAP (オーストラリア)
+      text: RAP (オーストラリア)
     - url: offering-cs-mark-gold-japan.md
       itemType: reference
       text: CS マーク ゴールド (日本)
@@ -261,7 +261,7 @@ conceptualContent:
 additionalContent:
   sections:
   - title: Azure 専用のコンプライアンスサービス
-    summary: データの収集と使用に関する国、地域、業界固有の要件への準拠を支援するために、Azure 専用のコンプライアンスサービス。
+    summary: 組織がデータの収集と使用に関する国、地域、業界固有の要件に準拠するのに役立つ Azure 向けコンプライアンスサービス。
     items:
     - title: グローバル
       links:
