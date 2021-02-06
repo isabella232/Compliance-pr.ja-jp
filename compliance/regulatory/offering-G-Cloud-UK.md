@@ -1,6 +1,6 @@
 ---
-title: 英国 Government-Cloud (G-クラウド)
-description: クラウン商用サービスは、Microsoft クラウドサービスの分類を米国政府機関に更新します。
+title: 英国 Government-Cloud (G-Cloud)
+description: The Commercial Commercial Service は、Microsoft クラウド サービスの分類を Government Cloud v.6 に更新しました。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,30 +16,30 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27d4fd3a274e272110bb502b30684b97cf592ef5
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 1d769597d957896f699a6231891eea14bd77ca04
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507936"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120316"
 ---
-# <a name="united-kingdom-government-cloud-g-cloud"></a>英国 Government-Cloud (G-クラウド)
+# <a name="united-kingdom-government-cloud-g-cloud"></a>英国 Government-Cloud (G-Cloud)
 
-## <a name="uk-g-cloud-overview"></a>英国 G-クラウドの概要
+## <a name="uk-g-cloud-overview"></a>英国 G-Cloud の概要
 
-行政機関 (G-Cloud) は、政府機関によるクラウドサービスの調達を容易にし、政府によるクラウドコンピューティングの政府による採用を促進する英国政府機関のイニシアチブです。 G-クラウドは、Microsoft などのクラウドサービスサプライヤーとの一連のフレームワーク契約と、オンラインストアのデジタルマーケットプレースでのサービスの一覧を構成しています。 これにより、公的機関の組織は、完全なレビュープロセスを行わずに、これらのサービスを比較し、調達することができます。 デジタルマーケットプレースには、コンプライアンスの自己構成証明が必要であり、その後に Government Digital Service (GDS) ブランチによる検証が行われます。
+政府機関向けクラウド (G-Cloud) は、政府部門によるクラウド サービスの調達を容易にし、政府全体でのクラウド コンピューティングの導入を促進するための英国政府のイニシアチブです。 G-Cloud は、クラウド サービス供給者 (Microsoft など) との一連のフレームワーク契約と、オンライン ストア (Digital Marketplace) 内のサービスの一覧で構成されています。 これらは、公的機関が独自の完全なレビュー プロセスを実行することなく、それらのサービスを比較および調達することができます。 デジタル マーケットプレースに含めるには、コンプライアンスの自己構成証明が必要です。その後、政府デジタル サービス (GDS) ブランチが独自の判断で実行する検証が必要です。
 
-英国政府にとっての時間とコストを削減するために、2014でのクラウドの予定プロセスが合理化され、行政機関のセキュリティ分類スキームが6から3レベル (公式、機密、トップシークレット) に簡略化されました。 (G-クラウドの証明レベルは影響レベルまたは IL として表現されなくなりました。Microsoft は、microsoft Azure、Microsoft Dynamics 365、Microsoft Office 365 用の IL2 認定を保有していました。
+G-Cloud の予定プロセスは 2014 年に合理化され、英国政府の時間とコストが削減され、政府のセキュリティ分類スキームは 6 から 3 レベル (OFFICIAL、SECRET、および TOP SECRET) に簡素化されました。 (G-Cloud 認定レベルは、影響レベル (IL) として表現されなくなりました。Microsoft は以前、Microsoft Azure、Microsoft Dynamics 365、および Microsoft Office 365 の IL2 認定を実施しました。
 
-以前提供されたクラウドサービスの中心的な評価の代わりに、新しいプロセスではクラウドサービスプロバイダーが、G-Cloud の14のクラウドセキュリティ原則をサポートするために、証明を自己認定し、証拠を提供する必要があります。 これは、Microsoft が提供する証拠または会社が遵守する標準に変更されていません。
+以前に提供されたクラウド サービスの中心的な評価の代わりに、新しいプロセスでは、G-Cloud の 14 のクラウド セキュリティ原則をサポートするために、クラウド サービス プロバイダーが自己認証を行い、証拠を提供する必要があります。 これは、Microsoft が作成する証拠、または会社が準拠する基準を変更していません。
 
-## <a name="microsoft-and-uk-g-cloud"></a>Microsoft と UK G-クラウド
+## <a name="microsoft-and-uk-g-cloud"></a>Microsoft と英国の G-Cloud
 
-毎年、Microsoft は、対象となるエンタープライズクラウドサービスが原則に準拠していることを証明するために、ドキュメントを提供し、証拠を送信します。これにより、潜在的な G-Cloud お客様にはリスク環境の概要が示されます。 (以前の G-クラウド認定の場合と同様に、ISO 27001 認定に依存します)。GDS accreditor は、Microsoft assertion ステートメントでいくつかのランダムチェックを実行し、証拠をサンプルにし、コンプライアンスを判断します。
+Microsoft は毎年、ドキュメントを準備し、証拠を提出して、対象のエンタープライズ クラウド サービスが原則に準拠し、潜在的な G-Cloud のお客様にリスク環境の概要を示します。 (以前の G-Cloud 認定と同様に、ISO 27001 認定に依存しています)。その後、GDS 認定者は、Microsoft のアサーション ステートメントに対していくつかのランダムなチェックを実行し、証拠をサンプルし、コンプライアンスを決定します。
 
-デジタルマーケットプレースへの Microsoft サービスの予定は、英国の政府機関およびパートナーが、英国の公式データである米国政府のデータを保存および処理できることを意味します。 さらに、Microsoft クラウドサービスの販売店である G-クラウドに含まれている、450を超える Microsoft パートナーが提供されるようになりました。 これらのユーザーは、独自のアプリケーションで14原則を使用して、スコープ内サービスのコンプライアンスを直接アサートすることができます。 ただし、お客様とパートナーは、Microsoft クラウドサービスのコンプライアンスの構成証明と決定に含まれていないすべてのコンポーネントについて、独自のコンプライアンスを達成する必要があります。
+デジタル マーケットプレースへの Microsoft サービスの予約は、英国政府機関やパートナーが対象範囲のサービスを使用して、英国の公式の政府機関データ (ほとんどの政府データ) を保存および処理できるという意味です。 さらに、G-Cloud には、Microsoft クラウド サービスのリセラーである 450 を超える Microsoft パートナーが含まれています。 スコープ内サービスのコンプライアンスを、独自のアプリケーションの 14 の原則に直接アサートできます。 ただし、お客様とパートナーは、Microsoft クラウド サービスの構成証明とコンプライアンスの決定に含まれていないコンポーネントについて、独自のコンプライアンスを達成する必要があります。
 
- [14 Microsoft Azure を使用した uk クラウド向けのクラウドセキュリティ統制](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/) によって、サービスを Azure に移行するためのお客様の戦略が提供され、CESG/nscs によって義務付けられている英国の義務を満たすことができます。 このホワイトペーパーでは、クラウドセキュリティプリンシパルに記載されている14個のコントロールに対処するために Azure をどのように使用できるかについての情報を提供します。また、お客様が Microsoft Azure サービスを採用しているときにコストを節約しつつ、より迅速に移行できるようにします
+ Microsoft Azure を使用する英国のクラウド向け[14](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/)クラウド セキュリティ コントロールは、サービスを Azure に移行する顧客戦略を提供し、CESG/NSCS が義務付ける英国の義務を果たします。 ホワイトペーパーでは、Azure を使用してクラウド セキュリティ プリンシパルに示されている 14 のコントロールに対処する方法を説明し、Microsoft Azure サービスを導入する顧客がコストを節約しながら、より速く移行し、より多くの成果を達成する方法について説明します。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
@@ -47,71 +47,71 @@ ms.locfileid: "49507936"
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power Automate (以前の Microsoft Flow) クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
 - Office 365: Exchange Online、SharePoint Online、Skype for Business Online
-- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-Microsoft cloud services が G-Cloud agreement に準拠していることを確認するために、GDS accreditor は任意のタイミングで証拠を確認できます。
+Microsoft クラウド サービスが G-Cloud 契約への準拠を維持しているか確認するために、GDS 認定者は、いつでもその裁量により証拠を確認できます。
 
 ### <a name="azure"></a>Azure
 
-- [Azure UK G-クラウドリスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
-- [Azure UK G のクラウド残留リスク](https://go.microsoft.com/fwlink/?linkid=2099497)
-- [Intune UK G クラウドセキュリティクラウドの評価の概要](https://go.microsoft.com/fwlink/?linkid=2099703)
+- [Azure UK G-Cloud リスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Azure UK G Cloud の残余リスク](https://go.microsoft.com/fwlink/?linkid=2099497)
+- [Intune UK G Cloud Security Cloud Assessment Summary](https://go.microsoft.com/fwlink/?linkid=2099703)
 
 ### <a name="dynamics-365"></a>Dynamics 365
 
-- [Dynamics 365 UK G クラウドリスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Dynamics 365 UK G クラウド リスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
 
 ### <a name="intune"></a>Intune
 
-- [Intune UK G クラウドリスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
-- [Intune UK G クラウドの残留リスク](https://aka.ms/IntuneUKGCloudResidualRisk)
-- [Azure UK G クラウドセキュリティ評価の概要](https://aka.ms/IntuneUKGCloudSecurityAssessmentSummary)
+- [Intune UK G クラウド リスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Intune UK G クラウドの残余リスク](https://aka.ms/IntuneUKGCloudResidualRisk)
+- [Azure UK G クラウド セキュリティ評価の概要](https://aka.ms/IntuneUKGCloudSecurityAssessmentSummary)
 
 ### <a name="office-365"></a>Office 365
 
-- [Office 365 UK G クラウドリスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
+- [Office 365 UK G クラウド リスク環境](https://go.microsoft.com/fwlink/?linkid=2099702)
 
-## <a name="accelerate-your-deployment-of-uk-g-cloud-solutions-on-azure"></a>Azure での英国 G-クラウドソリューションの展開を促進する
+## <a name="accelerate-your-deployment-of-uk-g-cloud-solutions-on-azure"></a>Azure での英国の G-Cloud ソリューションの展開を加速する
 
-Azure のセキュリティとコンプライアンス UK ブループリントを使用して、政府機関サービスを今までよりも簡単にクラウドに移行できます。 この青写真は、今日の準拠ソリューションの構築を開始するためのガイダンスと自動化されたスクリプトを提供します。
+政府機関向けサービスをクラウドに移行する作業は、Azure Security and Compliance UK Blueprint を使用してこれまで以上に簡単になりました。 この青写真は、コンプライアンスに準拠したソリューションの構築を開始するためのガイダンスと自動化されたスクリプトを提供します。
 
-[Azure UK G-Cloud ブループリントの使用を開始する](https://aka.ms/ukofficialblueprint)
+[Azure UK G-Cloud Blueprint の使用を開始する](https://aka.ms/ukofficialblueprint)
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**デジタル市場の利用資格があるユーザー**
+**デジタル マーケットプレースを使用できるユーザー**
 
-英国のすべての政府機関、デボルブされた組織、ローカルの機関、幅広い公開セクターの本文、および arm の長さの本文は、マーケットプレースでサービスを購入する資格があります。 ご利用の資格がわからない場合は、公的 [機関の組織の完全な一覧](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)を参照してください。
+すべての英国政府部門、地域の行政機関、公的機関、より広範な公的機関、および行政機関は、マーケットプレースでサービスを購入できます。 利用資格が不明な場合は、公的機関の完全なリスト [を参照してください](https://www.gov.uk/government/publications/public-sector-organisations-eligible-to-use-cloudstore)。
 
-**Arm の長さの本文とは**
+**身体の長さは何ですか?**
 
-英国政府から資金を調達しているが、独立して機能する組織またはエージェンシー。
+これは、英国政府の資金提供を受けながら、独立して活動する組織または機関です。
 
-**英国のお客様にとって、ローカルデータセンターの場所は何か、どこに配置されるのか。**
+**英国のお客様にとって、ローカル データセンターの場所とは何を意味し、どこに配置されていますか?**
 
-英国の Microsoft Cloud は、英国のデータ常駐を統合した信頼性とパフォーマンスを提供します。 このサポートにより、お客様は、コンプライアンスとポリシーのローカル要件を満たすのに役立つ、信頼されたクラウドサービスを利用できるようになります。 さらに、英国内の複数のデータセンターでのデータのレプリケーションにより、純粋なクラウドとハイブリッドの両方のシナリオにおいて、ビジネス継続性に関するお客様の地域冗長データ保護が実現されます。 英国全体の複数の場所にデータセンターがあります。
+英国の Microsoft Cloud は、英国でのデータ常駐と組み合わせた信頼性とパフォーマンスを提供します。 このサポートは、お客様がローカルのコンプライアンスおよびポリシー要件を満たすのに役立つ信頼できるクラウド サービスを提供します。 さらに、英国全体の複数のデータセンターでのデータのレプリケーションにより、純粋なクラウドとハイブリッドの両方のシナリオで、ビジネス継続性のための地理的冗長データ保護が提供されます。 弊社は、英国全体の複数の場所にデータセンターを持っています。
 
-- [グローバル azure マップ](https://azuredatacentermap.azurewebsites.net/)には、新しい azure 地域、uk 西部、および uk 南部が表示されます。
-- Office 365 の場合、英国のデータセンターは、新しい UK Office 365 地域を総称して構成します。 詳細については、「 [Global Office 365 map](https://o365datacentermap.azurewebsites.net/)」を参照してください。
+- グローバル Azure マップで、新しい Azure リージョン 、英国西、英国南 [を確認できます](https://azuredatacentermap.azurewebsites.net/)。
+- 365 Officeの場合、英国のデータセンターは、365 地域の新しい英国Office構成します。 You can see more on the [global Office 365 map](https://o365datacentermap.azurewebsites.net/).
 
-**他の Microsoft EU データセンターはどこにありますか?**
+**他の Microsoft EU データセンターはどこに配置されていますか?**
 
-UK データセンターに加えて、Microsoft クラウドサービスには複数の場所にデータセンターがあります。 全センターの最新のリストについては、[データの [場所] ページ](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located)を参照してください。
+英国のデータセンターに加えて、Microsoft クラウド サービスには複数の場所にデータ センターがあります。 すべてのセンターの最新のリストについては、データの場所の [ページにアクセスしてください](https://www.microsoft.com/TrustCenter/Privacy/where-your-data-is-located)。
 
 **監査人の報告書のコピーはどのようにして入手できますか ?**
 
-[Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 ポータルを使用して監査レポートを要求することにより、監査者が Microsoft の結果と法的および規制要件を比較できるようにすることができます。
+[Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 ポータルを使用して監査レポートを要求し、監査者が Microsoft の結果を独自の法的要件および規制要件と比較できます。
 
 ## <a name="resources"></a>リソース
 
-- [Microsoft Azure を使用する英国政府共通の14のクラウドセキュリティ原則に対処するための効果的なコンプライアンス統制](https://aka.ms/complianceuk)
-- [英国政府機関向けクラウド戦略](https://aka.ms/UK_govt_cloud_strategy)
-- [G-クラウドセキュリティの原則](https://aka.ms/UK-G-Cloud)
-- [デジタルマーケットプレース](https://www.digitalmarketplace.service.gov.uk/)
+- [Microsoft Azure を使用して英国政府機関共通の 14 のクラウド セキュリティ原則に対処するための効果的なコンプライアンス コントロール](https://aka.ms/complianceuk)
+- [英国政府機関クラウド戦略](https://aka.ms/UK_govt_cloud_strategy)
+- [G-Cloud セキュリティの原則](https://aka.ms/UK-G-Cloud)
+- [デジタル マーケットプレース](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

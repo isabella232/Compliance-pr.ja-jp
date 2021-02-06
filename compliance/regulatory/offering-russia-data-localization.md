@@ -1,6 +1,6 @@
 ---
-title: ロシアの個人データローカライズ要件
-description: 個人データ、ロシア市民の個人データ記録、systematization、蓄積、保存、明確化、および抽出が、ロシアにある Microsoft サービスおよびデータベースで実行される方法について説明します。
+title: ロシアの個人データのローカライズ要件
+description: 個人データの収集、ロシア市民の個人データの記録、システム化、蓄積、保存、説明、抽出が、ロシアにある Microsoft サービスおよびデータベースでどのように実行されるのかについて説明します。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,66 +16,66 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07dbfce49dc202ed23a4f2fed6336e00dcec95e1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6ee6dc8a6132e76bd39487fbb51e03509e7d2a95
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509222"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119896"
 ---
-# <a name="russian-personal-data-localization-requirements"></a>ロシアの個人データローカライズ要件
+# <a name="russian-personal-data-localization-requirements"></a>ロシアの個人データのローカライズ要件
 
-2015年9月1日時点で、個人データオペレーターと見なされる組織では、個人データを収集する際に、ロシア市民の個人データ記録、systematization、蓄積、保存、説明 (更新、変更)、および抽出がロシアにあるデータベース (「個人データのローカリゼーション要件」) によって実行されることを保証する必要があります。<sup>1</sup>
+2015 年 9 月 1 日の現在、個人データオペレーターと見なされる組織は、個人データの収集、ロシア市民の個人データの記録、システム化、収集、保存、説明 (更新、変更)、抽出を、ロシアにあるデータベース (「個人データのローカライズ要件」) を通じて実行する必要があります。<sup>1</sup>
 
-Microsoft Azure、Microsoft 365、Dynamics 365、電源プラットフォームなどの個人データ処理を有効にすることを含め、組織で利用可能な microsoft サービス (教育機関に限定されない) (hereinafter と呼ばれる)。 (詳細については、「 [Microsoft Trust Center」](https://www.microsoft.com/trust-center)を参照してください)。
+Microsoft Azure、Microsoft 365、Dynamics 365、Power Platform などの個人データ処理を有効にしている組織 (教育機関を含むが、これらに限定されない) (以下「お客様」と呼ばれる) が利用できる Microsoft サービスは、ロシアの外部にあるデータ処理センターから提供されます (詳細については [、Microsoft セキュリティ](https://www.microsoft.com/trust-center)センターを参照してください)。
 
-ユーザー情報システムによって処理された情報の種類と内容に基づいて、Microsoft クラウド製品を使用しているものも含めて、個人データ情報システム (' PDIS ', ' ISPD ') と見なされる場合があります。 お客様が PDM として認定されているシステムで Microsoft サービスを使用することを希望している場合、Microsoft は、お客様に対して、次に示すその他のソリューションについて考慮する必要があります。 提供されているすべてのシナリオは、標準のビジネス製品に対する追加オプションとして、お客様が利用できます。
+顧客情報システムによって処理される情報の種類とコンテンツに基づいて、そのようなシステム (Microsoft クラウド製品を使用するシステムを含む) は、個人データ情報システム ('PDIS'、'ISPD') と見なされる場合があります。 お客様が、そのアーキテクチャと処理される情報の種類を通じて PDIS と見なされるシステムで Microsoft サービスを使用する場合、Microsoft は、以下に示す利用可能なソリューションの中でお客様に検討を招待します。 提供されるシナリオはすべて、標準的なビジネス サービスの追加オプションとして、お客様が利用できます。
 
-このお客様には、PDIS 個人データ事業者がコンプライアンスを担当しており、個人データローカリゼーションの適用可能な法的要件を分析して評価する必要があることに注意してください。また、独自の判断で、PDIS の個人データの処理がロシアの個人データの法則に準拠していることを確認するために十分な<sup>2</sup>
+コンプライアンスを担当し、個人データのローカライズに適用される法的要件を分析および評価する PDIS の個人データオペレーターであるお客様であり、独自の判断で、PDIS での個人データ処理がロシアの個人データ法に準拠していることを確認するための十分な手段を個別に決定する必要があります。<sup>2</sup>
 
 ## <a name="subscribing-to-microsoft-services"></a>Microsoft サービスのサブスクライブ
 
 ### <a name="microsoft-id-management"></a>Microsoft ID の管理
 
-Microsoft は、Microsoft サービスへのサブスクライブを検討することをお客様に招待します。Microsoft Azure、Microsoft 365、Dynamics 365、および電源プラットフォーム-Microsoft クラウドソリューションプロバイダー (CSP) パートナー経由。 詳細については、 [CSP パートナーの一覧](https://pinpoint.microsoft.com/search?type=services&campaign=691)を参照してください。
+Microsoft は、Microsoft サービスへのサブスクライブを検討する顧客を招待します。Microsoft クラウド ソリューション プロバイダー (CSP) パートナー経由の Microsoft Azure、Microsoft 365、Dynamics 365、および Power Platform。 詳しくは、CSP パートナーの [一覧をご覧ください](https://pinpoint.microsoft.com/search?type=services&campaign=691)。
 
-### <a name="managing-user-identity-and-access-for-microsoft-services"></a>Microsoft サービスのユーザー Id とアクセス権を管理する
+### <a name="managing-user-identity-and-access-for-microsoft-services"></a>Microsoft サービスのユーザー ID とアクセスの管理
 
-Microsoft Azure、Microsoft 365、Dynamics 365、および電源プラットフォームなどの Microsoft サービスの場合、ユーザーの確認とアクセスの管理は [Azure Active directory (Azure Active directory)](https://azure.microsoft.com/services/active-directory/)を通じて実行されます。 Microsoft のお客様が Microsoft クラウドサービス (Windows Server Active Directory (AD) やその他の ID 管理システムなど) に対してローカル id 管理システムを使用している場合、お客様は Azure AD Connect を介してこのようなシステムを Azure Active Directory (Azure Active Directory) に迅速に統合する機会を得ることができます。 詳細については、「 [AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/cloud-provisioning/)」を参照してください。 また、Microsoft のお客様は、サードパーティベンダーのアプリケーションやソリューションを使用してユーザーを管理し、そのローカル識別システムを Azure AD と統合することを検討することもできます。
+Microsoft Azure、Microsoft 365、Dynamics 365、Power Platform などの Microsoft サービスの場合、ユーザーの検証とアクセス管理は [Azure Active Directory (Azure Active Directory)](https://azure.microsoft.com/services/active-directory/)を通じて実行されます。 Microsoft のお客様が Microsoft クラウド サービス (Windows Server Active Directory (AD) や他の ID 管理システムなど) にローカル ID 管理システムを使用している場合、お客様は Azure AD Connect を介してそのようなシステムを Azure Active Directory (Azure Active Directory) と迅速に統合する機会があります。 詳細については [、Azure AD Connect を参照してください](/azure/active-directory/cloud-provisioning/)。 Microsoft のお客様は、サードパーティ ベンダーのアプリケーションとソリューションを使用して、ユーザーを管理し、ローカル ID システムを Azure AD に統合する場合があります。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="questions-and-support"></a>質問とサポート
 
-技術的および請求に関する質問については、以下の Microsoft サポートリソースを参照してください。 その他の質問や説明については、Microsoft の [プライバシーチーム](https://support.microsoft.com/gp/privacy-page)にお問い合わせください。
+技術的および課金に関する質問については、以下の Microsoft サポート リソースを参照してください。 その他の質問や説明については、Microsoft プライバシー チームにお [問い合わせください](https://support.microsoft.com/gp/privacy-page)。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 - **Web サイト**: [Microsoft Azure サポート](https://aka.ms/GetAzureSupport)
-- **無料電話** 番号: 8 800 200 8001
+- **フリー ダイヤル**: 8 800 200 8001
 - **ローカル通話**: 495 916 7171
-- **オンラインサポート**: [Azure ポータル](https://portal.azure.com)経由でクエリを送信する
+- **オンライン サポート**: Azure ポータル経由でクエリを [送信する](https://portal.azure.com)
 
 ### <a name="microsoft-365"></a>Microsoft 365
 
-- **無料電話** 番号: 8 10 800 2548 1044
+- **フリー ダイヤル**: 8 10 800 2548 1044
 - **ローカル通話**: 499 922 8623
-- **オンラインサポート**:[管理センター](https://portal.office.com/)からクエリを送信する
+- **オンライン サポート**: 管理センターからクエリを [送信する](https://portal.office.com/)
 
 ### <a name="dynamics-365"></a>Dynamics 365
 
-- **無料電話** 番号: 8 10 800 2548 1044
+- **フリー ダイヤル**: 8 10 800 2548 1044
 - **ローカル通話**: 499 922 8623
-- **オンラインサポート**: [Dynamics サポートポータル](https://dynamics.microsoft.com/support/)でクエリを送信する
+- **オンライン サポート**: Dynamics サポート ポータルから [クエリを送信する](https://dynamics.microsoft.com/support/)
 
-### <a name="power-platform"></a>電源プラットフォーム
+### <a name="power-platform"></a>Power Platform
 
-- **無料電話** 番号: 8 10 800 2548 1044
+- **フリー ダイヤル**: 8 10 800 2548 1044
 - **ローカル通話**: 499 922 8623
-- **オンラインサポート**:[電源プラットフォームサポート](https://docs.microsoft.com/power-platform/admin/get-help-support)経由でクエリを送信する
+- **オンライン サポート**: Power Platform サポート経由で [クエリを送信する](/power-platform/admin/get-help-support)
 
 > [!NOTE]
-> <sup>1</sup> 連邦法はありません。 242-FZ (edition 12.31.2014) ' は、ロシアのフェデレーションの特定の法律上の行動に対して、個人データの処理手順を明確にするための情報および電気通信ネットワークの07.21.2014 <br>
-> <sup>2</sup> 連邦法はありません。 07.27 の場合、個人データの 152-FZ。 2006<br>
+> <sup>1</sup> 連邦法いいえ 242-FZ (エディションの日付は 12.31.2014) '07.21.2014 日付の情報および通信ネットワークでの個人データ処理の手順を明確化するロシア連邦の特定の立法上の行為に修正を進める <br>
+> <sup>2</sup> 連邦法いいえ 07.27 現在の個人データに対する 152- 的な保護。 2006<br>

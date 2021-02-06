@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b786b2b5204a98d8a5471eb733e1948709f0b035
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509412"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120096"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>シンガポールの多階層クラウド セキュリティ (MTCS) 標準
 
@@ -97,11 +97,11 @@ MTCS には合計で 535 個の制御があり、3 つのセキュリティ レ�
 
 **Microsoft のコンプライアンスを自分の組織の認定プロセスに利用できますか?**
 
-はい、できます。 Microsoft クラウド サービスに基づくサービスを認定する必要がある場合は、MTCS 認定を使用して、IT インフラの監査の影響を軽減できます (ただし、そのインフラがサービスに依存している場合)。 ただし、コンプライアンスや、組織内の統制およびプロセスに関して、実装を評価する査定人の手配の責任は、審査を受ける組織が負うものとします。
+はい。 Microsoft クラウド サービスに基づくサービスを認定する必要がある場合は、MTCS 認定を使用して、IT インフラの監査の影響を軽減できます (ただし、そのインフラがサービスに依存している場合)。 ただし、コンプライアンスや、組織内の統制およびプロセスに関して、実装を評価する査定人の手配の責任は、審査を受ける組織が負うものとします。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

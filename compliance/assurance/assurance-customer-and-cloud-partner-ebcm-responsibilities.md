@@ -16,12 +16,12 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 979acd563ca73ad16d4729bfe96aa86c316714c5
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 70cf9514306bc119c1f09a159222dbea6765e61f
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574769"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120686"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>エンタープライズ ビジネス継続性管理の顧客とクラウド パートナーの責任
 
@@ -45,8 +45,8 @@ Microsoft は、顧客が使用できるサービス状態通信用の複数の�
 
 - 管理センターまたは管理センター内のサービス正常性ダッシュボードが使用できない場合、[バックアップ サイト](https://status.office365.com/)を使用してサービス状態を監視できます。
 - Twitter アカウント [@MSFT365Status](https://twitter.com/msft365status?lang=en) を維持し、SHD の影響に関する報告と投稿の更新に対応します。
-- Microsoft 365 テナント管理者向けの管理アプリには、外出先で組織の Microsoft 365 サービスの状態に接続する機能が設けられています。 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。 詳細については、「[管理アプリ FAQ](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app)」を参照してください。
-- [Microsoft 365 サービス通信 API](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api) を使用すると、サービス通信にアクセスできるため、環境をより簡単に監視できます。 API に接続し、リアルタイムのサービス正常性データを受信し、内部ダッシュボードで情報を公開して、エンタープライズ ユーザーにインシデントを通知できます。 内部に情報を配信すると、停止中のヘルプデスクのトラフィックを減らすことができます。
+- Microsoft 365 テナント管理者向けの管理アプリには、外出先で組織の Microsoft 365 サービスの状態に接続する機能が設けられています。 テナントの管理者は、モバイル デバイスにサービス正常性の情報とメンテナンス状態の更新情報を表示できます。 詳細については、「[管理アプリ FAQ](/office365/admin/admin-overview/admin-mobile-app)」を参照してください。
+- [Microsoft 365 サービス通信 API](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity#office-365-service-communications-api) を使用すると、サービス通信にアクセスできるため、環境をより簡単に監視できます。 API に接続し、リアルタイムのサービス正常性データを受信し、内部ダッシュボードで情報を公開して、エンタープライズ ユーザーにインシデントを通知できます。 内部に情報を配信すると、停止中のヘルプデスクのトラフィックを減らすことができます。
 - 重大なインシデントについては、Microsoft は管理センター内の SHD にインシデントの事後レビュー (PIR) を公開します。 PIR には、停止の性質を理解できる重要なインシデント情報が含まれています。 通常、次のセクションが含まれます。
     - ユーザーへの影響
     - 影響の範囲
@@ -55,7 +55,7 @@ Microsoft は、顧客が使用できるサービス状態通信用の複数の�
     - 実行された処理
     - 次の手順
 - Microsoft 365 メッセージ センターでは、今後の変更、新機能、計画的なメンテナンスの通知などの補助的な通信を利用できます。
-- 詳細については、「[サービス正常性と継続性ガイド](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)」を参照し、さまざまな通信チャネルとサービス正常性を監視する方法の詳細について確認してください。
+- 詳細については、「[サービス正常性と継続性ガイド](/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity)」を参照し、さまざまな通信チャネルとサービス正常性を監視する方法の詳細について確認してください。
 
 Microsoft 365 オンライン サービスへのアクセスを提供することは、組織と Microsoft とのパートナーシップです。 次の図は、サービス インシデントの発生時および通常の運用時の Microsoft と顧客の両方の責任のバランスについてまとめたものです。
 
@@ -72,7 +72,7 @@ Microsoft 365 オンライン サービスへのアクセスを提供するこ�
 ### <a name="location"></a>場所
 
 多くの組織では、エンタープライズ システムとクラウド サービスに接続するために、従業員が特定の物理的またはネットワークの場所にいる必要があります。  
-Microsoft は、クラウド リソースへのネットワーク接続を設定するためのベスト プラクティスを企業に説明する「[ネットワーク接続の原則](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)」を公開しています。 最適化の例には、スプリット トンネル VPN の実装が含まれ、VPN トンネル経由ではなくユーザーのネットワークから直接接続できるようになります。  これらの接続の原則は、接続の遅延を低く維持するために重要ですが、サービスの復元力には、一般的なコラボレーションのために企業リソースに接続する代替方法が必要です。
+Microsoft は、クラウド リソースへのネットワーク接続を設定するためのベスト プラクティスを企業に説明する「[ネットワーク接続の原則](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)」を公開しています。 最適化の例には、スプリット トンネル VPN の実装が含まれ、VPN トンネル経由ではなくユーザーのネットワークから直接接続できるようになります。  これらの接続の原則は、接続の遅延を低く維持するために重要ですが、サービスの復元力には、一般的なコラボレーションのために企業リソースに接続する代替方法が必要です。
 
 ### <a name="systems"></a>システム
 

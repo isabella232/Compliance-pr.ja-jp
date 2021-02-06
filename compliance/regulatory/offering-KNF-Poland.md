@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6a9bf00ea9fe791f72f73df1d1ccb16d6bd256ed
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509442"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120156"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>ポーランド金融監督庁 (KNF)
 
@@ -61,7 +61,7 @@ Microsoft チェックリストでは、ポーランドの金融機関による 
 
 - [コンプライアンス チェックリスト: ポーランド](https://aka.ms/FinServ-Guide-Poland): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [金融ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 - [Microsoft クラウドのプライバシー](https://aka.ms/MCSPrivacy): Microsoft のプライバシーの原則と基準、およびポーランドに特化したプライバシー法に関する詳細を入手します。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問

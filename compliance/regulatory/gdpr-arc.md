@@ -18,12 +18,12 @@ ms.collection:
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 9be40afbe9df0a3744022366119aaa7d35da992c
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e8426e0e988c2f29a5223abb7e10a205f3941cfd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508544"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121506"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>アカウンタビリティ対応準備チェックリストを使用して GDPR プログラムをサポートする
 
@@ -40,7 +40,7 @@ Microsoft の製品とサービスを使用するときに GDPR をサポート�
 - [Azure](gdpr-arc-azure-dynamics.md)
 - [Microsoft サポート/プロフェッショナル サービス](gdpr-arc-prof-services.md)
 
-[コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)で、GDPR タイル内の顧客管理コントロールの下にあるコントロール ID とコントロール タイトルを参照することによって、このチェックリストの項目を管理できます。
+[コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)で、GDPR タイル内の顧客管理コントロールの下にあるコントロール ID とコントロール タイトルを参照することによって、このチェックリストの項目を管理できます。
 
 チェックリストには、GDPR をサポートするプライバシー プログラムに関する以下の 4 つのカテゴリの基本的な考慮事項と、要件の例が含まれています。
 
@@ -75,7 +75,7 @@ Microsoft の製品とサービスを使用するときに GDPR をサポート�
 
 ## <a name="gdpr-compliance-controls"></a>GDPR コンプライアンスのコントロール
 
-- **コンプライアンス マネージャーの使用**: [コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)を使用して、Microsoft が GDPR の義務をサポートするために使用しているコントロールをレビューし、組み込みます。
+- **コンプライアンス マネージャーの使用**: [コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)を使用して、Microsoft が GDPR の義務をサポートするために使用しているコントロールをレビューし、組み込みます。
 - **GDPR コントロールのマッピング**: GDPR の義務に対する Microsoft コントロールの [総合的なマッピング](https://go.microsoft.com/fwlink/p/?linkid=2052220)にアクセスします。
 
 ## <a name="records-of-processing-for-processors"></a>プロセッサの処理のレコード
@@ -86,31 +86,31 @@ Microsoft がプロセッサとしてコントローラーの顧客に提供し�
 
 一般的に顧客はアクティビティ ログに、そして潜在的には診断ログに興味を持つでしょう。
 
-- **アクティビティ ログ**: [アクティビティ ログ](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview)は、サブスクリプション内のリソースで実行された操作に関する分析情報を提供します。 アクティビティ ログは、操作の開始者、発生時刻、状態の特定に役立ちます。
-- **診断ログ**: [診断ログ](https://docs.microsoft.com/azure/azure-monitor/platform/platform-logs-overview)は、あらゆるリソースによって生成されたログのすべてです。 これらのログには、Windows イベント システム ログ、Azure Storage のログ、Key Vault の監査ログ、Application Gateway のアクセスとファイアウォールのログが含まれています。
+- **アクティビティ ログ**: [アクティビティ ログ](/azure/azure-monitor/platform/platform-logs-overview)は、サブスクリプション内のリソースで実行された操作に関する分析情報を提供します。 アクティビティ ログは、操作の開始者、発生時刻、状態の特定に役立ちます。
+- **診断ログ**: [診断ログ](/azure/azure-monitor/platform/platform-logs-overview)は、あらゆるリソースによって生成されたログのすべてです。 これらのログには、Windows イベント システム ログ、Azure Storage のログ、Key Vault の監査ログ、Application Gateway のアクセスとファイアウォールのログが含まれています。
 - **ログ アーカイブ**: すべての診断ログは、一元化され、暗号化された Azure ストレージ アカウントにアーカイブ用として書き込まれます。 組織固有の保持要件を満たすために、最大で 730 日まで保持期間のユーザーによる構成が可能です。 これらのログは、処理、保存、ダッシュボード レポートの作成のために Azure Monitor のログに接続します。
 
 ### <a name="other-logs"></a>その他のログ
 
 さらに、このアーキテクチャの一部として、次の監視ソリューションがインストールされています。 FedRAMP のセキュリティ コントロールに合わせたこれらのソリューションの構成は、お客様の責任となります。
 
-- [AD 評価](https://docs.microsoft.com/azure/azure-monitor/insights/ad-assessment): Active Directory 正常性チェック ソリューションは、サーバー環境のリスクと正常性を定期的に評価し、展開されたサーバー インフラストラクチャに固有の推奨事項の優先付けされた一覧を提供します。
-- [マルウェア対策の評価](https://docs.microsoft.com/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): マルウェア対策ソリューションは、マルウェア、脅威、保護の状態を報告します。
-- [Azure Automation](https://docs.microsoft.com/azure/automation/automation-hybrid-runbook-worker): Azure Automation ソリューションは、Runbook の保存、実行、管理を行います。
-- [セキュリティと監査](https://docs.microsoft.com/azure/security-center/security-center-introduction): セキュリティと監査のダッシュボードでは、セキュリティ ドメイン、注目すべき問題、検出、脅威インテリジェンス、一般的なセキュリティ クエリに関するメトリクスを提供することで、リソースのセキュリティ状態についての高レベルの分析情報を提供します。
-- [SQL 評価](https://docs.microsoft.com/azure/azure-monitor/insights/sql-assessment): SQL 正常性チェック ソリューションは、サーバー環境のリスクと正常性を定期的に評価し、展開されたサーバー インフラストラクチャに固有の推奨事項の優先付けされた一覧を顧客に提供します。
-- [更新プログラム管理](https://docs.microsoft.com/azure/automation/update-management/update-mgmt-overview): 更新プログラム管理ソリューションは、利用可能な更新プログラムの状態や必要な更新プログラムのインストール手順など、オペレーティング システムのセキュリティ更新プログラムを顧客が管理できるようにします。
-- [エージェントの正常性](https://docs.microsoft.com/azure/azure-monitor/insights/solution-agenthealth): エージェントの正常性ソリューションは、展開されているエージェントの数とその地理的分布を報告し、応答のないエージェントの数や運用データを送信しているエージェントの数も報告します。
-- [Azure アクティビティ ログ](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): アクティビティ ログ分析ソリューションは、顧客のすべての Azure サブスクリプション全体に渡る Azure アクティビティ ログの分析をサポートします。
-- [変更履歴](https://docs.microsoft.com/azure/azure-monitor/platform/activity-log): 変更履歴ソリューションは、顧客が環境内の変更点を簡単に特定できるようにします。
+- [AD 評価](/azure/azure-monitor/insights/ad-assessment): Active Directory 正常性チェック ソリューションは、サーバー環境のリスクと正常性を定期的に評価し、展開されたサーバー インフラストラクチャに固有の推奨事項の優先付けされた一覧を提供します。
+- [マルウェア対策の評価](/azure/security-center/security-center-services?tabs=features-windows#supported-endpoint-protection-solutions-): マルウェア対策ソリューションは、マルウェア、脅威、保護の状態を報告します。
+- [Azure Automation](/azure/automation/automation-hybrid-runbook-worker): Azure Automation ソリューションは、Runbook の保存、実行、管理を行います。
+- [セキュリティと監査](/azure/security-center/security-center-introduction): セキュリティと監査のダッシュボードでは、セキュリティ ドメイン、注目すべき問題、検出、脅威インテリジェンス、一般的なセキュリティ クエリに関するメトリクスを提供することで、リソースのセキュリティ状態についての高レベルの分析情報を提供します。
+- [SQL 評価](/azure/azure-monitor/insights/sql-assessment): SQL 正常性チェック ソリューションは、サーバー環境のリスクと正常性を定期的に評価し、展開されたサーバー インフラストラクチャに固有の推奨事項の優先付けされた一覧を顧客に提供します。
+- [更新プログラム管理](/azure/automation/update-management/update-mgmt-overview): 更新プログラム管理ソリューションは、利用可能な更新プログラムの状態や必要な更新プログラムのインストール手順など、オペレーティング システムのセキュリティ更新プログラムを顧客が管理できるようにします。
+- [エージェントの正常性](/azure/azure-monitor/insights/solution-agenthealth): エージェントの正常性ソリューションは、展開されているエージェントの数とその地理的分布を報告し、応答のないエージェントの数や運用データを送信しているエージェントの数も報告します。
+- [Azure アクティビティ ログ](/azure/azure-monitor/platform/activity-log): アクティビティ ログ分析ソリューションは、顧客のすべての Azure サブスクリプション全体に渡る Azure アクティビティ ログの分析をサポートします。
+- [変更履歴](/azure/azure-monitor/platform/activity-log): 変更履歴ソリューションは、顧客が環境内の変更点を簡単に特定できるようにします。
 
-Azure の技術的な情報やセキュリティ対策に関する情報については、コントローラーの顧客は「[Azure のセキュリティに関するドキュメント](https://docs.microsoft.com/azure/security/)」を参照してください。 Microsoft は顧客データが個人データかどうかを判別できないため、Azure はすべての顧客データが個人データであるものとして処理します。そのため、顧客はすべての素材が関連性のあるものとして考える可能性が高いです。
+Azure の技術的な情報やセキュリティ対策に関する情報については、コントローラーの顧客は「[Azure のセキュリティに関するドキュメント](/azure/security/)」を参照してください。 Microsoft は顧客データが個人データかどうかを判別できないため、Azure はすべての顧客データが個人データであるものとして処理します。そのため、顧客はすべての素材が関連性のあるものとして考える可能性が高いです。
 
 ### <a name="processor-information"></a>プロセッサ情報
 
-また、顧客がプロセッサの処理情報のレコードを必要としている可能性があるもう 1 つの製品には、Office 365 があります。 Office 365 に関連する情報を表示するには、「[セキュリティ/コンプライアンス センターで監査ログを検索する](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)」の記事を参照してください。
+また、顧客がプロセッサの処理情報のレコードを必要としている可能性があるもう 1 つの製品には、Office 365 があります。 Office 365 に関連する情報を表示するには、「[セキュリティ/コンプライアンス センターで監査ログを検索する](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)」の記事を参照してください。
 
-また、セキュリティ/コンプライアンス センターを利用して Dynamics 365 の情報を表示することもできます。  セキュリティ/コンプライアンス センターのページを表示するには、正しいライセンスを取得していることをご確認ください。 ライセンスの詳細については、「[Security & Compliance Center service description (セキュリティ/コンプライアンス センターのサービスの説明)](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)」の記事を参照してください。 Dynamics 365 のイベントを検索するには、[セキュリティ/コンプライアンス センター](https://protection.office.com/unifiedauditlog)で統合監査ログにアクセスします。
+また、セキュリティ/コンプライアンス センターを利用して Dynamics 365 の情報を表示することもできます。  セキュリティ/コンプライアンス センターのページを表示するには、正しいライセンスを取得していることをご確認ください。 ライセンスの詳細については、「[Security & Compliance Center service description (セキュリティ/コンプライアンス センターのサービスの説明)](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center)」の記事を参照してください。 Dynamics 365 のイベントを検索するには、[セキュリティ/コンプライアンス センター](https://protection.office.com/unifiedauditlog)で統合監査ログにアクセスします。
 
 ### <a name="professional-services-information"></a>プロフェッショナル サービスの情報
 

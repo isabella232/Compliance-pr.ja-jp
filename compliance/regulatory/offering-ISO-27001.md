@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 94ce3e8dbbb210c645fb2f64ed29e441eb9956bf
-ms.sourcegitcommit: 58741a8e28c354bd806418b7263f0db98bf83eac
+ms.openlocfilehash: 16c388f3618fe7b62b596dd158dee05a55608234
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49759692"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120226"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 
@@ -111,7 +111,7 @@ Microsoft Cloud における ISO/IEC 27001 のメリットをご確認くださ�
 
 **Microsoft サービスの ISO/IEC 27001 監査レポートおよび scope ステートメントはどこで入手できますか?**
 
-[Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルでレポートをリクエストすることができます。
+[Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルでレポートをリクエストすることができます。
 
 **Microsoft はインフラ障害のテストを毎年実施していますか?**
 
@@ -130,7 +130,7 @@ ISO/IEC 27001 を適用することは戦略的なコミットです。 まず�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、Enterprise E5 のお客様向けにこの規制に関する事前に作成された評価があります。 評価の作成に使用するテンプレートについては、コンプライアンス マネージャーの **評価テンプレート** のページを参照してください。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、Enterprise E5 のお客様向けにこの規制に関する事前に作成された評価があります。 評価の作成に使用するテンプレートについては、コンプライアンス マネージャーの **評価テンプレート** のページを参照してください。 [コンプライアンス マネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 

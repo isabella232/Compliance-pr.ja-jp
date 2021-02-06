@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3bfbddcf9518e86c747315b4eac472ac42365ede
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 2ecf4d029b1c69e4ce7da1244d71d47433eb3873
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509492"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120146"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 品質管理システム標準
 
@@ -63,7 +63,7 @@ ISO 9001:2015 により確立された品質管理原則を忠実に守るため
 
 **Microsoft サービスの ISO 9001:2015 監査レポートおよび対象範囲を記述した文書はどこで入手できますか?**
 
-[Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルでレポートをリクエストすることができます。 [FY17 Microsoft Azure ISO 9001 評価レポート](https://www.microsoft.com/?ref=aka)と[FY17 Microsoft Azure ISO 9001 証明書](https://www.microsoft.com/?ref=aka)の両方を入手できます。
+[Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルでレポートをリクエストすることができます。 [FY17 Microsoft Azure ISO 9001 評価レポート](https://www.microsoft.com/?ref=aka)と[FY17 Microsoft Azure ISO 9001 証明書](https://www.microsoft.com/?ref=aka)の両方を入手できます。
 
 **Microsoft はインフラ障害のテストを毎年実施していますか?**
 

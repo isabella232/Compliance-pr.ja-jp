@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 Yammer エンタープライズアクセスコントロール
-description: この記事には、運用環境での Yammer エンタープライズアクセス制御についての簡単な概要が記載されています。
+title: Microsoft 365 Yammerエンタープライズ アクセス制御
+description: この記事では、実稼働環境でのエンタープライズ アクセス制御Yammerについて簡単に説明します。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,17 +18,17 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d44bead3627ed9b99c93bcffc9f29f87731f7407
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 916f26d5f2defdfb21cb9babe3a64cf618e8cd4a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508405"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120366"
 ---
-# <a name="yammer-enterprise-access-controls"></a>Yammer エンタープライズアクセスコントロール 
+# <a name="yammer-enterprise-access-controls"></a>Yammerアクセス制御 
 
-Yammer の運用環境への物理的および論理的なアクセスは、少数のユーザー (インフラストラクチャおよび運用) に制限されます。 他の Microsoft 365 エンジニアと同様に、Yammer のエンジニアは顧客データへのアクセスをゼロにします。 承認者の数が限られているロックボックスに似た、承認ベースのジャストインタイムのアクセス制御システムを使用して、アクセスを要求する必要があります。 承認者は、要求を確認します (たとえば、要求が正当であるかどうか、ビジネスケース、時間などに基づいて確認し、要求を承認または拒否するなど)。 要求が承認された場合、JIT アクセスは定義済みの時間に限定されて付与されます。 アクセス時間が超過すると、アクセスは自動的に期限切れになります。
+実稼働環境への物理的および論理的Yammerアクセスは、一部のユーザー (インフラストラクチャと運用) に制限されます。 他の Microsoft 365 エンジニアと同様に、Yammerエンジニアは顧客データに常にアクセスできます。 制限された数の承認者を持つロックボックスと同様に、承認ベースの Just-In-Time アクセス制御システムを使用してアクセスを要求する必要があります。 承認者は要求を確認し (たとえば、要求が必要性、業務事例、時間などに基づいて正当かどうかを確認する)、要求を承認または拒否します。 要求が承認されると、定義された限られた時間に対して JIT アクセスが許可されます。 アクセス時間を超えると、アクセスは自動的に期限切れになります。
 
-他の Microsoft 365 サービスと同様に、Yammer 運用環境へのすべてのアクセスでは多要素認証が使用されます。 すべてのアクセスおよびコマンド履歴はユーザーに帰属し、Yammer セキュリティチームによって定期的にログおよび確認されます。
+他の Microsoft 365 サービスと同様に、Yammer環境へのすべてのアクセスは多要素認証を使用します。 すべてのアクセスとコマンドの履歴はユーザーに関連付けされ、セキュリティ チームによって定期的にログYammer確認されます。
 
-Yammer の管理と管理の詳細については、「 [yammer 管理者のヘルプ](https://docs.microsoft.com/yammer/yammer-landing-page)」を参照してください。
+管理と管理の詳細Yammer、管理者向けヘルプ [Yammer参照してください](/yammer/yammer-landing-page)。

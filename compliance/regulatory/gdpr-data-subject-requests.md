@@ -17,12 +17,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 description: Microsoft の製品とサービスを使用して、一般データ保護規則 (GPDR) およびカリフォルニア州消費者プライバシー法 (CCPA) に従って DSR を完了する方法について説明します。
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: ce2be94fec6b2e48a9e7052a1b01302966eb42a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 83ba52015eeb7aed73cd231ff01f824f75337360
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508773"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121036"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>データ対象要求と GDPR および CCPA
 
@@ -68,7 +68,7 @@ DSR の完了には、組織の GDPR コンプライアンス規則に従って�
 
 ### <a name="insights-generated-by-microsoft-products-or-services"></a>Microsoft の製品またはサービスにより生成された分析情報
 
-[分析情報](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)はサービス (MyAnalytics など) によって生成される場合があります。Office 365 には、分析情報を使用するユーザーと組織にこの情報を提供するオンライン サービスが含まれています。 これらのサービスによって生成されたデータによって、DSR に関連する個人データが生成される場合あります。 サービス固有の DSR プロセスに関する詳細については、以下のリストにあるリンクを参照してください。  
+[分析情報](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)はサービス (MyAnalytics など) によって生成される場合があります。Office 365 には、分析情報を使用するユーザーと組織にこの情報を提供するオンライン サービスが含まれています。 これらのサービスによって生成されたデータによって、DSR に関連する個人データが生成される場合あります。 サービス固有の DSR プロセスに関する詳細については、以下のリストにあるリンクを参照してください。  
 
 ### <a name="dsrs-for-system-generated-logs"></a>システム生成ログに関する DSR
 
@@ -82,8 +82,8 @@ Microsoft によって生成されたログと関連データには、"個人デ
 
 ユーザーのアカウントを削除しても、システムで生成された Yammer および Kaizala のログは削除されません。 これらのアプリケーションからデータを削除するには、次のいずれかのリソースを参照してください。
 
-- [Yammer Enterprise で GDPR データ主体の要求を管理する](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
-- [Kaizala でユーザーの組織データをエクスポートまたは削除する](https://docs.microsoft.com/office365/kaizala/export-or-delete-a-user-s-data)
+- [Yammer Enterprise で GDPR データ主体の要求を管理する](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
+- [Kaizala でユーザーの組織データをエクスポートまたは削除する](/office365/kaizala/export-or-delete-a-user-s-data)
 
 ### <a name="national-clouds"></a>国内クラウド
 

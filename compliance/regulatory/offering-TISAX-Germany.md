@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f8734dc5ebfd4c6d1c6c3404285dfc6ac22fc6d7
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 9f751777f527a13d4dc572ef58e82ffcbd6ce1b3
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509319"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121176"
 ---
 # <a name="trusted-information-security-assessment-exchange-tisax-germany"></a>信頼された情報セキュリティ アセスメント交換 (TISAX) ドイツ
 
@@ -67,7 +67,7 @@ ENX に登録されている業界の代表者は、[ENX ポータル](https://p
 
 ### <a name="manufacturing-use-cases"></a>製造ユース ケース
 
-ユース ケースの概要、ソリューション ガイド、チュートリアル、およびその他のリソースを使用して、[Azure ソリューション](https://docs.microsoft.com/azure/industry/manufacturing/)の構築を支援します。
+ユース ケースの概要、ソリューション ガイド、チュートリアル、およびその他のリソースを使用して、[Azure ソリューション](/azure/industry/manufacturing/)の構築を支援します。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -77,7 +77,7 @@ ENX は、ENX ポータルを通じて登録された業界の代表者にのみ
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

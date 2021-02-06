@@ -19,12 +19,12 @@ ms.workload:
 - multiple
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 1b5df025c8c55790181e1f737388b1c15f475d72
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: 29d845c1b9e1c60169db56ba76d731892302bff0
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574789"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121926"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA に関する Visual Studio ファミリ データ主体要求
 
@@ -40,7 +40,7 @@ GDPR の一般的な情報については、[Service Trust Portal の GDPR セ�
 
 ## <a name="additional-privacy-information"></a>その他のプライバシー情報
 
-製品に付属しているマイクロソフト ソフトウェア ライセンス条項、[Microsoft プライバシーに関する声明](https://go.microsoft.com/fwlink/?LinkId=660726)、および [Microsoft の GDPR コミットメント](https://docs.microsoft.com/legal/gdpr)にデータ処理慣行が記載されています。
+製品に付属しているマイクロソフト ソフトウェア ライセンス条項、[Microsoft プライバシーに関する声明](https://go.microsoft.com/fwlink/?LinkId=660726)、および [Microsoft の GDPR コミットメント](/legal/gdpr)にデータ処理慣行が記載されています。
 
 ## <a name="visual-studio-visual-studio-for-mac-and-visual-studio-code"></a>Visual Studio、Visual Studio for Mac、および Visual Studio Code
 
@@ -62,7 +62,7 @@ GDPR に基づくデータ プロセッサとして、Microsoft は、Visual Stu
 "SearchTerm":null,"SearchResult":null}
 ```
 
-詳細については、「[Visual Studio によって収集されるシステム生成ログ](https://docs.microsoft.com/visualstudio/ide/diagnostic-data-collection)」を参照してください。
+詳細については、「[Visual Studio によって収集されるシステム生成ログ](/visualstudio/ide/diagnostic-data-collection)」を参照してください。
 
 認証済みの ID に関連付けられた個人データのみが DSR で処理されます。そのため、たとえば、Visual Studio Code はサインインをサポートしていないため、そこからのシステム生成ログは認証済みの ID に関連付けられず、処理されません。ただし、Visual Studio Code に対する一部の Microsoft 拡張機能が認証済みのデータを提供するため、このデータは DSR で処理されます。詳細については、「[GDPR と Visual Studio Code](https://code.visualstudio.com/docs/supporting/faq#_gdpr-and-vs-code)」を参照してください。一般に、Visual Studio 2013 以前のデータは保存されませんが、後述するように、特定の拡張機能とコンポーネントが、認証済みの ID に関連付けられたデータを提供する場合があるため、DSR で処理されます。
 
@@ -74,8 +74,8 @@ Visual Studio 2015 以降、Visual Studio for Mac、および Visual Studio Code
 
 ユーザーは、これらの製品のプライバシー設定を管理できます。詳細については、以下を参照してください。
 
-- [Visual Studio でプライバシー設定を管理する方法](https://docs.microsoft.com/visualstudio/ide/visual-studio-experience-improvement-program)
-- [Visual Studio for Mac でプライバシー設定を管理する方法](https://docs.microsoft.com/visualstudio/mac/visual-studio-experience-improvement-program)
+- [Visual Studio でプライバシー設定を管理する方法](/visualstudio/ide/visual-studio-experience-improvement-program)
+- [Visual Studio for Mac でプライバシー設定を管理する方法](/visualstudio/mac/visual-studio-experience-improvement-program)
 - [Visual Studio Code でテレメトリ レポート機能を無効にする方法](https://code.visualstudio.com/docs/supporting/faq#_how-to-disable-telemetry-reporting)
 
 #### <a name="exporting-or-deleting-data"></a>データのエクスポートまたは削除
@@ -100,7 +100,7 @@ Microsoft は、Visual Studio ファミリ製品を使用して報告された�
 
 - [開発者コミュニティ](https://developercommunity.visualstudio.com) プロファイル情報
 - ユーザー設定と通知
-- [Visual Studio で問題を報告する](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイルとシステム生成ログ
+- [Visual Studio で問題を報告する](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイルとシステム生成ログ
 - 投票
 
 パブリック フィードバックには、問題、コメント、および解決策が含まれます。
@@ -124,7 +124,7 @@ DSR の一部として、フィードバック データをエクスポートす
 
 - [開発者コミュニティ](https://developercommunity.visualstudio.com) プロファイル情報
 - ユーザー設定と通知設定
-- [Visual Studio で問題を報告する](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイル
+- [Visual Studio で問題を報告する](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイル
 
 > [!NOTE]
 > 入力されたパブリック フィードバック (コメント、解決策、および報告済みの問題) がアーカイブから除外されます。
@@ -147,7 +147,7 @@ DSR の一部として、フィードバック データをエクスポートす
 
 - プロファイル情報
 - ユーザー設定と通知設定
-- [Visual Studio で問題を報告する](https://docs.microsoft.com/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイル
+- [Visual Studio で問題を報告する](/visualstudio/ide/how-to-report-a-problem-with-visual-studio-2017)ことによって、または、[開発者コミュニティ](https://developercommunity.visualstudio.com)経由で提供された添付ファイル
 - 投票
 
 > [!NOTE]
@@ -199,7 +199,7 @@ Xamarin Forumは、サードパーティの Vanilla Forums によりホストさ
 
 ## <a name="nuget"></a>NuGet
 
-NuGet.org の DSR の詳細については、「[NuGet ユーザー データ要求](https://docs.microsoft.com/nuget/policies/data-requests)」を参照してください。
+NuGet.org の DSR の詳細については、「[NuGet ユーザー データ要求](/nuget/policies/data-requests)」を参照してください。
 
 ## <a name="aspnet"></a>ASP.NET
 
@@ -217,7 +217,7 @@ SurveyMonkey 経由でこれらの製品に関するフィードバックの提�
 
 ## <a name="learn-more"></a>詳細情報
 
-- [一般公開されているエンタープライズ ソフトウェア製品のお客様に対する Microsoft の GDPR コミットメント](https://docs.microsoft.com/legal/gdpr)
+- [一般公開されているエンタープライズ ソフトウェア製品のお客様に対する Microsoft の GDPR コミットメント](/legal/gdpr)
 - [Microsoft Trust Center](https://www.microsoft.com/trust-center/privacy/gdpr-overview)
 - [Service Trust Portal](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 - [Microsoft プライバシー ダッシュボード](https://account.microsoft.com/privacy)

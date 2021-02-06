@@ -1,6 +1,6 @@
 ---
-title: 送信中のデータの暗号化
-description: この記事では、microsoft 365 のお客様データを送信中にどのように暗号化するかについて、簡単な説明を記載しています。
+title: 転送中のデータの暗号化
+description: この記事では、Microsoft が送信中に Microsoft 365 の顧客データを暗号化する方法の簡単な説明を見つける必要があります。
 ms.author: krowley
 author: kccross
 manager: laurawi
@@ -20,26 +20,26 @@ ms.collection:
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: d1587e4bc315f99dc554158500638645606fbcec
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b6d6ae53ef2ade842e0e9205c01b44fe17891a97
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507876"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120536"
 ---
-# <a name="encryption-for-data-in-transit"></a>送信中のデータの暗号化
+# <a name="encryption-for-data-in-transit"></a>転送中のデータの暗号化
 
-保存中の顧客データの保護に加え、Microsoft では暗号化技術を使用してお客様の送信中の顧客データを保護します。 データの送信中:
+保存中の顧客データの保護に加え、Microsoft では暗号化技術を使用してお客様の送信中の顧客データを保護します。 データは転送中です。
 
-- クライアントコンピューターが Microsoft サーバーと通信するとき。
-- Microsoft サーバーが他の Microsoft サーバーと通信する場合そして
-- Microsoft サーバーが Microsoft 以外のサーバーと通信する場合 (たとえば、Exchange Online が電子メールをサードパーティの電子メールサーバーに配信する場合)。
+- クライアント コンピューターが Microsoft サーバーと通信する場合
+- Microsoft サーバーが別の Microsoft サーバーと通信する場合そして
+- Microsoft サーバーが Microsoft 以外のサーバーと通信する場合 (たとえば、Exchange Online がサード パーティの電子メール サーバーに電子メールを配信する場合)。
 
-Microsoft サーバー間のデータセンター間の通信は TLS または IPsec 経由で行われ、お客様向けのすべてのサーバーは tls を使用してクライアントマシンとのセキュリティで保護されたセッションをネゴシエートします (たとえば、Exchange Online は TLS 1.2 を256ビットの暗号強度で使用しています (FIPS 140-2 レベル 2-検証)。 (Office 365 でサポートされている TLS 暗号スイートの一覧については、 [暗号化に関する技術リファレンスの詳細](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) を参照してください)。これは、Outlook、Skype for Business、Microsoft Teams、web 上の Outlook などのクライアントによって使用されるプロトコル (たとえば、HTTP、POP3 など) に適用されます。
+Microsoft サーバー間のデータ センター間通信は TLS または IPsec を使用して行われるので、すべての顧客向けサーバーはクライアント コンピューターとの TLS を使用してセキュリティで保護されたセッションをネゴシエートします (たとえば、Exchange Online は TLS 1.2 を使用し、256 ビット暗号強度が使用されます (FIPS 140-2 レベル 2 検証)。 (Office [](/microsoft-365/compliance/technical-reference-details-about-encryption) 365 でサポートされている TLS 暗号スイートの一覧については、暗号化に関するテクニカル リファレンスOffice参照してください)。これは、Outlook、Skype for Business、Microsoft Teams、Web 上の Outlook (HTTP、POP3 など) などのクライアントで使用されるプロトコルに適用されます。
 
-公開証明書は、microsoft IT SSL によって発行された microsoft IT SSL で、送信された情報の機密性を保護するための内部 Microsoft ツールです。 Microsoft によって発行されるすべての証明書の長さは2048ビットです。また、Webtrust コンプライアンスでは、証明書が Microsoft によって所有されるパブリック IP アドレスにのみ発行されるようにするために、SSLAdmin が必要になります。 この条件を満たすことができない IP アドレスは、例外プロセスを経由してルーティングされます。
+パブリック証明書は、送信される情報の機密性を保護する内部の Microsoft ツールである SSLAdmin を使用して、Microsoft IT SSL によって発行されます。 Microsoft IT によって発行される証明書の長さは 2048 ビット以上であり、Webtrust コンプライアンスでは、証明書が Microsoft が所有するパブリック IP アドレスにのみ発行されるのを確認するために SSLAdmin が必要です。 この条件を満たしない IP アドレスは、例外処理によってルーティングされます。
 
-使用されている TLS のバージョン、転送機密性 (FS) が有効になっているかどうか、暗号スイートの順番など、すべての実装の詳細を公開できます。 これらの詳細を確認する1つの方法は、 [QUALYS SSL Labs](https://www.ssllabs.com)などのサードパーティの web サイトを使用することです。 次のサービスの情報を表示する Qualys からの自動テストページへのリンクを以下に示します。
+使用されている TLS のバージョン、Forward Secrecy (FS) が有効かどうか、暗号スイートの順序など、すべての実装の詳細が一般に公開されています。 これらの詳細を確認する 1 つの方法は [、Qualys SSL Labs](https://www.ssllabs.com)などのサードパーティの Web サイトを使用する方法です。 次のサービスの情報を表示する Qualys の自動テスト ページへのリンクを以下に示します。
 
 - [Office 365 ポータル](https://www.ssllabs.com/ssltest/analyze.html?d=portal.office.com&hideResults=on)
 - [Exchange Online](https://www.ssllabs.com/ssltest/analyze.html?d=outlook.office365.com&hideResults=on)
@@ -49,4 +49,4 @@ Microsoft サーバー間のデータセンター間の通信は TLS または I
 - [Exchange Online Protection](https://ssl-tools.net/mailservers/microsoft-com.mail.protection.outlook.com)
 - [Microsoft Teams](https://www.ssllabs.com/ssltest/analyze.html?d=teams.microsoft.com&latest)
 
-Exchange Online Protection の場合、Url はテナント名によって異なります。ただし、すべてのお客様は **microsoft-com.mail.protection.outlook.com** を使用して Microsoft 365 をテストできます。
+Exchange Online Protection では、URL はテナント名によって異なります。However, all customers can test Microsoft 365 using **microsoft-com.mail.protection.outlook.com**.

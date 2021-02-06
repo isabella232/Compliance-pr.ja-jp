@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 2d4c319bd5c0d3d264ae67179dc4d55e0a0e4fe8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 44df81658719397271020f38088d3287e67774a1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508928"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121436"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般データ保護規則の概要
 
@@ -60,7 +60,7 @@ GDPR 基準を満たすには、次のタスクが必要です。 実装に関�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、Enterprise E5 のお客様向けにこの規制に関する事前に作成された評価があります。 評価の作成に使用するテンプレートについては、コンプライアンス マネージャーの **評価テンプレート** のページを参照してください。 [コンプライアンスマネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーは、Enterprise E5 をご利用のお客様を対象として、事前に組み込まれた評価を行います。 評価の作成に使用するテンプレートについては、コンプライアンスマネージャーの [ **評価テンプレート** ] を参照してください。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="data-subject-request-dsr"></a>データ主体の要求 (DSR)
 
@@ -74,7 +74,7 @@ DSR には、検出、アクセス、修正、制限、エクスポート、削�
 
 **データ ソースとは?**
 
-組織のデータの大部分は、Excel や Outlook などの [Office アプリケーション](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)で生成されます。 また、DSR に関連するデータは、Microsoft の製品とサービスによって生成された[分析情報](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)、および[システム生成ログ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)でも検索することもできます。
+組織のデータの大部分は、Excel や Outlook などの [Office アプリケーション](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)で生成されます。 また、DSR に関連するデータは、Microsoft の製品とサービスによって生成された[分析情報](/microsoft-365/compliance/gdpr-dsr-office365#part-2-responding-to-dsrs-with-respect-to-insights-generated-by-office-365)、および[システム生成ログ](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)でも検索することもできます。
 
 **どのような種類のデータを検索する必要がありますか?**
 
@@ -82,7 +82,7 @@ DSR には、検出、アクセス、修正、制限、エクスポート、削�
 
 **個人データは、どのように検索するのですか?**
 
-個人データの検索は、Microsoft の製品とサービスによって異なる場合があります。 検索ツールには、[コンテンツ検索](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)、または[アプリ内検索](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs)能力が用意されています。 管理者は、ユーザーのアクティビティに関連する[システム生成ログ](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)にアクセスできます。  
+個人データの検索は、Microsoft の製品とサービスによって異なる場合があります。 検索ツールには、[コンテンツ検索](/microsoft-365/compliance/gdpr-dsr-office365#using-the-content-search-ediscovery-tool-to-respond-to-dsrs)、または[アプリ内検索](/microsoft-365/compliance/gdpr-dsr-office365#using-in-app-functionality-to-respond-to-dsrs)能力が用意されています。 管理者は、ユーザーのアクティビティに関連する[システム生成ログ](/microsoft-365/compliance/gdpr-dsr-office365#part-3-responding-to-dsrs-for-system-generated-logs)にアクセスできます。  
 
 **個人データは、どのような形式で利用できるようにする必要がありますか?**
 
@@ -109,13 +109,13 @@ GDPR に関連する一連の記事については、こちらを参照してく
 
 ## <a name="data-protection-impact-assessment"></a>データ保護影響評価
 
-GDPR では、データ管理者は「自然人の権利と自由を危険にさらす可能性が高い」操作処理に関して[データ保護影響評価](gdpr-data-protection-impact-assessments.md) (DPIA) を準備する必要があります。 DPIA の作成を必要とする Microsoft の製品とサービスに固有のものはありません。 むしろ、Microsoft 構成の詳細に依存しています。 Office での考慮事項に関する詳細のリストは、「[DPIA の内容](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)」を参照してください
+GDPR では、データ管理者は「自然人の権利と自由を危険にさらす可能性が高い」操作処理に関して[データ保護影響評価](gdpr-data-protection-impact-assessments.md) (DPIA) を準備する必要があります。 DPIA の作成を必要とする Microsoft の製品とサービスに固有のものはありません。 むしろ、Microsoft 構成の詳細に依存しています。 Office での考慮事項に関する詳細のリストは、「[DPIA の内容](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia)」を参照してください
 
 ### <a name="dpia-faqs"></a>DPIA についてよく寄せられる質問
 
 **DPIA はいつ実施する必要がありますか?**
 
-コントローラーは、個人データのセキュリティに対するリスク、またはデータ侵害から生じるリスクに対処する DPIA を実行する必要があります。 Office のリスク要因の具体例は、「[DPIA が必要であるかどうかの判断](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)」で説明されています。  
+コントローラーは、個人データのセキュリティに対するリスク、またはデータ侵害から生じるリスクに対処する DPIA を実行する必要があります。 Office のリスク要因の具体例は、「[DPIA が必要であるかどうかの判断](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed)」で説明されています。  
 
 **DPIA の完了には何が必要ですか?**
 
@@ -183,7 +183,7 @@ Microsoft は、お客様に速やかに通知するためのポリシーと手�
 
 ## <a name="accountability-readiness-checklists-for-the-gdpr"></a>GDPR に関するアカウンタビリティ対応準備チェックリスト
 
-これらの[チェックリスト](gdpr-arc.md)は、Microsoft 製品の使用において、GDPR をサポートしなければならない可能性のある情報にアクセスする便利な方法を提供します。 [Microsoft コンプライアンスマネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)で、GDPR タイル内の顧客管理コントロールの下にあるコントロール ID とコントロール タイトルを参照することによって、チェックリスト項目を管理できます。
+これらの[チェックリスト](gdpr-arc.md)は、Microsoft 製品の使用において、GDPR をサポートしなければならない可能性のある情報にアクセスする便利な方法を提供します。 [Microsoft コンプライアンスマネージャー](/microsoft-365/compliance/compliance-manager)で、GDPR タイル内の顧客管理コントロールの下にあるコントロール ID とコントロール タイトルを参照することによって、チェックリスト項目を管理できます。
 
 ## <a name="gdpr-faqs"></a>GDPR についてよく寄せられる質問
 

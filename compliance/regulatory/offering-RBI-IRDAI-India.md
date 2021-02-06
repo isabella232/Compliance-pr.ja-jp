@@ -1,6 +1,6 @@
 ---
-title: '[インド of インド (RBI)] および [インドの保険法規および開発機関 (IRDAI)] の予約銀行'
-description: Microsoft は、クラウド導入において、インドの金融機関を支援するためのガイダンスを公開しています。
+title: インド準備銀行 (RBI) およびインド保険規制開発局 (IRDAI)
+description: Microsoft は、クラウド導入によりインドの金融機関を支援するためのガイダンスを公開しました。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,37 +16,37 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 919961df3c19a414fe43af0a6d3ffc719b2efd09
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6d94152e51345631b2fe1650f9324183d3fd300e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508329"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119986"
 ---
-# <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>[インド of インド (RBI)] および [インドの保険法規および開発機関 (IRDAI)] の予約銀行
+# <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>インド準備銀行 (RBI) およびインド保険規制開発局 (IRDAI)
 
-## <a name="about-rbi-and-irdai"></a>RBI および IRDAI について
+## <a name="about-rbi-and-irdai"></a>RBI と IRDAI について
 
-[インドの予約銀行](https://www.rbi.org.in/)(rbi)、インドの中央銀行、インド (IRDAI)[の保険法規および開発機関](https://www.irdai.gov.in/Defaulthome.aspx?page=H1)、および[電子機器と情報技術](https://meity.gov.in/content/information-technology-act)(meity は3つの主要な金融業界の規制機関で構成されており、銀行、保険組織、および市場インフラストラクチャの各機関を監督しています。 これらのディレクティブには、アウトソーシングとリスク管理のガイドラインと、機密データを管理するプライバシールールに準拠するための要件が含まれます。
+インド[](https://www.rbi.org.in/)準備銀行 (RBI)、インドの中央銀行機関、インド保険規制開発局[](https://www.irdai.gov.in/Defaulthome.aspx?page=H1) (IRDAI)、および電子情報技術省[](https://meity.gov.in/content/information-technology-act) (MeitY) は、銀行、保険組織、市場インフラストラクチャ機関を監督する主要な金融業界規制機関の 3 つで構成されています。 そのディレクティブには、アウトソーシングとリスク管理のガイドライン、および機密データを管理するプライバシー ルールに準拠する要件が含まれます。
 
-アウトソーシングとリスク管理のガイダンスには次のものが含まれます。
+アウトソーシングとリスク管理のガイダンスには以下が含まれます。
 
-- 金融サービス (rbi) に[よる金融サービスのアウトソーシングにおけるリスクと行動コードの管理に関するガイドライン](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73713.pdf)は、金融サービスをアウトソーシングし、アウトソーシングが rbi のスーパーバイザーの役割を阻害しないようにするために、規制された銀行が公開するリスクに対処するためのものです。 RBI では、金融サービスのアウトソーシングを求める銀行の事前の承認は必要ありません。ただし、内部監査やコンプライアンス機能などのコアバンキング機能はアウトソーシングしないでください。
-- [情報セキュリティ、電子銀行、テクノロジリスク管理、およびサイバー Frauds](https://rbidocs.rbi.org.in/rdocs/content/PDFs/GBS300411F.pdf) (rbi) に関するガイドライン。 金融機関は、活動の規模と性質が重要であるか、インド外のサービスプロバイダーとの広範なデータ共有を必要とするアウトソーシングの手配を報告する必要があります。 このガイダンスは、運用データがインドの外部で保存または処理される場合に特に適用されます。
-- [インド Insurers 規制 (IRDAI) によるアクティビティのアウトソーシング](https://www.irdai.gov.in/ADMINCMS/cms/frmGeneral_Layout.aspx?page=PageNo3149&flag=1) 。 毎年、保険会社は、会計年度の決算から45日以内に、中心的な活動の特定のサポート機能の IRDAI へのアウトソーシングを報告する必要があります。 (Microsoft [チェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) のページ7では、コアアクティビティのサポート機能について説明します。
+- [](https://rbidocs.rbi.org.in/rdocs/notification/PDFs/73713.pdf)銀行 (RBI) による金融サービスのアウトソーシングにおけるリスクおよび実施基準の管理に関するガイドラインは、金融サービスをアウトソーシングしている間に規制対象の銀行が公開されるリスクに対処し、アウトソーシングが RBI の監督的役割を妨がらせないのを支援します。 RBI は、金融サービスのアウトソーシングを求める銀行に対する事前の承認を必要としない。ただし、内部監査機能やコンプライアンス機能などのコア 銀行機能はアウトソーシングすべきではありません。
+- [情報セキュリティ、電子銀行取引、技術リスク管理](https://rbidocs.rbi.org.in/rdocs/content/PDFs/GBS300411F.pdf) 、サイバー詐欺 (RBI) に関するガイドライン。 金融機関は、活動の規模と性質が重要である場合、またはインド以外のサービス プロバイダーとの広範なデータ共有を必要とするアウトソーシング契約を報告する必要があります。 このガイダンスは、運用データがインド以外で保存または処理される場合に特に適用されます。
+- [インドの保険者規制](https://www.irdai.gov.in/ADMINCMS/cms/frmGeneral_Layout.aspx?page=PageNo3149&flag=1) (IRDAI) による活動のアウトソーシング。 毎年、保険組織は、会計年の終業から 45 日以内に、コア アクティビティの特定のサポート機能のアウトソーシングを IRDAI に報告する必要があります。 (Microsoft チェックリストの 7 ページでは、"コア アクティビティのサポート機能" の構成について説明しています。 [](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-クラウドサービスを使用する金融企業は、 [情報技術 (適切なセキュリティのベストプラクティスと手順、機密性の高い個人データまたは情報) ルール](https://meity.gov.in/sites/upload_files/dit/files/GSR313E_10511\(1\).pdf) である 2011 (meity) を含む、プライバシールールに準拠している必要があります。 インドのデータ保護法を強化するために開発されたものであり、機密の個人データの保護と処理を規定しています。
+クラウド サービスを使用する金融機関は、情報技術 (妥当なセキュリティプラクティスと手順、機密の個人データまたは情報) ルール [(2011](https://meity.gov.in/sites/upload_files/dit/files/GSR313E_10511\(1\).pdf) (MeitY) を含むプライバシー ルールも遵守する必要があります。 インドのデータ保護法を強化するために開発されたこれらの規則は、機密の個人データの保護と取り扱いを管理します。
 
-## <a name="microsoft-rbi-and-irdai"></a>Microsoft、RBI、および IRDAI
+## <a name="microsoft-rbi-and-irdai"></a>Microsoft、RBI、IRDAI
 
-クラウドへのアウトソーシングビジネス機能を考慮してインドの金融機関にガイドを提供するために、Microsoft はインドの金融機関のコンプライアンスチェックリストを公開しています。 [チェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)を確認して完了することで、財務組織は、適用される規制要件に準拠しているという自信を持って Microsoft business cloud サービスを採用できます。
+ビジネス機能のクラウドへのアウトソーシングを検討しているインドの金融機関を支援するために、Microsoft はインドの金融機関向けコンプライアンス チェックリストを公開しました。 チェックリストを確認して完了することで、[](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)金融機関は、適用される規制要件に準拠しているという自信を持って Microsoft ビジネス クラウド サービスを採用できます。
 
-インド金融機関は、ビジネス活動をクラウドにアウトソーシングする際に、リスクを管理し、情報技術の使用によって発生した問題に対処するために、インドの予約銀行のガイドラインに従う必要があります。 また、電子機器および情報技術 (MeitY によって確立されたデータセキュリティとプライバシーの要件に準拠している必要があります。 さらに、保険組織は、インドの保険法規および開発機関 (IRDAI) によって公開されたアウトソーシングのガイドラインに従う必要があります。
+インドの金融機関がビジネス 活動をクラウドにアウトソーシングする場合、インド準備銀行のガイドラインに従って、リスクを管理し、情報技術の使用によって生じた問題に対処する必要があります。 また、電子情報技術省 (MeitY) が定め、データのセキュリティとプライバシーに関する要件を満たす必要があります。 さらに、保険組織は、インド保険規制開発局 (IRDAI) によって公開されたアウトソーシング ガイドラインに従う必要があります。
 
-マイクロソフトのチェックリストは、Microsoft business cloud services のデューデリジェンス評価を実施しているインドの金融企業に役立つ情報です。
+Microsoft チェックリストは、Microsoft ビジネス クラウド サービスの適正審査を実施しているインドの金融機関を支援します。これには以下が含まれます。
 
 - 条件に応じた規制状況の概要。
-- このような規制義務に対して、問題を解決し、Microsoft Azure、Microsoft Dynamics 365、Microsoft Office 365 のサービスをマップするチェックリスト。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
+- 対応する問題を示すチェックリスト。これらの規制上の義務に対して Microsoft Azure、Microsoft Dynamics 365、および Microsoft Office 365 サービスをマップします。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
 
@@ -56,23 +56,23 @@ ms.locfileid: "49508329"
 
 ## <a name="how-to-implement"></a>実装方法
 
-- [インドのコンプライアンスチェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): 金融企業は、Microsoft business cloud services のリスク評価の実施に関するサポートを受けることができます。
+- [インドのコンプライアンス チェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): 金融機関は、Microsoft ビジネス クラウド サービスのリスク評価の実施に役立ちます。
 - [リスク評価およびコンプライアンス ガイド](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [Azure の財務的な使用例](https://docs.microsoft.com/azure/industry/financial/): サポート案件の概要、チュートリアル、その他のリソースを使用して、金融サービスの Azure ソリューションを構築します。
+- [Azure の財務的な使用](/azure/industry/financial/)事例 : 金融サービス用の Azure ソリューションを構築するための使用事例の概要、チュートリアル、その他のリソース。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **クラウド サービス プロバイダーについて、契約に含める必要がある必須条項はありますか?**
 
-はい。 上記のガイドラインは、金融機関がクラウドサービス契約に組み込む必要のある特定のポイントを規定しています。 [チェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)のパート 2 (ページ 70) は、これらを Microsoft の契約書に記載されているセクションに対応しています。
+はい。 上記のガイドラインは、金融機関がクラウド サービス契約に組み込む必要がある特定のポイントを規定しています。 チェックリストのパート 2 [](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=26f4af15-2771-4cd4-a7c7-9328149f9453&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) (70 ページ) は、これらのドキュメントを、対処先の Microsoft 契約文書のセクションにマップします。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 
-- [Microsoft および MeitY ごごください。](offering-meity-india.md)
+- [Microsoft と MeitY](offering-meity-india.md)
 - [Microsoft 金融サービス コンプライアンス プログラム](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)

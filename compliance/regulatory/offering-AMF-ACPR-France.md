@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1229dba8c5106c48e431c0bdf09e86e65bb402cc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508917"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121406"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Financial Authority (AMF) および Prudential Authority (ACPR) フランス
 
@@ -59,7 +59,7 @@ Microsoft チェックリストでは、フランスの金融機関による Mic
 
 - [コンプライアンス チェックリスト: フランス](https://aka.ms/FinServ-Guide-France): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを使用できます。
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [金融ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 

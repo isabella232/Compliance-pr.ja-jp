@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: d6b0a96cfa82f9e0d841703d2124c0e9dda7fe1f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: fabaa7487da2dae72cc2aa8aa050b43713154fbe
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508696"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120936"
 ---
 # <a name="intune-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Intune データ主体の要求
 
@@ -86,9 +86,9 @@ DSR への対応の第一歩は、要求の対象となる個人データを見�
 
 データを見つけたら、データ主体による要求を満たすために特定のアクションを実行できます。詳細については、次のリソースを参照してください。
 
-- [データ収集](https://docs.microsoft.com/intune/privacy-data-collect)
-- [データの保存と処理](https://docs.microsoft.com/intune/privacy-data-store-process)
-- [個人データの表示](https://docs.microsoft.com/intune/privacy-data-view-correct#view-personal-data)
+- [データ収集](/intune/privacy-data-collect)
+- [データの保存と処理](/intune/privacy-data-store-process)
+- [個人データの表示](/intune/privacy-data-view-correct#view-personal-data)
 
 ### <a name="step-2-access"></a>ステップ 2: アクセス
 
@@ -114,15 +114,15 @@ Microsoft Intune は、ユーザー インターフェイス (UI) または既�
 
 ### <a name="step-4-restrict"></a>ステップ 4: 制限
 
-データ主体は個人データの処理を制限することを要求する場合があります。 Azure portal と既存のアプリケーション プログラミング インターフェイス (API) とユーザー インターフェイス (UI) の両方を提供します。 これらのエクスペリエンスを利用すると、お客様企業のテナント管理者は、データのエクスポートとデータの削除を組み合わせて、DSR を管理することができます。 詳細については、「[個人データの処理](https://docs.microsoft.com/intune/privacy-data-store-process#processing-personal-data)」を参照してください。
+データ主体は個人データの処理を制限することを要求する場合があります。 Azure portal と既存のアプリケーション プログラミング インターフェイス (API) とユーザー インターフェイス (UI) の両方を提供します。 これらのエクスペリエンスを利用すると、お客様企業のテナント管理者は、データのエクスポートとデータの削除を組み合わせて、DSR を管理することができます。 詳細については、「[個人データの処理](/intune/privacy-data-store-process#processing-personal-data)」を参照してください。
 
 ### <a name="step-5-delete"></a>ステップ 5: 削除
 
-組織の顧客データから個人データを削除することによる "消去する権利" は、GDPR における重要な保護です。個人データの削除には、監査ログ情報を除く、すべての個人データとシステム生成ログの削除が含まれます。詳細については、「[エンドユーザーの個人データの削除](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)」を参照してください。
+組織の顧客データから個人データを削除することによる "消去する権利" は、GDPR における重要な保護です。個人データの削除には、監査ログ情報を除く、すべての個人データとシステム生成ログの削除が含まれます。詳細については、「[エンドユーザーの個人データの削除](/intune/privacy-data-audit-export-delete#delete-end-user-personal-data)」を参照してください。
 
 ## <a name="part-2-system-generated-logs"></a>第 2 部: システム生成ログ
 
-監査ログは、Microsoft Intune 内で変更を発生させるアクティビティの記録をテナント管理者に提供します。監査ログは、さまざまな管理アクティビティと、通常は、作成、更新 (編集)、削除、および割り当てアクションに使用できます。監査イベントを生成するリモート タスクを確認することもできます。これらの監査ログに、デバイスが Intune に登録されているユーザーからの個人データが含まれている場合があります。管理者は、監査ログを削除できません。詳細については、「[個人データの監査](https://docs.microsoft.com/intune/privacy-data-audit-export-delete#audit-personal-data)」を参照してください。
+監査ログは、Microsoft Intune 内で変更を発生させるアクティビティの記録をテナント管理者に提供します。監査ログは、さまざまな管理アクティビティと、通常は、作成、更新 (編集)、削除、および割り当てアクションに使用できます。監査イベントを生成するリモート タスクを確認することもできます。これらの監査ログに、デバイスが Intune に登録されているユーザーからの個人データが含まれている場合があります。管理者は、監査ログを削除できません。詳細については、「[個人データの監査](/intune/privacy-data-audit-export-delete#audit-personal-data)」を参照してください。
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>エクスポートまたは削除に関する問題を通知する
 

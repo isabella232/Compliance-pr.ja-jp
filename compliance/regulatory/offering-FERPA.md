@@ -1,6 +1,6 @@
 ---
-title: 家族教育機関/プライバシーに関する法律 (お客様)
-description: Microsoft は、アメリカ家族の教育機関とプライバシーに関する法律の要件に合致しています。
+title: ファミリー教育の権利とプライバシーに関する法律 (FERPA)
+description: Microsoft は、米国の家庭教育の権利とプライバシーに関する法律の要件に適合しています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,70 +16,70 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 761fc250fe5ea6fd9bbd0a1b886a8097ee131854
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 659ce7a4de3779a81731133bb9077d5bff04b473
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507959"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120896"
 ---
-# <a name="family-educational-rights-and-privacy-act-ferpa"></a>家族教育機関/プライバシーに関する法律 (お客様)
+# <a name="family-educational-rights-and-privacy-act-ferpa"></a>ファミリー教育の権利とプライバシーに関する法律 (FERPA)
 
-## <a name="ferpa-overview"></a>大き PA の概要
+## <a name="ferpa-overview"></a>FERPA の概要
 
-家族の教育機関の権利とプライバシーに関する法律 (お客様は、個人を特定できる情報やディレクトリ情報を含む、学生の教育記録のプライバシーを保護する米国連邦法です。 親と学生の年齢が18歳以上であることを確認し、それらのレコードに対する変更を要求して、情報の開示を制御することを可能にするために、お客様に対しては、お客様が同意せずに機密情報の開示を許可されているという制限があります。
+家族教育の権利とプライバシーに関する法律 (FERPA) は、個人を特定できる情報やディレクトリ情報を含む学生の教育記録のプライバシーを保護する米国連邦法です。 FERPA は、18 歳以上の親と学生がそれらの記録にアクセスし、変更を要求し、情報の開示を制御できるよう、FERPA が同意なしに開示を許可する具体的で限定的なケースを除いて、施行されました。
 
-この法律は、学校、学校の地域、および米国防省になる教育機関 (実質的にすべての一般法人、学校および学校地域) からの資金を提供するその他のあらゆる機関に適用されます。また、パブリックとプライベートの両方に適用されます。
+この法律は、学校、学区、および米国教育省から資金を受け取るその他の機関 (事実上すべての公的な K-12 学校と学区、およびほとんどの中等教育機関 (公的機関と私立学校の両方) に適用されます。
 
-セキュリティは、「許可されていない開示からの学生情報の保護を必要とする」という、場所へのコンプライアンスの中心となります。 クラウドコンピューティングを使用する教育機関は、技術ベンダーが機密性の高い生徒データを適切に管理するという、契約の再保証を必要とします。
+セキュリティは FERPA への準拠の中心です。FERPA では、許可されていない開示から学生情報を保護する必要があります。 クラウド コンピューティングを使用する教育機関では、テクノロジ ベンダーが機密学生データを適切に管理する契約上の安心感が必要です。
 
-## <a name="microsoft-and-ferpa"></a>Microsoft と (金 PA)
+## <a name="microsoft-and-ferpa"></a>Microsoft および (FERPA)
 
-お客様は、監査やその他の証明書を必要としたり、認識したりすることはありません。そのため、クラウドサービスを使用することによって、その他のクラウドサービスを使用することによって、そのような教育機関の要件を満たすことができます。 ただし、マイクロソフトは、コンプライアンスを証明する以下の契約上のコミットメントを行いました。
+FERPA は監査または他の認定を要求または認識しないので、FERPA の対象となる教育機関は、クラウド サービスの使用が FERPA 要件に準拠する能力にどのように影響するかを評価する必要があります。 ただし、Microsoft は、コンプライアンスを証明する次の契約上のコミットメントを行っています。
 
-- [オンラインサービス](https://aka.ms/Online-Services-Terms)に関する条項では、Microsoft は、「お客様のデータ」の「合法的な趣味」を使用して「学校の趣味」として指定することに同意されます。 (お客様のデータには、学校の Microsoft cloud services を使用して提供される学生レコードが含まれます。)学生教育の記録を取り扱う場合、マイクロソフトは、教育機関と同様に、34 CFR 99.33 (a) によって課される制限事項と要件を遵守することに同意するものとします。
-- さらに、Microsoft は、お客様のデータのみを使用して、クラウドサービスと互換性のある目的 (マルウェアの検出など) を組織に提供し、広告にお客様のデータを提供しません。
-- Microsoft では、契約に記載されているように、または法律によって必要に応じて、教育機関が指示する場合を除いて、顧客データを開示しないことを契約がコミットしています。 Microsoft クラウドサービスを使用してマイクロソフトに教育記録を提供する教育機関は、これらの記録が、その使用と公開に関する厳しい契約上の制限の対象となることを保証できます。
+- オンライン [サービスの](https://aka.ms/Online-Services-Terms)使用条件の中で、Microsoft は FERPA で定義されている顧客データに「正当な教育上の利益」を持つ「学校の職員」として指定することに同意します。 (顧客データには、学校による Microsoft クラウド サービスの使用によって提供される学生の記録が含まれます)。学生の教育記録を処理する際、Microsoft は、学校の職員が行うのと同様に、34 CFR 99.33(a) が課す制限と要件に従することに同意します。
+- さらに、Microsoft は、クラウド サービスと互換性のある目的 (マルウェア検出の向上など) を組織に提供するためにのみ顧客データを使用し、広告のために顧客データを利用しません。
+- また、マイクロソフトは、契約に記載されている教育機関の指示を除き、または法律で義務付けされている場合を除き、顧客データを開示しないという契約上のコミットも行います。 Microsoft クラウド サービスを使用して Microsoft に教育記録を提供する学校は、それらの記録の使用と開示に関する厳格な契約上の制限を受け入保証できます。
 
-これらの契約の取り組みの結果として、お客様は、教育機関と、機密性の高い生徒データへのアクセスを提供するサードパーティの両方において、そのデータを処理、保存、送信するために、対象となる Microsoft business cloud services を使用することができます。
+これらの契約上のコミットメントの結果、FERPA (教育機関と機密学生データへのアクセス権を与えるサード パーティの両方) の対象となるお客様は、対象範囲の Microsoft ビジネス クラウド サービスを使用して、そのデータを処理、保存、および送信できます。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
-Microsoft がお客様のデータに「合法的な趣味」を持つ ' school オフィシャル ' として指定することを合意しているサービスは次のとおりです。
+Microsoft が顧客データの「正当な教育上の利益」を持つ「学校の職員」として指定することに同意するサービスには、次のようなものがあります。
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI、PowerApps、および Power オートメーション (旧称 Microsoft Flow) は、スタンドアロンサービスとして、または Office 365 ブランドのプランまたはスイートに含まれています。
+- Power BI、PowerApps、Power Automate (以前の Microsoft Flow) は、スタンドアロン サービスとして、または Office 365 ブランドプランまたはスイートに含まれるもの
 - Azure DevOps Services
 - Windows Defender ATP
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-この場合、監査または証明書を必要とすることはありません。
+FERPA は、監査または認定を必要としたり、認識したりしない。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**非常に重要なのはなぜですか?**
+**FERPA が重要な理由**
 
-この米国連邦法では、学生の教育記録のプライバシーを保護することが義務付けされています。 また、これらのレコードへのアクセスを許可したり、それらのレコードを修正したり、サードパーティへのレコードのリリースに関連する特定の権限を与えたりすることもできます。
+この米国連邦法では、学生の教育記録のプライバシー保護が義務付けされています。 また、保護者や対象学生がこれらのレコードにアクセスし、それらを修正する機能、および第三者へのレコードのリリースに関連する特定の権限も与えます。
 
-**詳細情報はどこで参照できますか?**
+**FERPA の詳細については、どこで確認できますか?**
 
-- [連邦レジスタ: という最終規則](https://aka.ms/ferpa-reg) (12 月 2011)
-- [親のための、大き PA の一般的なガイダンス](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
+- [連邦登録: FERPA 最終](https://aka.ms/ferpa-reg) 規則 (2011 年 12 月)
+- [FERPA の保護者向け一般的なガイダンス](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/parents.html)
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。テンプレートは、コンプライアンス マネージャーの **評価テンプレート** ページに見つかります。[コンプライアンス マネージャーで評価する方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)をご確認ください。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 
 - [家族教育の権利とプライバシーに関する法律](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
-- [米国連邦規制の電子コード: 金 PA](https://aka.ms/FERPA-GPO)
-- [連邦レジスタ: お金の最終ルール](https://aka.ms/ferpa-reg)
-- [Microsoft Azure 用の、お持ちの Microsoft Azure 向けの実装ガイド](https://aka.ms/azureferpa)
-- [Azure の PA コンプライアンスフレームワークマッピング](https://aka.ms/AzureFERPAMapping)
-- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [連邦規制の電子コード: FERPA](https://aka.ms/FERPA-GPO)
+- [連邦登録: FERPA 最終規則](https://aka.ms/ferpa-reg)
+- [Microsoft Azure の FERPA 実装ガイド](https://aka.ms/azureferpa)
+- [Azure FERPA コンプライアンス フレームワークマッピング](https://aka.ms/AzureFERPAMapping)
+- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

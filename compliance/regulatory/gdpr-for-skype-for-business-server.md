@@ -12,12 +12,12 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508965"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121476"
 ---
 # <a name="gdpr-for-skype-for-business-server-and-lync-server"></a>Skype for Business Server および Lync Server の GDPR
 
@@ -35,8 +35,8 @@ Skype for Business Server および Lync Server のデータのほとんどは�
 
 -   エンド ユーザー自身がグループ ヘッダーを右クリックして [コピー] を選択することにより、連絡先をエクスポートできます。この場合、そのグループのすべての連絡先がクリップボードにコピーされ、任意のアプリに貼り付けることができるようになります。
 
--   [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。
+-   [Export-CsUserData](/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。
 
 会議にアップロードされるコンテンツ (PowerPoint のファイルや配布資料など) または会議で生成されるコンテンツ (ホワイトボード、投票、Q/A など) は、ファイラーに保存されます。また、これらは、エンド ユーザーがまだ期限切れでない会議に再びログインして、アップロードされたコンテンツをダウンロードしたり、生成されたコンテンツの場合にはスクリーンショットを撮ってエクスポートすることもできます。
 
-Exchange の予定表および連絡先リストにない MeetNow 会議および連絡先権限 (家族や同僚など) は、ユーザー データベース内にあります。Lync Server 2013 以降の場合は、[Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。
+Exchange の予定表および連絡先リストにない MeetNow 会議および連絡先権限 (家族や同僚など) は、ユーザー データベース内にあります。Lync Server 2013 以降の場合は、[Export-CsUserData](/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。

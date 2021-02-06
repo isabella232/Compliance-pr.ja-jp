@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4c14d32a172dc5d6ea934abb20c7df956d43d3bb
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509269"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119916"
 ---
 # <a name="personal-data-protection-act-pdpa-argentina"></a>個人データ保護法 (PDPA) アルゼンチン
 
@@ -50,7 +50,7 @@ Microsoft のデータ移転契約は、オンライン サービス条件のデ
 ## <a name="how-to-implement"></a>実装方法
 
 - [Microsoft クラウド サービスのプライバシー](https://www.microsoft.com/download/details.aspx?id=55710): Microsoft のプライバシーの原則と基準、およびアルゼンチンに特化したプライバシー法に関する詳細を入手します。  
-- [Azure データ保護](https://docs.microsoft.com/azure/security/azure-protection-of-customer-data): Azure は、既定と顧客オプションの両方で、強力なデータ セキュリティを顧客に提供します。
+- [Azure データ保護](/azure/security/azure-protection-of-customer-data): Azure は、既定と顧客オプションの両方で、強力なデータ セキュリティを顧客に提供します。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -60,7 +60,7 @@ Microsoft のデータ移転契約は、オンライン サービス条件のデ
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 28fec212d8ba00d2e319abf856db342c83408238
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a0e643e768d8570f1c65f19e2eec1b84bce5701a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507939"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120376"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>金融監督機関 (FSA) デンマーク
 
@@ -58,7 +58,7 @@ Microsoft チェックリストでは、デンマークの金融機関による 
 
 - [コンプライアンス チェックリスト: デンマーク](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=524cc66f-b292-49e9-aa14-04560401baa0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
 - [リスク評価およびコンプライアンス ガイド](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [金融ユース ケース](https://docs.microsoft.com/previous-versions/azure/industry-marketing/financial/index): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/previous-versions/azure/industry-marketing/financial/index): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 

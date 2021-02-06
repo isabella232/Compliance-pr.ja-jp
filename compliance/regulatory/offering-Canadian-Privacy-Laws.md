@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 44308d7184f6633ab58a4971fe4e9c70717f8591
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b5921a0535b9fe3dd84f4faf57dca4d7d117498e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509639"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121312"
 ---
 # <a name="canadian-privacy-laws"></a>カナダのプライバシー関連法
 
@@ -33,7 +33,7 @@ ms.locfileid: "49509639"
 
 PIPEDA は、PIPEDA への準拠を目指す事業が従う必要のある、10 の[公正情報原則](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/p_principle/)に基づいています。 たとえば、個人情報を収集または使用するためには組織は個人の許可を得る必要があるという PIPEDA 要件は、同意の基本原則を拠り所としています。 個人は、個人情報にアクセスする権利および個人情報の正確さに異議を唱える権利の両方を持っています (「個人によるアクセス」の原則に基づくものです)。 「目的の特定」の原則は、個人情報は同意された目的のみに使用できるという規則の基になっています。
 
-原則として、連邦法に「極めて近い」と宣言された独自のプライバシー関連法に基づく州内のみでの活動を除き、PIPEDA はすべての州および準州における商業活動に適用されます。 たとえば、ブリティッシュ コロンビア、アルバータ、およびケベックには PIPEDA に極めて近いとみなされる民間セクター向けのプライバシー法があり、そのため同州では連邦法の代わりに州法が遵守されています。
+原則として、連邦法に「極めて近い」と宣言された独自のプライバシー関連法に基づく州内のみでの活動を除き、PIPEDA はすべての州および準州における商業活動に適用されます。 たとえば、ブリティッシュ コロンビア、アルバータ、およびケベックには PIPEDA に極めて近いとみなされる民間セクターけのプライバシー法があり、そのため同州では連邦法の代わりに州法が遵守されています。
 
 ## <a name="microsoft-and-canadian-privacy-laws"></a>Microsoft とカナダのプライバシー関連法
 
@@ -52,7 +52,7 @@ Microsoft では、業務のクラウドへのアウトソースを検討して�
 
 - [Microsoft におけるプライバシー](https://www.microsoft.com/download/details.aspx?id=55710): Microsoft のプライバシーの原則と基準およびカナダ固有のプライバシー関連法に関する詳細を確認できます。
 - [カナダ向けコンプライアンス チェックリスト](https://servicetrust.microsoft.com/Documents/TrustDocuments?command=Download&downloadType=Document&downloadId=626fb641-9dca-45c0-abaf-0a7849c15f81&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides): カナダのプライバシー関連法に準拠するために役立つ Azure と Intune の機能の詳細情報を提供します。
-- [Azure Data Protection](https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data): Azure は、既定と顧客オプションの両方で、強力なデータ セキュリティを顧客に提供します。
+- [Azure Data Protection](/azure/security/fundamentals/protection-customer-data): Azure は、既定と顧客オプションの両方で、強力なデータ セキュリティを顧客に提供します。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 

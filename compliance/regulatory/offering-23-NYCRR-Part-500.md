@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2b0c57a90db58ab0dc85e0bb02a85de0a5fbb8a3
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 75103889b93957fa8d88a6d9fe8bbbaaf539608b
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508925"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121416"
 ---
 # <a name="title-23-nycrr-part-500"></a>Title 23 NYCRR Part 500
 
@@ -39,11 +39,11 @@ Microsoft では、Title 23 NYCRR Part 500 の規制を受ける金融サービ�
 
 - **強力なサイバーセキュリティ プログラムの整備と維持**: 最初に機関固有のリスク プロファイルの評価を行い、次にそれに対処するためのプログラムを設計します。 [Microsoft Cloud Financial Services Compliance Program](https://www.microsoft.com/download/confirmation.aspx?id=55332) は、Microsoft クラウド サービスを使用する際のリスクを金融サービス企業が評価できるようにするために作られました。 このサービスには、Microsoft のエンジニアや企業リスク責任者への直接の相談や Microsoft のコンプライアンスとセキュリティの専門家へのアクセスが含まれています。
 - **包括的なサイバーセキュリティ ポリシーの実施**: 情報のセキュリティ、データ ガバナンスと分類、アクセス制御、事業継続性などに対応するポリシーを実施します。 Microsoft では、このポリシーを整備するためのガイダンスを提供しています。これには、認定とリスク評価、事業継続性と障害復旧指標、ログと監査に関する診断のそれぞれについての詳細情報が含まれます。
-- **最高情報セキュリティ責任者 (CISO) の任命**: サイバーセキュリティ プログラムの管理およびポリシーの適用における最高責任者です。 CISO を支援するために、Microsoft では Microsoft のクラウド展開に関する詳細なサイバーセキュリティ情報を [Azure Security Center](https://azure.microsoft.com/services/security-center/?v=17.23h)、[Office 365 Advanced Threat Analytics](https://docs.microsoft.com/advanced-threat-analytics/)、および [Power BI セキュリティ](https://go.microsoft.com/fwlink/?LinkId=829185)を通して提供しています。
+- **最高情報セキュリティ責任者 (CISO) の任命**: サイバーセキュリティ プログラムの管理およびポリシーの適用における最高責任者です。 CISO を支援するために、Microsoft では Microsoft のクラウド展開に関する詳細なサイバーセキュリティ情報を [Azure Security Center](https://azure.microsoft.com/services/security-center/?v=17.23h)、[Office 365 Advanced Threat Analytics](/advanced-threat-analytics/)、および [Power BI セキュリティ](https://go.microsoft.com/fwlink/?LinkId=829185)を通して提供しています。
 - **サイバーセキュリティ プログラムの有効性の監視とテスト**: Microsoft では、継続的な監視、定期的な侵入テスト、脆弱性評価などを含む、Microsoft によるサイバーセキュリティ活動の監査結果情報を提供しています。 お客様は、Microsoft からの事前の許可なしに独自のテストを実施できます。
 - **監査証跡の管理**:  お客様は、Azure、Office 365、および Power BI の組み込みの監査機能を使用して、財務取引の再現に使用できる情報の生成や監査証跡情報の整備を行えます。
 - **非公開情報が含まれる情報システムへのアクセスの制限**: Azure、Office 365、および Power BI で提供されている対策で、各サービス固有の役割ベースのアクセス制御 (RBAC) プロセス、すべての Microsoft 管理者に対する厳格なセキュリティとアクセス要件、およびすべての昇格されたアクセス権の要求に対する監査が含まれます。
-- **外部で開発されたアプリケーションのセキュリティの評価とテスト**: Visual Studio を使用する開発者の場合、管理コードのための [セキュリティ ルール](https://docs.microsoft.com/visualstudio/code-quality/security-rules-rule-set-for-managed-code)を使用すると、コードの展開前にアプリケーションのサイバーセキュリティの脅威を検出し、軽減できます。
+- **外部で開発されたアプリケーションのセキュリティの評価とテスト**: Visual Studio を使用する開発者の場合、管理コードのための [セキュリティ ルール](/visualstudio/code-quality/security-rules-rule-set-for-managed-code)を使用すると、コードの展開前にアプリケーションのサイバーセキュリティの脅威を検出し、軽減できます。
 - **定期的なリスク評価を使用した、サイバーセキュリティプログラムの設計と強化**: Microsoft はお客様のために、セキュリティの脅威に関する情報をまとめ、変更管理のロードマップを提供し、委託先会社に関する情報を定期的に更新します。 また、Microsoft では Microsoft 自体のサービスのリスク評価を定期的に実施し、評価結果をお客様に提供します。
 - **有資格担当者によるサイバーセキュリティのリスク管理とサイバーセキュリティ機能の監視**: Microsoft では、Microsoft の従業員による顧客データへのアクセスに対して厳密な手順を適用しています。 Microsoft が下請け業者を使用する場合、サービスの提供に対して Microsoft が責任を持ち、機密情報の取り扱い要件、身辺調査、機密保持契約を含む、Microsoft のプライバシーとセキュリティに関するコミットメントへの完全な準拠を下請け業者に対して要求します。
 - **サードパーティ サービス プロバイダーが保持する情報のセキュリティを確保するためのポリシーと手順の適用**: Azure、Office 365、および Power BI では、会社のネットワークへのすべての受信接続で多要素認証が利用でき、外部ネットワークで転送中または保管中の非公開情報を保護するための暗号化を含む制御が実装され、顧客通知、インシデント調査、およびセキュリティ インシデントのリスク軽減を提供する [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)が提供されます。

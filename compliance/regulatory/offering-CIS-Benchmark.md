@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8bde27222806ea5909c67bac8556ff682453809b
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509692"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121376"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Center for Internet Security (CIS) ベンチマーク
 
@@ -70,8 +70,8 @@ Microsoft 製品およびサービスの [CIS ベンチマークの全ての一�
 ## <a name="how-to-implement"></a>実装方法
 
 - [Azure 向け CIS ベンチマーク](https://azure.microsoft.com/mediahandler/files/resourcefiles/cis-microsoft-azure-foundations-security-benchmark/CIS_Microsoft_Azure_Foundations_Benchmark_v1.0.0.pdf): Azure の安全なベースライン構成を確立するための規範的なガイダンスを入手してください。  
-- [Microsoft 365 セキュリティ ロードマップ](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap): このロードマップに従うことにより、データ漏洩またはアカウント侵害の可能性を最小限に抑えます。
-- [Windows セキュリティ ベースライン](https://docs.microsoft.com/windows/security/threat-protection/windows-security-baselines): 組織内でセキュリティ ベースラインを効果的に使用するには、これらのガイドラインに従ってください。
+- [Microsoft 365 セキュリティ ロードマップ](/microsoft-365/security/office-365-security/security-roadmap): このロードマップに従うことにより、データ漏洩またはアカウント侵害の可能性を最小限に抑えます。
+- [Windows セキュリティ ベースライン](/windows/security/threat-protection/windows-security-baselines): 組織内でセキュリティ ベースラインを効果的に使用するには、これらのガイドラインに従ってください。
 - [CIS Controls クラウド コンパニオン ガイド](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/): CIS Controls バージョン 7 のセキュリティ ベスト プラクティスをクラウド環境に適用するためのガイダンスを入手してください。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
@@ -90,11 +90,11 @@ CIS は、"ベンチマークは内容領域専門家、テクノロジ ベン�
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 
 - [Microsoft 365 を安全に使用するための CIS ベスト プラクティス](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
-- [Windows 10 のセキュリティ ポリシー設定](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/security-policy-settings)
-- [Windows 10 Enterprise のセキュリティ](https://docs.microsoft.com/windows/security/index)
+- [Windows 10 のセキュリティ ポリシー設定](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
+- [Windows 10 Enterprise のセキュリティ](/windows/security/index)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

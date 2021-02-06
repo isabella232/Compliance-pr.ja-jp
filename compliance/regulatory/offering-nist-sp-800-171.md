@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 51a09772498da0ffc4c7d135e8b9ae103364a984
-ms.sourcegitcommit: 9d00734702fec0e76f6b001e31ff0a6eb60cae6f
+ms.openlocfilehash: da5e2621969ff9cd4ce2778fa7f075522454aef7
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49712085"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121116"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
 ## <a name="about-nist-sp-800-171"></a>NIST SP 800-171 について
 
-米国標準技術協会 (NIST) は、連邦機関の情報および情報システムを保護するための測定基準とガイドラインを推進および維持しています。 管理下にある未分類情報 (CUI) の管理に関する Executive Order 13556 に対して [、NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final) *、非* 分類情報システムおよび組織の制御された未分類情報の保護を公開しました。 CUI は、デジタルと物理の両方の情報として定義され、政府 (またはその代わりにエンティティ) によって作成され、分類されていない場合でも機密性が高く、保護が必要です。
+米国標準技術協会 (NIST) は、連邦機関の情報および情報システムを保護するための測定基準とガイドラインを推進および維持しています。 管理下にある未分類情報 (CUI) の管理に関する Executive Order 13556 に対して [、NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final)、非分類情報システムおよび組織の制御された未分類情報の保護を公開 *しました。* CUI は、デジタルと物理の両方の情報として定義され、政府 (または代わりにエンティティ) によって作成され、分類されていない場合でも機密性が高く、保護が必要です。
 
-NIST SP 800-171 はもともと 2015 年 6 月に公開され、その後、進化するサイバー脅威に対応して何度か更新されています。 また、非Federal information systems and organizations に CUI を安全にアクセス、送信、および保存する方法に関するガイドラインを示します。その要件は、主に次の 4 つのカテゴリに分類されます。
+NIST SP 800-171 はもともと 2015 年 6 月に公開され、その後、進化するサイバー脅威に対応して何度か更新されています。 また、CUI を安全にアクセス、転送、および非Federal information systems and organizations に格納する方法に関するガイドラインを提供します。その要件は、主に次の 4 つのカテゴリに分類されます。
 
 - 管理と保護のためのコントロールとプロセス
 - IT システムの監視と管理
@@ -38,7 +38,7 @@ NIST SP 800-171 はもともと 2015 年 6 月に公開され、その後、進�
 
 ## <a name="microsoft-and-nist-sp-800-171"></a>Microsoft および NIST SP 800-171
 
-認定された第三者評価機関である、Microsoft と協力して、範囲内のクラウド サービスが CUI の処理時に NIST SP 800-171 の *CUI (Nonfederal Information Systems and Organizations の* 制御対象未分類情報 (CUI) を保護する) の条件を満たしているか証明しました。 [FedRAMP](offering-fedramp.md)要件の Microsoft 実装は、Microsoft の対象クラウド サービスが、既に実施されているシステムとプラクティスを使用して、NIST SP 800-171 の要件を満たすか、それを超過していることを確認するのに役立ちます。
+認定された第三者評価機関である、マイクロソフトと協力して、範囲内のクラウド サービスが CUI を処理する際に、NIST SP 800-171 の非分類情報システムおよび組織の制御されていない情報 *(CUI)* の保護の条件を満たしているか証明しました。 [FedRAMP](offering-fedramp.md)要件の Microsoft 実装は、Microsoft の対象クラウド サービスが、既に実施されているシステムとプラクティスを使用して、NIST SP 800-171 の要件を満たすか、それを超過していることを確認するのに役立ちます。
 
 NIST SP 800-171 の要件は、FedRAMP が使用する標準である NIST SP 800-53 のサブセットです。 NIST SP 800-171 の付録 D では、CUI のセキュリティ要件と、範囲内のクラウド サービスが FedRAMP プログラムで既に評価および承認されている NIST SP 800-53 の関連するセキュリティ コントロールに直接対応しています。
 
@@ -58,17 +58,17 @@ NIST SP 800-171 の要件は、FedRAMP が使用する標準である NIST SP 80
 
 ## <a name="how-to-implement"></a>実装方法
 
-- [Azure Blueprint のサンプル](https://docs.microsoft.com/azure/governance/blueprints/samples/): NIST ベースのコントロールに準拠するワークロードの実装のサポートを受け取る。
+- [Azure Blueprint のサンプル](/azure/governance/blueprints/samples/): NIST ベースのコントロールに準拠するワークロードの実装のサポートを受け取る。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **組織で NIST SP 800-171 に準拠している Microsoft を使用できますか?**
 
-はい。 Microsoft のお客様は、FedRAMP 標準に関する独立した第三者評価組織 (3PAO) からのレポートに記載されている監査されるコントロールを、FedRAMP および NIST リスク分析および資格認定作業の一環として使用できます。 これらのレポートは、Microsoft が範囲内のクラウド サービスに実装したコントロールの有効性を証明します。 お客様は、CUI ワークロードが NIST SP 800-171 ガイドラインに準拠している必要があります。
+はい。 Microsoft のお客様は、FedRAMP 基準に関する独立した第三者評価組織 (3PAO) からのレポートに記載されている監査されるコントロールを、FedRAMP および NIST リスク分析および資格認定作業の一環として使用できます。 これらのレポートは、Microsoft が範囲内のクラウド サービスに実装したコントロールの有効性を証明します。 お客様は、CUI ワークロードが NIST SP 800-171 ガイドラインに準拠している必要があります。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

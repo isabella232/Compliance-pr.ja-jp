@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 0f0ca41f3b69d595dcdb3f3d2049fe2a0f7a95e1
-ms.sourcegitcommit: 693bc6b1b51a5a9c9ff1758fa7f7ca3a204f147e
+ms.openlocfilehash: df5131af45a938199df1a52bbf3e437f34ed3f9a
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49574869"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121856"
 ---
 # <a name="information-protection-for-gdpr-with-microsoft-365-capabilities"></a>GDPR のための情報保護と Microsoft 365 の機能
 
@@ -31,9 +31,9 @@ Microsoft 365 は、一般データ保護規則 (GDPR) に準拠するための�
 
 ## <a name="information-protection"></a>情報保護
 
-Office 365 は、豊富なデータ管理機能を提供します。個人データの検索、分類、保護、監視の詳細については、[GDPR のための Office 365 の情報保護](https://docs.microsoft.com/microsoft-365/compliance/office-365-information-protection-for-gdpr)を参照してください。
+Office 365 は、豊富なデータ管理機能を提供します。個人データの検索、分類、保護、監視の詳細については、[GDPR のための Office 365 の情報保護](/microsoft-365/compliance/office-365-information-protection-for-gdpr)を参照してください。
 
-ファイル共有、SharePoint Server、Exchange Server、Skype for Business Server、Project Server、Office Online Server を含むオンプレミス サーバーのヘルプについては、[オンプレミス Office サーバーに関する GDPR](https://docs.microsoft.com/microsoft-365/compliance/gdpr-for-office-servers) を参照してください。 
+ファイル共有、SharePoint Server、Exchange Server、Skype for Business Server、Project Server、Office Online Server を含むオンプレミス サーバーのヘルプについては、[オンプレミス Office サーバーに関する GDPR](/microsoft-365/compliance/gdpr-for-office-servers) を参照してください。 
 
 ## <a name="identity-and-access-management"></a>ID およびアクセス管理
 
@@ -48,16 +48,16 @@ Azure Active Directory とその他の Microsoft 365 機能は、ID やデバイ
 
 Microsoft は、開始点として使用できる推奨設定を提供しています。
 
-- [ID とデバイスのアクセス構成](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): 3 層保護 (ベースライン、機密、高度な規制) を実現する推奨ポリシー構成。このガイダンスでは、Exchange Online および SharePoint Online (OneDrive for Business を含む) のための推奨ポリシーを記載します。
-- [政治キャンペーン、非営利団体、その他のアジャイル組織のセキュリティに関するガイダンス](https://docs.microsoft.com/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): これには同じポリシーのセットが含まれていますが、BYOD 環境と B2B アカウントのための追加のガイダンスを提供します。
+- [ID とデバイスのアクセス構成](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations): 3 層保護 (ベースライン、機密、高度な規制) を実現する推奨ポリシー構成。このガイダンスでは、Exchange Online および SharePoint Online (OneDrive for Business を含む) のための推奨ポリシーを記載します。
+- [政治キャンペーン、非営利団体、その他のアジャイル組織のセキュリティに関するガイダンス](/microsoft-365/security/office-365-security/microsoft-security-guidance-for-political-campaigns-nonprofits-and-other-agile-o): これには同じポリシーのセットが含まれていますが、BYOD 環境と B2B アカウントのための追加のガイダンスを提供します。
 
 ## <a name="threat-protection"></a>脅威保護
 
 Microsoft 365 サービス間での脅威保護を確立します。作業を開始するための、いくつかのリソースを紹介します。
 
-- [Office 365 のセキュリティ ロードマップ: 最初の 30 日間、90 日間、およびそれ以後の優先事項](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap)。このロードマップには、機能を実装するための推奨事項を記載します。 
-- [Office 365 で脅威から保護します](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)。 Microsoft 365 セキュリティ センターで実行できる保護のためのアクションについて説明します。
-- [Windows の脅威保護](https://docs.microsoft.com/windows/security/threat-protection/)。Windows Defender Advanced Threat Protection とその他の Windows 10 の機能の詳細について説明します。
+- [Office 365 のセキュリティ ロードマップ: 最初の 30 日間、90 日間、およびそれ以後の優先事項](/microsoft-365/security/office-365-security/security-roadmap)。このロードマップには、機能を実装するための推奨事項を記載します。 
+- [Office 365 で脅威から保護します](/microsoft-365/security/office-365-security/protect-against-threats)。 Microsoft 365 セキュリティ センターで実行できる保護のためのアクションについて説明します。
+- [Windows の脅威保護](/windows/security/threat-protection/)。Windows Defender Advanced Threat Protection とその他の Windows 10 の機能の詳細について説明します。
 
 ## <a name="learn-more"></a>詳細情報
 

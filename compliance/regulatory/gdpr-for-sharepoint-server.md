@@ -13,12 +13,12 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 89d708c0f934a95b0145bc1ff24709c531967bac
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c2b8c28db6383cf35384103117ae3e5b18f4c280
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508512"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121866"
 ---
 # <a name="gdpr-for-sharepoint-server"></a>SharePoint Server での GDPR 対応
 
@@ -31,9 +31,9 @@ ms.locfileid: "49508512"
 
 -   Azure Information Protection を使用してデータを分類します。
 
--   SharePoint Server を最小特権構成で実行します。詳細については、「[SharePoint Server で最小特権管理を計画する](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration)」と「[SharePoint Server のセキュリティ](https://docs.microsoft.com/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server)」を参照してください。
+-   SharePoint Server を最小特権構成で実行します。詳細については、「[SharePoint Server で最小特権管理を計画する](/SharePoint/security-for-sharepoint-server/plan-for-least-privileged-administration)」と「[SharePoint Server のセキュリティ](/sharepoint/security-for-sharepoint-server/security-for-sharepoint-server)」を参照してください。
 
--   [サーバーで BitLocker 暗号化を有効にします](https://docs.microsoft.com/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server)。
+-   [サーバーで BitLocker 暗号化を有効にします](/windows/security/information-protection/bitlocker/bitlocker-how-to-deploy-on-windows-server)。
 
 ## <a name="user-generated-content"></a>ユーザー生成コンテンツ
 
@@ -41,11 +41,11 @@ SharePoint Server のサイトとライブラリに含まれているユーザ�
 
 -   Azure Information Protection を使用して機密データにラベルを付けます。
 
--   [SharePoint Server 検索](https://docs.microsoft.com/SharePoint/search/search)と[電子情報開示](https://docs.microsoft.com/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server)を使用して機密データを取得します。
+-   [SharePoint Server 検索](/SharePoint/search/search)と[電子情報開示](/SharePoint/governance/ediscovery-and-in-place-holds-in-sharepoint-server)を使用して機密データを取得します。
 
 ファイル共有、SharePoint のサイトおよびライブラリについて推奨される作業の手順を次に示します。
 
-1.  **[Azure Information Protection スキャナーをインストールし、構成します。](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
+1.  **[Azure Information Protection スキャナーをインストールし、構成します。](/azure/information-protection/rms-client/client-admin-guide-install#options-to-install-the-azure-information-protection-client-for-users)**
 
     -   使用する機密データの種類を決定します。
 
@@ -77,7 +77,7 @@ SharePoint Server のサイトとライブラリに含まれているユーザ�
 
 Azure Information Protection スキャナーを使用して個人データを検索したりラベル付けしたりすることに関する詳細については、[Microsoft GDPR Data Discovery Toolkit](https://aka.ms/gdprpartners) (https://aka.ms/gdprpartners)) を参照してください。
 
-さまざまな条件でスキャナーを構成すること、また Office 365 データ損失防止 (DLP) のさまざまな機密情報タイプを使用することに関する情報については、「[Azure Information Protection 用の自動および推奨分類の条件を構成する方法](https://docs.microsoft.com/information-protection/deploy-use/configure-policy-classification)」を参照してください。新しいタイプの Office 365 機密情報はスキャナーですぐに利用できるようになるわけではなく、カスタム機密情報タイプはスキャナーで使用できないことに注意ください。
+さまざまな条件でスキャナーを構成すること、また Office 365 データ損失防止 (DLP) のさまざまな機密情報タイプを使用することに関する情報については、「[Azure Information Protection 用の自動および推奨分類の条件を構成する方法](/information-protection/deploy-use/configure-policy-classification)」を参照してください。新しいタイプの Office 365 機密情報はスキャナーですぐに利用できるようになるわけではなく、カスタム機密情報タイプはスキャナーで使用できないことに注意ください。
 
 ## <a name="removing-personal-information-from-office-files"></a>Office ファイルから個人情報を削除する
 
@@ -95,15 +95,15 @@ SharePoint ドキュメント ライブラリに保存されている Office フ
 
 ### <a name="uls-logs"></a>ULS ログ
 
-SharePoint Server の統合ログ サービス (ULS) と利用状況ログは、さまざまなシステム機能を追跡することから、ユーザー情報が含まれている可能性があります。ULS ログと利用状況ログはテキスト ファイルであり、各種検索ツールを使用して検索できます。[Merge-SPLogFile PowerShell コマンドレット](https://docs.microsoft.com/powershell/module/sharepoint-server/merge-splogfile)は、ファーム内の複数サーバー上の ULS ログのレコードを戻します。
+SharePoint Server の統合ログ サービス (ULS) と利用状況ログは、さまざまなシステム機能を追跡することから、ユーザー情報が含まれている可能性があります。ULS ログと利用状況ログはテキスト ファイルであり、各種検索ツールを使用して検索できます。[Merge-SPLogFile PowerShell コマンドレット](/powershell/module/sharepoint-server/merge-splogfile)は、ファーム内の複数サーバー上の ULS ログのレコードを戻します。
 
-ログ保存ポリシーを、ビジネスの目標に必要な最小値に設定することを検討してください。SharePoint Server でのログの構成の詳細については、「[SharePoint Server で診断ログを構成する](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging)」を参照してください。
+ログ保存ポリシーを、ビジネスの目標に必要な最小値に設定することを検討してください。SharePoint Server でのログの構成の詳細については、「[SharePoint Server で診断ログを構成する](/SharePoint/administration/configure-diagnostic-logging)」を参照してください。
 
 一部のシステム イベントも Windows イベント ログに記録されることに注意してください。
 
 ### <a name="usage-database"></a>利用状況データベース
 
-SharePoint Server 利用状況データベース (既定の名前は WSS_Logging) には、ULS ログの情報のサブセットが保存されています。このデータベースのデータの最大保存期間は 30 日です。この日数を、ビジネス ニーズで許容可能な最も短い期間に設定することをお勧めします。詳細については、「[SharePoint Server で診断ログを構成する](https://docs.microsoft.com/SharePoint/administration/configure-diagnostic-logging)」を参照してください。
+SharePoint Server 利用状況データベース (既定の名前は WSS_Logging) には、ULS ログの情報のサブセットが保存されています。このデータベースのデータの最大保存期間は 30 日です。この日数を、ビジネス ニーズで許容可能な最も短い期間に設定することをお勧めします。詳細については、「[SharePoint Server で診断ログを構成する](/SharePoint/administration/configure-diagnostic-logging)」を参照してください。
 
 ## <a name="personal-information-and-search"></a>個人情報と検索
 
@@ -290,9 +290,9 @@ FAST Search Server 2010 アドオンは、ファイルをインデックスに�
 
 ハイブリッド検索ソリューションについて推奨されるアクションは、SharePoint Server または SharePoint Online での検索の場合と同じです。次の 2 種類のハイブリッド検索ソリューションがあります。
 
-**クラウド ハイブリッド検索ソリューション -** SharePoint 用クラウド ハイブリッド検索ソリューションでは、オンプレミスのコンテンツを含めてクロールしたすべてのコンテンツのインデックスを Office 365 の検索インデックスに作成します。ユーザーは Office 365 の検索インデックスをクエリすることで、オンプレミスと Office 365 の両方のコンテンツからの検索結果を取得します。ドキュメントが SharePoint Server 環境から削除されると、そのドキュメントは Office 365 の検索インデックスからも削除されます。GDPR によるハイブリッド環境への影響を理解するため、「[SharePoint Server 用のクラウド ハイブリッド検索について](https://docs.microsoft.com/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint)」と「[SharePoint のクラウド ハイブリッド検索を計画する](https://docs.microsoft.com/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint)」を参照してください。
+**クラウド ハイブリッド検索ソリューション -** SharePoint 用クラウド ハイブリッド検索ソリューションでは、オンプレミスのコンテンツを含めてクロールしたすべてのコンテンツのインデックスを Office 365 の検索インデックスに作成します。ユーザーは Office 365 の検索インデックスをクエリすることで、オンプレミスと Office 365 の両方のコンテンツからの検索結果を取得します。ドキュメントが SharePoint Server 環境から削除されると、そのドキュメントは Office 365 の検索インデックスからも削除されます。GDPR によるハイブリッド環境への影響を理解するため、「[SharePoint Server 用のクラウド ハイブリッド検索について](/sharepoint/hybrid/learn-about-cloud-hybrid-search-for-sharepoint)」と「[SharePoint のクラウド ハイブリッド検索を計画する](/sharepoint/hybrid/plan-cloud-hybrid-search-for-sharepoint)」を参照してください。
 
-**ハイブリッド フェデレーション検索 -** ハイブリッド フェデレーション検索では、SharePoint Server のインデックスと Office 365 のインデックスの両方を使用します。SharePoint Server と SharePoint Online の両方の Search サービスは、他方の環境の検索インデックスに対するクエリを実行して、統合された結果を返すことができます。ユーザーが検索センターから検索を実行すると、検索結果は SharePoint Server の検索インデックスと Office 365 の検索インデックスから取得されます。GDPR によるハイブリッド環境への影響について理解するため、「[SharePoint 用のハイブリッド フェデレーション検索について](https://docs.microsoft.com/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint)」を参照してください。
+**ハイブリッド フェデレーション検索 -** ハイブリッド フェデレーション検索では、SharePoint Server のインデックスと Office 365 のインデックスの両方を使用します。SharePoint Server と SharePoint Online の両方の Search サービスは、他方の環境の検索インデックスに対するクエリを実行して、統合された結果を返すことができます。ユーザーが検索センターから検索を実行すると、検索結果は SharePoint Server の検索インデックスと Office 365 の検索インデックスから取得されます。GDPR によるハイブリッド環境への影響について理解するため、「[SharePoint 用のハイブリッド フェデレーション検索について](/sharepoint/hybrid/learn-about-hybrid-federated-search-for-sharepoint)」を参照してください。
 
 ## <a name="on-prem-to-cloud-migrations"></a>オンプレミスからクラウドへの移行
 
@@ -306,7 +306,7 @@ SharePoint ユーザー プロファイルからユーザーの個人情報を�
 
 1.  SharePoint Server ユーザー プロファイルにフィードを提供するすべての外部システムから、ユーザー情報を削除します。ディレクトリ同期を使用している場合は、オンプレミスの Active Directory 環境からユーザーを削除する必要があります。
 
-2.  SharePoint Server で[プロファイル同期](https://docs.microsoft.com/sharepoint/administration/start-profile-synchronization-manually)を実行します。
+2.  SharePoint Server で[プロファイル同期](/sharepoint/administration/start-profile-synchronization-manually)を実行します。
 
 3.  SharePoint Server からプロファイルを削除します。削除完了後 30 日以内に、SharePoint Server によりユーザー プロファイル データベースからそのプロファイルが完全に削除されます。また、ユーザーのプロファイル ページと個人用サイトが削除されます。
 

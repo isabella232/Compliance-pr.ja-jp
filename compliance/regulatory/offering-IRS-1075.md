@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd4082f2e38ee2c6a2f432ff5bef289ebe0fc69a
-ms.sourcegitcommit: 7a5b6bc58fc4613b38f3fda20aebee5cec6a5730
+ms.openlocfilehash: c8d1247f915ee1c0c7714c0a5ef99553116cafd1
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49787516"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120266"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>米国内部収益サービス公開 1075
 
 ## <a name="us-internal-revenue-service-publication-1075-overview"></a>米国内部収益サービス公開 1075 の概要
 
-Internal Revenue Service Publication 1075 (IRS 1075) は、米国政府機関とそのエージェントが連邦税情報 (FTI) にアクセスして、その機密性を保護するためのポリシー、プラクティス、制御を確実に使用するためのガイダンスを提供します。 IRS 1075 は、外部政府機関が保有する FTI の損失、侵害、または悪用のリスクを最小限に抑える目的で設計されています。 たとえば、州の住民に対する税の戻り値で FTI を処理する国の収益部門や、FTI にアクセスする医療サービス機関には、その情報を保護するためのプログラムが用意されている必要があります。  
+Internal Revenue Service Publication 1075 (IRS 1075) は、米国政府機関とそのエージェントが連邦税情報 (FTI) にアクセスして、その機密性を保護するためのポリシー、プラクティス、制御を確実に使用するためのガイダンスを提供します。 IRS 1075 は、外部政府機関が保有する FTI の損失、侵害、または悪用のリスクを最小限に抑える目的で設計されています。 たとえば、州の住民に対する税の戻り値で FTI を処理する州の収益部門、または FTI にアクセスする医療サービス機関には、その情報を保護するためのプログラムが用意されている必要があります。  
   
-FTI を保護するために、IRS 1075 では、アプリケーション、プラットフォーム、およびデータセンター サービスのセキュリティとプライバシーの制御が規定されています。 たとえば、FTI の適切な取り扱いなど、データセンターアクティビティのセキュリティに優先順位を付け、データ センターの請負業者を監視してエントリを制限します。 FTI を受け取る政府機関がこれらの管理を確実に適用するために、IRS は、これらの機関とその請負業者の定期的なレビューを含むセーフガード プログラムを確立しました。
+FTI を保護するために、IRS 1075 では、アプリケーション、プラットフォーム、およびデータセンター サービスのセキュリティとプライバシーの制御が規定されています。 たとえば、FTI の適切な取り扱いなどのデータセンター アクティビティのセキュリティと、データ センターの請負業者の監視を優先してエントリを制限します。 FTI を受け取る政府機関がこれらの管理を確実に適用するために、IRS は、これらの機関とその請負業者の定期的なレビューを含むセーフガード プログラムを確立しました。
 
 ## <a name="microsoft-and-us-internal-revenue-service-publication-1075"></a>Microsoft および US Internal Revenue Service Publication 1075
 
@@ -47,7 +47,7 @@ Microsoft Azure Government および [Microsoft Office 365 米国](https://produ
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
-FedRAMP 承認は、NIST ガイドラインに基づいて、低、中、および高の 3 つの影響レベルで付与されます。 これらは、機密性、整合性、または可用性の喪失が組織に与える可能性がある影響 (低 (限定的な影響)、中程度 (重大な悪影響)、および高 (重大または致命的な影響) にランク付けされます。
+FedRAMP の承認は、NIST ガイドラインに基づいて、低、中、および高の 3 つの影響レベルで付与されます。 これらは、機密性、整合性、または可用性の喪失が組織に与える可能性がある影響 (低 (限定的な影響)、中程度 (重大な悪影響)、および高 (重大または致命的な影響) にランク付けされます。
 
 - [Azure および Azure Government](https://azure.microsoft.com/global-infrastructure/government/)
 - Dynamics 365 U.S. Government
@@ -76,11 +76,11 @@ Microsoft は、セキュリティ、プライバシー、運用管理、およ�
 
 **Azure または Office 365 パブリック クラウド環境を使用して、IRS 1075 に準拠できますか。**
 
-いいえ。 FTI を保存および処理できる環境は、Azure Government または Office 365 U.S. Government のみです。 政府機関のお客様は、これらの環境を使用する資格要件を満たす必要があります。
+いいえ。 FTI を保存および処理できる環境は、Azure Government または Office 365 U.S. Government のみです。 政府機関のお客様は、これらの環境を使用するには、適格性の要件を満たす必要があります。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

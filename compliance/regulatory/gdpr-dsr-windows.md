@@ -17,12 +17,12 @@ ms.collection:
 - GDPR
 - M365-security-compliance
 - MS-Compliance
-ms.openlocfilehash: 895dbe3b4fb0c272da22302a8e455da681b0ea88
-ms.sourcegitcommit: b366fb7c148b4da40f8c5d8ff41adbff0bcb850e
+ms.openlocfilehash: f0faaefd7ff3feae482ad62b506163796d80eec5
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49585372"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121516"
 ---
 # <a name="data-processor-service-for-windows-enterprise-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Windows エンタープライズ データ主体要求のデータ プロセッサー サービス 
 
@@ -33,7 +33,7 @@ ms.locfileid: "49585372"
 
 EU 一般データ保護規則 (GDPR) は、規制において _データ主体_ と呼ばれる人に、雇用主または他の種類の機関や組織 (_データ コントローラー_ または単に _コントローラー_ と呼ばれます) によって収集された個人データを管理する権限を与えます。 GDPR における個人データは、特定された自然人または特定可能な自然人に関連するすべてのデータとして広範囲に定義されています。 GDPR では、個人データに対するデータ主体固有の権限が付与されます。このような権限には、個人データのコピーの取得、個人データの修正の要求、個人データの処理の制限、個人データの削除、または別のコントローラーに移動できる電子的な形式での個人データの受け取りが含まれます。 データ主体がコントローラーに対して個人データへのアクションを実行するよう正式に要求することを、_データ主体の要求_ または DSR と呼びます。 
 
-同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。 また、CCPA では、特定の開示、権利の行使を選択する際の差別に対する保護、“売上“ として分類された特定のデータ転送の “オプトアウト/オプトイン“ 要件を規定します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq)」を参照してください。
+同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。 また、CCPA では、特定の開示、権利の行使を選択する際の差別に対する保護、“売上“ として分類された特定のデータ転送の “オプトアウト/オプトイン“ 要件を規定します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](/microsoft-365/compliance/offering-ccpa)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](/microsoft-365/compliance/ccpa-faq)」を参照してください。
 
 このガイドでは、DSR への対応として個人データを見つけて処理するコントローラーのお客様を支援する目的で、Microsoft の製品、サービス、管理ツールをどのように使用できるかを説明します。特に、Microsoft クラウドにある個人データを検出、アクセス、処理する方法を示します。このガイドで説明するプロセスの概要は次のとおりです: 
 
@@ -41,7 +41,7 @@ EU 一般データ保護規則 (GDPR) は、規制において _データ主体_
 2. **削除**—Microsoft クラウドに格納されていた個人データを完全に削除します。 
 3. **エクスポート**—個人データの電子的コピー (マシンで読み取り可能な形式) をデータ サブジェクトに提供します。 CCPA における個人情報とは、識別された人、または識別可能な人に関するあらゆる情報のことです。
 
-CCPA における個人情報とは、識別された人、または識別可能な人に関するあらゆる情報のことです。 個人の私的、公的、または職業上の役割による区別はありません。 "個人情報" と定義された用語は、GDPR における "個人データ" とほぼ同義語です。 ただし、CCPA では家族データおよび世帯データも含まれます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](https://docs.microsoft.com/microsoft-365/compliance/offering-ccpa)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](https://docs.microsoft.com/microsoft-365/compliance/ccpa-faq)」を参照してください。
+CCPA における個人情報とは、識別された人、または識別可能な人に関するあらゆる情報のことです。 個人の私的、公的、または職業上の役割による区別はありません。 "個人情報" と定義された用語は、GDPR における "個人データ" とほぼ同義語です。 ただし、CCPA では家族データおよび世帯データも含まれます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](/microsoft-365/compliance/offering-ccpa)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](/microsoft-365/compliance/ccpa-faq)」を参照してください。
 
 このガイドの各セクションでは、Microsoft クラウド内の個人データに関する DSR への対応としてデータ コントローラー組織が実行できる技術的な手順の概要を示します。 
 
@@ -78,26 +78,26 @@ Microsoft の特定の Windows 診断データにアクセス、削除、エク�
 
 テナント管理者は、特定のユーザーによる Windows エンタープライズ登録済みデバイスのデータ プロセッサ サービスの使用に関連する Windows 診断データにアクセスできる組織内の唯一の人物です。 アクセス要求に対して取得されるデータは、エクスポートによってコンピューターが読み取り可能な形式で提供され、ユーザーがデータに関連付けられているデバイスとサービスを認識できるファイルで提供されます。 上記で説明したように、取得されるデータには Windows デバイスのセキュリティまたは安定性を損なう可能性があるデータは含まれません。 
 
-お客様企業のテナント管理者はポータル エクスペリエンスを利用して、DSR アクセス要求を管理することができます。 「[Azure DSR、パート 2、手順 3: エクスポート](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure ポータルを使用してエクスポートを介して DSR アクセス要求を実行する方法について説明します。
+お客様企業のテナント管理者はポータル エクスペリエンスを利用して、DSR アクセス要求を管理することができます。 「[Azure DSR、パート 2、手順 3: エクスポート](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure ポータルを使用してエクスポートを介して DSR アクセス要求を実行する方法について説明します。
 
 ### <a name="step-2-delete"></a>手順 2: 削除 
 
 Microsoft は、特定のユーザーの Azure Active Directory オブジェクトに基づいてユーザーベースの DSR 削除要求を実行する方法を提供しています。
 
-ユーザーベースの削除要求の場合、お客様企業のテナント管理者はポータル エクスペリエンスを利用して、DSR 削除要求を管理することができます。 「[Azure DSR、パート 1、手順 5: 削除](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)」では、Azure ポータルを介して、DSR 削除要求を実行する方法について説明します。 
+ユーザーベースの削除要求の場合、お客様企業のテナント管理者はポータル エクスペリエンスを利用して、DSR 削除要求を管理することができます。 「[Azure DSR、パート 1、手順 5: 削除](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)」では、Azure ポータルを介して、DSR 削除要求を実行する方法について説明します。 
 
-Microsoft は、既存のアプリケーション プログラミング インターフェイス (API) を介して直接顧客データを削除するユーザーを削除する機能を提供します。 詳細については、「[API 参照ドキュメンテーション](https://docs.microsoft.com/graph/api/directory-deleteditems-delete)」に記載されています。 
+Microsoft は、既存のアプリケーション プログラミング インターフェイス (API) を介して直接顧客データを削除するユーザーを削除する機能を提供します。 詳細については、「[API 参照ドキュメンテーション](/graph/api/directory-deleteditems-delete)」に記載されています。 
 
 >[!IMPORTANT]  
->収集したデータを削除しても、それ以上の収集は停止しません。 データ収集をオフにするには、「[各サービスの参照ドキュメント](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)」に記載されている手順に従ってください。
+>収集したデータを削除しても、それ以上の収集は停止しません。 データ収集をオフにするには、「[各サービスの参照ドキュメント](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)」に記載されている手順に従ってください。
  
  さらに、ユーザーベースの削除要求では、ユーザー アカウント自体を削除する必要があります。 
 
 ### <a name="step-3-export"></a>手順 3: エクスポート 
 
-テナント管理者は、特定のユーザーによる Windows エンタープライズ登録済みデバイスのデータ プロセッサ サービスの使用に関連する Windows 診断データにアクセスできる組織内の唯一の人物です。 エクスポート要求に対して取得されるデータは、コンピューターが読み取り可能な形式で提供され、ユーザーがデータに関連付けられているデバイスとサービスを認識できるファイルで提供されます。 上記で説明したように、取得されるデータには Windows デバイスのセキュリティまたは安定性を損なう可能性があるデータは含まれません。 「[Azure DSR、パート 2、手順 3: エクスポート](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure ポータルを介して、DSR エクスポート要求を実行する方法について説明します。 
+テナント管理者は、特定のユーザーによる Windows エンタープライズ登録済みデバイスのデータ プロセッサ サービスの使用に関連する Windows 診断データにアクセスできる組織内の唯一の人物です。 エクスポート要求に対して取得されるデータは、コンピューターが読み取り可能な形式で提供され、ユーザーがデータに関連付けられているデバイスとサービスを認識できるファイルで提供されます。 上記で説明したように、取得されるデータには Windows デバイスのセキュリティまたは安定性を損なう可能性があるデータは含まれません。 「[Azure DSR、パート 2、手順 3: エクスポート](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure ポータルを介して、DSR エクスポート要求を実行する方法について説明します。 
 
-Microsoft は、既存のアプリケーション プログラミング インターフェイス (API) を介して直接顧客データをエクスポートする機能を提供します。 詳細については、「[API 参照ドキュメンテーション](https://docs.microsoft.com/graph/api/user-exportpersonaldata)」に記載されています。
+Microsoft は、既存のアプリケーション プログラミング インターフェイス (API) を介して直接顧客データをエクスポートする機能を提供します。 詳細については、「[API 参照ドキュメンテーション](/graph/api/user-exportpersonaldata)」に記載されています。
 
 ## <a name="notify-about-exporting-or-deleting-issues"></a>エクスポートまたは削除に関する問題を通知する 
 

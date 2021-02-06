@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f84f4a57afd968a428cd345dd521a3bd83cea238
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937032"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120926"
 ---
 # <a name="european-banking-authority-eba"></a>欧州銀行監督局 (EBA)
 
@@ -54,7 +54,7 @@ EU 圏内の金融機関向けに、Microsoft は EBA ガイダンスをモデ�
 ## <a name="how-to-implement"></a>実装方法
 
 - [EBA ガイダンスへの対応](https://aka.ms/FinServ-Guide-EuBankAuth): Microsoft のガイダンスは、EU 圏内の金融機関がクラウドの採用に関する EBA 勧告に従うのに役立ちます。
-- [金融ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 - [金融コンプライアンス プログラム](https://aka.ms/FSCP-Print): 金融機関は、Microsoft クラウド サービスを使用する際のリスク評価に役立つヘルプを表示することができます。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問

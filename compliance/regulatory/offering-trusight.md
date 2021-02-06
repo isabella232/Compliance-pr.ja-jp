@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f6c03f1c9cddbdf1cd62be075f471a3a52e19a19
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509139"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50119886"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -54,7 +54,7 @@ Microsoft の場合は、BPQ 要件に従って統制が計画され、実施さ
 ## <a name="how-to-implement"></a>実装方法
 
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [金融ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 - [米国の金融サービス規制](https://aka.ms/FinServ-Guide-US): Microsoft オンライン サービスで米国の金融機関の規制要請を満たす方法。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問

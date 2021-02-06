@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da6f212ca993a9e5887f32fe2c0fcc77e425f2e8
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937012"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120016"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>カナダの金融機関監督官局 (OSFI)
 
@@ -55,7 +55,7 @@ Microsoft チェックリストでは、カナダの金融機関による Micros
 - [コンプライアンス チェックリスト: カナダ](https://aka.ms/Azure-Canada-Compliance): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
 - [Microsoft クラウドのプライバシー](https://aka.ms/MCSPrivacy): Microsoft のプライバシーの原則と基準、およびカナダに特化したプライバシー法に関する詳細を入手します。
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [Azure の業界ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [Azure の業界ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -71,7 +71,7 @@ Microsoft チェックリストでは、カナダの金融機関による Micros
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments) について説明します。
 
 ## <a name="resources"></a>リソース
 

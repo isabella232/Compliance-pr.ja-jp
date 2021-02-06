@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 02ecb44826e3e68d41ab0b18c3940d96b8b957d4
-ms.sourcegitcommit: 81bd5a6603e899ddbb7c580cf4f55a4636959bbd
+ms.openlocfilehash: 66ee49e008f26c7af40e33d10f3415fdfac43498
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49933103"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120276"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>オーストラリア政府情報セキュリティ登録評価者プログラム (IRAP)
 
@@ -29,13 +29,13 @@ Information Security Registered Assessor Program (IRAP) は、オーストラリ
 
 ## <a name="irap-overview"></a>IRAP の概要
 
-Information Security Registered Assessors Program (IRAP) は、オーストラリアサイバー セキュリティ センター (ACSC) によって管理されます。 IRAP は、オーストラリア政府にサイバー セキュリティ評価サービスを提供するために、公的機関の個人を支持するフレームワークを提供します。 推奨される IRAP 評価者は、ICT セキュリティの独立した評価を提供し、軽減策を提案し、残りのリスクを強調することができます。 IRAP は、オーストラリア政府のポリシーとガイドラインに対するシステムのセキュリティの独立した評価のための包括的なプロセスを提供します。 IRAP の目標は、オーストラリアの連邦、州、および地方政府のデータを保存、処理、および通信する情報および通信技術インフラストラクチャに焦点を当て、セキュリティを最大化することです。
+Information Security Registered Assessors Program (IRAP) は、オーストラリアサイバー セキュリティ センター (ACSC) によって管理されます。 IRAP は、オーストラリア政府にサイバー セキュリティ評価サービスを提供するために、公的機関の個人を支援するフレームワークを提供します。 推奨される IRAP 評価者は、ICT セキュリティの独立した評価を提供し、軽減策を提案し、残りのリスクを強調することができます。 IRAP は、オーストラリア政府のポリシーとガイドラインに対するシステムのセキュリティの独立した評価のための包括的なプロセスを提供します。 IRAP の目標は、オーストラリアの連邦、州、および地方政府のデータを保存、処理、および通信する情報および通信技術インフラストラクチャに焦点を当て、セキュリティを最大化することです。
 
 - 2014 年に、Azure はオーストラリアで最初の IRAP 評価クラウド サービスとして立ち上げされました。このクラウド サービスは、Melbourne と Australia のデータセンターからホストされています。 これら 2 つのデータセンターにより、オーストラリアのお客様は顧客データの保存場所を制御できる一方で、両方の場所でのバックアップを通じて障害が発生した場合のデータの信頼性も向上します。
 - 2015 年の初め、Office 365 は、この評価を完了する最初のクラウド生産性向上サービスになりました。
 - 2015 年 4 月、ASD は Dynamics 365 の Azure と Office 365、および 2015 年 11 月の両方の CCSL 認定を発表しました。
 - 2017 年 6 月、ASD は Microsoft Azure と Office 365 の大幅に拡張されたサービスの再認定を発表しました。
-- 2018 年 4 月に、ACSC は Azure の認定と保護されたOffice 365 の認定を発表しました。 Microsoft は、このレベルの認定を達成した最初の唯一のパブリック クラウド プロバイダーです。
+- 2018 年 4 月に、ACSC は Azure および Office 365 の保護された分類の認定を発表しました。 Microsoft は、このレベルの認定を達成した最初の唯一のパブリック クラウド プロバイダーです。
 - 2019 年 9 月、Microsoft の更新された IRAP 評価範囲は、PROTECTED 分類で 113 のサービスを含むまで拡張されました。
 - 2020 年 12 月に、Microsoft は Azure および 365 用の 2 つの増分 IRAP Officeしました。 これらのレポートでは、認定クラウド サービス リスト (CCSL) の認定後に新しいガイダンスを利用しました。 このレポートには、クラウド サービス プロバイダー (CSP) としての Microsoft の評価と、Azure、Dynamics、および Office 365 全体の 2019 レポートに増分するその他のサービスの両方が含まれる。
 
@@ -54,7 +54,7 @@ ISM が使用するリスク管理フレームワークは、National [Institute
 - システムを承認する
 - システムを監視する
 
-常に、追加の調整コントロールは、機関の承認と、その後のクラウド サービスの使用の前に、個々の機関がリスク管理ベースで実装できます。
+従来と同様に、追加の調整コントロールは、機関の承認と、その後のこれらのクラウド サービスの使用の前に、個々の機関がリスク管理ベースで実装できます。
 
 Microsoft のサービスとクラウド運用に関する IRAP 評価は、政府機関およびパートナーの公的機関のお客様に対し、PROTECTED レベルまで分類されたデータの処理、保存、および転送に適した効果的なセキュリティ コントロールを Microsoft が実施しているという保証を提供するのに役立ちます。 この評価には、オーストラリアのほとんどの政府データ、医療データ、および教育データが含まれます。
 
@@ -73,7 +73,7 @@ IRAP は、クラウド サービスを使用するオーストラリアの連�
 
 **組織のリスク評価と承認プロセスで Microsoft のコンプライアンスを使用できますか?**
 
-はい。 組織が ISM に沿って運用する承認を必要とする場合または承認を求めている場合は、リスク評価で Azure、Dynamics 365、Microsoft マネージド デスクトップ、および Office 365 の IRAP セキュリティ評価を使用できます。 次の場合ただし、マイクロソフトのプラットフォームに展開された実装を評価する評価者と、組織内のコントロールとプロセスを評価する責任を負います。
+はい。 組織が ISM に沿った運用の承認を必要とするか、または承認を求めている場合は、リスク評価で Azure、Dynamics 365、Microsoft マネージド デスクトップ、および Office 365 の IRAP セキュリティ評価を使用できます。 次の場合ただし、マイクロソフトのプラットフォームに展開された実装を評価する評価者と、組織内のコントロールとプロセスに関する評価者の関与を担当します。
 
 **組織独自のリスク評価と承認をどこから開始しますか?**
 
@@ -81,7 +81,7 @@ ACSC のクラウド セキュリティ [評価ガイダンス](https://www.cybe
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

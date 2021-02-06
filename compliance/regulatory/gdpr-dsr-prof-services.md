@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 6c1e6c0a3aa8362d2bdba68f9919e6edb9919277
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: d7acc085c3e84772dfecd2c34ee9f4496c06de4d
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012982"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121936"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR と CCPA のための Microsoft サポート/プロフェッショナル サービス データ サブジェクト要求
 
@@ -232,7 +232,7 @@ Microsoft は FastTrack チームと共に作業するお客様連絡先のデ�
 
 FastTrack 移行サービスに関して、Microsoft はデータ プロセッサです。FastTrack の追加のプライバシーの漏洩に関する声明に基づいて、移行中のすべてのデータは「移行データ」と見なされます。所属している組織が FastTrack の移行プロジェクトに参加している間に DSR を実行する必要がある場合は、特別な注意が必要です。
   
-ユーザーのデータが FastTrack の移行システムを通じて処理されている間にアクセスの処理、修正、DSR 要求のエクスポートを行う必要がある場合、ユーザー データが保存されている既存のソース システムを通じてそれらの DSR を履行するのはお客様の責任です。 ユーザーの移行が完了し、データが移行先の Microsoft クラウド サービスに移行されると、お客様がデータ主体要求に対応するために Microsoft 製品、サービス、および管理ツールを使って個人データの検索と操作を行う方法についてのガイダンス (Microsoft 提供) が適用されます。 このガイダンスを確認するには、「[GDPR におけるデータ主体による要求](https://docs.microsoft.com/microsoft-365/compliance/gdpr-data-subject-requests)」参照してください。 
+ユーザーのデータが FastTrack の移行システムを通じて処理されている間にアクセスの処理、修正、DSR 要求のエクスポートを行う必要がある場合、ユーザー データが保存されている既存のソース システムを通じてそれらの DSR を履行するのはお客様の責任です。 ユーザーの移行が完了し、データが移行先の Microsoft クラウド サービスに移行されると、お客様がデータ主体要求に対応するために Microsoft 製品、サービス、および管理ツールを使って個人データの検索と操作を行う方法についてのガイダンス (Microsoft 提供) が適用されます。 このガイダンスを確認するには、「[GDPR におけるデータ主体による要求](/microsoft-365/compliance/gdpr-data-subject-requests)」参照してください。 
 
 DSR の削除要求への対応として、継続中の FastTrack 移行プロジェクトに組織が参加している間にユーザー アカウントを削除する必要がある場合、ユーザーの移行完了後しばらくの間、ユーザー移行データのコピーが移行システムによって保持され、ユーザー アカウントを削除しても、FastTrack 移行システムに保管されているそれらのユーザー移行データは自動的に削除されないことに注意してください。Microsoft FastTrack チームにユーザー移行データの削除を依頼する場合は、[要求を提出する](https://go.microsoft.com/fwlink/?linkid=874544)ことができます。通常の業務では、組織の移行が完了すると Microsoft FastTrack によってすべてのデータのコピーが削除されます。
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3dfd4993428de2884c1d7ea4d149da28f833508d
-ms.sourcegitcommit: 8af471ad10420ee5fce98d2eb0d69a6d2b992f08
+ms.openlocfilehash: 9aca1e5019967db6f73de245cd75ceba88e62e64
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49936951"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120876"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督当局 (FINMA) スイス
 
@@ -52,7 +52,7 @@ Microsoft チェックリストでは、スイスの金融機関による Micros
 
 - [コンプライアンス チェックリスト: スイス](https://aka.ms/FinServ-Guide-Switzerland): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
-- [金融ユース ケース](https://docs.microsoft.com/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
+- [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 

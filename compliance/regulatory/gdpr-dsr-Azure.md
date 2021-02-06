@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: cc71af74f88592e13f5dacf78d92193cea8ea356
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 638096e88e5931a7468fee9b33200d8fc17702ec
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508712"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121006"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Azure データ主体要求
 
@@ -155,7 +155,7 @@ DSR に応答する可能性のある個人データを含む顧客データを�
 
     ![ユーザー プロファイルを選択する](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. コマンド バーの [**編集**] を選択して勤務先情報を含むユーザー プロファイル情報を修正または更新し、更新が完了したら [ **保存**] を選択します。
+5. コマンド バーの [**編集**] を選択して勤務先情報を含むユーザー プロファイル情報を修正または更新し、更新が完了したら [ **保存**] を選択します。 
 
     ![[編集] を選択する](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
@@ -301,7 +301,7 @@ Azure ポータルを使用したり、特定のサービス用のプログラ�
 
 - **ユーザー**: エクスポートを要求した Azure Active Directory ユーザーの電子メール アドレスを入力します。
 - **サブスクリプション**: リソース使用状況の報告とサービス料金の請求に使用するアカウントを選択します。これは Azure ストレージ アカウントの場所でもあります。
-- **ストレージ アカウント。** Azure Storage (Blob) の場所を選択します。 詳細については、「[Microsoft Azure Storage の概要 – Blob ストレージ](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage)」の記事を参照してください。
+- **ストレージ アカウント。** Azure Storage (Blob) の場所を選択します。 詳細については、「[Microsoft Azure Storage の概要 – Blob ストレージ](/azure/storage/common/storage-introduction#blob-storage)」の記事を参照してください。
 - **Container。** エクスポートされたユーザー プライバシー データの保存場所として新しいコンテナーを作成するか、既存のものを選択します。
 
 4. **[作成]** を選択します。

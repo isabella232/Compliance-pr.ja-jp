@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 のリソースの制限
-description: この記事では、Microsoft 365 内のさまざまなアプリケーションのリソース制限についての情報を確認できます。
+title: Microsoft 365 リソースの制限
+description: この記事では、Microsoft 365 内のさまざまなアプリケーションのリソース制限に関する情報を確認できます。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -18,27 +18,26 @@ f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: 4d0985c500da4d9cd43e3b3240c07e9d08c0bf15
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 632a0b78c5c5ba02a59f8863c2e751f009cc968e
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508109"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120756"
 ---
-# <a name="service-resource-limits"></a>サービスリソースの制限
+# <a name="service-resource-limits"></a>サービス リソースの制限
 
-リソースの制限は、クォータ (制限) と調整を使用して適用されます。 Azure Active Directory (Azure AD) と個別の Microsoft 365 サービスで両方を使用します。 新しい機能が追加されると、制限はサービスに依存し、時間の経過と共に変化します。 さまざまなサービスの現在の制限の詳細については、以下のトピックを参照してください。
+リソースの制限は、クォータ (制限) と調整を使用して適用されます。 Azure Active Directory (Azure AD) と個々の Microsoft 365 サービスは両方を使用します。 制限はサービス固有であり、新しい機能が追加されるに応じ、時間の流中で変化します。 さまざまなサービスの現在の制限の詳細については、以下のトピックを参照してください。
 
-- [Azure AD サービスの制限と制限事項](https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits)
-- [Exchange Online の制限](https://technet.microsoft.com/library/exchange-online-limits.aspx)
-- [Exchange Online Protection の制限](https://technet.microsoft.com/library/exchange-online-protection-limits.aspx)
+- [Azure AD サービスの制限](/azure/azure-resource-manager/management/azure-subscription-service-limits)
+- [Exchange Online の制限](/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits)
 - [SharePoint Online ソフトウェアの境界と制限](https://support.office.com/article/SharePoint-Online-software-boundaries-and-limits-8F34FF47-B749-408B-ABC0-B605E1F6D498)
 - [Skype for Business の制限](https://technet.microsoft.com/library/skype-for-business-online-limits.aspx)
 - [Yammer REST API とレート制限](https://developer.yammer.com/docs/rest-api-rate-limits)
-- [Sway でのファイルサイズの制限](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)
+- [Sway でのファイル サイズの制限](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)
 
-これらの制限に加えて、Azure AD と Microsoft 365 の間では、いくつかの調整メカニズムが使用されています。 Microsoft のデータセンター内のネットワークリソースが、サービスを使用する幅広い顧客向けに最適化されているため、サービス内の調整は特に重要です。 調整メカニズムは次のとおりです。
+これらの制限に加えて、Azure AD および Microsoft 365 全体でいくつかの調整メカニズムが使用されます。 サービス内の調整は特に重要です。Microsoft のデータセンター内のネットワーク リソースは、サービスを使用する広範な顧客に最適化されています。 調整メカニズムには、次のものが含まれます。
 
-- Azure AD と Microsoft 365 の機能ユーザーレベルの調整。単一のユーザーが実行できるトランザクションまたは同時呼び出しの数 (スクリプトまたはコード) を制限します。
-- テナントの作成時に、各テナントに既定の PowerShell 調整ポリシーが割り当てられます。 これらの設定は、1人の管理者が開くことのできる同時 PowerShell セッションの最大数など、他のアイテムに影響を与えます。
-- 各 Exchange Online の顧客には、EWS クライアントの操作用に調整された既定の Exchange Web サービス (EWS) ポリシーと、すべての Outlook クライアントに適用される調整があります。
+- Azure AD Microsoft 365 では、ユーザー レベルの調整が機能します。この調整によって、1 人のユーザーが実行できるトランザクションまたは (スクリプトまたはコードによる) 同時呼び出しの数が制限されます。
+- 既定の PowerShell 調整ポリシーは、テナント作成時に各テナントに割り当てられます。 これらの設定は、1 人の管理者が同時に開くことができる PowerShell セッションの最大数など、他の項目に影響します。
+- 各 Exchange Online のお客様には、EWS クライアント操作用に調整された既定の Exchange Web サービス (EWS) ポリシーと、すべての Outlook クライアントに適用される調整があります。

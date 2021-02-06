@@ -20,12 +20,12 @@ search.appverid:
 ms.assetid: c2112ce8-1c4b-424f-b200-59e161db2d21
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 246c39c3bfd8f59cd2dab9c3a1b942d36942370f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 92c98d710c34f1304ddc0a2e8acfe09c4570e97c
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507739"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121636"
 ---
 # <a name="gdpr-discovery-protection-and-reporting-in-the-devtest-environment"></a>開発/テスト環境における GDPR の検出、保護、および報告
 
@@ -35,7 +35,7 @@ ms.locfileid: "49507739"
 
 ## <a name="phase-1-create-and-configure-your-trial-microsoft-365-subscription"></a>フェーズ 1: 試用版の Microsoft 365 サブスクリプションを作成して構成する
 
-まず、「[Microsoft 365 開発/テスト環境のフェーズ 2](https://docs.microsoft.com/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription)」の記事内の手順を実行します。
+まず、「[Microsoft 365 開発/テスト環境のフェーズ 2](/Office365/Enterprise/office-365-dev-test-environment#phase-2-create-an-office-365-trial-subscription)」の記事内の手順を実行します。
 
 次に、以下の手順を使用して、電子情報開示マネージャーを構成します。
 
@@ -99,7 +99,7 @@ ms.locfileid: "49507739"
 
 Contoso では、必ず、内部対応、外部対応、ドキュメント、およびその他の形式で CCN を使用して顧客を参照しています。また、この形式の個人を識別できる情報の使用に対して保護が適用されるように、Microsoft 365 コンテンツ内の CCN の使用を検出するためのカスタムの機密項目の種類が必要です。
 
-1. 「[セキュリティ/コンプライアンス センターの PowerShell に接続する](https://docs.microsoft.com/powershell/exchange/connect-to-scc-powershell)」に記載されている多要素認証 (MFA) 接続の手順を使用して、全体管理者アカウントの UPN でセキュリティ/コンプライアンス センターに接続します。
+1. 「[セキュリティ/コンプライアンス センターの PowerShell に接続する](/powershell/exchange/connect-to-scc-powershell)」に記載されている多要素認証 (MFA) 接続の手順を使用して、全体管理者アカウントの UPN でセキュリティ/コンプライアンス センターに接続します。
 
 2. 次の PowerShell コマンドを実行します。
 
