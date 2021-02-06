@@ -12,31 +12,31 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
-ms.openlocfilehash: 7a3739afc42ba6397bb0b465b6f4a9c5806d2c16
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 15d59569102a5e39ac8641df6003b2999362e0bd
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508965"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50121476"
 ---
-# <a name="gdpr-for-skype-for-business-server-and-lync-server"></a><span data-ttu-id="36cfb-103">Skype for Business Server および Lync Server の GDPR</span><span class="sxs-lookup"><span data-stu-id="36cfb-103">GDPR for Skype for Business Server and Lync Server</span></span>
+# <a name="gdpr-for-skype-for-business-server-and-lync-server"></a><span data-ttu-id="d69b1-103">Skype for Business Server および Lync Server の GDPR</span><span class="sxs-lookup"><span data-stu-id="d69b1-103">GDPR for Skype for Business Server and Lync Server</span></span>
 
-<span data-ttu-id="36cfb-p101">Skype for Business Server および Lync Server のデータのほとんどは、Exchange Server に保存されます。それには、次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="36cfb-p101">Most Skype for Business Server and Lync Server data is stored in Exchange Server. This includes:</span></span>
+<span data-ttu-id="d69b1-p101">Skype for Business Server および Lync Server のデータのほとんどは、Exchange Server に保存されます。それには、次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="d69b1-p101">Most Skype for Business Server and Lync Server data is stored in Exchange Server. This includes:</span></span>
 
--   <span data-ttu-id="36cfb-106">会話の履歴</span><span class="sxs-lookup"><span data-stu-id="36cfb-106">Conversation history</span></span>
+-   <span data-ttu-id="d69b1-106">会話の履歴</span><span class="sxs-lookup"><span data-stu-id="d69b1-106">Conversation history</span></span>
 
--   <span data-ttu-id="36cfb-107">ボイスメールの通知とトランスクリプション</span><span class="sxs-lookup"><span data-stu-id="36cfb-107">Voicemail notifications and transcriptions</span></span>
+-   <span data-ttu-id="d69b1-107">ボイスメールの通知とトランスクリプション</span><span class="sxs-lookup"><span data-stu-id="d69b1-107">Voicemail notifications and transcriptions</span></span>
 
--   <span data-ttu-id="36cfb-108">会議の招待</span><span class="sxs-lookup"><span data-stu-id="36cfb-108">Meeting invites</span></span>
+-   <span data-ttu-id="d69b1-108">会議の招待</span><span class="sxs-lookup"><span data-stu-id="d69b1-108">Meeting invites</span></span>
 
-<span data-ttu-id="36cfb-109">[GDPR for Exchange Server](gdpr-for-exchange-server.md) について概要が示されている手順を使用して、GDPR 要求のこれらのデータ タイプを検索、エクスポート、削除します。</span><span class="sxs-lookup"><span data-stu-id="36cfb-109">Use the procedures outlined for [GDPR for Exchange Server](gdpr-for-exchange-server.md) to find, export, or delete these types of data for GDPR requests.</span></span>
+<span data-ttu-id="d69b1-109">[GDPR for Exchange Server](gdpr-for-exchange-server.md) について概要が示されている手順を使用して、GDPR 要求のこれらのデータ タイプを検索、エクスポート、削除します。</span><span class="sxs-lookup"><span data-stu-id="d69b1-109">Use the procedures outlined for [GDPR for Exchange Server](gdpr-for-exchange-server.md) to find, export, or delete these types of data for GDPR requests.</span></span>
 
-<span data-ttu-id="36cfb-p102">連絡先リストは、SQL Server のデータベースに保存されます。それらは、次の方法でエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="36cfb-p102">Contact lists are stored in the SQL Server database. They can be exported in the following ways:</span></span>
+<span data-ttu-id="d69b1-p102">連絡先リストは、SQL Server のデータベースに保存されます。それらは、次の方法でエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="d69b1-p102">Contact lists are stored in the SQL Server database. They can be exported in the following ways:</span></span>
 
--   <span data-ttu-id="36cfb-p103">エンド ユーザー自身がグループ ヘッダーを右クリックして [コピー] を選択することにより、連絡先をエクスポートできます。この場合、そのグループのすべての連絡先がクリップボードにコピーされ、任意のアプリに貼り付けることができるようになります。</span><span class="sxs-lookup"><span data-stu-id="36cfb-p103">End users themselves can export the contacts by right clicking the group header and selecting Copy. This will copy all the contacts in that group into the clipboard, which can then be pasted into any app.</span></span>
+-   <span data-ttu-id="d69b1-p103">エンド ユーザー自身がグループ ヘッダーを右クリックして [コピー] を選択することにより、連絡先をエクスポートできます。この場合、そのグループのすべての連絡先がクリップボードにコピーされ、任意のアプリに貼り付けることができるようになります。</span><span class="sxs-lookup"><span data-stu-id="d69b1-p103">End users themselves can export the contacts by right clicking the group header and selecting Copy. This will copy all the contacts in that group into the clipboard, which can then be pasted into any app.</span></span>
 
--   <span data-ttu-id="36cfb-114">[Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="36cfb-114">You can use the [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) cmdlet to export this data.</span></span>
+-   <span data-ttu-id="d69b1-114">[Export-CsUserData](/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="d69b1-114">You can use the [Export-CsUserData](/powershell/module/skype/export-csuserdata) cmdlet to export this data.</span></span>
 
-<span data-ttu-id="36cfb-p104">会議にアップロードされるコンテンツ (PowerPoint のファイルや配布資料など) または会議で生成されるコンテンツ (ホワイトボード、投票、Q/A など) は、ファイラーに保存されます。また、これらは、エンド ユーザーがまだ期限切れでない会議に再びログインして、アップロードされたコンテンツをダウンロードしたり、生成されたコンテンツの場合にはスクリーンショットを撮ってエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="36cfb-p104">Content uploaded into meetings (such as PowerPoint files or handouts) or content generated in a meeting (such as whiteboard, polls, or Q/A) is stored in the filer. This can also be exported if end users log back into any meeting that has not expired and download any uploaded content or take screenshots in the case of generated content.</span></span>
+<span data-ttu-id="d69b1-p104">会議にアップロードされるコンテンツ (PowerPoint のファイルや配布資料など) または会議で生成されるコンテンツ (ホワイトボード、投票、Q/A など) は、ファイラーに保存されます。また、これらは、エンド ユーザーがまだ期限切れでない会議に再びログインして、アップロードされたコンテンツをダウンロードしたり、生成されたコンテンツの場合にはスクリーンショットを撮ってエクスポートすることもできます。</span><span class="sxs-lookup"><span data-stu-id="d69b1-p104">Content uploaded into meetings (such as PowerPoint files or handouts) or content generated in a meeting (such as whiteboard, polls, or Q/A) is stored in the filer. This can also be exported if end users log back into any meeting that has not expired and download any uploaded content or take screenshots in the case of generated content.</span></span>
 
-<span data-ttu-id="36cfb-p105">Exchange の予定表および連絡先リストにない MeetNow 会議および連絡先権限 (家族や同僚など) は、ユーザー データベース内にあります。Lync Server 2013 以降の場合は、[Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="36cfb-p105">MeetNow meetings that are not in the Exchange Calendar and Contact List and contact rights (family, co-worker, etc.) are in the User Database. In Lync Server 2013 and later, you can use the [Export-CsUserData](https://docs.microsoft.com/powershell/module/skype/export-csuserdata) cmdlet to export this data.</span></span>
+<span data-ttu-id="d69b1-p105">Exchange の予定表および連絡先リストにない MeetNow 会議および連絡先権限 (家族や同僚など) は、ユーザー データベース内にあります。Lync Server 2013 以降の場合は、[Export-CsUserData](/powershell/module/skype/export-csuserdata) コマンドレットを使用することにより、このデータをエクスポートできます。</span><span class="sxs-lookup"><span data-stu-id="d69b1-p105">MeetNow meetings that are not in the Exchange Calendar and Contact List and contact rights (family, co-worker, etc.) are in the User Database. In Lync Server 2013 and later, you can use the [Export-CsUserData](/powershell/module/skype/export-csuserdata) cmdlet to export this data.</span></span>
