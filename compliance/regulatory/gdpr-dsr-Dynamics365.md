@@ -19,12 +19,12 @@ hideEdit: true
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 1e2f06e0e9e72392cad99f41475baa2db92b3baf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 231021c75031a290686027f55bca868f4d7ac317
+ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508076"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50120946"
 ---
 # <a name="dynamics-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Dynamics 365 データ対象要求
 
@@ -39,7 +39,7 @@ EU [一般データ保護規則 (GDPR)](https://ec.europa.eu/justice/data-protec
 - **修正:** 必要に応じて、個人データを変更したり、要求された他の操作を個人データに対して実行したりします。
 - **制限** さまざまなオンライン サービスに対するライセンスを削除するか、または可能な場合は目的のサービスをオフにすることで、個人データの処理を制限します。 次のことが行えます。
 - **削除:** Microsoft のクラウドに格納されていた個人データを完全に削除します。
-- **エクスポート/受信 (移植性):** 個人データまたは個人情報の電子コピー (コンピューターで読み取り可能な形式) をデータ主体に提供します。 CCPA における個人情報とは、識別された人、または識別可能な人に関するあらゆる情報のことです。 個人の私的、公的、または職業上の役割による区別はありません。 定義された "個人情報" という用語は、GDPRにおける "個人データ" とほぼ同義語です。 ただし、CCPA では家族データおよび世帯データも含まれます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](offering-ccpa.md)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](ccpa-faq.md)」を参照してください。
+- **エクスポート/受信 (移植性):** 個人データまたは個人情報の電子コピー (コンピューターで読み取り可能な形式) をデータ主体に提供します。 CCPA における個人情報とは、識別された人、または識別可能な人に関するあらゆる情報のことです。 個人の私的、公的、または職業上の役割による区別はありません。 "個人情報" と定義された用語は、GDPR における "個人データ" とほぼ同義語です。 ただし、CCPA では家族データおよび世帯データも含まれます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](offering-ccpa.md)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](ccpa-faq.md)」を参照してください。
 
 このガイドの各セクションでは、Microsoft のクラウドにある個人データについて DSR 要求がなされた場合に、その対応としてデータ コントローラー組織が実行できる技術的な手順の概要を示します。
 
@@ -85,53 +85,53 @@ Dynamics 365 は、サービスとしてのソフトウェア (SaaS) として�
 
 Microsoft は、データ主体の権利要求への対応とそれに伴う顧客データへのアクセスに関して、ユーザーを支援する機能を提供します。ただし、個人データが適切に保存および分類されるようにするのは、お客様の責任です。
 
-***Dynamics 365 for Customer Engagement** _ には、高度な検索、レコード検索など、レコード内の個人データをユーザーが検索するための機能が複数用意されています。 いずれの機能でも、個人データを特定または検索できます。
+***Dynamics 365 for Customer Engagement*** には、高度な検索、レコード検索など、レコード内の個人データをユーザーが検索するための機能が複数用意されています。 いずれの機能でも、個人データを特定または検索できます。
 
-- [[高度な検索]](https://docs.microsoft.com/dynamics365/customer-engagement/basics/save-advanced-find-search)
-- [[レコード検索]](https://docs.microsoft.com/dynamics365/customer-engagement/basics/search-records) は、複数のレコードの種類に対して検索を実行できます。
+- [[高度な検索]](/dynamics365/customer-engagement/basics/save-advanced-find-search)
+- [[レコード検索]](/dynamics365/customer-engagement/basics/search-records) は、複数のレコードの種類に対して検索を実行できます。
 
 Dynamics 365 for Marketing には、次の追加機能が用意されています。
 
-1. [[Power BI レポートの作成]](https://docs.microsoft.com/power-bi/service-connect-to-microsoft-dynamics-crm) は、顧客データをフィルター処理し特定する機能です。
+1. [[Power BI レポートの作成]](/power-bi/service-connect-to-microsoft-dynamics-crm) は、顧客データをフィルター処理し特定する機能です。
 2. 顧客データを含む可能性のあるその他のデータ ポイントを特定するには、マーケティング実行の取引先担当者や対象についてインサイト ビューを使用します。
 
-_*_Dynamics 365 Customer Service Insights_*_ では、[顧客データを検索する](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-discovery)ために役立つリソースの一覧を提供しており、お客様が顧客からの GDPR 要求に対応するのに役立てていただけます。
+***Dynamics 365 Customer Service Insights*** では、[顧客データを検索する](/dynamics365/ai/customer-service-insights/gdpr-discovery)ために役立つリソースの一覧を提供しており、お客様が顧客からの GDPR 要求に対応するのに役立てていただけます。
 
-_*_Dynamics 365 for Finance and Operations_*_ では、顧客データを検索するためのいくつかの方法を提供します。 テナント管理者として、次のアクションを実行して顧客データを検索できます。
+***Dynamics 365 for Finance and Operations*** では、顧客データを検索するためのいくつかの方法を提供します。 テナント管理者として、次のアクションを実行して顧客データを検索できます。
 
-- 個人データをすばやく検出する目的にかなう方法で顧客データを整理します。この目的に関しては、「[データ インベントリの分類方法](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory)」をご覧ください。
-- 個人データを検索および収集するには、[[個人検索レポート]](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report) を使用します。
-- [[個人検索レポートの拡張]](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report) では、エンティティを新規に作成するか既存のエンティティを拡張することにより、個人検索レポートを拡張します。
+- 個人データをすばやく検出する目的にかなう方法で顧客データを整理します。この目的に関しては、「[データ インベントリの分類方法](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory)」をご覧ください。
+- 個人データを検索および収集するには、[[個人検索レポート]](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report) を使用します。
+- [[個人検索レポートの拡張]](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report) では、エンティティを新規に作成するか既存のエンティティを拡張することにより、個人検索レポートを拡張します。
 - 検索機能とフィルター処理機能を使用して、特定の個人データを検索し、Microsoft Office エクスポート機能を使用してそのデータをエクスポートしたり、ブラウザーの拡張機能を使用して .pdf ファイルにその情報を書き込んだりできます。
 - 個人データを検索してエクスポートするユーザー設定のフォームを作成します。
 - 認証済み顧客が当人の個人データを確認できる外部ポータルまたは Web サイトを作成します。
 
-_*_Dynamics 365 Business Central_*_ は、顧客データを検索するためのいくつかの方法を提供します。 詳細については、「[データの検索、フィルター処理、並べ替え](https://docs.microsoft.com/dynamics365/business-central/ui-enter-criteria-filters)」を参照してください。
+***Dynamics 365 Business Central*** は、顧客データを検索するためのいくつかの方法を提供します。 詳細については、「[データの検索、フィルター処理、並べ替え](/dynamics365/business-central/ui-enter-criteria-filters)」を参照してください。
 
-_*_Dynamics 365 for Talent_*_ には、特定の個人データを検索するための高度な検索機能とフィルター処理機能に加えて、ブラウザーの拡張機能を使用して .pdf ファイルにその情報をエクスポートまたは書き込むための Microsoft Office エクスポート機能が用意されています。
+***Dynamics 365 for Talent*** には、特定の個人データを検索するための高度な検索機能とフィルター処理機能に加えて、ブラウザーの拡張機能を使用して .pdf ファイルにその情報をエクスポートまたは書き込むための Microsoft Office エクスポート機能が用意されています。
 
-- 顧客データを検索および収集するには、[[個人検索レポート]](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report) を使用します。
-- 新しいエンティティを作成するか、既存のエンティティを拡張することにより、[個人検索レポートを拡張します](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report)。
+- 顧客データを検索および収集するには、[[個人検索レポート]](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#the-person-search-report) を使用します。
+- 新しいエンティティを作成するか、既存のエンティティを拡張することにより、[個人検索レポートを拡張します](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report)。
 
 ### <a name="providing-a-copy-of-customer-data"></a>顧客データのコピーの提供
 
-_*_Dynamics 365 for Customer Engagement_*_ の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 顧客データを静的な Excel ファイルにエクスポートして、データ移植性要求を容易にすることができます。 Excel を使用して、移植性要求に含める個人データを編集し、.csv や .xml などのコンピューターで読み取り可能な一般的に使用されるファイル形式で保存できます。 また、Dynamics 365 for Customer Engagement のレコードは、[Common Data Service Web API](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/overview)を介してエクスポートすることもできます。
+***Dynamics 365 for Customer Engagement*** の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 顧客データを静的な Excel ファイルにエクスポートして、データ移植性要求を容易にすることができます。 Excel を使用して、移植性要求に含める個人データを編集し、.csv や .xml などのコンピューターで読み取り可能な一般的に使用されるファイル形式で保存できます。 また、Dynamics 365 for Customer Engagement のレコードは、[Common Data Service Web API](/powerapps/developer/common-data-service/webapi/overview)を介してエクスポートすることもできます。
 
-さらに、Dynamics 365 for Marketing には[専用 API](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) が用意されており、キャプチャされた顧客とのやり取りに関するその他のレコード (個人データを含む可能性がある) を取得する拡張機能を顧客が構築できます。この API は、関連するすべての情報をバックエンド システムから読み込み、その情報を単一のポータブル ドキュメントに組み立てます。
+さらに、Dynamics 365 for Marketing には[専用 API](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) が用意されており、キャプチャされた顧客とのやり取りに関するその他のレコード (個人データを含む可能性がある) を取得する拡張機能を顧客が構築できます。この API は、関連するすべての情報をバックエンド システムから読み込み、その情報を単一のポータブル ドキュメントに組み立てます。
 
-_*_Dynamics 365 Customer Service Insights_*_ では、データ エクスポートを使用して、[顧客データのコピーを提供](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-export)することができます。
+***Dynamics 365 Customer Service Insights*** では、データ エクスポートを使用して、[顧客データのコピーを提供](/dynamics365/ai/customer-service-insights/gdpr-export)することができます。
 
-_*_Dynamics 365 for Finance and Operations_*_ の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 テナントの管理者は、[_データ管理と統合エンティティ*](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)を使用し、個人データを Excel や他の多くの一般的な形式に [*データ インポート/エクスポート ジョブ*](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)を使用して繰り返しエクスポートするため、提供されているエンティティを利用するか、新しいエンティティを作成したり、既存のエンティティを拡張したりできます。  または、多くのリストを静的な Excel ファイルにエクスポートして、データの移植性要求を容易にできます。 顧客データを Excel にエクスポートすると、個人データが移植性要求に含まれるように編集することができ、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 *個人検索レポート* を使用して、個人データとして分類したデータをデータ主体に提供することも検討できます。
+***Dynamics 365 for Finance and Operations** _ の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 テナントの管理者は、[_データ管理と統合エンティティ*](/dynamics365/unified-operations/dev-itpro/data-entities/data-management-integration-data-entity)を使用し、個人データを Excel や他の多くの一般的な形式に [*データ インポート/エクスポート ジョブ*](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)を使用して繰り返しエクスポートするため、提供されているエンティティを利用するか、新しいエンティティを作成したり、既存のエンティティを拡張したりできます。  または、多くのリストを静的な Excel ファイルにエクスポートして、データの移植性要求を容易にできます。 顧客データを Excel にエクスポートすると、個人データが移植性要求に含まれるように編集することができ、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 *個人検索レポート* を使用して、個人データとして分類したデータをデータ主体に提供することも検討できます。
 
-**Dynamics 365 Business Central** では、次の 2 つの機能を使用して、データ主体に顧客データのコピーを提供できます。
+***Dynamics 365 Business Central*** では、次の 2 つの機能を使用して、データ主体に顧客データのコピーを提供できます。
 
-顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](https://docs.microsoft.com/dynamics365/business-central/about-export-data)」を参照してください。
+顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](/dynamics365/business-central/about-export-data)」を参照してください。
 
-_*_Dynamics 365 for Talent_*_ では、[[個人検索レポートの拡張]](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report) を使用して、データ対象の個人データのコピーに関する要求をサポートするのに必要な情報を収集できます。
+***Dynamics 365 for Talent*** では、[[個人検索レポートの拡張]](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-extend-person-search-report) を使用して、データ対象の個人データのコピーに関する要求をサポートするのに必要な情報を収集できます。
 
 ### <a name="rectifying-customer-data"></a>顧客データの修正
 
-_*_Dynamics 365 for Customer Engagement_*_ は、不正確または不完全な顧客データを修正したり、顧客データを消去したりするための次の方法を提供します。
+***Dynamics 365 for Customer Engagement*** は、不正確または不完全な顧客データを修正したり、顧客データを消去したりするための次の方法を提供します。
 
 - 「顧客データの検索」で説明した機能を使用して顧客データを検索し、Customer Engagement フォーム内で直接データを編集します。 1 行ごとの編集もできますが、複数の行を直接変更することもできます。
 - 複数の Customer Engagement レコードを一括編集する場合、Microsoft Office アドインを使用して、データを Microsoft Excel にエクスポートし、変更を加え、変更されたデータを Excel から Dynamics 365 for Customer Engagement にインポートできます。
@@ -139,29 +139,29 @@ _*_Dynamics 365 for Customer Engagement_*_ は、不正確または不完全な�
 さらに、Dynamics 365 for Marketing では次の機能も実行できます。
 
 - 1 行または複数の行を直接編集することにより、マイ データのランディング ページを更新します。
-- 含めることが可能な、できるだけ多くの編集可能な連絡先フィールドが設定された[サブスクリプション センター](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/set-up-subscription-center) ページを準備します。これにより、エンドユーザーは、自分の情報を最大限に更新できます。
+- 含めることが可能な、できるだけ多くの編集可能な連絡先フィールドが設定された[サブスクリプション センター](/dynamics365/customer-engagement/marketing/set-up-subscription-center) ページを準備します。これにより、エンドユーザーは、自分の情報を最大限に更新できます。
 
-_*_Dynamics 365 Customer Service Insights_*_ では、組織が [顧客データを修正または変更する](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-summary)機能も用意されています。
+***Dynamics 365 Customer Service Insights*** では、組織が [顧客データを修正または変更する](/dynamics365/ai/customer-service-insights/gdpr-summary)機能も用意されています。
 
-_*_Dynamics 365 for Finance and Operations_*_ では、[_カスタマイズ ツール*](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/dev-tools/developer-home-page) も使用できますが、決定と実装はお客様の責任です。
+***Dynamics 365 for Finance and Operations** _ では、[_カスタマイズ ツール*](/dynamics365/unified-operations/dev-itpro/dev-tools/developer-home-page) も使用できますが、決定と実装はお客様の責任です。
 
-***Dynamics 365 Business Central** _ では、不正確または不完全な顧客データを修正する方法が 2 つ用意されています。
+***Dynamics 365 Business Central*** では、不正確または不完全な顧客データを修正する方法が 2 つ用意されています。
 
-Business Central の複数のレコードをすばやく一括編集する場合、[Business Central Excel アドイン](https://docs.microsoft.com/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)を使用して Excel にリストをエクスポートし、複数のレコードを修正してから、修正したデータを Excel から Business Central に発行することができます。詳細については、「[ビジネス データを Excel にエクスポートする](https://docs.microsoft.com/dynamics365/business-central/about-export-data)」をご覧ください。
+Business Central の複数のレコードをすばやく一括編集する場合、[Business Central Excel アドイン](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)を使用して Excel にリストをエクスポートし、複数のレコードを修正してから、修正したデータを Excel から Business Central に発行することができます。詳細については、「[ビジネス データを Excel にエクスポートする](/dynamics365/business-central/about-export-data)」をご覧ください。
 
-対象となる個人データを含むデータ要素を手動で編集することにより、顧客カードにある顧客情報など、任意のフィールドに格納された顧客データを変更できます。 詳細については、「[データの入力](https://docs.microsoft.com/dynamics365/business-central/ui-enter-data)」を参照してください。
+対象となる個人データを含むデータ要素を手動で編集することにより、顧客カードにある顧客情報など、任意のフィールドに格納された顧客データを変更できます。 詳細については、「[データの入力](/dynamics365/business-central/ui-enter-data)」を参照してください。
 
 #### <a name="brief-note-about-modifying-entries-in-business-transactions"></a>ビジネス トランザクションでのエントリの変更について
 
 全般エントリ、顧客エントリ、税元帳エントリなどのトランザクション レコードは、エンタープライズ リソース プランニング システムの整合性に不可欠です。財務その他のトランザクションの一部をなす個人データは、財務法の遵守 (税法など)、不正行為防止 (セキュリティ監査証跡)、業界の認定資格の遵守を目的として、その状態のままで保持されます。このため、Dynamics 365 for Finance and Operations および Dynamics 365 Business Central では、このようなレコードのデータ変更を制限しています。
 
-ビジネス トランザクション レコードに個人データを保存している場合、データ対象の要求を承諾して個人データの修正、削除、処理の制限などを実行するには、Dynamics 365 Business Central の[カスタマイズ機能](https://docs.microsoft.com/dynamics365/business-central/dev-itpro/index)を使用する以外に方法はありません。[修正データ対象の要求を承諾するかどうかの決定](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#reasons-why-certain-personal-data-may-not-be-modified-or-deleted)とその実装については、お客様の責任において行われるものとします。
+ビジネス トランザクション レコードに個人データを保存している場合、データ対象の要求を承諾して個人データの修正、削除、処理の制限などを実行するには、Dynamics 365 Business Central の[カスタマイズ機能](/dynamics365/business-central/dev-itpro/index)を使用する以外に方法はありません。[修正データ対象の要求を承諾するかどうかの決定](/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#reasons-why-certain-personal-data-may-not-be-modified-or-deleted)とその実装については、お客様の責任において行われるものとします。
 
 ### <a name="restricting-the-processing-of-customer-data"></a>顧客データの処理の制限
 
 データ主体から、顧客データの処理を制限する要求を受けた場合、影響を受ける顧客データをオンライン サービスから簡単に抽出し、クラウド アプリケーションによって提供される処理機能から完全に分離されている別個のコンテナー (オンプレミスのストレージ、またはデータ分離機能を備えた独立した Web サービス) に保存できます。
 
-データ処理のブロックなどの代替メカニズムが _*_Dynamics 365 Business Central_*_ によって提供されており、ユーザーはデータ主体の特定のレコードをブロックすることができます。 詳細については、「[データ主体のデータ処理を制限する](https://docs.microsoft.com/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject)」を参照してください。 レコードがブロック済みとしてマークされている場合、Dynamics 365 Business Central はそのデータ主体の顧客データの処理を中断します。 ブロックされたレコードを使用するトランザクションを新たに作成することはできません。たとえば、顧客か店員がブロックされている場合、その顧客に新しい請求書を作成することはできません。
+データ処理のブロックなどの代替メカニズムが ***Dynamics 365 Business Central*** によって提供されており、ユーザーはデータ主体の特定のレコードをブロックすることができます。 詳細については、「[データ主体のデータ処理を制限する](/dynamics365/business-central/admin-responding-to-requests-about-personal-data#restrict-data-processing-for-a-data-subject)」を参照してください。 レコードがブロック済みとしてマークされている場合、Dynamics 365 Business Central はそのデータ主体の顧客データの処理を中断します。 ブロックされたレコードを使用するトランザクションを新たに作成することはできません。たとえば、顧客か店員がブロックされている場合、その顧客に新しい請求書を作成することはできません。
 
 ### <a name="deleting-customer-data"></a>顧客データの削除
 
@@ -170,37 +170,37 @@ Business Central の複数のレコードをすばやく一括編集する場合
 - 複数の Dynamics 365 レコードを一括編集する場合、Microsoft Office アドインを使用して、データを Microsoft Excel にエクスポートし、変更を加え、変更されたデータを Excel からそのオンライン サービスにインポートし直すことができます。
 - 削除するデータを特定し、対象の顧客データを含むデータ要素を手動で削除することにより、任意のフィールドに格納されている顧客データを削除できます。たとえば、データ主体を表す連絡先レコードや個人データを含む他のレコードを物理的に削除できます。
 
-また、Dynamics 365 Marketing では、連絡先を削除すると個人情報の操作に関するデータも同様に削除されます。 カスタム フィールドやエンティティについては、ユーザーがシステムをカスタマイズして、関連するレコードからすべての顧客データが削除され、連絡先レコードとのリンクが解除されて、個人情報がすべて削除されるようにする必要があります。 詳細: [開発者ガイド (マーケティング)](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)。
+また、Dynamics 365 Marketing では、連絡先を削除すると個人情報の操作に関するデータも同様に削除されます。 カスタム フィールドやエンティティについては、ユーザーがシステムをカスタマイズして、関連するレコードからすべての顧客データが削除され、連絡先レコードとのリンクが解除されて、個人情報がすべて削除されるようにする必要があります。 詳細:「[開発者ガイド (Marketing)](/dynamics365/customer-engagement/marketing/developer/marketing-developer-guide)」。
 
-_*_Dynamics 365 Customer Service Insights_*_ では、組織に対して [顧客データを削除する](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-delete)機能も提供しています。
+***Dynamics 365 Customer Service Insights*** では、組織に対して [顧客データを削除する](/dynamics365/ai/customer-service-insights/gdpr-delete)機能も提供しています。
 
-_*_Dynamics 365 for Finance and Operations_*_ では、[_カスタマイズ ツール*](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/dev-tools/developer-home-page) を使用して顧客データを削除または変更できます。
+***Dynamics 365 for Finance and Operations** _ では、[_カスタマイズ ツール*](/dynamics365/unified-operations/dev-itpro/dev-tools/developer-home-page) を使用して顧客データを削除または変更できます。
 
-***Dynamics 365 Business Central** _ では、データ主体から顧客データに含まれている当人の個人データを削除するように要求された場合、この要求に対応するには、次のようないくつかの方法があります。
+***Dynamics 365 Business Central*** では、データ主体から顧客データに含まれている当人の個人データを削除するように要求された場合、この要求に対応するには、次のようないくつかの方法があります。
 
-- Business Central の複数のレコードをすばやく一括編集する場合、[Business Central Excel アドイン](https://docs.microsoft.com/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)を使用して Excel にデータをエクスポートし、複数のレコードを削除してから、その変更を Excel から Business Central に発行し直すことができます。詳細については、「[ビジネス データを Excel にエクスポートする](https://docs.microsoft.com/dynamics365/business-central/about-export-data)」をご覧ください。
-- 対象の顧客データを含むデータ要素を手動で削除することにより、任意のフィールドに保存されている顧客データを削除できます。 詳細については、「[データの入力](https://docs.microsoft.com/dynamics365/business-central/ui-enter-data)」を参照してください。
+- Business Central の複数のレコードをすばやく一括編集する場合、[Business Central Excel アドイン](/dynamics365/business-central/finance-analyze-excel#the--excel-add-in)を使用して Excel にデータをエクスポートし、複数のレコードを削除してから、その変更を Excel から Business Central に発行し直すことができます。詳細については、「[ビジネス データを Excel にエクスポートする](/dynamics365/business-central/about-export-data)」をご覧ください。
+- 対象の顧客データを含むデータ要素を手動で削除することにより、任意のフィールドに保存されている顧客データを削除できます。 詳細については、「[データの入力](/dynamics365/business-central/ui-enter-data)」を参照してください。
 - 連絡先を削除し、Delete Canceled Interaction Log Entries バッチ ジョブを実行して、その連絡先に関するやり取りを削除するなどの方法で、顧客データを直接削除できます。
-- メモ、転記済売上、仕入請求書などの顧客データを含む[ドキュメントを削除](https://docs.microsoft.com/dynamics365/business-central/admin-manage-documents)できます。
+- メモ、転記済売上、仕入請求書などの顧客データを含む[ドキュメントを削除](/dynamics365/business-central/admin-manage-documents)できます。
 
-個別レコードの一括削除または個別削除のほかに、_*_Dynamics 365 for Talent_*_ から完全に削除できるのは契約関係が終了した従業員のみであることにご注意ください。[契約関係が終了した従業員の削除についてはこの手順に従います](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/respond-dsr-request-talent#additional-notes-that-apply-to-requests-for-personal-data)。
+個別レコードの一括削除または個別削除のほかに、***Dynamics 365 for Talent*** から完全に削除できるのは契約関係が終了した従業員のみであることにご注意ください。[契約関係が終了した従業員の削除についてはこの手順に従います](/dynamics365/unified-operations/dev-itpro/gdpr/respond-dsr-request-talent#additional-notes-that-apply-to-requests-for-personal-data)。
 
 ### <a name="exporting-customer-data"></a>顧客データのエクスポート
 
-データの移植性要求に対応するため、_*_Dynamics 365 for Customer Engagement_*_ の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 顧客データを静的な Excel ファイルにエクスポートして、データ移植性要求を容易にすることができます。 Excel を使用して、移植性要求に含める個人データを編集し、.csv や .xml などのコンピューターで読み取り可能な一般的に使用されるファイル形式で保存できます。
+データの移植性要求に対応するため、***Dynamics 365 for Customer Engagement*** の顧客データは、包括的なエンティティ エクスポート機能を使用してエクスポートできます。 顧客データを静的な Excel ファイルにエクスポートして、データ移植性要求を容易にすることができます。 Excel を使用して、移植性要求に含める個人データを編集し、.csv や .xml などのコンピューターで読み取り可能な一般的に使用されるファイル形式で保存できます。
 
-さらに、Dynamics 365 for Marketing には[専用 API](https://docs.microsoft.com/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) が用意されており、キャプチャされた顧客とのやり取りに関するその他のレコード (個人データを含む可能性がある) を取得する拡張機能を顧客が構築できます。この API は、関連するすべての情報をバックエンド システムから読み込み、その情報を単一のポータブル ドキュメントに組み立てます。
+さらに、Dynamics 365 for Marketing には[専用 API](/dynamics365/customer-engagement/marketing/developer/retrieve-interactions-contact) が用意されており、キャプチャされた顧客とのやり取りに関するその他のレコード (個人データを含む可能性がある) を取得する拡張機能を顧客が構築できます。この API は、関連するすべての情報をバックエンド システムから読み込み、その情報を単一のポータブル ドキュメントに組み立てます。
 
-_*_Dynamics 365 Customer Service Insights_*_ では、Azure の管理ポータルを使用して [顧客データをエクスポート](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-export)します。
+***Dynamics 365 Customer Service Insights*** では、Azure の管理ポータルを使用して [顧客データをエクスポート](/dynamics365/ai/customer-service-insights/gdpr-export)します。
 
-_*_Dynamics 365 for Finance and Operations_*_ には、[データ管理と統合エンティティが用意されています。これは、提供されているエンティティ、新しく作成されたエンティティ、拡張されたエンティティで、個人データを Excel や他の多くの一般的な形式に [[データ インポート/エクスポート ジョブ]](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job) を使用して繰り返しエクスポートできるようにするものです。  または、多くのリストを静的な Excel ファイルにエクスポートして、データの移植性要求を容易にできます。 このようにして顧客データを Excel にエクスポートすると、個人データが移植性要求に含まれるように編集することができ、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。
+***Dynamics 365 for Finance and Operations*** には、[データ管理と統合エンティティが用意されています。これは、提供されているエンティティ、新しく作成されたエンティティ、拡張されたエンティティで、個人データを Excel や他の多くの一般的な形式に [[データ インポート/エクスポート ジョブ](/dynamics365/unified-operations/dev-itpro/data-entities/data-import-export-job)] を使用して繰り返しエクスポートできるようにするものです。  または、多くのリストを静的な Excel ファイルにエクスポートして、データの移植性要求を容易にできます。 このようにして顧客データを Excel にエクスポートすると、個人データが移植性要求に含まれるように編集することができ、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。
 
-Dynamics 365 for Finance and Operations と _*_Dynamics 365 for Talent_*_ のどちらでも、ユーザーが個人データとして分類したデータをデータ対象に提供する個人検索レポートが用意されています。
+Dynamics 365 for Finance and Operations と ***Dynamics 365 for Talent*** のどちらでも、ユーザーが個人データとして分類したデータをデータ対象に提供する個人検索レポートが用意されています。
 
-_*_Dynamics 365 Business Central_*_ には、次の機能が用意されています。
+***Dynamics 365 Business Central*** には、次の機能が用意されています。
 
-- 顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](https://docs.microsoft.com/dynamics365/business-central/about-export-data)」を参照してください。
-- 顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](https://docs.microsoft.com/dynamics365/business-central/about-export-data)」を参照してください。
+- 顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](/dynamics365/business-central/about-export-data)」を参照してください。
+- 顧客データを Excel ファイルにエクスポートできます。 その後に、Excel で顧客データが移植性要求に含まれるように編集し、.csv や .xml などの、コンピューターで読み取り可能な一般的に使用されるファイル形式でそのファイルを保存できます。 詳細については、「[ビジネス データを Excel にエクスポートする](/dynamics365/business-central/about-export-data)」を参照してください。
 
 
 ## <a name="part-2-responding-to-dsrs-for-system-generated-logs"></a>第 2 部: システム生成ログに関する DSR に対する対応
@@ -218,15 +218,15 @@ Microsoft は、GDPR における「個人データ」の広範な定義の下�
 管理者は、特定のユーザーの Dynamics 365 サービスおよびアプリケーションの使用に関連付けられたシステム生成ログにアクセスできます。システム生成ログにアクセスしてエクスポートするには、次の操作を実行します。
 
 1. [Microsoft Service Trust Portal](https://servicetrust.microsoft.com/) に移動し、Dynamics 365 全体管理者の資格情報を使用してサインインします。
-2. ページ上部にある *[プライバシー]* ドロップダウン リストから、**[データ対象要求]** をクリックします。
-3. **[データ主体要求]** ページの **[システム生成ログ]** から、**[データ ログのエクスポート]** をクリックします。
+2. ページ上部にある **[プライバシー]** ドロップダウン リストから、**[データ対象要求]** をクリックします。
+3. [**データ主体要求**] ページの [**システム生成ログ**] から、[**データ ログのエクスポート**] をクリックします。
     > [!NOTE]
     > **[データ ログのエクスポート]** が表示されます。所属する組織によって送信されたエクスポート データ要求の一覧が表示されます。
 4. あるユーザーに関して新しい要求を作成するには、**[エクスポート データ要求を作成する]** をクリックします。
 
 新しい要求を作成すると、その要求は現在の状態を追跡できる **[データ ログのエクスポート]** ページの一覧に表示されます。要求が完了すると、リンクをクリックしてシステム生成ログにアクセスできるようになります。このログは、要求の作成から 30 日以内に、組織で指定した Azure Storage の場所にエクスポートされます。データは、JSON や XML などの、コンピューターで読み取り可能な一般的なファイル形式で保存されます。Azure アカウントや Azure Storage の場所がない場合、Data Log Export ツールでシステム生成ログをエクスポートできるように、組織の Azure アカウントや Azure Storage の場所を作成する必要があります。
 
-Azure では、ユーザーの組織がネイティブ JSON 形式のデータを指定の Azure Storage コンテナーにエクスポートできるようにすることで、この要求をサポートしています。詳細については、「[Microsoft Azure Storage コンテナーの概要 – BLOB ストレージ](https://docs.microsoft.com/azure/storage/common/storage-introduction#blob-storage)」の記事をご覧ください。 取得されるデータにはサービスのセキュリティおよび安定性を損なう可能性があるデータは含まれません。
+Azure では、ユーザーの組織がネイティブ JSON 形式のデータを指定の Azure Storage コンテナーにエクスポートできるようにすることで、この要求をサポートしています。詳細については、「[Microsoft Azure Storage コンテナーの概要 – BLOB ストレージ](/azure/storage/common/storage-introduction#blob-storage)」の記事をご覧ください。 取得されるデータにはサービスのセキュリティおよび安定性を損なう可能性があるデータは含まれません。
 
 > [!IMPORTANT]
 > ユーザー データをテナントからエクスポートするには、テナント管理者である必要があります。
@@ -238,7 +238,7 @@ Azure では、ユーザーの組織がネイティブ JSON 形式のデータ�
 |**Microsoft データ ログのエクスポート ツールが要求の処理を完了するのにはどのくらいの時間がかかりますか?**| これは、いくつかの要因によって異なる場合があります。ほとんどの場合、1 ～ 2 日で完了しますが、最長で 30 日間かかる場合があります。 |
 |**出力はどんな形式ですか?**| 出力は、XML、CSV、または JSON など、コンピューターで読み取り可能な構造化されたファイルになります。 |
 |**データ ログのエクスポート ツールはどのようなデータを返しますか?**| データ ログのエクスポート ツールは、Microsoft が保存しているシステム生成ログを返します。 エクスポートされたデータは、各種 Microsoft サービス (Office 365、Azure、Dynamics など) 全体にわたります。 |
-|**_データ ログのエクスポート ツールには、誰がアクセスしてシステム生成ログに対するアクセス要求を送信できますか?_*| Dynamics 365 の全体管理者は、GDPR ログ マネージャー ユーティリティにアクセスできます。 |
+|***データ ログのエクスポート ツールには、誰がアクセスしてシステム生成ログに対するアクセス要求を送信できますか?**| Dynamics 365 の全体管理者は、GDPR ログ マネージャー ユーティリティにアクセスできます。 |
 |**データは、どのようにしてユーザーに返されますか?**| データは、ユーザー組織 &#39;s の Azure ストレージの場所にエクスポートされます。このデータをユーザーに示す方法または返す方法を決定するのは、ユーザー組織の管理者の役割です。 |
 |**システム生成ログ内のデータはどのように表示されますか?**| JSON 形式のシステム生成ログ レコードの例を次に示します。 <br><br> "DateTime": "2017-04-28T12:09:29-07:00"、 <br> "AppName": "SharePoint"、 <br> "Action": "OpenFile"、 <br> "IP": "154.192.13.131"、 <br> "DevicePlatform": "Windows 1.0.1607" |
 
