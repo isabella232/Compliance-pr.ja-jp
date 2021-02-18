@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 893bdc6f4fd854718db9fce56e92436c0d9384fc
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 953bf5587f621bb46c086ff8138b5519edd8d9fe
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509512"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276055"
 ---
 # <a name="isoiec-20000-12011-information-technology-service-management"></a>ISO/IEC 20000-1:2011 IT サービス マネジメント
 
@@ -45,7 +45,7 @@ ISO 20000-1:2011 認証を取得することは、Microsoft Azure にとって�
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
-- Microsoft マネージド デスクトップ
+- [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
 - 21Vianet が運用している Office 365
 - Microsoft PowerApps
 - Power Automate (以前の Microsoft Flow)
