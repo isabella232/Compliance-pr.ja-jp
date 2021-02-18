@@ -16,20 +16,20 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ffe05b9857d7b04004838c17d19073eb208a99f5
-ms.sourcegitcommit: efe49fd31eb8166e3e72ad1cc65b332c6f3b1327
+ms.openlocfilehash: 8a92f4e29656293b4732d64840cd3e082be89cf2
+ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50260369"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50276065"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
 ## <a name="hitrust--csf-overview"></a>HITRUST - CSF の概要
 
-Health Information Trust Alliance (HITRUST) は、医療業界の代表者が管理する組織です。 HITRUST は、共通セキュリティ フレームワーク (CSF) を作成および維持します。このフレームワークは、医療組織とそのプロバイダーが一貫性のある効率的な方法でセキュリティとコンプライアンスを実証するのに役立ちます。
+Health Information Trust Alliance (HITRUST) は、医療業界の代表者が管理する組織です。 HITRUST は、共通セキュリティ フレームワーク (CSF) を作成および維持します。このフレームワークは、医療組織とそのプロバイダーが一貫性のある合理化された方法でセキュリティとコンプライアンスを実証するのに役立ちます。
 
-CSF は HIPAA と HITECH 法に基に構築されています。この法律は、個人を特定できる健康情報の使用、開示、および保護の要件を定め、準拠を強制する米国の医療法です。 HITRUST は、標準化されたコンプライアンス フレームワーク、評価、および認定プロセスであるベンチマークを提供し、クラウド サービス プロバイダーと対象となる医療エンティティがコンプライアンスを測定できます。 また、CSF には、医療関連のセキュリティ、プライバシー、その他の規制要件が、Payment Card Industry Data Security Standard[(PCI-DSS)、ISO/IEC](https://www.microsoft.com/trustcenter/compliance/pci) [27001](https://www.microsoft.com/trustcenter/compliance/iso-iec-27001) 情報セキュリティ管理基準、Minimum Acceptable Risk Standards for Exchanges[(MARS-E)](https://www.microsoft.com/trustcenter/compliance/mars-e)などの既存のフレームワークに組み込まれております。
+CSF は HIPAA と HITECH 法に基に構築されています。この法律は、個人を特定できる健康情報の使用、開示、保護の要件を定め、準拠を強制する米国の医療法です。 HITRUST は、標準化されたコンプライアンス フレームワーク、評価、および認定プロセスであるベンチマークを提供し、クラウド サービス プロバイダーと対象となる医療エンティティがコンプライアンスを測定できます。 また、CSF には、医療関連のセキュリティ、プライバシー、その他の規制要件が、Payment Card Industry Data Security Standard[(PCI-DSS)、ISO/IEC](https://www.microsoft.com/trustcenter/compliance/pci) [27001](https://www.microsoft.com/trustcenter/compliance/iso-iec-27001) 情報セキュリティ管理基準、Minimum Acceptable Risk Standards for Exchanges[(MARS-E)](https://www.microsoft.com/trustcenter/compliance/mars-e)などの既存のフレームワークから組み込まれております。
 
 CSF は、エンドポイント保護、モバイル デバイスのセキュリティ、アクセス制御など、19 の異なるドメインに分かれています。 HITRUST は、これらのコントロールに対して IT サービスを認定します。 HITRUST は、組織、システム、規制の要因に基づいて、組織のリスクに認定の要件を適合します。
 
@@ -45,7 +45,7 @@ Azure Security and Compliance Blueprint を使用して HITRUST の展開を加�
 
 - [Azure および Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- Microsoft マネージド デスクトップ
+- [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 および Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
@@ -85,10 +85,10 @@ HITRUST MyCSF ツールで Azure の完全に継承または共有された責�
 
 **Office 365 の対象サービスは何ですか?**
 
-HITRUST CSF 認定の対象サービスは、Exchange Online Archiving、Exchange Online Protection、Exchange Online、Skype for Business、管理センター、SharePoint Online、Project Online、OneDrive for Business、Office Online、MyAnalytics、Microsoft Teams、Microsoft Teams、Office 365 マルチテナント クラウドおよび Office 365 GCC の Microsoft 365 Apps for enterprise です。
+HITRUST CSF 認定の対象サービスは、Exchange Online Archiving、Exchange Online Protection、Exchange Online、Skype for Business、管理センター、SharePoint Online、Project Online、OneDrive for Business、Office Online、MyAnalytics、Microsoft Teams、microsoft Teams、Office 365 マルチテナント クラウドおよび Office 365 GCC の Microsoft 365 Apps for enterprise です。
 
 > [!NOTE]
-> Microsoft 365 Apps for enterprise は、ローミング設定、ライセンス、OneDrive コンシューマー クラウド ストレージなど、さまざまなクラウド サービスへのアクセスを可能にし、将来、追加のクラウド サービスにアクセスできる可能性があります。 ローミング設定とライセンスは HITRUST の標準をサポートしています。 OneDrive コンシューマー クラウド ストレージはサポートされていません。また、Microsoft 365 Apps for enterprise を通じてアクセス可能な他のクラウド サービスや、Microsoft が将来提供する可能性があるクラウド サービスも、これらの標準をサポートしていない可能性があります。*
+> Microsoft 365 Apps for enterprise は、ローミング設定、ライセンス、OneDrive コンシューマー クラウド ストレージなど、さまざまなクラウド サービスへのアクセスを可能にし、将来、追加のクラウド サービスにアクセスできる可能性があります。 ローミング設定とライセンスは HITRUST の標準をサポートしています。 OneDrive コンシューマー クラウド ストレージはサポートされていません。また、Microsoft 365 Apps for enterprise を通じてアクセス可能で、将来 Microsoft が提供する可能性のあるその他のクラウド サービスも、これらの標準をサポートしていない可能性があります。*
 
 **一部の Office 365 サービスが、この認定の対象に含まれるのではないのですか?**
 
@@ -98,7 +98,7 @@ Microsoft は、他のクラウド サービス プロバイダーと比較し�
 
 Office 365 のような SaaS にデータを保存する場合、コンプライアンスを実現する責任は Microsoft と組織の間で共有されます。 Microsoft は、物理的なセキュリティ、ネットワーク制御、アプリケーション レベルの制御などを含むインフラストラクチャ制御の大部分を管理し、組織はアクセス制御を管理し、機密データを保護する責任を負います。 新Office 365 HITRUST 認定は、Microsoft のコントロール フレームワークの準拠を示しています。 その上で、組織は HITRUST CSF 要件を満たすために独自のデータ保護コントロールを実装および維持する必要があります。
 
-**Microsoft は、組織が 365 を使用する際に適切なコントロールを実装するためのOffice提供していますか?**
+**Microsoft は、Microsoft 365 を使用する際に適切なコントロールを実装するためのガイダンスOffice提供していますか?**
 
 はい。コンプライアンス スコアでは、組織がクラウド サービスを使用する際に複雑なコンプライアンス義務を果たすのに役立つ、Microsoft クラウド間のソリューションで推奨される顧客アクションを見つける可能性があります。 具体的には、HITRUST CSF の場合は、コンプライアンス スコアで NIST 800-53 および NIST CSF 評価を使用してリスク評価を実行することをお勧めします。 評価では、詳細なガイダンスと、データ保護コントロールの実装に使用できる Microsoft ソリューションを提供します。 コンプライアンス スコアの詳細については、Microsoft コンプライアンス スコア [を参照してください](/microsoft-365/compliance/compliance-manager)。
 
