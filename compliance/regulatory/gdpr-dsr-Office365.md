@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: fb982899fb5159abecc07b90700134b6247b6fee
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3ffda250e017bd97cbfd9d1cf60c8251699e9740
+ms.sourcegitcommit: 3761eaf22bb2c7ed09ed24b9a526404ac7283ab8
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121946"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "50822520"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Office 365 データ対象要求
 
@@ -727,7 +727,7 @@ Bookings では、次の種類のデータが収集および保存されます�
 
 ##### <a name="export"></a>エクスポート
 
-ビジネス オーナー、スタッフ、および顧客に対応するデータをエクスポートするには、ビジネス センター プライバシー ポータルを使用します。「[ビジネス センター プライバシー ポータルでユーザー データをエクスポートまたは削除する](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)」を参照してください。
+ビジネス オーナー、スタッフ、および顧客に対応するデータをエクスポートするには、[ビジネス センター プライバシー ポータル](https://businessaccount.microsoft.com/)を使用します。
 
 ##### <a name="delete"></a>削除
 
@@ -738,7 +738,7 @@ DSR 削除要求に対応して削除できる Bookings データを次に示し
 - **予約イベント:** Bookings カレンダーから予約イベントを削除できます。これにより、顧客の情報が削除されます。
 - **会議出席依頼、メールの確認 / 取り消し / 更新 / リマインダー:** Bookings カレンダーからこれらの情報を削除できます。これにより、顧客の情報が削除されます。
 
-ビジネス オーナーと管理者は、ビジネス センター プライバシー ポータルを使用して顧客のデータを削除できます。「[ビジネス センター プライバシー ポータルでユーザー データをエクスポートまたは削除する](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)」を参照してください。
+ビジネス オーナー、スタッフ、および顧客に対応するデータをエクスポートするには、[ビジネス センター プライバシー ポータル](https://businessaccount.microsoft.com/)を使用します。
 
 また、ビジネス オーナーとスタッフのデータを削除できます。このためには、該当するユーザー アカウントを削除します。「[ユーザーの削除](#deleting-a-user)」セクションを参照してください。
 
@@ -760,7 +760,7 @@ Listings オーナーは、Listings ダッシュボードにサインインし�
 
 ##### <a name="export"></a>エクスポート
 
-ビジネス オーナー、スタッフ、および顧客のデータをエクスポートするには、ビジネス センター プライバシー ポータルを使用します。「[ビジネス センター プライバシー ポータルでユーザー データをエクスポートまたは削除する](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)」を参照してください。
+ビジネス オーナー、スタッフ、および顧客に対応するデータをエクスポートするには、[ビジネス センター プライバシー ポータル](https://businessaccount.microsoft.com/)を使用します。
 
 ##### <a name="delete"></a>削除
 
@@ -784,7 +784,7 @@ Connections オーナーは、Connections ダッシュボードにサインイ�
 
 ##### <a name="export"></a>エクスポート
 
-ビジネス オーナー、スタッフ、および顧客のデータをエクスポートするには、ビジネス センター プライバシー ポータルを使用します。「[ビジネス センター プライバシー ポータルでユーザー データをエクスポートまたは削除する](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8)」を参照してください。
+ビジネス オーナー、スタッフ、および顧客に対応するデータをエクスポートするには、[ビジネス センター プライバシー ポータル](https://businessaccount.microsoft.com/)を使用します。
 
 ##### <a name="delete"></a>削除
 
