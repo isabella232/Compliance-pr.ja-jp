@@ -16,12 +16,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 39e5d666519bac120169f79824173cd0ee63f437
-ms.sourcegitcommit: f37d6ac660910f1cc2204f5ceebd390f7abbdfbf
+ms.openlocfilehash: 1ed40e2a6cd960c4538439f5f34897037e0881cd
+ms.sourcegitcommit: 55a156a6b74ed8c438ae51cdae0654db2806e008
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50175435"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50831072"
 ---
 # <a name="azure-and-dynamics-365-breach-notification-under-the-gdpr"></a>GDRP の下での Azure および Dynamics 365 の侵害通知
 
@@ -47,7 +47,7 @@ Microsoft Azure インシデント管理計画に含まれるセキュリティ 
 | ***4: 安定化と回復*** | インシデント対応チームは問題を軽減するための回復計画を作成します。リスク抑制ステップ (影響を受けたシステムの隔離など) が診断と並行してただちに開始する場合があります。当面のリスクが過ぎ去った後の長期的な軽減計画を立てる場合もあります。 |
 | ***5: クローズと事後分析*** | インシデント対応チームはインシデントの詳細を示す事後分析を作成します。その目的は、ポリシー、手順、プロセスを改訂してイベントの再発を防ぐことです。 |
 
-ホワイトペーパー「[クラウドにおける Microsoft Azure のセキュリティ対応](https://gallery.technet.microsoft.com/Azure-Security-Response-in-dd18c678)」では、Azure 内で発生するセキュリティ インシデントをどのように Microsoft が調査、管理、対応するかを詳しく述べています。
+この[世界の公的機関で安全にクラウドを導入するのための Azure](/azure/azure-government/documentation-government-overview-wwps#breach-notification-process) トピックでは、Azure 内のセキュリティ インシデントに対する Microsoft による調査、管理、対応方法について詳しく説明します。
 
 Microsoft Azure で使われる検出プロセスの目的は、Azure サービスの機密保持性、整合性、可用性にとってリスクとなるイベントを検出することです。次のようなイベントにより、調査が開始する可能性があります:
 
