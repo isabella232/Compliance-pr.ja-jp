@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f2686156a1cc51aefd28865642f5bc637a463062
-ms.sourcegitcommit: 68d927bc03a6e03aecdeac25aba9ae0265d7baf4
+ms.openlocfilehash: b13af6be98f0a5c25e6a2c38e5f6dff9c923e665
+ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50715049"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51002177"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
@@ -45,7 +45,7 @@ Azure Security and Compliance Blueprint を使用して HITRUST の展開を加�
 
 - [Azure および Azure Government](https://aka.ms/AzureCompliance)
 - Intune
-- [Microsoft マネージド デスクトップ](https://docs.microsoft.com/microsoft-365/managed-desktop/intro/compliance)
+- [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
 - [Office 365 および Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
@@ -59,13 +59,13 @@ Azure および 365 の HITRUST CSF 認定Office 2 年間有効です。
 
 Azure のセキュリティとコンプライアンスのブループリント (HIPAA/HITRUST 健康データおよび AI) を使用して、健康データ ソリューション向けのクラウドの利点を活用する上での有利なスタートを切りましょう。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
 
-[HIPAA HITRUST 9.2 ブループリント サンプル](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+[HIPAA HITRUST 9.2 ブループリント サンプル](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
 
 ## <a name="accelerate-your-hipaahitrust-compliance-when-using-office-365"></a>365 で HIPAA/HITRUST コンプライアンスをOfficeする
 
 Office 365 を使用すると、コンプライアンス スコアを使用して安全かつ準拠した方法で正常性情報を管理できます。これにより、HIPAA や NIST CSF や NIST 800-53 のようなセキュリティ制御フレームワークのような正常性規制に対するリスク評価を実行できます。 ステップ バイ ステップのガイダンスに従って、医療コンプライアンスの義務を満たすのに役立つデータ保護制御を実装および維持する方法を知る方法を知る必要があります。
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)
 
 ## <a name="collaborate-with-microsoft-in-the-hitrust-shared-responsibility-program"></a>HITRUST 共有責任プログラムで Microsoft と共同作業する
 
@@ -100,7 +100,7 @@ Office 365 のような SaaS にデータを保存する場合、コンプライ
 
 **Microsoft は、組織が 365 を使用する際に適切なコントロールを実装するためのOffice提供していますか?**
 
-はい、組織がクラウド サービスを使用する際に複雑なコンプライアンス義務を果たすのに役立つ、Microsoft Cloud ソリューションをまたがったコンプライアンス スコアで、推奨される顧客のアクションを確認できます。 具体的には、HITRUST CSF の場合は、コンプライアンス スコアで NIST 800-53 および NIST CSF 評価を使用してリスク評価を実行することをお勧めします。 評価では、データ保護制御の実装に使用できる詳細なガイダンスと Microsoft ソリューションを提供します。 コンプライアンス スコアの詳細については、「Microsoft コンプライアンス [マネージャー」を参照してください](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)。
+はい、組織がクラウド サービスを使用する際に複雑なコンプライアンス義務を果たすのに役立つ、Microsoft Cloud ソリューションをまたがったコンプライアンス スコアで、推奨される顧客のアクションを確認できます。 具体的には、HITRUST CSF の場合は、コンプライアンス スコアで NIST 800-53 および NIST CSF 評価を使用してリスク評価を実行することをお勧めします。 評価では、データ保護制御の実装に使用できる詳細なガイダンスと Microsoft ソリューションを提供します。 コンプライアンス スコアの詳細については、「Microsoft コンプライアンス [マネージャー」を参照してください](/microsoft-365/compliance/compliance-manager)。
 
 **Microsoft との関わり方**
 
@@ -108,7 +108,7 @@ HITRUST MyCSF® ツールにログインし、Microsoft Azure でホストされ
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 コンプライアンス マネージャーで [評価をビルドおよび管理する方法について学習します](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments)。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 コンプライアンス マネージャーで [評価をビルドおよび管理する方法について学習します](/microsoft-365/compliance/compliance-manager-assessments)。
 
 ## <a name="resources"></a>リソース
 
@@ -116,4 +116,4 @@ HITRUST MyCSF® ツールにログインし、Microsoft Azure でホストされ
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
 - [CSF の理解と活用](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [HITRUST 共有責任プログラムの詳細](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
