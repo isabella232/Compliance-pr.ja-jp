@@ -1,5 +1,5 @@
 ---
-title: エンタープライズ ビジネス継続性管理の軽減策のための Microsoft 365
+title: Microsoft 365 for enterprise Business Continuity Management Mitigations
 description: Microsoft 365 サービス インシデント シナリオの軽減のサンプル。
 author: robmazz
 ms.author: robmazz
@@ -16,12 +16,13 @@ ms.collection:
 - Strat_O365_Enterprise
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
-ms.openlocfilehash: b77af73db3a6b9d9fbaf3ae776a6c5077c6972d1
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 34f6bc7e597d4dfc279e55b9b8a1434e3ada45fb
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120476"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496972"
 ---
 # <a name="service-incident-mitigation-strategies"></a>サービス インシデントの軽減戦略
 

@@ -92,12 +92,8 @@
   items:
     - name: ネットワーク セキュリティの概要
       href: assurance-network-security.md
-    - name: サービス拒否防御
-      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: サービス拒否防御の戦略
       href: assurance-microsoft-dos-defense-strategy.md
-    - name: サービス拒否防御の基幹原則
-      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Microsoft 365 サービスのウイルス検出
       href: /microsoft-365/security/office-365-security/virus-detection-in-spo?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: プライバシー
@@ -116,6 +112,10 @@
       href: assurance-sharepoint-online-data-deletion.md
     - name: Microsoft 365 のデータ不変性
       href: assurance-data-immutability.md
+    - name: データ分類と秘密度ラベル
+      href: assurance-data-classification-and-labels.md
+    - name: データ分類フレームワークを作成する
+      href: assurance-create-data-classification-framework.md
 - name: 回復性および継続性
   items:
     - name: 回復性および継続性の概要

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bb86eb3d5e1ce8b8580a35b78718df303bd6770f
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509612"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496531"
 ---
 # <a name="european-union-model-clauses"></a>欧州連合モデル条項
 
@@ -53,7 +53,7 @@ Microsoft は、監査と承認のために標準契約条項を EU の第 29 �
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Azure DevOps Services
-- Windows Defender Advanced Threat Protection は、次のクラウドサービス部分を対象としています。エンドポイント検出 & 応答、自動調査 & 改善されたスコア。
+- Microsoft Defender for Endpoint は、次のクラウド サービス部分を対象としています。エンドポイント検出 & 応答、自動調査 & 修復、セキュリティで保護されたスコア。
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -90,5 +90,5 @@ Microsoft は EU 規格を継続的に調べ、必要に応じてサービスを
 - [Dynamics 365 および Office 365 の EU モデル条項に関する FAQ](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
 - [Microsoft と EU-米国 プライバシー シールド](offering-eu-us-privacy-shield.md)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
