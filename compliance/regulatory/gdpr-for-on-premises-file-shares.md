@@ -13,49 +13,50 @@ localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 ms.collection: MS-Compliance
-ms.openlocfilehash: 6a6b1fdeac71bfcca68391cbc10ec75be0e18410
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: 6fb930d713d22b38d43b57654d83f966c678d004
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121886"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51495984"
 ---
-# <a name="gdpr-for-on-premises-windows-server-file-shares"></a><span data-ttu-id="e1629-103">オンプレミスの Windows Server ファイル共有の GDPR</span><span class="sxs-lookup"><span data-stu-id="e1629-103">GDPR for on-premises Windows Server file shares</span></span>
+# <a name="gdpr-for-on-premises-windows-server-file-shares"></a><span data-ttu-id="7ecf5-103">オンプレミスの Windows Server ファイル共有の GDPR</span><span class="sxs-lookup"><span data-stu-id="7ecf5-103">GDPR for on-premises Windows Server file shares</span></span>
 
-<span data-ttu-id="e1629-104">ファイル共有のための推奨される基本的なアプローチは、次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="e1629-104">The basic recommended approach for file shares is:</span></span>
+<span data-ttu-id="7ecf5-104">ファイル共有のための推奨される基本的なアプローチは、次のとおりです。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-104">The basic recommended approach for file shares is:</span></span>
 
--   <span data-ttu-id="e1629-105">Azure Information Protection を使用して、機密データにラベルを付けます。</span><span class="sxs-lookup"><span data-stu-id="e1629-105">Use Azure Information Protection to label sensitive data.</span></span>
+-   <span data-ttu-id="7ecf5-105">Azure Information Protection を使用して、機密データにラベルを付けます。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-105">Use Azure Information Protection to label sensitive data.</span></span>
 
--   <span data-ttu-id="e1629-106">Azure Information Protection スキャナーを使用して、データを検索します。</span><span class="sxs-lookup"><span data-stu-id="e1629-106">Use Azure Information Protection scanner to find data.</span></span>
+-   <span data-ttu-id="7ecf5-106">Azure Information Protection スキャナーを使用して、データを検索します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-106">Use Azure Information Protection scanner to find data.</span></span>
 
-<span data-ttu-id="e1629-107">ファイル共有のための推奨されるアプローチには、次の手順が含まれます。</span><span class="sxs-lookup"><span data-stu-id="e1629-107">The recommended approach for files shares includes these steps:</span></span>
+<span data-ttu-id="7ecf5-107">ファイル共有のための推奨されるアプローチには、次の手順が含まれます。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-107">The recommended approach for files shares includes these steps:</span></span>
 
-1.  <span data-ttu-id="e1629-108">**Azure Information Protection スキャナーをインストールし、構成します。**</span><span class="sxs-lookup"><span data-stu-id="e1629-108">**Install and configure Azure Information Protection scanner.**</span></span>
+1.  <span data-ttu-id="7ecf5-108">**Azure Information Protection スキャナーをインストールし、構成します。**</span><span class="sxs-lookup"><span data-stu-id="7ecf5-108">**Install and configure Azure Information Protection scanner.**</span></span>
 
-    -   <span data-ttu-id="e1629-109">使用する機密データの種類を決定します。</span><span class="sxs-lookup"><span data-stu-id="e1629-109">Decide which sensitive data types to use.</span></span>
+    -   <span data-ttu-id="7ecf5-109">使用する機密データの種類を決定します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-109">Decide which sensitive data types to use.</span></span>
 
-    -   <span data-ttu-id="e1629-110">使用するローカル フォルダーとネットワーク共有を指定します。</span><span class="sxs-lookup"><span data-stu-id="e1629-110">Specify local folders and network shares to use.</span></span>
+    -   <span data-ttu-id="7ecf5-110">使用するローカル フォルダーとネットワーク共有を指定します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-110">Specify local folders and network shares to use.</span></span>
 
-2.  <span data-ttu-id="e1629-111">**検出サイクルを完了します。**</span><span class="sxs-lookup"><span data-stu-id="e1629-111">**Complete a discovery cycle.**</span></span>
+2.  <span data-ttu-id="7ecf5-111">**検出サイクルを完了します。**</span><span class="sxs-lookup"><span data-stu-id="7ecf5-111">**Complete a discovery cycle.**</span></span>
 
-    -   <span data-ttu-id="e1629-112">検出モードでスキャナーを実行し、検出結果を検証します。</span><span class="sxs-lookup"><span data-stu-id="e1629-112">Run the scanner in discovery mode and validate the findings.</span></span>
+    -   <span data-ttu-id="7ecf5-112">検出モードでスキャナーを実行し、検出結果を検証します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-112">Run the scanner in discovery mode and validate the findings.</span></span>
 
-    -   <span data-ttu-id="e1629-113">必要に応じて、条件と機密情報の種類を最適化します。</span><span class="sxs-lookup"><span data-stu-id="e1629-113">If needed, optimize the conditions and sensitive information types.</span></span>
+    -   <span data-ttu-id="7ecf5-113">必要に応じて、条件と機密情報の種類を最適化します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-113">If needed, optimize the conditions and sensitive information types.</span></span>
 
-    -   <span data-ttu-id="e1629-114">自動的に適用されるラベルの予期される影響を評価します。</span><span class="sxs-lookup"><span data-stu-id="e1629-114">Assess the expected impact of automatically applying labels.</span></span>
+    -   <span data-ttu-id="7ecf5-114">自動的に適用されるラベルの予期される影響を評価します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-114">Assess the expected impact of automatically applying labels.</span></span>
 
-3.  <span data-ttu-id="e1629-115">**Azure Information Protection スキャナーを実行して、対象となるドキュメントにラベルを適用します**。</span><span class="sxs-lookup"><span data-stu-id="e1629-115">**Run the Azure Information Protection scanner to apply labels to qualifying documents**.</span></span>
+3.  <span data-ttu-id="7ecf5-115">**Azure Information Protection スキャナーを実行して、対象となるドキュメントにラベルを適用します**。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-115">**Run the Azure Information Protection scanner to apply labels to qualifying documents**.</span></span>
 
-4.  <span data-ttu-id="e1629-116">**保護のために、**</span><span class="sxs-lookup"><span data-stu-id="e1629-116">**For protection:**</span></span>
+4.  <span data-ttu-id="7ecf5-116">**保護のために、**</span><span class="sxs-lookup"><span data-stu-id="7ecf5-116">**For protection:**</span></span>
 
-    -   <span data-ttu-id="e1629-117">目的としたラベルのドキュメントを保護するための Exchange データ損失防止ルールを構成します。</span><span class="sxs-lookup"><span data-stu-id="e1629-117">Configure Exchange data loss prevention rules to protect documents with the desired label.</span></span>
+    -   <span data-ttu-id="7ecf5-117">目的としたラベルのドキュメントを保護するための Exchange データ損失防止ルールを構成します。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-117">Configure Exchange data loss prevention rules to protect documents with the desired label.</span></span>
 
-    -   <span data-ttu-id="e1629-118">アクセス許可を使用して、ファイルにアクセスできるユーザーを制限するようにしてください。</span><span class="sxs-lookup"><span data-stu-id="e1629-118">Be sure to use permissions to limit who can access files.</span></span>
+    -   <span data-ttu-id="7ecf5-118">アクセス許可を使用して、ファイルにアクセスできるユーザーを制限するようにしてください。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-118">Be sure to use permissions to limit who can access files.</span></span>
 
-5.  <span data-ttu-id="e1629-119">**監視のため、Windows Server のログを SIEM ツールに統合します。**</span><span class="sxs-lookup"><span data-stu-id="e1629-119">**For monitoring, integrate Windows Server logs with a SIEM tool.**</span></span>
+5.  <span data-ttu-id="7ecf5-119">**監視のため、Windows Server のログを SIEM ツールに統合します。**</span><span class="sxs-lookup"><span data-stu-id="7ecf5-119">**For monitoring, integrate Windows Server logs with a SIEM tool.**</span></span>
 
-    -   <span data-ttu-id="e1629-p101">データ主体要求の個人データを検索するため、Azure Information Protection スキャナーを使用します。また、ファイル共有をクロールするよう、SharePoint Server 検索を構成することもできます。</span><span class="sxs-lookup"><span data-stu-id="e1629-p101">To find personal data for data subject requests, use Azure Information Protection scanner. You can also configure SharePoint Server search to crawl file shares.</span></span>
+    -   <span data-ttu-id="7ecf5-p101">データ主体要求の個人データを検索するため、Azure Information Protection スキャナーを使用します。また、ファイル共有をクロールするよう、SharePoint Server 検索を構成することもできます。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-p101">To find personal data for data subject requests, use Azure Information Protection scanner. You can also configure SharePoint Server search to crawl file shares.</span></span>
 
-<span data-ttu-id="e1629-122">Azure Information Protection スキャナーを使用して個人データを検索したりラベル付けすることに関する詳細については、「[Deploy AIP Scanner (AIP スキャナーの展開)](/azure/information-protection/deploy-aip-scanner)」 を参照してください。</span><span class="sxs-lookup"><span data-stu-id="e1629-122">For more information on using Azure Information Protection scanner to find and label personal data, see [Deploy AIP Scanner](/azure/information-protection/deploy-aip-scanner).</span></span>
+<span data-ttu-id="7ecf5-122">Azure Information Protection スキャナーを使用して個人データを検索したりラベル付けすることに関する詳細については、「[Deploy AIP Scanner (AIP スキャナーの展開)](/azure/information-protection/deploy-aip-scanner)」 を参照してください。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-122">For more information on using Azure Information Protection scanner to find and label personal data, see [Deploy AIP Scanner](/azure/information-protection/deploy-aip-scanner).</span></span>
 
-<span data-ttu-id="e1629-p102">さまざまな条件でスキャナーを構成すること、また Office 365 データ損失防止 (DLP) のさまざまな機密情報タイプを使用することに関する情報については、「[Azure Information Protection 用の自動および推奨分類の条件を構成する方法](/information-protection/deploy-use/configure-policy-classification)」を参照してください。新しいタイプの Office 365 機密情報はスキャナーですぐに利用できるようになるわけではなく、カスタム機密情報タイプはスキャナーで使用できないことに注意ください。</span><span class="sxs-lookup"><span data-stu-id="e1629-p102">For information on configuring the scanner for conditions and using the Office 365 data loss prevention (DLP) sensitive information types, see [How to configure conditions for automatic and recommended classification for Azure Information Protection](/information-protection/deploy-use/configure-policy-classification). Note that new Office 365 sensitive information types will not be immediately available to use with the scanner and custom sensitive information types cannot be used with the scanner.</span></span>
+<span data-ttu-id="7ecf5-p102">さまざまな条件でスキャナーを構成すること、また Office 365 データ損失防止 (DLP) のさまざまな機密情報タイプを使用することに関する情報については、「[Azure Information Protection 用の自動および推奨分類の条件を構成する方法](/information-protection/deploy-use/configure-policy-classification)」を参照してください。新しいタイプの Office 365 機密情報はスキャナーですぐに利用できるようになるわけではなく、カスタム機密情報タイプはスキャナーで使用できないことに注意ください。</span><span class="sxs-lookup"><span data-stu-id="7ecf5-p102">For information on configuring the scanner for conditions and using the Office 365 data loss prevention (DLP) sensitive information types, see [How to configure conditions for automatic and recommended classification for Azure Information Protection](/information-protection/deploy-use/configure-policy-classification). Note that new Office 365 sensitive information types will not be immediately available to use with the scanner and custom sensitive information types cannot be used with the scanner.</span></span>
