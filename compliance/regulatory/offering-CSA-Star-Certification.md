@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9c808a80aa2d2ab358378cfb0e50ef28f023bbf7
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: a33f9e6d19caa5a3b26f011b985481224123ea38
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276185"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51496566"
 ---
 # <a name="cloud-security-alliance-csa-star-certification"></a>Cloud Security Alliance (CSA) STAR Certification
 
@@ -49,7 +49,7 @@ Microsoft Azure、Microsoft Intune、Microsoft Power BI では、STAR 認証を�
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Defender Advanced Threat Protection
+- Microsoft Defender for Endpoint
 - OMS Service Map
 - Power Automate (旧称 Microsoft Flow): スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
 - Power Apps クラウド サービス: スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス
@@ -92,4 +92,4 @@ Azure、Microsoft Cloud App Security、Intune、Power BI では、Maturity Capab
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [ISO/IEC 27001](offering-iso-27001.md)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

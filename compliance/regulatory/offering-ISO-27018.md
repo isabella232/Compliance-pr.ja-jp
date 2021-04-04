@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 951b35d755091555450b7bcd4361d56c5159591e
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 319f51416b0bcafb17d8ac343093789146d13742
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276095"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497731"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>クラウドで個人データを保護するための ISO/IEC 27018 実施基準
 
@@ -63,7 +63,7 @@ ISO/IEC 27001 基準と ISO/IEC 27018 の実施基準への準拠が、(この�
 - Power Virtual Agents
 - Microsoft 脅威エキスパート
 - Microsoft Stream
-- Windows Defender ATP: エンドポイントでの検出と対応、自動の調査と修復、セキュリティ スコア
+- Microsoft Defender ATP: エンドポイントの検出と応答、自動の調査と修復、セキュリティ スコア
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

@@ -15,12 +15,13 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 ms.custom: seo-marvel-apr2020
-ms.openlocfilehash: 579e841ba3eb67c4471d53a610b6aca493b9ab72
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+hideEdit: true
+ms.openlocfilehash: d90be4e7c89fb68657312f636aa006fcf4648c55
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121816"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51495791"
 ---
 # <a name="microsoft-365-iso-27001-action-plan--top-priorities-for-your-first-30-days-90-days-and-beyond"></a>Microsoft 365 ISO 27001 のアクション プラン - 最初の 30 日間、90 日間、およびそれ以降の優先事項
 
@@ -57,7 +58,7 @@ ISO/IEC 27001 は、情報セキュリティ管理システム (ISMS) を実装�
 
 |**領域**|**タスク**|
 |:-----|:-----|
-|Microsoft 365 のセキュリティ機能を使用して環境へのアクセスを制御し、定義した標準業務手順書 (SOP) に従って組織の情報と資産を保護します。|• すべてのユーザー アカウントで多要素認証 (MFA) を有効にし、すべてのアプリで先進認証を有効にするなど、[ID とデバイス アクセス ポリシー](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)を実装することによって、管理者とエンド ユーザーのアカウントを保護します。<br>• ユーザー アカウントの資格情報を管理および保護するための[強力なパスワード ポリシー](https://www.microsoft.com/research/publication/password-guidance)を確立します。<br>• 機密データをメールで送信する際にエンド ユーザーが組織の SOP に準拠できるように [Office 365 Message Encryption (OME)](/microsoft-365/compliance/ome) を設定します。<br>• 悪意のあるコードからの保護とデータ侵害の防止と対応のために、すべてのデスクトップに [Windows Defender Advanced Threat Protection](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection) (ATP) を展開します。<br>• 金融、医療など、個人を特定できる情報を含むドキュメントやメール内の 80 種類を超える一般的な機密データを特定、監視、[自動保護](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)するための[データ損失防止 (DLP) ポリシー](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)を構成、テスト、展開します。<br>• [ポリシー ヒント](/exchange/security-and-compliance/data-loss-prevention/policy-tips)を設定することで、ポリシーに抵触するメッセージを送信する前に、メールの送信者にポリシーの 1 つに違反している可能性があることを自動的に通知します。ポリシー ヒントを設定し、メッセージの作成時に可能性のあるポリシー違反についての情報を示す簡単なメモを、Outlook、Outlook on the web、デバイス用 OWA に表示するようにできます。<br>• [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/office-365-atp) を実装し、フィッシング メールや悪意のあるリンクや添付ファイルを含む Office ドキュメントなど、最も一般的な攻撃ベクトルを防止します。|
+|Microsoft 365 のセキュリティ機能を使用して環境へのアクセスを制御し、定義した標準業務手順書 (SOP) に従って組織の情報と資産を保護します。|• すべてのユーザー アカウントで多要素認証 (MFA) を有効にし、すべてのアプリで先進認証を有効にするなど、[ID とデバイス アクセス ポリシー](/microsoft-365/security/office-365-security/microsoft-365-policies-configurations)を実装することによって、管理者とエンド ユーザーのアカウントを保護します。<br>• ユーザー アカウントの資格情報を管理および保護するための[強力なパスワード ポリシー](https://www.microsoft.com/research/publication/password-guidance)を確立します。<br>• 機密データをメールで送信する際にエンド ユーザーが組織の SOP に準拠できるように [Office 365 Message Encryption (OME)](/microsoft-365/compliance/ome) を設定します。<br>• 悪意のあるコードからの保護とデータ侵害の防止と対応のために、すべてのデスクトップに [Windows Defender Advanced Threat Protection (ATP)](/windows/security/threat-protection/windows-defender-atp/windows-defender-advanced-threat-protection) を展開します。<br>• 金融、医療など、個人を特定できる情報を含むドキュメントやメール内の 80 種類を超える一般的な機密データを特定、監視、[自動保護](/microsoft-365/compliance/apply-protection-to-personal-data-in-office-365)するための[データ損失防止 (DLP)](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention) ポリシーを構成、テスト、展開します。<br>• [ポリシー ヒント](/exchange/security-and-compliance/data-loss-prevention/policy-tips)を設定することで、ポリシーに抵触するメッセージを送信する前に、メールの送信者にポリシーの 1 つに違反している可能性があることを自動的に通知します。ポリシー ヒントを設定し、メッセージの作成時に可能性のあるポリシー違反についての情報を示す簡単なメモを、Outlook、Outlook on the web、デバイス用 OWA に表示するようにできます。<br>[Office 365 Advanced Threat Protection](/microsoft-365/security/office-365-security/office-365-atp) を実装し、フィッシング メールや悪意のあるリンクや添付ファイルを含む Office ドキュメントなど、最も一般的な攻撃ベクトルを防止します。|
 
 ## <a name="beyond-90-days--ongoing-security-data-governance-and-reporting"></a>90 日以上 – 継続的なセキュリティ、データ管理、および報告
 

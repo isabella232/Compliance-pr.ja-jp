@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e0ee7f01e3c62c7f2cfac3867435221723fd7e93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: feba7b943f04dc0a9470cef23465f1f63fc55ef7
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121226"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497725"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Payment Card Industry (PCI) Data Security Standard (DSS)
 
@@ -46,7 +46,7 @@ Azure、OneDrive for Business、および SharePoint Online の PCI DSS コン�
 - フロー クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - Microsoft Graph
 - Intune
-- [Microsoft Defender Advanced Threat Protection](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
+- [Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - OneDrive for Business および SharePoint Online (米国のみ)
@@ -106,4 +106,4 @@ PCI Security Standards Council が提供している情報により、具体的�
 - [PCI データ セキュリティ基準](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
 - [Azure PCI DSS 3.2.1 ブループリント](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [PCI DSS クイック レファレンス ガイド](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f0ad19fdeb794d281342367ad9313ac159b9acf0
-ms.sourcegitcommit: 4f70b1fe53943f9d919e7e1f449093b90b30f046
+ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
+ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50276035"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "51497274"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 品質管理システム標準
 
@@ -40,10 +40,10 @@ ISO 9001:2015 により確立された品質管理原則を忠実に守るため
 - Dynamics 365、Dynamics 365 Government、Dynamics 365 ドイツ
 - Microsoft Graph
 - Intune
-- Microsoft Defender Advanced Threat Protection
+- Microsoft Defender for Endpoint
 - Microsoft Healthcare Bot
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (以前の Microsoft Flow) クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - Power BI Embedded
