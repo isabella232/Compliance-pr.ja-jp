@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e93f71a023fe79e768e96b3c8894bf09d0655b6e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508259"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089761"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Good Clinical, Laboratory, and Manufacturing Practices (GxP)
 
@@ -55,7 +55,7 @@ Azure および Office 365 で GxP ソリューションを構築するライフ
 ## <a name="how-to-implement"></a>実装方法
 
 - [Microsoft 365 GxP ガイドライン](../downloads/microsoft-365-gxp-guidelines-july-2020.pdf): GxP のベストプラクティスと規制に準拠しながら、Microsoft 365 を使用するためのホワイトペーパー。
-- [Microsoft Dynamics 365 GxP ガイドライン](../downloads/microsoft-dynamics-365-gxp-guidelines-july-2020.pdf): GxP のベストプラクティスと規制に準拠しながら、Microsoft Dynamics 365 を使用するためのホワイトペーパー。
+- [Microsoft Dynamics 365 GxP ガイドライン](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=fb579b09-0874-4197-a97e-a25992383482&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_Compliance_Guides): GxP のベストプラクティスと規制に準拠しながら、Microsoft Dynamics 365 を使用するためのホワイトペーパー。
 - [Azure GxP ガイドライン](https://aka.ms/gxpcompliance): GxP のベストプラクティスと規制に準拠しながら、Azure を使用するための包括的なツールセット。
 - [GxP システムで Azure を使用する](https://aka.ms/GXP-Azure-Strategies): ライフサイエンス企業が GxP アプリケーションを構築するための戦略を確立するのに役立ちます。
 - FDA CFR Title 21 第 11 部のガイド：電子記録の FDA ガイドラインに準拠する[ Azure ](https://aka.ms/Azure-FDA-Guidelines)および[ Office 365 ](https://aka.ms/o365-qualification-guideline)認定戦略の確立に関するヘルプをご覧ください。
@@ -71,4 +71,4 @@ Azure にアプリケーションを展開するお客様は、使用目的に�
 - [Microsoft と FDA CFR Title 21 第 11 部](offering-fda-cfr-title-21-part-11.md)
 - [Microsoft と ISO/IEC 27001](offering-iso-27001.md)
 - [Microsoft と ISO 9001](offering-iso-9001.md)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

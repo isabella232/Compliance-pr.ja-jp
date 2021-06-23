@@ -1,6 +1,6 @@
 ---
 title: データセンターのセキュリティの概要
-description: Microsoft 365 のデータセンター セキュリティの詳細
+description: データ センターのセキュリティについてMicrosoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: acf244f5a8e9ab10e2fea02e2dc1c115156c0297
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497597"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088656"
 ---
 # <a name="datacenter-security-overview"></a>データセンターのセキュリティの概要
 
@@ -39,7 +39,7 @@ Microsoft のクラウド サービスを支えるデータセンターは、世
 
 ## <a name="how-does-microsoft-protect-its-datacenters-from-unauthorized-access"></a>Microsoft では、データ センターを不正アクセスから保護する方法を説明します。
 
-物理的なデータセンター施設へのアクセスは、境界フェンシング、セキュリティ担当者、ロックされたサーバー ラック、統合アラーム システム、運用センターによる 24 時間体制のビデオ監視、多要素アクセス制御など、各レベルでセキュリティが強化されるとともに、外部および内部の境界によって厳しく制御されます。 Microsoft データセンターへのアクセスを許可されているのは、必須の担当者のみです。 顧客データを含む Microsoft 365 インフラストラクチャへの論理的なアクセスは、Microsoft データセンター内では禁止されています。
+物理的なデータセンター施設へのアクセスは、境界フェンシング、セキュリティ担当者、ロックされたサーバー ラック、統合アラーム システム、運用センターによる 24 時間体制のビデオ監視、多要素アクセス制御など、各レベルでセキュリティが強化されるとともに、外部および内部の境界によって厳しく制御されます。 Microsoft データセンターへのアクセスを許可されているのは、必須の担当者のみです。 顧客データを含Microsoft 365インフラストラクチャへの論理的なアクセスは、Microsoft データセンター内では禁止されています。
 
 Microsoft のセキュリティ オペレーション センターでは、統合された電子アクセス制御システムと共にビデオ監視システムを使用して、データセンターのサービス拠点や施設を監視しています。 カメラは、施設の外周、エントランス、出荷エリア、サーバー ケージ、内部の通路、その他の機密性の高いセキュリティ上の注目ポイントを効果的にカバーするために戦略的に配置されています。 Microsoft の多層的なセキュリティ態勢の一環として、統合セキュリティ システムによって検出された不正な侵入の試みは、セキュリティ担当者へのアラートを生成し、即座に対応と是正を行います。
 
@@ -64,3 +64,7 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 | [ISO 27001/27002 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.11: 物理的および環境的なセキュリティ | 2020 年 12 月 2 日 |
 | [SOC 1 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=66043614-5628-4e26-83be-057eb3bb026c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: データセンターの物理アクセス プロビジョニング <br> PE-2: データセンターのセキュリティ検証 <br> PE-3: データセンターのユーザー アクセス レビュー <br> PE-4: データセンターの物理アクセスメカニズム <br> PE-5: データセンターの物理的監視監視 <br> PE-6: データセンターの重要な環境のメンテナンス <br> PE-7: データセンター環境制御 <br> PE-8: データセンターインシデント対応 | 2020 年 10 月 30 日 |
 | [SOC 2 (Azure)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=ce5bfbea-3514-40ae-a8a6-3617106a0b56&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | PE-1: データセンターの物理アクセス プロビジョニング <br> PE-2: データセンターのセキュリティ検証 <br> PE-3: データセンターのユーザー アクセス レビュー <br> PE-4: データセンターの物理アクセスメカニズム <br> PE-5: データセンターの物理的監視監視 <br> PE-6: データセンターの重要な環境のメンテナンス <br> PE-7: データセンター環境制御 <br> PE-8: データセンターインシデント対応 | 2020 年 10 月 30 日 |
+
+## <a name="resources"></a>リソース
+
+- [Microsoft Story Labs: We Live in the Cloud](https://news.microsoft.com/stories/microsoft-datacenter-tour/)

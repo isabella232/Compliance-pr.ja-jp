@@ -1,6 +1,6 @@
 ---
-title: 米国セクション508
-description: Microsoft では、これらのサービスのユーザー補助機能について説明する多くのクラウドサービスについて、詳細なアクセシビリティ準拠レポートを提供しています。
+title: 米国セクション 508
+description: Microsoft は、それらのサービスのアクセシビリティ機能を説明する多くのクラウド サービスに対して、詳細なアクセシビリティ準拠レポートを提供しています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,24 +16,24 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4af002c6543659ce78cd7d03e037088324e6af2e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508306"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088806"
 ---
-# <a name="us-section-508"></a>米国セクション508
+# <a name="us-section-508"></a>米国セクション 508
 
-## <a name="about-us-section-508"></a>米国セクション508について
+## <a name="about-us-section-508"></a>米国のセクション 508 について
 
-米国 Congress では、Rehabilitation Act を1998および2000で修正して、電子情報技術 (ソフトウェア、ハードウェア、電子コンテンツ、サポートドキュメントなど) が、障碍のあるユーザーがアクセスできるようにする必要があります。 508年1973の米国労働力 Rehabilitation Act のセクション (29 US Code § 79 4d)。修正されたように、障碍を持つ連邦機関の従業員が、データのアクセスと使用を同等にし、その他の連邦従業員に対して相対的にデータを使用することを保証する方法については、政府機関によって求められます。
+米国議会は、1998 年と 2000 年にリハビリ法を改正し、連邦政府機関に対し、ソフトウェア、ハードウェア、電子コンテンツ、サポート ドキュメントなどの電子および情報技術 (EIT) 製品を障がい者がアクセス可能にすることの要求を行いました。 1973 年の米国労働力再生法第 508 条 (29 US Code §794d) は、修正された通り、連邦政府機関が、障害を持つ連邦従業員が他の連邦従業員と比較してデータおよび EIT に同等のアクセス権を持ち、使用できる方法で EIT を調達、維持、使用する義務を課しています。
 
-Microsoft は、米国連邦および州政府向けの主要なソフトウェアおよびクラウドサービスプロバイダーです。  政府機関のお客様が調達に関する決定を支援するために、Microsoft は、製品とサービスがセクション508の基準をサポートする範囲を示す、アクセシビリティ準拠レポートを公開しています。  この情報は、Microsoft のお客様が、特定の製品やサービスが特定のニーズに合うかどうかを判断するのに役立ちます。
+Microsoft は、米国連邦政府および州政府の主要なソフトウェアおよびクラウド サービス プロバイダーです。  政府のお客様が調達決定を下すのを支援するために、Microsoft は、製品およびサービスがセクション 508 の基準をどの程度サポートしているのかについて説明するアクセシビリティ準拠レポートを発行しています。  この情報は、Microsoft のお客様が、特定の製品やサービスが特定のニーズに合うかどうかを判断するのに役立ちます。
 
-## <a name="microsoft-and-us-section-508"></a>Microsoft および米国のセクション508
+## <a name="microsoft-and-us-section-508"></a>Microsoft および米国セクション 508
 
-Microsoft では、製品とサービスの開発における米国のセクション508に関する考慮事項について、すべてのお客様がテクノロジとデータにアクセスできるようにすることをお約束しています。
+製品およびサービスの開発における Microsoft の米国 508 セクションの検討は、すべてのお客様がテクノロジとデータをアクセス可能にする取り組みを示しています。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
@@ -51,8 +51,8 @@ Microsoft では、製品とサービスの開発における米国のセクシ�
 
 ## <a name="resources"></a>リソース
 
-- [Microsoft アクセシビリティページ](https://go.microsoft.com/fwlink/p/?linkid=2051579): すべてのユーザーがより多くのことを達成できるようにする方法について説明します。
+- [[Microsoft アクセシビリティ] ページ](https://go.microsoft.com/fwlink/p/?linkid=2051579): Microsoft がイノベーションを起こして、すべてのユーザーがさらに多くの機能を実現する方法について説明します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [DHS 信頼テスタープログラム](https://go.microsoft.com/fwlink/?linkid=2052171): Microsoft が参加する米国国土安全保障 (DHS) 信頼されたテスタープログラムに関する情報を取得します。
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [DHS 信頼できるテスター プログラム](https://go.microsoft.com/fwlink/?linkid=2052171): Microsoft が参加する米国の米国家庭セキュリティ省 (DHS) 信頼できるテスター プログラムに関する情報を取得します。
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

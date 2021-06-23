@@ -1,6 +1,6 @@
 ---
-title: 肘掛けされる国際トラフィック (ITAR)
-description: Azure Government は、Regs 対応システムでの国際トラフィックの作成をお客様にサポートしています。
+title: 国際武器規制 (ITAR)
+description: Azure Government は、Arms Regs 対応システムで米国の国際トラフィックを構築する顧客をサポートしています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,30 +16,30 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dbc69c59b2f6a0a5df266ea0fe0694f3c4ac609e
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509459"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088926"
 ---
-# <a name="international-traffic-in-arms-regulations-itar"></a>肘掛けされる国際トラフィック (ITAR)
+# <a name="international-traffic-in-arms-regulations-itar"></a>国際武器規制 (ITAR)
 
 ## <a name="itar-overview"></a>ITAR の概要
 
-米国の米国の州では、防衛輸出統制法 (Title 22 USC 2778) と、肘掛けされた国際トラフィック (ITAR) (title 22 CFR 120 – 130) によって制御される、「米国 Munitions のリストに記載されているアイテムまたは技術データを管理する責任があります (タイトル 22 CFR 121.1)。 Directorate は、これらのプログラムによって管理されるエンティティの管理を担当します。
+米国国務省は、武器輸出管理法 (タイトル 22 USC 2778) および国際武器規制 (ITAR) (タイトル 22 CFR 120-130) に準拠する、米国軍需リストで指定されたアイテムまたは技術データ) の輸出および一時的な輸入を管理する責任があります。 防衛貿易管理局 (DDTC) は、これらのプログラムの下で管理されるエンティティを管理する責任があります。
 
-## <a name="microsoft-and-itar"></a>Microsoft および ITAR
+## <a name="microsoft-and-itar"></a>Microsoft と ITAR
 
-Microsoft は、ITAR 義務を持つお客様をサポートできる特定のクラウドサービスまたはサービス機能を提供しています。 ITAR のコンプライアンス証明書はありませんが、Microsoft は、お客様の ITAR 義務とコンプライアンスプログラムをサポートするために、Microsoft が運用しており、スコープ内のサービスを設計しています。  
+Microsoft は、ITAR の義務で顧客をサポートできる特定のクラウド サービスまたはサービス機能を提供します。 ITAR のコンプライアンス認定は行なってはいないが、Microsoft は、お客様の ITAR 義務とコンプライアンス プログラムをサポートできる範囲内サービスを運用および設計しています。  
   
-Microsoft Azure Government および Microsoft Office 365 の米国国防総省は、ITAR のデータを持つお客様に対して、保存されているデータの場所に関するその他の契約上のコミットメントと、そのようなデータにアクセスするための制限についてのサポートを提供します。 Microsoft では、これらの政府機関サービスのインフラストラクチャおよび運用コンポーネントについてこれらの保証を提供していますが、お客様は、環境内のアプリケーションの保護とアーキテクチャを最終的に担当しています。  
+Microsoft Azure政府機関と Microsoft Office 365 米国防省は、保存されたデータの場所に関する追加の契約上のコミットメント、および米国の個人に対するそのようなデータへのアクセス機能の制限を通じて、ITAR の対象となるデータをお客様にサポートします。 Microsoft は、これらの政府機関向けクラウド サービスのインフラストラクチャと運用コンポーネントに対してこれらの保証を提供していますが、最終的には、お客様が環境内のアプリケーションの保護とアーキテクチャに責任を負います。  
   
-お客様は、microsoft がお客様と米国政府機関の両方の責任に準拠できるように、ITAR が管理するデータを保存することを正式に Microsoft に通知する、追加の契約に署名する必要があります。  
+お客様は、MICROSOFT が ITAR が管理するデータを保存する意思を Microsoft に正式に通知する追加契約に署名し、Microsoft が顧客と米国政府の両方に対する責任を遵守する必要があります。  
   
-ITAR には、違反を報告するための特定の義務があります。これにより、特定のリスク軽減のメリットが得られます。 Microsoft エンタープライズアグリーメントの修正により、Microsoft とお客様は、このような違反を報告する際に共同作業を行うことができます。  
+ITAR には違反を報告する特定の義務があります。これは、特定のリスク軽減の利点を提供できます。 Microsoft Enterprise Agreement修正プログラムを使用すると、Microsoft と顧客は、このような違反の報告に関して一緒に作業できます。  
   
-ITAR 規制データのホストを求めるお客様は、Microsoft アカウントおよびライセンスチームと協力して、詳細を確認し、適切な同意を得て、関連するシステムアーキテクチャ情報にアクセスする必要があります。
+ITAR で規制されたデータをホストする場合は、Microsoft アカウントとライセンス チームと一緒に作業し、詳細を確認し、適切な契約を取得し、関連するシステム アーキテクチャ情報にアクセスする必要があります。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
@@ -48,15 +48,15 @@ ITAR 規制データのホストを求めるお客様は、Microsoft アカウ�
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**コンプライアンス情報を要求するには、どうすればよいですか?**
+**コンプライアンス情報はどこで要求できますか?**
 
 Microsoft アカウント担当者にお問い合わせください。
 
 ## <a name="resources"></a>リソース
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
-- [ITAR Title 22 CFR 120 –130](https://aka.ms/itar)
-- [ITAR で制御されるデータでの Azure Government の使用](https://aka.ms/azure-itar-guide)
+- [ITAR タイトル 22 CFR 120~130](https://aka.ms/itar)
+- [ITAR 制御データで Azure Government を使用する](https://aka.ms/azure-itar-guide)
 - [Azure Government](https://azure.microsoft.com/features/gov/)
-- [Office 365 米国政府機関](https://products.office.com/government/office-365-web-services-for-government)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Office 365米国政府](https://products.office.com/government/office-365-web-services-for-government)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

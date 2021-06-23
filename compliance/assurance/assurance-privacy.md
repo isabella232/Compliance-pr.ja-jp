@@ -1,6 +1,6 @@
 ---
 title: プライバシーの概要
-description: Microsoft 365 でのプライバシーの詳細
+description: プライバシーについて詳しくは、Microsoft 365
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,12 +19,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b94a8e610a782559a322eb9db812202f7f8698ed
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 42cc3db2ce0e072cb42ee4694757896958cd5e5c
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496910"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53087666"
 ---
 # <a name="privacy-overview"></a>プライバシーの概要
 
@@ -40,7 +40,7 @@ Microsoft は、企業全体でプライバシーに関する取り組みを確�
 
 データ ライフサイクルは、Microsoft が顧客ガイダンスに基づいて、適用されるセキュリティおよびプライバシー法に準拠してデータを処理する方法について説明します。 データ ライフサイクルの段階には、収集、処理、サードパーティの共有 (該当する場合)、保持、破棄が含まれます。 Microsoft のプライバシーに対するアプローチは、お客様のプライバシーを保護するために、データ ライフサイクルの各段階を通知します。
 
-Microsoft では、顧客データの収集を、[](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)顧客データ、サービス生成データ、診断データ、プロフェッショナル サービス データの 4 つの特定のデータ カテゴリに制限しています。 Microsoft は、これらのカテゴリのデータを使用して、お客様にサービスを提供するために必要な一連の正当なビジネス操作 (LBOs) を実行します。 データが収集され、LBOs を実行するために処理される場合、Microsoft は、診断データを仮名化し、使用する前にデータを集計することで、個々の顧客とユーザーを保護します。 お客様のデータの内容にアクセスして、個人と見なされる可能性がある特定のデータを特定する必要があります。 代わりに、すべての顧客データとすべてのプロフェッショナル サービス データに個人データが含まれていると想定し、そのデータを保護します。
+Microsoft では、顧客データの収集を、[](https://www.microsoft.com/trust-center/privacy/customer-data-definitions?rtc=1)顧客データ、サービス生成データ、診断データ、およびサービス データの 4 つの特定のProfessional制限します。 Microsoft は、これらのカテゴリのデータを使用して、お客様にサービスを提供するために必要な一連の正当なビジネス操作 (LBOs) を実行します。 データが収集され、LBOs を実行するために処理される場合、Microsoft は、診断データを仮名化し、使用する前にデータを集計することで、個々の顧客とユーザーを保護します。 お客様のデータの内容にアクセスして、個人と見なされる可能性がある特定のデータを特定する必要があります。 代わりに、すべての顧客データとすべてのプロフェッショナル サービス データに個人データが含まれていると想定し、そのデータを保護します。
 
 ## <a name="how-does-microsoft-handle-third-party-sharing"></a>Microsoft はサードパーティの共有を処理する方法を説明します。
 
@@ -50,7 +50,7 @@ Microsoft では、顧客データの収集を、[](https://www.microsoft.com/tr
 
 Microsoft Data Handling Standard は、削除後に顧客データを保持する期間を指定します。 顧客がサブスクリプションを終了すると、Microsoft は顧客データを 90 日間限定機能アカウントに保持し、顧客がデータを抽出できるようにします。 90 日間の保持期間が終了すると、顧客データの保持が許可されていない場合、または法律により保持が要求されていない限り、Microsoft は顧客データを削除します。 Microsoft 365 のサブスクリプションの期限切れまたは終了後 180 日以内に、Microsoft はアカウントを無効にし、すべての顧客データをアカウントから削除します。 データの最大保存期間が経過すると、そのデータは商業的に回復できなくなります。
 
-また、サービスのセキュリティと安定性を維持するためにデータを必要としない限り、Microsoft はサービス生成および診断データを標準の Microsoft データ ライフサイクルの一部として削除します。 サブスクリプションについては、サブスクライバーは Microsoft サポートに連絡して、サブスクリプションのデプロビジョニングの迅速化を要求できます。 顧客がこのプロセスを活用すると、管理者が Microsoft が提供するロックアウト コードを入力した 3 日後に、すべてのユーザー データが削除されます。 この削除には、保持中または非アクティブなメールボックスに保存されている SharePoint Online および Exchange Online のデータが含まれます。
+また、サービスのセキュリティと安定性を維持するためにデータを必要としない限り、Microsoft はサービス生成および診断データを標準の Microsoft データ ライフサイクルの一部として削除します。 サブスクリプションについては、サブスクライバーは Microsoft サポートに連絡して、サブスクリプションのデプロビジョニングの迅速化を要求できます。 顧客がこのプロセスを活用すると、管理者が Microsoft が提供するロックアウト コードを入力した 3 日後に、すべてのユーザー データが削除されます。 この削除には、オンラインのSharePoint、非アクティブExchange Online保持中または非アクティブなメールボックスに保存されているデータが含まれます。
 
 ## <a name="related-external-regulations--certifications"></a>関連する外部規制&認定
 
@@ -58,7 +58,7 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2020 月 2 月 22 日 |
+| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2021 年 4 月 20 日 |
 | [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: サービス レベル契約 (SLA) <br> CA-17: Microsoft セキュリティ ポリシー <br> CA-25: コントロール フレームワークの更新 | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース

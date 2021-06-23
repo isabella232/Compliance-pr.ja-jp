@@ -1,5 +1,5 @@
 ---
-title: 医療保険の携行性と責任に関する法律と HITECH 法 (Health Insurance Portability and Accountability (HIPAA) & HITECH Acts)
+title: 医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 description: Microsoft は、医療保険の携行性と責任に関する法律のビジネス アソシエイト契約 (BAA) を提供しています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
@@ -16,46 +16,40 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: dbd05b64deb7b74a590a09f81004968e6cf3a84d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497786"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089520"
 ---
-# <a name="health-insurance-portability-and-accountability-hipaa--hitech-acts"></a>医療保険の携行性と責任に関する法律と HITECH 法 (Health Insurance Portability and Accountability (HIPAA) & HITECH Acts)
+# <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 
 ## <a name="hipaa-and-the-hitech-act-overview"></a>HIPAA と HITECH 法の概要
 
-健康保険の携行性と責任に関する法律 (HIPAA) は、個人を特定できる健康情報の使用、開示、および保護に関する要件を定めた米国の医療法です。 対象となるエンティティ、医師のオフィス、病院、医療保険者、その他の医療会社に適用され、患者の保護された健康情報 (PHI) にアクセスできるだけでなく、クラウド サービスや IT プロバイダーなどのビジネスアソシエイトが、その代わりに PHI を処理します。 (ほとんどの対象事業体は、クレームやデータ処理などの機能を単独では実行しません。それらの機能の実行については、ビジネス関係者に依存しています。)
+1996 年の健康保険の移植性と説明責任法 (HIPAA) および HIPAA に基づく規制は、個人を特定できる健康情報の使用、開示、および保護の要件を確立する一連の米国の医療法です。 HIPAA の範囲は、2009 年に「健康情報技術 for Economic and Clinical Health (HITECH) Act」の制定により拡張されました。
 
-法律は、4 つの一般的な分野での PHI の使用および普及を規制しています。
+HIPAA は、患者の保護された健康情報 (PHI) を作成、受信、維持、送信、またはアクセスする対象エンティティ (具体的には、医療提供者、医療計画、および医療クリアリングハウス) に適用されます。 HIPAA は、対象エンティティにサービスを提供する一環として、または対象エンティティの代理として PHI に関する特定の機能またはアクティビティを実行する対象エンティティのビジネスアソシエイトにも適用されます。  
 
-- プライバシー。患者の機密性を対象とします。
-- セキュリティ。物理的、技術的、および管理面での保護を含む情報の保護を扱います。
-- 識別子。これは、調査目的で収集された場合に公開できない情報の種類です。
-- 医療関連の取引におけるデータの電子送信のためのコード。適格性および保険金の請求や支払いを含みます。
+対象となるエンティティが Microsoft などのクラウド サービス プロバイダーのサービスに従事する場合、クラウド サービス プロバイダーは HIPAA の下でビジネス アソシエイトとなります。 また、ビジネスがクラウド サービス プロバイダーと下請け業者を関連付け、PHI の作成、受信、保守、または送信を行う場合、クラウド サービス プロバイダーもビジネス アソシエイトになります。
 
-HIPAA の範囲は、経済的および臨床的健全性のための健康情報技術 (HITECH) 法の制定により拡張されました。HIPAA および HITECH 法のルールには以下が含まれます。
+## <a name="microsoft-hipaa-and-the-hitech-act"></a>Microsoft、HIPAA、HITECH 法
 
-- 個人が各自の個人情報の使用をコントロールする権利に焦点を当てる HIPAA プライバシー ルールは、PHI の機密性を対象とし、その使用と開示を制限します。
-- HIPAA セキュリティ ルール。管理面、技術的、および物理的な保護の基準を設定し、電子 PHI を不正なアクセス、使用、および開示から保護します。 また、ビジネス アソシエイト契約 (BAA) などの組織の要件も含まれます。
+HIPAA の規制では、PHI が適切に保護されているのを確認するために、対象となるエンティティ (ルールに基づく) がビジネスアソシエイトと契約を締結する必要があります。 この契約はビジネスアソシエイト契約と呼ばれる。 とりわけ、ビジネス アソシエイト契約は、当事者とビジネス アソシエイトが実行するアクティビティまたはサービスとの関係に基づいて、ビジネス アソシエイトによる PHI の許可および必須の使用と開示を確立します。 Microsoft エンタープライズ製品およびサービスを利用する際に、お客様の HIPAA への準拠をサポートするために、Microsoft は対象のエンティティおよびビジネス アソシエイトのお客様とビジネス アソシエイト契約を締結します。
 
-HITECH 違反の通知に関する最終ルール。セキュリティ保護されていない PHI 違反が発生した場合、個人および政府に通知する必要があります。
+現在、HIPAA またはビジネス アソシエイトによる HITECH 法の遵守を証明するために、保健福祉省によって承認されている認定基準はありません。 ただし、Microsoft は、お客様が HIPAA および HITECH 法に準拠し、ビジネス アソシエイトとしての能力で HIPAA のセキュリティ ルール要件を遵守します。 さらに、Microsoft は、対象となるエンティティおよびビジネスアソシエイトのお客様とビジネス アソシエイト契約を締結し、HIPAA 義務の遵守をサポートします。  
 
-## <a name="microsoft-and-hipaa-and-the-hitech-act"></a>Microsoft と HIPAA および HITECH 法
+## <a name="third-party-certifications"></a>サード パーティ認定
 
-HIPAA の規制では、対象となるエンティティとそのビジネスアソシエイト (この場合、クラウド サービスを含むサービスを含む) を対象エンティティに提供する場合は、それらのビジネスアソシエイトが PHI を適切に保護するために契約を締結する必要があります。 これらの契約 (BAA) は、ビジネス アソシエイトが PHI を処理する方法を明確にし、制限し、HIPAA および HITECH 法に定めるセキュリティおよびプライバシーに関する規定を各当事者が遵守するよう定める。BAA が設定された後、Microsoft のお客様 (対象エンティティ) は、そのサービスを使用して PHI を処理および保存できます。
+Microsoft サービスは、Microsoft ISO/IEC 27001 認定および HITRUST CSF 認定の認定を受けた独立監査人によって監査を受けている。
 
-現在、HIPAA または HITECH 法のコンプライアンスに関する公式の認定資格はありません。 ただし、BAA の対象となるこれらの Microsoft サービスは、Microsoft ISO/IEC 27001 認定の独立監査人によって実施された監査を受けています。
+Microsoft エンタープライズ クラウド サービスも FedRAMP 評価の対象です。 Microsoft AzureおよびMicrosoft Azure政府は、FedRAMP 共同承認委員会から運用する暫定機関を受け取った。Microsoft Dynamics 365 米国政府は、米国保健福祉省から Microsoft Office 365 米国政府と同様に、米国住宅都市開発省から運営機関機関を受け取った。
 
-Microsoft エンタープライズ クラウド サービスも FedRAMP 評価の対象です。 Microsoft Azure と Microsoft Azure Government は、FedRAMP 合同認定委員会から規定業務認可を受けました。Microsoft Dynamics 365 U.S. Government は、米国保健福祉省の Microsoft Office 365 U.S. Government と同様に、米国住宅都市開発省からエージェンシー業務認可を受けました。
-
-Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠をどのように支援するかについては、「[Microsoft のお客様事例](https://customers.microsoft.com)」をご覧ください。
+Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠をどのように支援するかについては、「[Microsoft のお客様事例](https://customers.microsoft.com/)」をご覧ください。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
+- [Azure と Azure Government](https://aka.ms/AzureCompliance)(Microsoft の HIPAA Business Associate Agreement のスコープ内のサービスの完全な一覧については、「付録 *A* と *B」* を参照してください)
 - Microsoft Cloud App Security
 - [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
@@ -72,37 +66,38 @@ Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠�
 
 ## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Azure での HIPAA/HITRUST ソリューションの展開を加速する
 
-Azure Security and [Compliance Blueprint: HIPAA/HITRUST Health Data](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)and AI を使用して、クラウドのメリットを利用して正常性データ ソリューションを活用しましょう。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
+Azure Security and [Compliance Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)を使用して、クラウドのメリットを利用して正常性データ ソリューションを活用しましょう。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
+
+詳細については [、「Azure と HIPAA の提供](/azure/compliance/offerings/offering-hipaa-us) 」をご覧ください。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **自分の所属組織は Microsoft と BAA を締結できますか ?**
 
-Microsoft は、対象企業またはそのサプライヤーに、範囲内の Microsoft サービスを対象とする BAA を提供します。
+はい。 Microsoft は、対象となるエンティティとビジネスアソシエイトのお客様に、スコープ内の契約をカバーするビジネス アソシエイト契約をMicrosoft サービス。
 
-Microsoft クラウド サービスの場合: [HIPAA ビジネス アソシエイト契約](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)は、HIPAA の対象事業体またはビジネス関係者であるすべての顧客が、オンライン サービスの使用条件を介して既定で利用できます。 この BAA の対象となるクラウド サービスの一覧については、この Web ページの「対象となる Microsoft のクラウド サービス」を参照してください。
+[Microsoft HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)は、MICROSOFT ONLINE SERVICES Data Protection Addendum を通じて、HIPAA の下でエンティティまたはビジネスアソシエイトを対象としているすべての顧客に対して既定で利用できます。 この BAA の対象となるクラウド サービスの一覧については、この Web ページの「対象となる Microsoft のクラウド サービス」を参照してください。
 
-Microsoft Professional Services サービスの場合: HIPAA ビジネス アソシエイト の修正は、Microsoft サービス担当者への要求に応じて、範囲内のMicrosoft Professional Services で利用できます。
+HIPAA Business Associate Agreement は、スコープ内の Microsoft Professionalサービスでも利用できます。 詳細については、Microsoft サービス担当者にお問い合わせください。
 
-**MICROSOFT に BAA を持つことで、組織が HIPAA および HITECH 法に準拠しているのですか?**
+**Microsoft とビジネス アソシエイト契約を締結すると、組織が HIPAA および HITECH 法に準拠しているのですか?**
 
-いいえ。 BAA を提供することにより、Microsoft は HIPAA コンプライアンスへの準拠の支援をしますが、Microsoft のサービスを使用するだけでは達成できません。 組織は、適切なコンプライアンス プログラムと内部プロセスを整備し、Microsoft サービスの特定の使用が HIPAA および HITECH 法と整合するように調整する責任があります。
+いいえ。 ビジネス アソシエイト契約を提供することで、Microsoft は HIPAA コンプライアンスをサポートします。 ただし、このMicrosoft サービスは、HIPAA コンプライアンスを達成するわけではありません。 組織は、適切なコンプライアンス プログラムと内部プロセスが実施され、Microsoft サービス の特定の使用が HIPAA および HITECH 法に基づくお客様の義務と一致する状態を確保する責任があります。
 
-**Microsoft は組織の BAA を変更できますか?**
+**Microsoft は組織のビジネス アソシエイト契約を使用できますか?**
 
-Microsoft のサービスはすべての顧客に対して一貫しているため、HIPAA BAA を変更することはできません。したがって、すべてのお客様が同じ手順に従っていただく必要があります。 ただし、Microsoft の HIPAA 規制のお客様とそのサービス向け BAA を作成するために、Microsoft は米国の一流の医学部とその HIPAA プライバシー 弁護士、および他の公的および民間部門の HIPAA で覆われたエンティティと協力しました。
+いいえ、Microsoft は顧客のビジネス アソシエイト契約を使用できません。 すべてのお客様に対して標準化されたハイパースケールのマルチテナント サービスを提供していますので、一貫した方法で運用する必要があります。 Microsoft HIPAA Business Associate Agreement は、弊社の運用方法を密接に反映しています。 したがって、医療業界のニーズに対応するために、Microsoft は医療業界内の学術医療センターや他の公的および民間部門の組織のコンソーシアムと協力して、スケール サービスの提供に合わせて、お客様のニーズを満たすビジネス アソシエイト契約を作成しました。
 
-**監査人のレポートのコピーを取得する方法**
+**サード パーティの監査レポートのコピーを取得する方法**
 
-[Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルで監査レポートをリクエストすることができます。
+[Service Trust Portal](https://www.microsoft.com/trustcenter/STP/default.aspx) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルで監査レポートをリクエストすることができます。 Azure のお客様は、Azure セキュリティ センターの監査レポート ブレードを使用して、Azure ポータルで Azure 証明書と監査 [レポートを取得することもできます](https://ms.portal.azure.com/#blade/Microsoft_Azure_Security/AuditReportsBlade)。
 
-**HIPAA および HITECH 法への準拠に関する詳細を知るには、どうすればよいですか ?**
+**Microsoft が HIPAA および HITECH 法への準拠をサポートする方法の詳細については、どうすれば確認できますか?**
 
 このタスクをサポートするために、Microsoft は次のガイドを公開しています。
 
-- [Azure](/azure/governance/blueprints/samples/hipaa-hitrust/) 向けおよび [Dynamics 365 および Office 365](https://go.microsoft.com/fwlink/?LinkID=257510) 向けの *HIPAA/HITECH 法実装ガイダンス*。 プライバシー、セキュリティ、コンプライアンス責任者、および HIPAA および HITECH 法の実装を担当するその他の担当者向けに作成され、コンプライアンスを維持するために組織が実行できる具体的な手順について説明しています。
+- HIPAA/HITECH Act の実装ガイダンスは、 [プライバシー](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) 、セキュリティ、コンプライアンス担当者、および HIPAA および HITECH 法の実装を担当する他の担当者向けガイダンスで、コンプライアンスを維持するために組織が実行できる具体的な手順について説明します。
 - 「[Practical guide to designing secure health solutions using Microsoft Azure (Microsoft Azure を使用して安全な健康ソリューションを設計するための実践ガイド)](https://aka.ms/azureindustrysecurity)」は、クラウド サービスを安全な方法で適切に導入するために必要なことをよりよく理解するために役立ちます。
-- 「[Microsoft クラウドでの HIPAA セキュリティおよびプライバシー要件への対応](https://smb.blob.core.windows.net/smbproduction/Content/Microsoft_Cloud_Healthcare_HIPAA_Security_Privacy.pdf)」では、規制要件の概要を説明しています。 また、これらの要件に対応する方法論を使用して Microsoft のクラウド サービスがどのように構築されたのかについての詳細な分析と、コンプライアンス対応ソリューションを構築する方法に関するガイダンスも提供します。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
@@ -110,10 +105,11 @@ Microsoft のサービスはすべての顧客に対して一貫しているた�
 
 ## <a name="resources"></a>リソース
 
-- [HIPAA オムニバス ルール](https://aka.ms/HIPAA-omnibus) (最終規制を修正する HIPAA ルール)
-- [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
-- [Microsoft Government クラウド](https://go.microsoft.com/fwlink/p/?linkid=2087246)
-- [Azure の HIPAA コンプライアンスについて](https://www.youtube.com/embed/6ptdye1LZ5k?autoplay=0) (2016 年 5 月 19 日)
-- [Azure HIPAA HITRUST ブループリント サンプル](/azure/governance/blueprints/samples/hipaa-hitrust/)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
+- [Azure HIPAA 実装のガイダンス](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
+- [Azure HIPAA/HITRUST ブループリント](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
+- [Microsoft Cloud for healthcare compliance offerings](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
+- [Azure for the Healthcare Industry](https://azure.microsoft.com/industries/healthcare/)
+- [Azure High-Performance コンピューティング for Health and Life Sciences](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
+- [Microsoft Cloud for the Healthcare Industry](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
+- [Microsoft Trust Center のヘルスケア](https://www.microsoft.com/trust-center/cloudservices/health)

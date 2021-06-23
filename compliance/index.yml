@@ -1,217 +1,211 @@
 ### YamlMime:Hub
-title: コンプライアンスに関するドキュメント
+title: Microsoft コンプライアンス
 summary: ビジネスまたは組織のコンプライアンスを開始するために必要な Microsoft のドキュメントとリソース。
 brand: m365
 metadata:
-  title: コンプライアンスに関するドキュメント
+  title: Microsoft コンプライアンス
   description: ビジネスまたは組織のコンプライアンスを開始するために必要な Microsoft のドキュメントとリソース。
   services: service
   ms.service: service
   ms.subservice: subservice
   ms.topic: hub-page
   ms.collection:
-  - M365-security-compliance
-  - MS-Compliance
+    - M365-security-compliance
+    - MS-Compliance
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  ms.openlocfilehash: 67c37d1bc68017f0ecf66d1d446ab885400d2293
-  ms.sourcegitcommit: 2b347c9b778ac9b6450daf20fdf8eb74ed14cbbd
-  ms.translationtype: MT
-  ms.contentlocale: ja-JP
-  ms.lasthandoff: 03/23/2021
-  ms.locfileid: "51002187"
 highlightedContent:
   items:
-  - title: Microsoft 365 コンプライアンスを開始するためのクイック タスク
-    itemType: get-started
-    url: /microsoft-365/compliance/compliance-quick-tasks
-  - title: データプライバシー規制のための情報の展開保護
-    itemType: get-started
-    url: /microsoft-365/solutions/information-protection-deploy
-  - title: クラウドでの共有責任の詳細
-    itemType: overview
-    url: /azure/security/fundamentals/shared-responsibility
-  - title: Microsoft がお客様のデータを保護する方法について
-    itemType: learn
-    url: /learn/paths/audit-safeguard-customer-data/
-  - title: Microsoft コンプライアンス マネージャーの詳細
-    itemType: learn
-    url: /learn/paths/compmgmt/
-  - title: Microsoft 365 で insider リスクを管理する
-    itemType: learn
-    url: /learn/paths/m365-compliance-insider/
-  - title: 情報保護とガバナンスを管理する
-    itemType: learn
-    url: /learn/paths/m365-compliance-information/
-  - title: 高度な電子情報開示と高度な監査の詳細
-    itemType: learn
-    url: /learn/paths/compliance-discover/
+    - title: Microsoft 365 コンプライアンスを開始するためのクイック タスク
+      itemType: get-started
+      url: /microsoft-365/compliance/compliance-quick-tasks
+    - title: データ プライバシー規制用の情報保護を展開する
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
+    - title: クラウドでの共有責任の詳細
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
+    - title: Microsoft がお客様のデータを保護する方法について
+      itemType: learn
+      url: /learn/paths/audit-safeguard-customer-data/
+    - title: Microsoft コンプライアンス マネージャーの詳細
+      itemType: learn
+      url: /learn/paths/compmgmt/
+    - title: Microsoft 365 で insider リスクを管理する
+      itemType: learn
+      url: /learn/paths/m365-compliance-insider/
+    - title: 情報保護とガバナンスを管理する
+      itemType: learn
+      url: /learn/paths/m365-compliance-information/
+    - title: 詳細Advanced eDiscovery高度な監査について
+      itemType: learn
+      url: /learn/paths/compliance-discover/
 productDirectory:
   title: 規制コンプライアンス
   summary: 国際的および国内の標準および規制への準拠に関する Microsoft のガイダンス。
   items:
-  - title: EU 一般データ保護規則 (GDPR)
-    imageSrc: /office/media/icons/compliance-blue.svg
-    summary: Microsoft 製品およびサービスを使用する場合、GDPR に基づく権利を尊重し、義務を果たすのに役立つガイダンス。
-    url: /compliance/regulatory/gdpr
-  - title: Microsoft コンプライアンスのサービス
-    imageSrc: /office/media/icons/globe-internet.svg
-    summary: Microsoft は、組織がデータの収集と使用を管理する国内、地域、業界固有の要件を遵守するのに役立つ包括的なコンプライアンスサービスを提供しています。
-    url: /compliance/regulatory/offering-home
-  - title: 規制コンプライアンスと Microsoft Azure
-    imageSrc: /media/logos/logo_azure.svg
-    summary: 規制コンプライアンスと Microsoft Azure について説明します。
-    url: /azure/compliance/
+    - title: EU 一般データ保護規則 (GDPR)
+      imageSrc: /office/media/icons/compliance-blue.svg
+      summary: Microsoft 製品およびサービスを使用する場合、GDPR に基づく権利を尊重し、義務を果たすのに役立つガイダンス。
+      url: /compliance/regulatory/gdpr
+    - title: Microsoft コンプライアンスのサービス
+      imageSrc: /office/media/icons/globe-internet.svg
+      summary: Microsoft は、組織がデータの収集と使用を管理する国内、地域、業界固有の要件を遵守するのに役立つ包括的なコンプライアンスサービスを提供しています。
+      url: /compliance/regulatory/offering-home
+    - title: 規制遵守とMicrosoft Azure
+      imageSrc: /media/logos/logo_azure.svg
+      summary: 規制コンプライアンスとコンプライアンスについてMicrosoft Azure。
+      url: /azure/compliance/
 conceptualContent:
   title: サービス アシュアランス
   summary: Microsoft が顧客データを保護する方法を理解して、セキュリティとリスクの評価を開始します。
   items:
-  - title: アーキテクチャ
-    links:
-    - url: /learn/modules/audit-architecture/
-      itemType: learn
-      text: アーキテクチャの詳細
-    - url: /compliance/assurance/assurance-architecture
-      itemType: concept
-      text: アーキテクチャの概要
-  - title: 監査ログ
-    links:
-    - url: /learn/modules/audit-logging-monitoring/
-      itemType: learn
-      text: 監査ログの詳細
-    - url: /compliance/assurance/assurance-audit-logging
-      itemType: concept
-      text: 監査ログの概要
-  - title: データセンターのセキュリティ
-    links:
-    - url: /learn/modules/audit-physical-security/
-      itemType: learn
-      text: データセンターのセキュリティの詳細
-    - url: /compliance/assurance/assurance-datacenter-security
-      itemType: concept
-      text: データセンターのセキュリティの概要
-  - title: 暗号化とキー管理
-    links:
-    - url: /learn/modules/audit-encryption/
-      itemType: learn
-      text: 暗号化とキー管理の詳細
-    - url: /compliance/assurance/assurance-encryption
-      itemType: concept
-      text: 暗号化とキー管理の概要
-  - title: ガバナンス
-    links:
-    - url: /learn/modules/audit-governance/
-      itemType: learn
-      text: ガバナンスの詳細
-    - url: /compliance/assurance/assurance-governance
-      itemType: concept
-      text: ガバナンスの概要
-  - title: 人事管理
-    links:
-    - url: /learn/modules/audit-governance/personnel-security-governance
-      itemType: learn
-      text: 人事の詳細
-    - url: /compliance/assurance/assurance-human-resources
-      itemType: concept
-      text: 人事管理の概要
-  - title: ID およびアクセス管理
-    links:
-    - url: /learn/modules/audit-identity-access-management/
-      itemType: learn
-      text: ID とアクセス管理の詳細
-    - url: /compliance/assurance/assurance-identity-and-access-management
-      itemType: concept
-      text: ID およびアクセス管理の概要
-  - title: インシデント管理
-    links:
-    - url: /learn/modules/audit-incident-management/
-      itemType: learn
-      text: インシデント管理の詳細
-    - url: /compliance/assurance/assurance-incident-management
-      itemType: concept
-      text: ドキュメント管理の概要
-  - title: ネットワーク セキュリティ
-    links:
-    - url: /compliance/assurance/assurance-network-security
-      itemType: concept
-      text: ネットワーク セキュリティの概要
-  - title: プライバシー
-    links:
-    - url: /learn/modules/audit-privacy/
-      itemType: learn
-      text: プライバシーの詳細
-    - url: /compliance/assurance/assurance-privacy
-      itemType: concept
-      text: プライバシーの概要
-  - title: 回復性および継続性
-    links:
-    - url: /learn/modules/audit-resiliency-continuity/
-      itemType: learn
-      text: 復元性と継続性の詳細
-    - url: /compliance/assurance/assurance-resiliency-and-continuity
-      itemType: concept
-      text: 回復性および継続性の概要
-  - title: リスク管理
-    links:
-    - url: /learn/modules/audit-risk-management/
-      itemType: learn
-      text: リスク管理の詳細
-    - url: /compliance/assurance/assurance-risk-management
-      itemType: concept
-      text: リスク管理の概要
-  - title: セキュリティ開発と運用
-    links:
-    - url: /learn/modules/audit-security-development-operation/
-      itemType: learn
-      text: セキュリティ開発操作の詳細
-    - url: /compliance/assurance/assurance-security-development-and-operation
-      itemType: concept
-      text: セキュリティ開発の操作の概要
-  - title: セキュリティ監視
-    links:
-    - url: /learn/modules/audit-vulnerability-management/security-monitoring
-      itemType: learn
-      text: セキュリティ監視の詳細
-    - url: /compliance/assurance/assurance-security-monitoring
-      itemType: concept
-      text: セキュリティ監視の概要
-  - title: サプライヤー管理
-    links:
-    - url: /learn/modules/audit-subprocessor-management/
-      itemType: learn
-      text: サプライヤー管理の詳細
-    - url: /compliance/assurance/assurance-supplier-management
-      itemType: concept
-      text: サプライヤー管理の概要
-  - title: 脆弱性管理
-    links:
-    - url: /learn/modules/audit-vulnerability-management/
-      itemType: learn
-      text: 脆弱性管理の詳細
-    - url: /compliance/assurance/assurance-vulnerability-management
-      itemType: concept
-      text: 脆弱性管理の概要
+    - title: アーキテクチャ
+      links:
+        - url: /learn/modules/audit-architecture/
+          itemType: learn
+          text: アーキテクチャの詳細
+        - url: /compliance/assurance/assurance-architecture
+          itemType: concept
+          text: アーキテクチャの概要
+    - title: 監査ログ
+      links:
+        - url: /learn/modules/audit-logging-monitoring/
+          itemType: learn
+          text: 監査ログの詳細
+        - url: /compliance/assurance/assurance-audit-logging
+          itemType: concept
+          text: 監査ログの概要
+    - title: データセンターのセキュリティ
+      links:
+        - url: /learn/modules/audit-physical-security/
+          itemType: learn
+          text: データセンターのセキュリティの詳細
+        - url: /compliance/assurance/assurance-datacenter-security
+          itemType: concept
+          text: データセンターのセキュリティの概要
+    - title: 暗号化とキー管理
+      links:
+        - url: /learn/modules/audit-encryption/
+          itemType: learn
+          text: 暗号化とキー管理の詳細
+        - url: /compliance/assurance/assurance-encryption
+          itemType: concept
+          text: 暗号化とキー管理の概要
+    - title: ガバナンス
+      links:
+        - url: /learn/modules/audit-governance/
+          itemType: learn
+          text: ガバナンスの詳細
+        - url: /compliance/assurance/assurance-governance
+          itemType: concept
+          text: ガバナンスの概要
+    - title: 人事管理
+      links:
+        - url: /learn/modules/audit-governance/personnel-security-governance
+          itemType: learn
+          text: 人事の詳細
+        - url: /compliance/assurance/assurance-human-resources
+          itemType: concept
+          text: 人事管理の概要
+    - title: ID およびアクセス管理
+      links:
+        - url: /learn/modules/audit-identity-access-management/
+          itemType: learn
+          text: ID とアクセス管理の詳細
+        - url: /compliance/assurance/assurance-identity-and-access-management
+          itemType: concept
+          text: ID およびアクセス管理の概要
+    - title: インシデント管理
+      links:
+        - url: /learn/modules/audit-incident-management/
+          itemType: learn
+          text: インシデント管理の詳細
+        - url: /compliance/assurance/assurance-incident-management
+          itemType: concept
+          text: ドキュメント管理の概要
+    - title: ネットワーク セキュリティ
+      links:
+        - url: /compliance/assurance/assurance-network-security
+          itemType: concept
+          text: ネットワーク セキュリティの概要
+    - title: プライバシー
+      links:
+        - url: /learn/modules/audit-privacy/
+          itemType: learn
+          text: プライバシーの詳細
+        - url: /compliance/assurance/assurance-privacy
+          itemType: concept
+          text: プライバシーの概要
+    - title: 回復性および継続性
+      links:
+        - url: /learn/modules/audit-resiliency-continuity/
+          itemType: learn
+          text: 復元性と継続性の詳細
+        - url: /compliance/assurance/assurance-resiliency-and-continuity
+          itemType: concept
+          text: 回復性および継続性の概要
+    - title: リスク管理
+      links:
+        - url: /learn/modules/audit-risk-management/
+          itemType: learn
+          text: リスク管理の詳細
+        - url: /compliance/assurance/assurance-risk-management
+          itemType: concept
+          text: リスク管理の概要
+    - title: セキュリティ開発と運用
+      links:
+        - url: /learn/modules/audit-security-development-operation/
+          itemType: learn
+          text: セキュリティ開発操作の詳細
+        - url: /compliance/assurance/assurance-security-development-and-operation
+          itemType: concept
+          text: セキュリティ開発の操作の概要
+    - title: セキュリティ監視
+      links:
+        - url: /learn/modules/audit-vulnerability-management/security-monitoring
+          itemType: learn
+          text: セキュリティ監視の詳細
+        - url: /compliance/assurance/assurance-security-monitoring
+          itemType: concept
+          text: セキュリティ監視の概要
+    - title: サプライヤー管理
+      links:
+        - url: /learn/modules/audit-subprocessor-management/
+          itemType: learn
+          text: サプライヤー管理の詳細
+        - url: /compliance/assurance/assurance-supplier-management
+          itemType: concept
+          text: サプライヤー管理の概要
+    - title: 脆弱性管理
+      links:
+        - url: /learn/modules/audit-vulnerability-management/
+          itemType: learn
+          text: 詳細については、脆弱性の管理
+        - url: /compliance/assurance/assurance-vulnerability-management
+          itemType: concept
+          text: 脆弱性管理の概要
 additionalContent:
   sections:
-  - title: Microsoft 365 でのコンプライアンスの開始
-    summary: Microsoft 365 コンプライアンスを初め、どこから始めるのか疑問に思う場合は、主要なソリューションへのリンクを提供し、重要なコンプライアンス領域の優先順位を設定します。
-    items:
-    - title: コンプライアンスマネージャーの詳細
-      summary: コンプライアンス マネージャーとは何か、コンプライアンスの簡素化とリスクの軽減に役立つ方法、および重要なコンポーネントについて説明します。
-      url: /microsoft-365/compliance/compliance-manager
-    - title: インサイダー リスクを管理する
-      summary: 組織内の悪意のある不注意なアクティビティを検出、調査、および操作することにより、内部リスクを最小限に抑える。
-      url: /microsoft-365/compliance/insider-risk-solution-overview
-    - title: 情報保護の管理
-      summary: Microsoft Information Protection (MIP) を使用して、機密情報がどこに住んでいるか、旅行している場合でも、機密情報を検出、分類、保護するのに役立ちます。
-      url: /microsoft-365/compliance/protect-information
-    - title: 情報ガバナンスの管理
-      summary: Microsoft Information Governance (MIG) 機能を使用して、コンプライアンスまたは規制要件に関するデータを管理します。
-      url: /microsoft-365/compliance/manage-information-governance
-    - title: eDiscovery の管理
-      summary: 電子情報開示を使用して、法的ケースの証拠としてコンテンツを識別および分析します。
-      url: /microsoft-365/compliance/ediscovery
-    - title: データプライバシー規制のための情報の展開保護
-      summary: データ プライバシー規制の対象となる Microsoft 365 サービスに保存されている個人データのデータ プライバシー インシデントを特定、特定、保護、管理、および対応します。
-      url: /microsoft-365/solutions/information-protection-deploy
+    - title: コンプライアンスに関する情報のMicrosoft 365
+      summary: コンプライアンスを初め、どこからMicrosoft 365を開始する必要がある場合、このセクションでは主要なソリューションへのリンクを提供し、重要なコンプライアンス領域に優先順位を付ける。
+      items:
+        - title: コンプライアンスマネージャーの詳細
+          summary: コンプライアンス マネージャーとは何か、コンプライアンスの簡素化とリスクの軽減に役立つ方法、および重要なコンポーネントについて説明します。
+          url: /microsoft-365/compliance/compliance-manager
+        - title: インサイダー リスクを管理する
+          summary: 組織内の悪意のある不注意なアクティビティを検出、調査、および操作することにより、内部リスクを最小限に抑える。
+          url: /microsoft-365/compliance/insider-risk-solution-overview
+        - title: 情報保護の管理
+          summary: このMicrosoft Information Protection (MIP) を使用して、機密情報がどこに住んでいるか移動する場合でも、機密情報を検出、分類、保護するのに役立ちます。
+          url: /microsoft-365/compliance/protect-information
+        - title: 情報ガバナンスの管理
+          summary: Microsoft Information Governance (MIG) 機能を使用して、コンプライアンスまたは規制要件に関するデータを管理します。
+          url: /microsoft-365/compliance/manage-information-governance
+        - title: eDiscovery の管理
+          summary: 電子情報開示を使用して、法的ケースの証拠としてコンテンツを識別および分析します。
+          url: /microsoft-365/compliance/ediscovery
+        - title: データ プライバシー規制用の情報保護を展開する
+          summary: データ プライバシー規制の対象となる Microsoft 365 サービスに保存されている個人データのデータ プライバシー インシデントを特定、特定、保護、管理、および対応します。
+          url: /microsoft-365/solutions/information-protection-deploy

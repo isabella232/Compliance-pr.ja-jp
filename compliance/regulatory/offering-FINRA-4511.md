@@ -1,6 +1,6 @@
 ---
-title: 金融業界規制当局 (FINRA) 規則 4511(c) 米国
-description: 独立評価会社は、Azure および Office 365 が金融機関が FINRA Rule 4511 の記録保持および不変ストレージ要件を満たすのに役立つ可能性を検証しました。
+title: 金融業界規制当局 (FINRA) ルール 4511(c) 米国
+description: 独立した評価会社は、Azure と Office 365が FINRA Rule 4511 レコードの保持と不変のストレージ要件を満たすのに役立つ可能性を検証しました。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,40 +16,40 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f4a26a88ca742178d894b5e46d0372d91babba66
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 35c24da993fd40cd787650389ab8324eca1cf828
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120846"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089540"
 ---
-# <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融業界規制当局 (FINRA) 規則 4511(c) 米国
+# <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融業界規制当局 (FINRA) ルール 4511(c) 米国
 
 ## <a name="about-finra-rule-4511"></a>FINRA ルール 4511 について
 
-金融業界規制当局 [(FINRA)](https://www.finra.org/#/) は、米国内の 4,500 を超える証券会社を監督する最大の独立機関です。 これは、米国の北米で承認された「ブローカー販売業者業界が公正かつ素直に運営を行い、アメリカの投資者を保護する」という認証を受けた。
+金融 [業界規制当局 (FINRA)](https://www.finra.org/#/) は、米国で 4,500 社を超える証券会社を監督する最大の独立機関規制証券会社です。 これは、米国議会によって「ブローカー-ディーラー業界が公平かつ正直に運営されるのを確認することで、アメリカの投資家を保護する」という承認を受けた。
 
-2011 年に、米国セキュリティ/交換委員会 (SEC) は、電子ストレージ メディアに関する書籍や記録の保持に関する SEC 規則の FINRA の導入を承認しました。 [FINRA 規則 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf) では、"FINRA 規則に準拠するために必要なすべての書籍と記録は、SEA (米国証券取引法) 規則 17a-4 に準拠する形式およびメディアで保持される必要があります。
+2011 年、米国セキュリティおよび Exchange 委員会 (SEC) は、電子ストレージ メディア上の書籍およびレコードの保持に関する SEC ルールの FINRA 導入を承認しました。 [FINRA ルール 4511(c)](https://www.finra.org/sites/default/files/NoticeDocument/p123548.pdf)は、「FINRA ルールに従って行う必要があるすべての書籍およびレコードは、SEA (証券Exchange法) ルール 17a-4 に準拠する形式およびメディアで保持される必要があります」と指定します。
 
-また、FINRA Rule 4511(c) では、該当する FINRA または SEA ルールの下で指定された保持期間がない書籍および記録を少なくとも 6 年間保持する必要があります。 事実上、書籍や記録がアカウントに関連する場合、保存期間はアカウントのクローズ後 6 年間に義務付けされます。 それ以外の場合、保持期間は、このような書籍やレコードが作成された後 6 年間です。
+また、FINRA ルール 4511(c) では、該当する FINRA または SEA ルールの下で指定された保持期間がない書籍およびレコードを少なくとも 6 年間保持する必要があります。 実質的に、ブックとレコードがアカウントに関連する場合、保持期間はアカウントの閉鎖後 6 年と義務付けされます。 それ以外の場合、保持期間は、そのような書籍およびレコードが作成された後の 6 年間です。
 
-## <a name="microsoft-and-finra-rule-4511c"></a>Microsoft および FINRA Rule 4511(c)
+## <a name="microsoft-and-finra-rule-4511c"></a>Microsoft および FINRA ルール 4511(c)
 
-金融サービスのお客様は、世界で最も厳しく規制されている業界の 1 つであり、金融取引の保持や、消えられない変更できない状態での関連する通信など、複雑な規定の対象となります。 その中には、電子ストレージ メディアで書籍や記録を保持する規制機関に対する厳しい要件を規定する金融業界規制機関 (FINRA) の規則 4511 があります。 保存されるレコードは、指定された保持期間が終了するまで変更または削除する機能を備えず、改ざん防止する必要があります。
+世界で最も厳しく規制されている業界の 1 つを代表する金融サービスの顧客は、金融取引の保持や、消えられない変更不可の状態での関連する通信など、複雑な規定の対象となります。 その中には、電子ストレージ メディアに書籍やレコードを保持する規制対象の厳しい要件を規定する金融業界規制当局 (FINRA) の規則 4511 があります。 保存されるレコードは、指定された保持期間の後まで変更または削除する機能を持つ改ざん防止である必要があります。
 
-ポリシー ロック付き Microsoft Azure 不変 Blob ストレージと保持ロック付き Microsoft Office 365 は、金融機関が FINRA ルール 4511(c) の不変ストレージ要件を満たすのに役立ちます。
+Microsoft Azureポリシー ロックStorageと Microsoft Office 365 保持ロックを使用した不変 BLOB の使用は、金融機関が FINRA ルール 4511(c) の不変ストレージ要件を満たすのに役立ちます。
 
 ## <a name="microsoft-azure"></a>Microsoft Azure
 
-Azure の FINRA Rule 4511(c) への準拠を評価するために、Microsoft はレコード管理と情報ガバナンスを専門とする独立した評価会社である Cohasset Associates を保持しました。 結果のレポートである [SEC 17a-4(f) & CFTC 1.31 (c-d) コンプライアンス評価: Microsoft Azure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)には、SEC Rule 17a-4(f) の形式とメディアの要件を延期する FINRA Rule 4511(c) への Azure 準拠が含されます。
+Azure の FINRA Rule 4511(c) への準拠を評価するために、Microsoft はレコード管理と情報ガバナンスを専門とする独立した評価会社である Cohasset Associates を保持しました。 結果のレポートである[SEC 17a-4(f) & CFTC 1.31 (c-d)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)コンプライアンス評価: Microsoft Azure Storage は、SEC ルール 17a-4(f) の形式およびメディア要件に従う FINRA ルール 4511(c) に対する Azure 準拠を包含します。
 
-Cohasset は、時間ベースの BLOB を消去不可で書き換えできない (WORM) 形式で保持するために使用される場合に、ポリシー ロック オプションを使用した [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage) が関連する FINRA ストレージ要件を満たしていることを検証しました。 各 BLOB (レコード) は、必要な保持期間が終了し、関連する法的情報保留が解放されるまで、変更、上書き、または削除から保護されます。
+Cohasset は、時間ベースの BLOB を消去不可で書き換えできない (WORM) 形式で保持するために使用される場合に、ポリシー ロック オプションを指定した[Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage)が関連する FINRA ストレージ要件を満たしていることを検証しました。 各 BLOB (レコード) は、必要な保持期間が満了し、関連付けられた法的保持が解放されるまで、変更、上書き、または削除から保護されます。
 
-機密性の高いワークロードを持つソフトウェア プロバイダーとパートナーは、Azure Immutable Blob Storage をレコード保持および不変ストレージの 1 か国間のクラウド ソリューションとして利用できます。 金融機関は、コンプライアンスを維持しながら、これらの機能を活用して独自のアプリケーションを構築できます。
+機密性の高いワークロードを持つソフトウェア プロバイダーとパートナーは、レコード保持と不変ストレージのワンストップ ショップ クラウド ソリューションとして Azure Immutable Blob Storage を利用できます。 金融機関は、コンプライアンスを維持しながら、これらの機能を利用して独自のアプリケーションを構築できます。
 
 ## <a name="microsoft-365"></a>Microsoft 365
 
-[FINRA Rule 4511(c)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)要件に関して、Cohasset は、Microsoft 365 に、ブローカー販売業者を含む規制対象のお客様がレコード保持のための SEC 要件に準拠する方法でデータを保存できるアーカイブ機能が含まれると検証しました。 Microsoft 365 の保持機能は、電子メール、ボイスメール、共有ドキュメント、インスタント メッセージ、サード パーティデータなど、幅広いデータを保持するのに役立ちます。 特に、Microsoft 365 のアーカイブを使用すると、グローバルまたは詳細なメッセージング保持ポリシーを設定して、定義された期間以降のデータを書き換え不可で消去できない形式で保存できます。
+[FINRA Rule 4511(c)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)の要件に対して、Cohasset は Microsoft 365 にアーカイブ機能が含まれており、ブローカー-ディーラを含む規制対象のお客様が、レコード保持の SEC 要件に準拠する方法でデータを保存できると検証しました。 メール、ボイスメールMicrosoft 365共有ドキュメント、インスタント メッセージ、サードパーティデータなど、さまざまなデータを保持するのに役立ちます。 特に、Microsoft 365 でのアーカイブを使用すると、ユーザーは、グローバルまたは詳細なメッセージング保持ポリシーを設定して、定義された期間以降のデータを書き換え不可の消去可能な形式で保存できます。
 
 ## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
 
@@ -58,17 +58,17 @@ Cohasset は、時間ベースの BLOB を消去不可で書き換えできな�
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-### <a name="azure--finra-rule-4511c"></a>Azure & FINRA Rule 4511(c)
+### <a name="azure--finra-rule-4511c"></a>Azure & FINRA ルール 4511(c)
 
-[SEC 17a-4(f) & CFTC 1.31 (c-d) Azure Storage のコンプライアンス評価](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+[SEC 17a-4(f) & CFTC 1.31 (c-d) コンプライアンス評価のAzure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
 
-### <a name="office-365--finra-rule-4511c"></a>Office 365 & FINRA Rule 4511(c)
+### <a name="office-365--finra-rule-4511c"></a>Office 365 & FINRA ルール 4511(c)
 
-[Office 365 でのアーカイブ、データ保持、および SEC Rule 17a-4 コンプライアンス](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
+[アーカイブ、Office 365保持、および SEC ルール 17a-4 準拠](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
 
 ## <a name="how-to-implement"></a>実装方法
 
-- **金融サービス規制**: クラウド コンピューティングと Microsoft オンライン サービスに関する米国の主要な規制原則のコンプライアンス マップ。 [詳細情報](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- **金融サービス規制**: クラウド コンピューティングおよび Microsoft オンライン サービスに関する米国の主要な規制原則のコンプライアンス マップ。 [詳細情報](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - **リスク評価およびコンプライアンス ガイド**: Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。 [詳細情報](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=edee9b14-3661-4a16-ba83-c35caf672bd7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 - **金融ユース ケース**: 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。 [詳細情報](/azure/industry/financial/)
 
@@ -78,6 +78,6 @@ Cohasset は、時間ベースの BLOB を消去不可で書き換えできな�
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Azure 金融サービス クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365 アイテム保持ポリシー](/office365/securitycompliance/retention-policies)
+- [Microsoft Office 365アイテム保持ポリシー](/office365/securitycompliance/retention-policies)
 - [Microsoft 金融サービスのブログ](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

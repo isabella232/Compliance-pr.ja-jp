@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f027f0ef83272c1102433f4c7534035f27f8a483
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 3f87b4d376c43db9d8524c200cd1fd86d2791b49
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496511"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089741"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家族教育の権利とプライバシー法 (FERPA)
 
@@ -37,7 +37,7 @@ ms.locfileid: "51496511"
 
 FERPA は監査や他の認定を必要としたり認識したりしないので、FERPA の対象となる教育機関は、クラウド サービスの使用が FERPA 要件を遵守する能力に影響を与えるかどうかを評価する必要があります。 ただし、Microsoft はコンプライアンスを証明する次の契約上のコミットメントを行いました。
 
-- Microsoft は [、オンライン サービス](https://aka.ms/Online-Services-Terms)規約で、FERPA で定義されている顧客データに「正当な教育上の利益」を持つ「学校関係者」として指定することに同意します。 (お客様のデータには、学校で Microsoft クラウド サービスを使用して提供される学生レコードが含まれます)。学生の教育記録を処理する場合、Microsoft は学校関係者と同様に、34 CFR 99.33(a) が課す制限と要件を満たすることに同意します。
+- オンライン サービス [規約では](https://aka.ms/Online-Services-Terms)、Microsoft は FERPA で定義されている顧客データに「正当な教育上の利益」を持つ「学校関係者」として指定することに同意します。 (お客様のデータには、学校で Microsoft クラウド サービスを使用して提供される学生レコードが含まれます)。学生の教育記録を処理する場合、Microsoft は学校関係者と同様に、34 CFR 99.33(a) が課す制限と要件を満たすることに同意します。
 - さらに、Microsoft は、クラウド サービスと互換性のある目的 (マルウェア検出の向上など) を組織に提供するためにのみ、顧客データの使用をコミットし、広告のために顧客データを採掘しません。
 - Microsoft は、教育機関が指示する場合、契約に記載されている場合、または法律で要求される場合を除き、顧客データを開示しないという契約上のコミットも行います。 Microsoft クラウド サービスの使用を通じて Microsoft に教育記録を提供する学校は、これらのレコードが使用および開示に関して厳しい契約上の制限を受け取る可能性があります。
 
@@ -51,7 +51,7 @@ Microsoft が顧客データに「正当な教育上の利益」を持つ「学�
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI、PowerApps、および Power Automate (旧 Microsoft Flow) は、スタンドアロン サービスとして、または Office 365 ブランドプランまたはスイートに含まれています。
+- Power BI、PowerApps、および Power Automate (以前は Microsoft Flow) をスタンドアロン サービスとして、またはブランド化されたプランまたはスイートにOffice 365含む
 - Azure DevOps Services
 - Microsoft Defender for Endpoint
 
@@ -79,7 +79,7 @@ FERPA は、監査や認定を必要としたり認識したりしない。
 - [ファミリー教育の権利とプライバシーに関する法律](https://www.ed.gov/policy/gen/guid/fpco/ferpa/index.html)
 - [連邦規則の電子コード: FERPA](https://aka.ms/FERPA-GPO)
 - [連邦登録: FERPA 最終規則](https://aka.ms/ferpa-reg)
-- [Microsoft Azure の FERPA 実装ガイド](https://aka.ms/azureferpa)
+- [FERPA の実装ガイド (Microsoft Azure](https://aka.ms/azureferpa)
 - [Azure FERPA コンプライアンス フレームワーク マッピング](https://aka.ms/AzureFERPAMapping)
 - [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

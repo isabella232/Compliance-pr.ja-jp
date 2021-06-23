@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 74bdf63fcf704aa285a2803e5b7af7455a0291c6
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 1133c5467553eb5d158230c2d6e599187e507822
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497650"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088666"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>エンタープライズ ビジネス継続性管理の顧客とクラウド パートナーの責任
 
@@ -73,7 +73,7 @@ Microsoft 365 オンライン サービスへのアクセスを提供するこ�
 ### <a name="location"></a>場所
 
 多くの組織では、エンタープライズ システムとクラウド サービスに接続するために、従業員が特定の物理的またはネットワークの場所にいる必要があります。  
-Microsoft は、クラウド リソースへのネットワーク接続を設定するためのベスト プラクティスを企業に説明する「[ネットワーク接続の原則](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)」を公開しています。 最適化の例には、スプリット トンネル VPN の実装が含まれ、VPN トンネル経由ではなくユーザーのネットワークから直接接続できるようになります。  これらの接続の原則は、接続の遅延を低く維持するために重要ですが、サービスの復元力には、一般的なコラボレーションのために企業リソースに接続する代替方法が必要です。
+Microsoft は、クラウド リソースへのネットワーク接続を設定するためのベスト プラクティスを企業に説明する「[ネットワーク接続の原則](/microsoft-365/enterprise/microsoft-365-network-connectivity-principles)」を公開しています。 最適化の例としては、VPN トンネルではなく、ユーザーのネットワークからの接続を直接許可するスプリット トンネル VPN の実装が含まれます。  これらの接続の原則は、接続の遅延を低く維持するために重要ですが、サービスの復元力には、一般的なコラボレーションのために企業リソースに接続する代替方法が必要です。
 
 ### <a name="systems"></a>システム
 
