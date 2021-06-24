@@ -8,6 +8,8 @@
       href: /microsoft-365/enterprise/microsoft-365-tenant-isolation-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: AAD での分離とアクセス制御
       href: /microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+    - name: Microsoft 365 インフラストラクチャのセキュリティ保護
+      href: assurance-securing-microsoft-365-infrastructure.md
 - name: 監査ログ
   items:
     - name: 監査ログの概要
@@ -62,6 +64,8 @@
       href: assurance-pre-employment-screening.md
     - name: Microsoft Cloud の背景チェック
       href: assurance-cloud-background-check.md
+    - name: Microsoft 従業員の異動と退職
+      href: assurance-employee-transfer-termination.md
 - name: ID およびアクセス管理
   items:
     - name: ID およびアクセス管理の概要
@@ -150,6 +154,8 @@
   items:
     - name: リスク管理の概要
       href: assurance-risk-management.md
+    - name: Microsoft 365 のリスク管理プログラム
+      href: assurance-risk-management-program.md
 - name: セキュリティ開発と運用
   items:
     - name: セキュリティ開発と運用概要
