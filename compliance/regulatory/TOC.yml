@@ -325,4 +325,4 @@
 - name: カリフォルニア州消費者プライバシー法 (CCPA)
   items:
     - name: CCPA - その他のよく寄せられる質問
-      href: ccpa-faq.md
+      href: ccpa-faq.yml
