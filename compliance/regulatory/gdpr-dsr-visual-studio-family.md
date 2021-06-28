@@ -20,24 +20,24 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: eccc07b5f40182c3dad8652f0e4c1671b5eb9843
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
+ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496222"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53141468"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA に関する Visual Studio ファミリ データ主体要求
 
 EU の [一般データ保護規則 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) は、ユーザー (規則では _データ主体_ と呼ばれる) に対して個人データを管理する権利を与えています。個人データは、GDPR の下で特定されたまたは特定可能な自然人に関するあらゆるデータとして広く定義されています。GDPR は、個人データに対するデータ主体固有の権利を与えています。これらの権利には、個人データのコピーの取得、その修正の要求、その処理の制限、その削除、またはその電子形式での受信が含まれます。データ主体からデータ コントローラー (個人データを制御する雇用主、その他の種類の代理人、または組織) にデータ主体の個人データに対するアクションの実行を求める正式な要求は、_データ主体要求_ (DSR) と呼ばれます。
 
-同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。  また、CCPA では、特定の開示、権利の行使を選択する際の差別に対する保護、"売上" として分類された特定のデータ転送の "オプトアウト/オプトイン" 要件を規定します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](offering-ccpa.md)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](ccpa-faq.md)」を参照してください。
+同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。  また、CCPA では、特定の開示、権利の行使を選択する際の差別に対する保護、"売上" として分類された特定のデータ転送の "オプトアウト/オプトイン" 要件を規定します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](offering-ccpa.md)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](ccpa-faq.yml)」を参照してください。
 
 GDPR の一般的な情報については、[Service Trust Portal の GDPR セクション](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)を参照してください。
 
 ## <a name="products-covered-by-this-guide"></a>このガイドの対象製品
 
-このガイドでは、Microsoft のツールを使用して、認証済みの (サインイン済みの) Visual Studio、Visual Studio for Mac、Microsoft 拡張機能のセッション使用中に収集された個人データを、Visual Studio Code にエクスポートまたは削除する方法について説明します。 また、このガイドでは Visual Studio 開発者コミュニティ、NuGet.org、および ASP.NET Web サイトの使用中に収集された個人データのデータ主体要求を作成する方法についても説明します。 これらの製品は、Microsoft 以外のツールや拡張機能を有効にできる場合があります。また、Microsoft はこれらのツールや拡張機能に対応するデータ プロセッサまたはコントローラーではありません。 ユーザーは、ツールや拡張機能に関する個人データとコレクション ポリシーを理解するために、ツールや拡張機能のプロバイダーに問い合わせる必要があります。
+このガイドでは、Microsoft ツールを使用して、Visual Studio、Visual Studio for Mac、およびそれらと Visual Studio Code に対する Microsoft 拡張機能の認証済み (サインイン済み) セッション使用時に収集された個人データをエクスポートまたは削除する方法について説明します。また、Visual Studio 開発者コミュニティ、NuGet.org、および ASP.NET Web サイトの使用時に収集された個人データに対するデータ主体要求の発行方法についても説明します。これらの製品を使用すれば、Microsoft 以外のツールと拡張機能の使用が可能になりますが、Microsoft はこれらのツールと拡張機能のデータ プロセッサまたはコントローラーではありません。ユーザーは、これらのツールまたは拡張機能のプロバイダーに問い合わせて、個人データと収集に関するポリシーを確認する必要があります。
 
 ## <a name="additional-privacy-information"></a>その他のプライバシー情報
 
