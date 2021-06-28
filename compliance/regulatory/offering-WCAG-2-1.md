@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c8bc078a84501b329f80a10cf218fbebfee53fbf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 6330ee298949353c24a4b95ff65696807b78b09b
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508299"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088796"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Web Content Accessibility Guidelines
 
@@ -35,7 +35,7 @@ Microsoft は、世界各国のコンシューマー、ビジネス、政府の�
   
 ## <a name="microsoft-and-wcag"></a>Microsoft と WCAG
 
-Microsoft は、製品およびサービスの開発において WCAG を考慮することにより、すべてのお客様がテクノロジとデータにアクセスできるようにする取り組みを指向します。
+Microsoft は、製品およびサービスの開発において WCAG 標準を考慮することにより、すべてのお客様がテクノロジとデータにアクセスできるようにする取り組みを指向します。
 
 Microsoft は、製品またはサービス全体を表す WCAG レポートを発行しています。 通常、個々の機能またはコンポーネントのレポートは作成されません。 Microsoft は、既存の製品の新しいコンポーネントや、既存のコンポーネントの新しいバージョンをリリースし、そのコンポーネントをユーザーが個別にインストールできる場合は、そのコンポーネントについての WCAG レポートを発行する場合があります。
 
@@ -60,4 +60,4 @@ Microsoft は、製品またはサービス全体を表す WCAG レポートを�
 - [Microsoft アクセシビリティ サイト](https://www.microsoft.com/accessibility): アクセシビリティ機能の使用に関する情報を取得して、すべてのユーザーがもっと多くのことを達成するために Microsoft ではどのような革新が行われているのかを理解します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

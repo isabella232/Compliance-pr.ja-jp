@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3688ffe46405e6c8eea8f6896a94d8470151bb4d
-ms.sourcegitcommit: b06fa9f1b230fd5e470817486ea51f460f28b691
+ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50012973"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088486"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -64,7 +64,7 @@ Microsoft クラウド サービスでは、オランダ国内の医療分野の
 
 **NEN 7510 カバレッジ レポートは法的拘束力を持つ文書ですか?**
 
-いいえ。 お客様の社内的な NEN 7510 保証プロセスをサポートするツールであり、NEN 7510 コンプライアンスの実行可能性への信頼と信任を確立するためのものです。 独立監査人である KPMG によって作成されたこのレポートは、説明として提供され、法的な免責事項があります。
+いいえ。 これは、お客様の社内的な NEN 7510 保証プロセスをサポートするツールであり、NEN 7510 コンプライアンスの実行可能性への信頼と信任を確立するためのものです。 独立監査人である KPMG によって作成されたこのレポートは、説明として提供され、法的な免責事項があります。
 
 **Microsoft はレポートの作成に出資しましたか?**
 
@@ -80,4 +80,4 @@ Microsoft は自社の世界中の保証と NEN 7510 標準の統制との対応
 
 - [NEN について](https://www.nen.nl/About-NEN.htm)
 - [NEN 7510:2011 標準](https://www.nen.nl/NEN-Shop-2/Standard/NEN-75102011-nl.htm)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

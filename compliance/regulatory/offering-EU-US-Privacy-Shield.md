@@ -16,26 +16,26 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ae241dcff38ac764c2b57f559e95c079d6e59cd7
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: afe763500a4c8f3af261870af53216c6f6f95d39
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121236"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088956"
 ---
 # <a name="eu-us-and-swiss-us-privacy-shield-frameworks"></a>EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワーク
 
 ## <a name="about-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワークについて
 
-プライバシー シールド プログラムによると、"[EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワーク](https://www.privacyshield.gov/welcome)は、米国商務省、欧州委員会およびスイス政府が共同で設計したフレームワークです。このフレームワークは、大西洋の両側に位置する企業が、欧州連合およびスイスから米国に個人データを転送する際に、データ保護要件に準拠するメカニズムを提供します。 米国商務省内の米国国際貿易局が、米国内のプライバシー シールド プログラムを管理しています。
+プライバシー シールド プログラムによると、"[EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワーク](https://www.privacyshield.gov/welcome)は、米国商務省、欧州委員会およびスイス政府が共同で設計したフレームワークです。このフレームワークは、大西洋の両側に位置する企業が、欧州連合およびスイスから米国に個人データを転送する際に、データ保護要件に準拠するメカニズムを提供します。" 米国商務省内の米国国際貿易局が、米国内のプライバシー シールド プログラムを管理しています。
 
-EU およびスイス以外への個人データの転送は、EU およびスイスの法律に準拠しています。「適切な」レベルの保護が確保されない限り、EEA 外の国への個人データの転送は、通常禁止されています。 プライバシー シールド フレームワークおよび標準契約条項 (または[EU モデル条項](offering-EU-Model-Clauses.md)) は、このレベルのデータ保護を実現するために設計された 2 つのメカニズムです。
+EU およびスイス以外への個人データの転送は、EU およびスイスの法律に準拠しています。"適切な" レベルの保護が確保されない限り、EEA 外の国への個人データの転送は、通常禁止されています。 プライバシー シールド フレームワークおよび標準契約条項 (または[EU モデル条項](offering-EU-Model-Clauses.md)) は、このレベルのデータ保護を実現するために設計された 2 つのメカニズムです。
 
 23 の[プライバシー シールド原則](https://www.privacyshield.gov/article?id=Requirements-of-Participation)は、EU から転送された個人データの使用と処理、および参加企業が EU の市民に提供しなければならないアクセスおよび紛争解決メカニズムを管理する一連の要件を定義しています。 企業は、個人にデータの処理方法を知通知し、使用目的を制限し、保持されている限りデータを保護し、第三者に転送されるデータの説明責任を確保する必要があります。 要件には、無料でアクセス可能な紛争解決および政府による個人データの要求に関連する透明性の提供も含まれます。
 
 ## <a name="microsoft-and-the-eu-us-and-swiss-us-privacy-shield-frameworks"></a>Microsoft と EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワーク
 
-自発的なアクションとして、EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワークに参加するには、米国に拠点を置く企業は、フレームワークの要件への準拠を公に宣言し、米国商務省に対して準拠を自己証明する必要があります。 公式に準拠を公表し、自己証明すると、フレームワークへの準拠は米国法において強制力を持つようになります。
+自発的なアクションとして、EU - 米国間プライバシー シールド フレームワークおよびスイス - 米国間プライバシー シールド フレームワークに参加するには、米国に拠点を置く企業は、フレームワークの要件への準拠を公に宣言し、米国商務省に対して準拠を自己証明する必要があります。公式に準拠を公表し、自己証明すると、フレームワークへの準拠は米国法において強制力を持つようになります。
 
 Microsoft は、[プライバシー シールドの原則](https://www.privacyshield.gov/article?id=Requirements-of-Participation) への準拠を公式に表明し、要求に準拠しています。 当社の参加は、欧州連合、欧州経済地域 (EEA)、およびスイスから米国に転送され、Microsoft によって処理されるすべての個人データに適用されます。 さらに、Microsoft ビジネス クラウドサービスのお客様が、[Microsoft オンライン サービス条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)に基づく標準契約条項 ([EU モデル条項](offering-eu-model-clauses.md)とも呼ばれます) の準拠の恩恵を受けます。
 
@@ -94,4 +94,4 @@ EU から米国に個人データを転送する場合:
 - [Microsoft と EU モデル契約条項](offering-eu-model-clauses.md)
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

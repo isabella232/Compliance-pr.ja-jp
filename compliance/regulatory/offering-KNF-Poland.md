@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7cb696db772f0bffda701c7ecadbb768c2575343
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120156"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089590"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>ポーランド金融監督庁 (KNF)
 
@@ -30,7 +30,7 @@ ms.locfileid: "50120156"
 [
 ポーランド金融監督庁](https://www.knf.gov.pl/en/)([Kmisja Nadzoru Finansowego](https://www.knf.gov.pl/)、KNF）は、ポーランドの金融規制当局であり、銀行、資本市場、保険、年金制度、電子マネー機関の監督を含む金融市場の監督を担当しています。
 
-KNF は、[欧州銀行監督局](https://eba.europa.eu/about-us) (EBA) と協力して活動しており、“欧州の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関です。” そのため、EBA は、EU 圏内の金融機関によるクラウド コンピューティングの使用に対する包括的なアプローチ、[クラウド サービス プロバイダーへのアウトソーシングに関する推奨事項](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)の概要を示しています。
+KNF は、[欧州銀行監督局](https://eba.europa.eu/about-us) (EBA) と協力して活動しており、"欧州の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関です。" そのため、EBA は、EU 圏内の金融機関によるクラウド コンピューティングの使用に対する包括的なアプローチ、[クラウド サービス プロバイダーへのアウトソーシングに関する推奨事項](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362)の概要を示しています。
 
 ポーランドの金融機関には、次のようなビジネス機能やデータをクラウドに移行するときに通知する必要があるいくつかの要件およびガイドラインがあります。
 
@@ -68,7 +68,7 @@ Microsoft チェックリストでは、ポーランドの金融機関による 
 
 **規制当局の承認が必要ですか?**
 
-いいえ。 ただし、1997 年の銀行法に基づき、サービス プロバイダーが欧州経済地域 (EEA) 外に拠点を置く場合、または外部委託業務を EEA の外部で実施する場合、銀行は契約を締結する前に KNF の承認を取得する必要があります。
+いいえ。ただし、1997 年の銀行法に基づき、サービス プロバイダーが欧州経済地域 (EEA) 外に拠点を置く場合、または外部委託業務を EEA の外部で実施する場合、銀行は契約を締結する前に KNF の承認を取得する必要があります。
 
 **クラウド サービス プロバイダーについて、契約に含める必要がある必須条項はありますか?**
 

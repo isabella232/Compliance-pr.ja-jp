@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a076f51bbbefe60b1bdb41e656398da9e6d41825
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509429"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089056"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>シンガポール金融庁（MAS）およびシンガポール銀行協会（ABS）
 
@@ -54,7 +54,7 @@ MAS ガイドラインは、テクノロジ導入プロセスを大幅に合理�
 
 MAS ガイドラインに準拠してデータおよびワークロードを Microsoft Cloud に移行するための実用的なサポートを入手するには、次のドキュメントをご覧ください。
 
-[『Navigating your way to the cloud: Microsoft’s response to MAS outsourcing guidelines and ABS guidance』をダウンロードする](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
+[『Navigating your way to the cloud: Microsoft's response to MAS outsourcing guidelines and ABS guidance』をダウンロードする](https://download.microsoft.com/download/3/E/8/3E80AACD-86A0-478E-BF94-DDBDA5B2E8AF/Navigating%20a%20Path%20to%20the%20Cloud%20-%20Singapore.pdf)
 
 シンガポールの金融機関向けのコンプライアンス チェックリスト
 
@@ -78,13 +78,13 @@ MAS ガイドラインに準拠してデータおよびワークロードを Mic
 
 **規制当局の承認が必要ですか?**
 
-いいえ。アウトソーシング契約の事前の通知、協議、または承認に関する要件はありません。 ただし、MAS は金融機関に対して、いつでも準拠の状況を説明できるようにしておくこと、また金融機関のアウトソーシング契約によって悪い展開が予想される事態が生じた場合 (たとえば、データ漏えい事件など)、すみやかに MAS に通知することを要求しています。
+いいえ。アウトソーシング契約の事前の通知、協議、または承認に関する要件はありません。ただし、MAS は金融機関に対して、いつでも準拠の状況を説明できるようにしておくこと、また金融機関のアウトソーシング契約によって悪い展開が予想される事態が生じた場合 (たとえば、データ漏えい事件など)、すみやかに MAS に通知することを要求しています。
 
-**「重要な」アウトソーシング契約とは何ですか？また、その定義が重要である理由は何ですか？**
+**"重要な" アウトソーシングの取り決めとは何を意味し、その定義が重要である理由は何ですか?**
 
-サービスの障害や違反が、金融機関のビジネス運営に重大な影響を与える可能性がある場合、リスクの管理や適用される法律および規制の遵守が不可能になった場合、それが「重要な」アウトソーシング契約になります。また、契約が顧客情報に関わるもので、万一顧客情報への承認されていないアクセスまたはその開示、消失、盗難が発生すると、金融機関の顧客に重大な影響を与える場合も、「重要な」アウトソーシング契約になります。 「顧客情報」の定義では、セキュリティで保護され、暗号化された情報は明示的に除外されることに注意してください。
+サービスの障害や違反が、金融機関のビジネス運営に重大な影響を与える可能性がある場合、リスクの管理や適用される法律および規制の遵守が不可能になった場合、それが "重要な" アウトソーシング契約になります。また、契約が顧客情報に関わるもので、万一顧客情報への承認されていないアクセスまたはその開示、消失、盗難が発生すると、金融機関の顧客に重大な影響を与える場合も、"重要な" アウトソーシング契約になります。 "顧客情報" の定義では、セキュリティで保護され、暗号化された情報は明示的に除外されることに注意してください。
 
-『MAS Outsourcing Guidelines』の一部の規定は、「重要なアウトソーシング契約」にのみ適用されるため、この定義は重要です。 この定義は重要です。 このような重要なアウトソーシング契約には、年 1 回のレビューの実施義務、監査権を定めた必須契約条項、シンガポール国外へのアウトソーシングが MAS の監督業務に影響を与えないようにしなければならないことなどが含まれます。
+『MAS Outsourcing Guidelines』の一部の規定は、"重要なアウトソーシング契約" にのみ適用されるため、この定義は重要です。 この定義は重要です。 このような重要なアウトソーシング契約には、年 1 回のレビューの実施義務、監査権を定めた必須契約条項、シンガポール国外へのアウトソーシングが MAS の監督業務に影響を与えないようにしなければならないことなどが含まれます。
 
 ## <a name="resources"></a>リソース
 
@@ -100,4 +100,4 @@ MAS ガイドラインに準拠してデータおよびワークロードを Mic
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

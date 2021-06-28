@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 27f0072091520317a6780e00331e0997022941a0
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 88e85b1060374932320a4191c4eb4b2b665fe986
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509559"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088946"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融情報システム センター (FISC)
 
@@ -37,7 +37,7 @@ ms.locfileid: "49509559"
 
 ## <a name="microsoft-and-fisc"></a>Microsoft と FISC
 
-Microsoft は、外部評価機関と連携して、Microsoft Azure、Dynamics 365、およびMicrosoft Office 365 が金融機関向けコンピューター システムに関する FISC セキュリティ ガイドラインの改訂版 9 版の要件を満たしていることを検証しました。 Microsoft は、次の各分野における準拠の証明を用意しています。
+Microsoft は、外部評価機関と連携して、Microsoft Azure、Dynamics 365、およびMicrosoft Office 365 が金融機関向けコンピューター システムに関する FISC セキュリティ ガイドラインの改訂版 9 版の要件を満たしていることを検証しました。Microsoft は、次の各分野における準拠の証明を用意しています。
 
 - 建造物、コンピューター ルーム、電源、空調設備、データセンター、および施設監視用のデータセンター ガイドライン
 - 組織、トレーニング、アクセス制御、システム開発、および監査用の運用ガイドライン
@@ -74,7 +74,7 @@ Microsoft クラウド サービスの FISC 準拠を評価した第三者のセ
 
 **このフレームワークへの Microsoft の対応を自分の組織の資格認定プロセスで使用できますか?**
 
-はい。 ただし、このフレームワークに対する Microsoft の回答は第三者により準拠が確認されていますが、お客様が Azure または Office 365 で実装したソリューションの準拠状況に関しては、お客様自身で検証する必要があります。
+はい。ただし、このフレームワークに対する Microsoft の回答は第三者により準拠が確認されていますが、お客様が Azure または Office 365 で実装したソリューションの準拠状況に関しては、お客様自身で検証する必要があります。
 
 ## <a name="resources"></a>リソース
 

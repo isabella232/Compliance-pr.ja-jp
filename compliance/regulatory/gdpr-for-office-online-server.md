@@ -15,12 +15,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: b047b4ccf7fa9745a7237de79bbaa198e079865e
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 298f0efe74539c8a8bd10330cfeb80894ef9edb1
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496019"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089016"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>Office Web Apps Server および Office Online Server の GDPR 対応
 
@@ -32,7 +32,7 @@ Office Online Server および Office Web Apps Server のテレメトリ デー�
 
 ## <a name="gathering-logs"></a>ログの収集
 
-たとえば、UserID 1 に関連するすべてのログを収集するための最初のステップは、UserID 1 に関連するすべてのセッション (つまり SessionID 1 と SessionID 2) を収集することです。次のステップは、SessionID 1 に関連するすべての関連付け (CorrelationID 1、2、および 3)、および SessionID 2 に関連するすべての関連付け (CorrelationID 4) を収集することです。最後に、リスト内の関連付けのそれぞれに関連するすべてのログを収集します。
+たとえば、UserID 1 に関連するすべてのログを収集するための最初のステップは、UserID 1 に関連するすべてのセッション (つまり SessionID 1 と SessionID 2) を収集することです。次のステップは、SessionID 1 に関連するすべての関連付け (CorrelationID 1、2、3)、および SessionID 2 に関連するすべての関連付け (CorrelationID 4) を収集することです。最後に、リスト内の関連付けのそれぞれに関連するすべてのログを収集します。
 
 1. UlsViewer の起動
 
@@ -80,9 +80,9 @@ Office のログには、さまざまな異なるタイプのデータが含ま�
 
 - アプリについて、またアプリ内の特定の機能についてのパフォーマンス データ
 
-- ユーザーのコンピューターの所在地を示すおおまかな位置情報 (IP アドレスに由来する国 / 地域、県、市町村)、ただし正確な地理的位置ではありません。
+- ユーザーのコンピューターの所在地を示すおおまかな位置情報 (IP アドレスに由来する国または地域、県、市町村など)、ただし正確な地理的位置ではありません。
 
-- ブラウザーに関する基本的なメタデータ (つまりブラウザーの名前とバージョン)、およびコンピューターに関する基本的なメタデータ (OS の種類とバージョン)
+- ブラウザーに関する基本的なメタデータ (ブラウザーの名前とバージョンなど)、およびコンピューターに関する基本的なメタデータ (OS の種類とバージョンなど)
 
 - ドキュメント ホストからのエラー メッセージ (OneDrive、SharePoint、Exchange など)
 

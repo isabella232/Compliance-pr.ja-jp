@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d542698eff82fa8f24a32d9f831553a9807609ce
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 43d95a4bedeca768dd6e9bf8bb4e38655382bd05
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49507929"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089701"
 ---
 # <a name="korea-information-security-management-system-k-isms"></a>韓国-情報セキュリティ管理システム (K-ISMS)
 
 ## <a name="about-k-isms"></a>K-ISMS について
 
-「情報および通信ネットワークの利用と情報保護の促進に関する法律 ([韓国語](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8) および [英語](https://law.go.kr/engLsSc.do?tabMenuId=tab45))」の条項 47 で、韓国政府は [韓国情報セキュリティ管理システム](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS) を発表しました。 各国ごとの ISMS フレームワークは、韓国の組織が一貫して安全に情報資産を保護するために設計された管理条件の厳格な基準を設定しています。
+「情報および通信ネットワークの利用と情報保護の促進に関する法律 ([韓国語](https://law.go.kr/lsSc.do?tabMenuId=tab18&query=%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EB%A7%9D%20%EC%9D%B4%EC%9A%A9%EC%B4%89%EC%A7%84%20%EB%B0%8F%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8)および[英語](https://law.go.kr/engLsSc.do?tabMenuId=tab45))」の条項 47 で、韓国政府は[韓国情報セキュリティ管理システム](https://isms.kisa.or.kr/main/isms/intro/) (K-ISMS) を発表しました。 各国ごとの ISMS フレームワークは、韓国の組織が一貫して安全に情報資産を保護するために設計された管理条件の厳格な基準を設定しています。
 
 会社が認定資格を取得するには、情報セキュリティ管理とセキュリティ対策の両方について、独立した監査人の評価を受ける必要があります。 これは、情報セキュリティ管理の 5 つのセクターの 12 の管理アイテムと、情報セキュリティ対策の 13 のセクターの 92 の管理アイテムを含む、104 の条件を対象とします。 これらには、組織のセキュリティ管理責任の検査、セキュリティ ポリシー、セキュリティ トレーニング、インシデント応答、リスク管理などが含まれます。 特別委員会は監査結果を検査し、認定を行います。
 
@@ -87,4 +87,4 @@ Azure の認定は、認証機関である KISA による年次再査定を行�
 - [K-ISMS-認定された組織](https://isms.kisa.or.kr/main/isms/issue/?certificationMode=list&crtfYear=2018&searchCondition=2&searchKeyword=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8) (韓国語)
 - [K-ISMS ドキュメントとガイドライン](https://isms.kisa.or.kr/main/isms/notice/) (韓国語)
 - [Azure のリージョン](https://azure.microsoft.com/global-infrastructure/regions/)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

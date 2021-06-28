@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9aca1e5019967db6f73de245cd75ceba88e62e64
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 1b391d3f3cd748047e24bf9e82d3c267ca7425a7
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120876"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089550"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督当局 (FINMA) スイス
 
@@ -58,7 +58,7 @@ Microsoft チェックリストでは、スイスの金融機関による Micros
 
 **規制当局の承認が必要ですか?**
 
-いいえ。 パブリック クラウド コンピューティングの使用は、FINMA の承認なしに許可されます。常に上記の規制およびガイドラインに定められた要件に準拠する必要があります。
+いいえ。パブリック クラウド コンピューティングの使用は、FINMA の承認なしに許可されます。常に上記の規制およびガイドラインに定められた要件に準拠する必要があります。
 
 **クラウド サービス プロバイダーについて、契約に含める必要がある必須条項はありますか?**
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37a561845b4eaa4568ed71a4873bb5927a42f761
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: c0b7a9583b8b6d2420837156e836b75326870f1d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497274"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089691"
 ---
 # <a name="iso-90012015-quality-management-systems-standards"></a>ISO 9001:2015 品質管理システム標準
 
@@ -69,7 +69,7 @@ ISO 9001:2015 により確立された品質管理原則を忠実に守るため
 
 はい。 ISO 9001:2015 の年次審査には、根本的な物理インフラ データセンターが含まれています。 [証明相を確認](https://www.microsoft.com/?ref=aka)して、対象範囲の詳細をご覧ください。
 
-**Microsoft の ISO 9001:2015 コンプライアンス情報はどこで確認できますか?**
+**ISO 9001:2015 に関する Microsoft のコンプライアンス情報はどこで確認できますか?**
 
 この審査の対象範囲に含まれる Azure およびその他のサービスに対する、[ISO 9001:2015 証明書](https://www.microsoft.com/?ref=aka)をダウンロードできます。
 

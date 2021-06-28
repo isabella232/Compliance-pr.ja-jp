@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: afe6f7f5d5758442b6a016834456459ff9d40e7c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497759"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088936"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 ビジネス継続性管理標準
 

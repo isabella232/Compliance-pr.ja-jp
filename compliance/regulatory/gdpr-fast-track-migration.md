@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: 134bf099671830856f97bf4dd770123d7efaf41a
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496111"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089510"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>削除要求を送信するための FastTrack 移行ツールセット
 
@@ -35,14 +35,14 @@ FastTrack 移行に関与しているお客様の場合は、ユーザー アカ
 
 Microsoft は、Windows プラットフォームと PowerShell コンソールでこのツールセットの初期リリースをサポートしています。以下の既知のプラットフォームがこのツールセットでサポートされています。
 
-***表 1 - このツールセットでサポートされているプラットフォーム***
+***表 1 - このツールセットでサポートされているプラットフォーム** _
 
-****
+_***
 
 |PowerShell バージョン|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|5.0|サポート対象外|サポートされている|サポート済み|サポート済み|サポート|
-|5.1|サポート対象外|サポートされている|サポート済み|サポート済み|サポート済み|
+|5.0|サポート対象外|サポートされている|サポート|サポート|サポート|
+|5.1|サポート対象外|サポートされている|サポート|サポート|サポート済み|
 |
 
 ### <a name="obtaining-the-toolset"></a>ツールセットの取得
@@ -53,7 +53,7 @@ Microsoft は、Windows プラットフォームと PowerShell コンソール�
 
 ![PowerShell - アプリケーションに変更を許可する](../media/fasttrack-run-powershell_image.png)
 
-コンソールが開いたところで、スクリプトの実行のアクセス許可を設定する必要があります。 次のコマンドを入力して、スクリプトの実行を許可します。
+これでコンソールが開くので、スクリプト実行のアクセス許可を設定する必要があります。次のコマンドを入力して、スクリプトの実行を許可します。
 
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 この操作の確認が要求されます。これは、管理者が自分の判断で範囲を変更できるためです。
 
-***実行ポリシーの設定***
+**_実行ポリシーの設定_* _
 
 ![PowerShell での実行ポリシー変更の設定](../media/powershell-set-execution-policy_image.png)
 
@@ -75,7 +75,7 @@ Install-Module -Name Microsoft.FastTrack -Repository PSGallery -WarningAction Si
 
 このモジュールが正常に動作するためには、まだインストールされていない依存モジュールをインストールする必要があります。PowerShell を再起動しなければならない場合があります。
 
-DSR を送信するには、最初に Office 365 の資格情報を使用してログインする必要があります。 正しい資格情報を入力すると、グローバル管理者のステータスが検証され、テナントの情報が収集されます。
+DSR を送信するには、まず、Office 365 認証情報を使用してログインする必要があります。適切な認証情報を入力すると、全体管理者の状態が検証され、テナント情報が収集されます。
 
 ```powershell
 Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 ログインに成功すると、資格情報とキーが保存され、現在の PowerShell セッションの残りの部分に対して FastTrack モジュールで使用されます。
 
-商用以外のクラウド環境に接続する必要がある場合は、次の有効な環境のいずれかを使用して、*-Environment* を *Login* コマンドに追加する必要があります。
+商用以外のクラウド環境に接続する必要がある場合は、次の有効な環境のいずれかを使用して、_-Environment* を *Log in* コマンドに追加する必要があります。
 
 - AzureCloud
 - AzureChinaCloud
@@ -100,7 +100,7 @@ DSR 要求を送信するには、次のコマンドを実行します。
 Submit-FastTrackGdprDsrRequest -DsrRequestUserEmail SubjectUserEmail@mycompany.com
 ```
 
-成功した場合、コマンドレットによってトランザクション ID オブジェクトが返されます。 このトランザクション ID は、保管してください。
+成功すると、コマンドレットがトランザクション ID オブジェクトを返します。このトランザクション ID を保管してください。
 
 #### <a name="checking-the-status-of-a-request-transaction"></a>要求トランザクションの状態の確認
 

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9dfe0936b6df031fd8d50fff3554e9c9cb5ced1
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 4ec39ccbeb9780c51ef813c1520675abb1d19cc9
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509619"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089570"
 ---
 # <a name="european-standards-en-301-549"></a>欧州規格 EN 301 549
 
@@ -54,4 +54,4 @@ Microsoft は、製品およびサービスの開発において EN 301 549 を�
 - [Microsoft アクセシビリティ サイト](https://www.microsoft.com/accessibility): アクセシビリティ機能の使用に関する情報を取得して、すべてのユーザーがもっと多くのことを達成するために Microsoft ではどのような革新が行われているのかを理解します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

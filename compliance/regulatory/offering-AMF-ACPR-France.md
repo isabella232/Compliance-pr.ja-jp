@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cd26a6a8256d2efa85451e84f1caffc7e68c043b
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e83206a9d8f0639d529b64f00c07a79a16d40f0d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121406"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088516"
 ---
 # <a name="financial-authority-amf-and-prudential-authority-acpr-france"></a>Financial Authority (AMF) および Prudential Authority (ACPR) フランス
 
@@ -36,7 +36,7 @@ AMF と ACPR は、欧州銀行監督局 (EBA) と協力して活動しており
 - AMF の一般規制 ([フランス語](https://amf-france.org/eli/fr/aai/amf/rg/livre/1/fr.html) および [英語](https://amf-france.org/eli/fr/aai/amf/rg/20180103/notes/en.pdf)) には、金融の法制を強化するための規定と手順が定められています。 特に、記事 313-75 では、金融機関がクラウド サービス プロバイダーと結ぶ契約に反映される必要がある条件を設定しています。
 - ACPR は、「クラウド コンピューティングに関連するリスクについて ([フランス語](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-risques-associes-au-cloud-computing.pdf) および [英語](https://acpr.banque-france.fr/sites/default/files/medias/documents/201307-the-risks-associated-with-cloud-computing.pdf))」で公開し、ACPR の監視下にある組織がビジネス機能をクラウドにアウトソースするときに、リスクを管理するための適切な処置を取るよう奨励しています。 さらに、ACPR 監視下の「[会社の内部統制に関する 2014 年 11 月 3 日の ACPR Order の記事 239](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029700770&categorieLien=id) (フランス語)」でも、クラウド サービス プロバイダーとの契約に含める必須条項を指定しています。
 - 特定の状況では、規制下にある機関は重要なアウトソーシング契約について、特に、業務に大きな影響を与える可能性がある場合には AMF および ACPR に通知する必要があります。
-- フランスのデータ保護機関の役割において、「[CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l’Informatique et des Libertés) は、クラウド コンピューティング サービスの利用を計画する会社のための推奨事項を含む、多くのクラウド コンピューティング ガイドライン ([フランス語](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf) および [英語](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))」 を発行しました。
+- フランスのデータ保護機関の役割において、「[CNIL](https://www.cnil.fr/en/home) (Commission Nationale de l'Informatique et des Libertés) は、クラウド コンピューティング サービスの利用を計画する会社のための推奨事項を含む、多くのクラウド コンピューティング ガイドライン ([フランス語](https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf)および[英語](https://www.cnil.fr/sites/default/files/typo/document/Recommendations_for_companies_planning_to_use_Cloud_computing_services.pdf))」を発行しました。
 
 ## <a name="microsoft-and-the-amf-and-acpr"></a>Microsoft と AMF および ACPR
 

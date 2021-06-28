@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bf4ea5afbcc44a7e59e66d5d74c9b87123b6ded8
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508006"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089821"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>スペインの Esquema Nacional de Seguridad (ENS) のハイ レベルなセキュリティ対策
 
@@ -70,7 +70,7 @@ Microsoft Azure と Microsoft Office 365 は、独立監査人である BDO の�
 
 [Service Trust Portal](https://aka.ms/stphelp) には、スペイン語と英語の両方の監査レポートと認定証が用意されています。 お客様の監査人は、そのレポートに基づいて、マイクロソフト クラウド サービスの監査結果とお客様の法的規制要件を比較できます。
 
-**私の組織のコンプライアンス順守は何から始めればよいですか?**
+**組織でのコンプライアンス活動は、何から始めればよいですか?**
 
 お客様の組織が Azure または Office 365 を使用している場合は、お客様独自の認定プロセスの一環として、ENS マイクロソフト監査レポートと認定証をご利用いただけます。 ただしその場合も、お客様の責任で、コンプライアンスの実施状況や組織内の対策やプロセスがその枠組みに沿っているかどうかを監査人が評価するよう手配する必要があります。
 

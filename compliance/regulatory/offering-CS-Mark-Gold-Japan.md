@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8ae3f837336b0eb79ded802d17df37fefe8d5245
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508049"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53088496"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>クラウド セキュリティ ゴールド マーク (CS ゴールド マーク)
 
@@ -29,7 +29,7 @@ ms.locfileid: "49508049"
 
 クラウド セキュリティ マーク (CS マーク) は、クラウド サービス プロバイダー (CSP) を対象とした日本初のセキュリティ基準であり、情報セキュリティ コントロールの国際実施基準である ISO/IEC 27017 に基づいています。 ISO/IEC 27017 が基づいている ISO/IEC 27002 はクラウド サービスを対象とし、クラウド コンピューティングにおける情報セキュリティと、クラウドに関連した情報セキュリティ コントロールの実施を取り扱っています。
 
-CS マークは、日本における情報セキュリティを強化するために総務省と経済産業省が設立した非営利法人、日本セキュリティ監査協会 (JASA) によって認定されます。 CS マークは、クラウド サービスの使用を促進し、次の情報を提示する制度です。
+CS マークは、日本における情報セキュリティを強化するために総務省と経済産業省が設立した非営利法人、日本セキュリティ監査協会 (JASA) によって認定されます。CS マークは、クラウド サービスの使用を促進し、以下を提示する制度です。
 
 - クラウド上のデータのセキュリティと機密性について、およびクラウド サービスの利用によってビジネスに及ぶ影響についての顧客の一般的な懸念事項に対処するために、CSP が適用できる一般的な基準
 - クラウド サービスの使用時に顧客がさらされるリスクに対する、検証可能な運用上の透明性と見通し

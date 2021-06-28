@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a7f6f07a2dd58d4a99559488c3f9d3b92d4fe195
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 13a628ee832079bd0402e5aec9969ec6e1f14cb4
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121806"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089841"
 ---
 # <a name="dutch-authority-for-the-financial-markets-and-the-central-bank-of-the-netherlands"></a>オランダ金融市場局およびオランダ中央銀行
 
@@ -29,11 +29,11 @@ ms.locfileid: "50121806"
 
 オランダの主な金融規制当局は、[オランダの金融市場当局](https://afm.nl/en) ([ AutoriteitFinanciëleMarkten、AFM ](https://afm.nl/)) および[オランダ中央銀行](https://www.dnb.nl/en/home/index.jsp) ([De Nederlandsche Bank、DNB ](https://www.dnb.nl/home/)) です。 その役割が米国の SEC に匹敵する AFM は、貯蓄、融資、投資、および保険市場の独立監督機関です。" 欧州中央銀行システム内の DNB は、金融政策を決定および実施し、オランダの金融機関の慎重な監督を行います。  
   
-両機関は、欧州銀行監督局 (EBA) と協力して活動しており、「欧州の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関です。」 そのため、EBA は、EU 圏内の金融機関によるクラウド コンピューティングの使用に対する包括的なアプローチ、[クラウド サービス プロバイダーへのアウトソーシングに関する推奨事項](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )の概要を示しています。  
+両機関は、欧州銀行監督局 (EBA) と協力して活動しており、"欧州の銀行セクター全体で効果的で一貫性のある健全な規制および監督を確保するために活動する独立機関です。" そのため、EBA は、EU 圏内の金融機関によるクラウド コンピューティングの使用に対する包括的なアプローチ、[クラウド サービス プロバイダーへのアウトソーシングに関する推奨事項](https://eba.europa.eu/sites/default/documents/files/documents/10180/1848359/c1005743-567e-40fc-a995-d05fb93df5d1/Draft%20Recommendation%20on%20outsourcing%20to%20Cloud%20Service%20%20%28EBA-CP-2017-06%29.pdf )の概要を示しています。  
   
-一般に、法律とガイドラインは、サード パーティのサービスを含むクラウド コンピューティングがアウトソーシングの一形態として適格であるという点を裏付けており、オランダの金融機関はビジネス アクティビティをクラウドに移行する前に関連するリスクに対処する必要があります。 これには、次のものが含まれます。
+一般に、法律とガイドラインは、サード パーティのサービスを含むクラウド コンピューティングがアウトソーシングの一形態として適格であるという点を裏付けており、オランダの金融機関はビジネス アクティビティをクラウドに移行する前に関連するリスクに対処する必要があります。これには以下が含まれます。
 
-- 2018 年にオランダ議会が発行する金融監督法 (FSA) ([オランダ語](https://wetten.overheid.nl/BWBR0020368/2018-02-09)および[英語](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)) は、金融機関によるアウトソーシングに伴うリスクの管理を妨げないよう条件を付しています。
+- 2018 年にオランダ議会が発行した金融監督法 (FSA) ([オランダ語](https://wetten.overheid.nl/BWBR0020368/2018-02-09)および[英語](https://www.toezicht.dnb.nl/en/binaries/51-217291.pdf)) は、金融機関によるアウトソーシングに伴うリスクの管理を妨げないよう条件を付しています。
 - DNB によって発行された Circulaire Cloud Computing ([オランダ語](https://www.toezicht.dnb.nl/binaries/50-224828.pdf)および[英語](https://www.toezicht.dnb.nl/en/binaries/51-224828.pdf)) では、管理対象のオランダの機関は、クラウド コンピューティングに取り組む前に DNBに業務プロセスとリスクを確実に管理できるように、潜在的なアウトソーシング契約について通知することを義務付けています。
 
 DNB が提供するテンプレートを使用して、以下を含む必須のリスク分析を提出する必要があります。
@@ -70,7 +70,7 @@ Microsoft チェックリストでは、オランダの金融機関による Mic
 
 **規制当局の承認が必要ですか?**
 
-いいえ。 しかし、Circularire Cloud Computing では、DNB は、管理対象のオランダの機関がクラウド コンピューティングに取り組む前に、潜在的なアウトソーシング契約に関するリスク分析を提出するよう要求しています。
+いいえ。しかし、Circularire Cloud Computing では、DNB は、管理対象のオランダの機関がクラウド コンピューティングに取り組む前に、潜在的なアウトソーシング契約に関するリスク分析を提出するよう要求しています。
 
 **クラウド サービス プロバイダーについて、契約に含める必要がある必須条項はありますか?**
 

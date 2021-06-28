@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c079230e1fca6ea19248218a6ecd01eeb896fd87
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 36347cd4df74a87db2dba5977b5ed1270c29086e
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49509482"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089811"
 ---
 # <a name="it-grundschutz-compliance-workbook"></a>IT-Grundschutz コンプライアンス ワークブック
 
 ## <a name="it-grundschutz-compliance-workbook-overview"></a>IT-Grundschutz コンプライアンス ワークブックの概要
 
-組織が IT システムのセキュリティ保護対策を決定して実装できるように、ドイツ連邦情報セキュリティ庁 (Bundesamt für Sicherheit in der Informationstechnik、BSI) は、IT を保護するための最低限の基準 (ドイツ語で IT-Grundschutz) を策定しました。 これらの BSI 規格は、次の内容で構成されます。
+組織が IT システムのセキュリティ保護対策を決定して実装できるように、ドイツ連邦情報セキュリティ庁 (Bundesamt für Sicherheit in der Informationstechnik、BSI) は、IT を保護するための最低限の基準 (ドイツ語で IT-Grundschutz) を策定しました。これらの BSI 規格は、次の内容で構成されます。
 
 - ISO/IEC 27001 規格に基づく情報セキュリティ管理システム (ISMS) (BSI 規格 100-1)
 - ISMS の設定と運用方法について説明する IT-Grundschutz の手法 (BSI 規格 100-2)
@@ -53,7 +53,7 @@ ms.locfileid: "49509482"
 
 **私の組織が IT-Grundschutz に準拠できるように、マイクロソフト IT-Grundschutz コンプライアンス ワークブックを使用できますか?**
 
-はい。 このワークブックは、Microsoft Cloud Germany のお客様が、既存または計画された ISO 27001 認定の範囲内で IT-Grundschutz の手法を実装できるようにすることを目的としています。
+はい。このワークブックは、Microsoft Cloud Germany のお客様が、既存または計画された ISO 27001 認定の範囲内で IT-Grundschutz の手法を実装できるようにすることを目的としています。
 
 **IT-Grundschutz カタログと C5 の違いは何ですか?**
 
@@ -61,7 +61,7 @@ Cloud Computing Compliance Controls Catalog (C5) とは、ドイツ政府機関�
 
 **Microsoft Cloud Germany とは何ですか?**
 
-Microsoft Cloud Germany は、ドイツに物理的拠点を置き、ドイツのプライバシー法の要件に準拠しています。この法律は、他国への個人データの移転を厳しく制限し、国内法に違反する可能性のある他の管轄区域当局によるアクセスからデータを保護します。 Microsoft Cloud Germany は、Azure Germany、パブリック クラウド コンピューティング プラットフォーム、およびそのすべてのサービスを提供しています。
+Microsoft Cloud Germany は、ドイツに物理的拠点を置き、ドイツのプライバシー法の要件に準拠しています。この法律は、他国への個人データの移転を厳しく制限し、国内法に違反する可能性のある他の管轄区域当局によるアクセスからデータを保護します。Microsoft Cloud Germany は、Azure Germany、Microsoft のパブリック クラウド コンピューティング プラットフォーム、およびそのすべてのサービスを提供しています。
 
 ## <a name="resources"></a>リソース
 

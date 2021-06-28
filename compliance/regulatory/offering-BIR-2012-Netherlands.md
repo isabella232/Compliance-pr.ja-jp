@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cf7d749df05d4be1396fa988615daa5c195c51cf
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 285b2d041b5ca1d7c3366cb98274a5aa8a812638
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508056"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089831"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Baseline Informatiebeveiliging Rijksdienst 標準 (BIR 2012)
 
@@ -46,8 +46,7 @@ Microsoft は BIR 2012 の規制の対象外ですが、政府部門に関連す
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-- [Azure および Office 365 BIR-2012 ベースラインのカバレッジ](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage/pdf)
-- [Azure および Office 365 BIR-2012 ベースラインのカバレッジ ユーザー ガイド (オランダ語)](https://protection.office.com/DownloadFile/ServiceAssurance/Document/compliance/Azure%20and%20Office%20365%20BIR-2012%20Baseline%20Coverage%20User%20Guide_Dutch/docx)
+Microsoft の独立した第三者監査機関によって、現在の Azure および Office 365 の認定と構成証明 (ISO/IEC 27001 や SOC 2 Type 2 など) で、Microsoft が担当する BIR 2012 をどの程度カバーできているかを分析しました。 その結果を示すレポートから、BIR 2012 標準に記載されているコントロールに対するこれらの既存の認定と構成証明のマッピングを確認できます。 このレポートは、BIR 2012 に準拠した方法で Azure を採用するのに役立つツールとしてご利用いただけます。 このレポートでは、Microsoft によってカバーされている BIR 2012 コントロールと、お客様が実装する必要のあるコントロールとが明確に示されています。 「Microsoft Cloud: Azure および Office 365 BIR 2012 ベースラインのカバレッジ」レポートは、[Service Trust Portal での監査レポートに関するページの「GRC 評価レポート」](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)セクションからダウンロードできます。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -77,4 +76,4 @@ Microsoft クラウド サービスでは、オランダ国内の組織が持つ
 - [Security prescription national 2013 (BVR)](https://wetten.overheid.nl/BWBR0033512/2013-06-01)
 - [Prescription information security national 2007 (VIR)](https://wetten.overheid.nl/BWBR0022141/2007-07-01)
 - [ベースライン情報のセキュリティ (BIR)](https://www.earonline.nl/index.php/BIR_2012)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

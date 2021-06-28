@@ -16,18 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 36a04d2669548d837409280d6bf615bebe7f15d9
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
+ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508359"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53089801"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999 の概要
 
-AEPD は、国境を越えた個人データの転送を含む、個人データの保護に関するスペインの基本法 15/1999 ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750) (LOPD)) への準拠を監督する公的機関です。 2014 年に AEPD は、EU モデル契約条項の対象となる Microsoft Azure、Dynamics 365、および Office 365 に適用される Microsoft の利用条件を審査し、これらのサービスに個人データを移行するお客様に対し、これらの利用条件が適切な保護対策を提供しているとする結論を発表しました。
+AEPD は、国境を越えた個人データの転送を含む、個人データの保護に関するスペインの基本法 15/1999 ([Ley Orgánica 15/1999 de Protección de Datos](https://www.boe.es/buscar/act.php?id=BOE-A-1999-23750) (LOPD)) への準拠を監督する公的機関です。 2014 年に AEPD は、EU モデル契約条項の対象となる Microsoft Azure、Dynamics 365、および Office 365 に適用される Microsoft のご契約条件を審査し、これらのサービスに個人データを移行するお客様に対し、これらの条件が適切な保護対策を提供しているとする結論を発表しました。
 
 Royal Decree 1720/2007 の Title VIII は個人データの処理に関する厳格な要件を定めており、実装が義務付けられている基本レベル、中間レベル、高度なレベルのセキュリティ対策が列挙されています。 Microsoft は、Royal Decree 1720/2007 で定められている高度なレベルの要件への Microsoft Azure および Office 365 の準拠の評価、および中間レベルの要件への Microsoft Dynamics 365 の準拠の評価を、スペインの独立した第三者の監査機関である BDO Auditores に依頼しました。 同監査機関は、面談、施設訪問、および環境および物理的セキュリティ対策と管理のレビューに基づき、Microsoft Azure および Office 365 の情報システム、施設、およびデータ処理が高度な基準を満たしており、是正処置はまったく必要ないものと判断しました。
 
@@ -67,7 +67,7 @@ Microsoft は、お客様のために、スペインの基本法 5/1999 (Ley Org
 
 **Microsoft のコンプライアンスを自分の組織の認定プロセスに利用できますか?**
 
-はい。 組織が LOPD または Royal Decree (王室令) 1720/2007 に沿った認定を必要とする、または求めている場合、コンプライアンス評価で AEPD の承認とセキュリティ対策認定を使用できます。 ただし、ご自身の責任で、査定人が、Microsoft Azure、Dynamics 365 または Office 365 にデプロイしたコンプライアンスの実装と、組織内でのコントロールやプロセスの実装を評価するよう手配する必要があります。
+はい。 組織が LOPD または Royal Decree 1720/2007 に沿った認定を必要とする、または求めている場合、コンプライアンス評価で AEPD の認可とセキュリティ対策認定を使用できます。 ただし、ご自身の責任で、査定人が、Microsoft Azure、Dynamics 365 または Office 365 にデプロイしたコンプライアンスの実装と、組織内でのコントロールやプロセスの実装を評価するよう手配する必要があります。
 
 ## <a name="resources"></a>リソース
 
