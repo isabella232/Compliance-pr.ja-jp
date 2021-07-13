@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f32ebfe11debbace7783722553d37f68815a9085
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 8145c8e4fc1617371acdfa10cd20daa4f3ba3bf3
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089520"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384867"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 
@@ -47,30 +47,42 @@ Microsoft エンタープライズ クラウド サービスも FedRAMP 評価�
 
 Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠をどのように支援するかについては、「[Microsoft のお客様事例](https://customers.microsoft.com/)」をご覧ください。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure と Azure Government](https://aka.ms/AzureCompliance)(Microsoft の HIPAA Business Associate Agreement のスコープ内のサービスの完全な一覧については、「付録 *A* と *B」* を参照してください)
+- Azure および Azure Government
+- Azure DevOps Services
+- Dynamics 365、Dynamics 365 米国政府
+- Intune
 - Microsoft Cloud App Security
 - [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
-- Microsoft Stream
 - Microsoft Professional Services: Azure、Dynamics 365、Intune と、Microsoft 365 for business の Medium Business および Enterprise のお客様への Premier およびオンプレミス サポート
-- [Dynamics 365、Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
+- Office 365 Office 365米国政府
 - Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
-- Intune
-- [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに組み込まれているサービス)
-- Azure DevOps Services
 
-## <a name="accelerate-your-deployment-of-hipaahitrust-solutions-on-azure"></a>Azure での HIPAA/HITRUST ソリューションの展開を加速する
+## <a name="azure-dynamics-365-and-hipaa"></a>Azure、Dynamics 365、HIPAA
 
-Azure Security and [Compliance Blueprint](/azure/governance/blueprints/samples/hipaa-hitrust-9-2)を使用して、クラウドのメリットを利用して正常性データ ソリューションを活用しましょう。 このブループリントは、HIPAA/HITRUST ソリューションの構築を今日から始めるためのツールとガイダンスを提供します。
+Azure、Dynamics 365、その他のオンライン サービスのコンプライアンスの詳細については [、「Azure HIPAA オファリング」を参照してください](/azure/compliance/offerings/offering-hipaa-us)。
 
-詳細については [、「Azure と HIPAA の提供](/azure/compliance/offerings/offering-hipaa-us) 」をご覧ください。
+## <a name="office-365-and-hipaa"></a>Office 365 HIPAA
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 マイクロサービス (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online ドキュメント サービス、注釈サービスを含むがこれらに限定されません。学校データ同期、Siphon、Speech、StaffHub、eXtensible アプリケーション プログラム)、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、Office Services インフラストラクチャ、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、顧客キーによるサービス暗号化、SharePoint Online、Skype for Business、Stream |
+| **GCC** | Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Skype for Business Online、Stream、 |
+
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **自分の所属組織は Microsoft と BAA を締結できますか ?**
 
@@ -99,17 +111,13 @@ HIPAA Business Associate Agreement は、スコープ内の Microsoft Profession
 - HIPAA/HITECH Act の実装ガイダンスは、 [プライバシー](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/) 、セキュリティ、コンプライアンス担当者、および HIPAA および HITECH 法の実装を担当する他の担当者向けガイダンスで、コンプライアンスを維持するために組織が実行できる具体的な手順について説明します。
 - 「[Practical guide to designing secure health solutions using Microsoft Azure (Microsoft Azure を使用して安全な健康ソリューションを設計するための実践ガイド)](https://aka.ms/azureindustrysecurity)」は、クラウド サービスを安全な方法で適切に導入するために必要なことをよりよく理解するために役立ちます。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [Microsoft HIPAA Business Associate Agreement](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3)
-- [Azure HIPAA 実装のガイダンス](https://azure.microsoft.com/resources/a-practical-guide-to-designing-secure-health-solutions-using-microsoft-azure/)
-- [Azure HIPAA/HITRUST ブループリント](/azure/governance/blueprints/samples/hipaa-hitrust-9-2/)
 - [Microsoft Cloud for healthcare compliance offerings](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- [Azure for the Healthcare Industry](https://azure.microsoft.com/industries/healthcare/)
-- [Azure High-Performance コンピューティング for Health and Life Sciences](https://azure.microsoft.com/solutions/high-performance-computing/health-and-life-sciences/)
 - [Microsoft Cloud for the Healthcare Industry](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
 - [Microsoft Trust Center のヘルスケア](https://www.microsoft.com/trust-center/cloudservices/health)

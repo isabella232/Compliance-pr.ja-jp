@@ -1,5 +1,5 @@
 ---
-title: 個人データ保護法 (PDPA) アルゼンチン
+title: アルゼンチン個人データ保護法 (PDPA)
 description: Microsoft 法人向けクラウド サービスは、個人情報のプライバシーを保護するための PDPA 基準に準拠しています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75ab80c2b017e7fe4576f145db50465ea71e2d41
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: e5b04f64d2dc0b31c8357a02930fa582b2fbae07
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119916"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385647"
 ---
-# <a name="personal-data-protection-act-pdpa-argentina"></a>個人データ保護法 (PDPA) アルゼンチン
+# <a name="argentina-personal-data-protection-act-pdpa"></a>アルゼンチン個人データ保護法 (PDPA)
 
 ## <a name="about-the-pdpa"></a>PDPA について
 
@@ -39,13 +39,27 @@ Microsoft は、[Microsoft オンライン サービス条件](https://www.micro
 
 法人向けクラウド サービスで実施される技術的および組織的なセキュリティ対策は、データ主体の個人データの二次利用の禁止や、保護レベルが適正水準を満たしていない国への個人データの転送の禁止など、PDPA のその他のルールもサポートします。
 
-Microsoft のデータ移転契約は、オンライン サービス条件のデータ処理条件への修正 (改正 ID M314) です。 この修正は次のような重要な確約を追加します。Microsoft が個人データを開示する場合には、お客様に法的拘束力のある要求について通知する。お客様の要求に応じて、お客様かもしくは独立した第三者機関によって、お客様の要請で監査をデータ処理機関に提出する。下請け業者を利用する場合には、文書による事前承諾を得る。
+Microsoft データ転送契約は、Microsoft のオンライン サービス条件のデータ処理条件に対する変更契約書 (変更契約書 ID M314) です。これには、個人データの開示に関する法的拘束力のある要求があった場合に Microsoft がお客様に通知する、お客様または独立した第三者による顧客の要求に応じて監査するために、データ処理機能を送信する、下請業者の使用に関する事前の書面による同意を得る、など重要なコミットメントが追加されています。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure および Azure DevOps](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
-- [Microsoft 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-pdpa"></a>Office 365 と PDPA
+
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection、Bookings、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、Office Delve、OneDrive for Business、Planner、Power Apps、Power BI for Office 365、PowerApps、Power Automate、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -56,7 +70,7 @@ Microsoft のデータ移転契約は、オンライン サービス条件のデ
 
 **GDPR が個人データ保護法を変更した方法**
 
-2018 年後期、アルゼンチンではまだ GDPR 関連の規制は制定されていませんでしたが、新たなデータ保護の法案が起草されました。すでに行政権によって国会に提出され、このデータ保護法が GDPR として制定されるよう下院で改正中です。 これにより、データ主体の定義の違いや、国境を越える個人情報の転送に関する懸念に対処することができます。
+2018 年後半、アルゼンチンは GDPR 関連の規制をまだ施行していませんが、GDPR に合わせてデータ保護法を調整するために、新しいデータ保護請求書を作成しました。これは既に行政権によって国会に提出され、下院によって改訂中です。データ主体の定義や、個人情報の海外への転送に関する懸念などの違いに対処しています。
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
@@ -67,4 +81,4 @@ Microsoft のデータ移転契約は、オンライン サービス条件のデ
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

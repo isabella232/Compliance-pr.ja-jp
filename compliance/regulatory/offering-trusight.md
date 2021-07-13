@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4fe0196ae019dbf35902c2fd0589db96ed1f1086
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: a29713d530542b64514f694eef67aabb09e303e0
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50119886"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385537"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -41,7 +41,7 @@ Microsoft の場合は、BPQ 要件に従って統制が計画され、実施さ
 
 こうした厳格な TruSight の評価のゆえに、金融サービスの顧客は、独自でそれを実施するために必要な少なからぬリソースを費やすことなく、必要に応じて、標準化された業界支援の手法に基づく Microsoft クラウド サービスの質の高い評価にアクセスできるようになりました。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365 (バージョン 9 および後続のバージョン)](https://aka.ms/d365-compliance-list)
@@ -70,4 +70,4 @@ Microsoft の場合は、BPQ 要件に従って統制が計画され、実施さ
 - [Azure における金融サービス コンプライアンス](https://aka.ms/FinServ-Compliance-Azure)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://aka.ms/FinServ-Compliance)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

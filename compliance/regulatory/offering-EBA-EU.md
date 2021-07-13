@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c753092f26df4a0d8ebcb5fc2a7921cee9e79f93
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 18abcba03796d7f6563c65cebcbbafd63759dc7c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120926"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385227"
 ---
 # <a name="european-banking-authority-eba"></a>欧州銀行監督局 (EBA)
 
@@ -37,16 +37,16 @@ EU 圏内の金融機関のクラウド導入に関する欧州銀行監督局 (
 
 この Microsoft のガイダンスは、EBA の各推奨事項をポイントごとに扱っています。
 
-- 監査権。 Microsoft は業界をリードする金融サービス修正案により、お客様への契約上の監査権および規制当局への審査権を提供しています。
-- アウトソーシングに関する通知。 Microsoft は、アウトソーシングされる重要な活動を規制当局に通知することでお客様を支援できます。
+- 審査権。Microsoft は業界をリードする金融サービス修正案により、お客様への契約上の監査権および規制当局への審査権を提供しています。
+- アウトソーシングに関する通知。Microsoft は、アウトソーシングされる重要な活動を規制当局に通知することでお客様を支援できます。
 - データの常駐。 ヨーロッパでの 6 つを含む 36 の地域で、Microsoft はクラウド サービス プロバイダーの中でも世界最大数のデータセンターを提供しています。 組織は、ヨーロッパ内でのデータ ホスティングの必要なしに 1 つの地域にワークロードを展開できます。
-- 下請業者に関する通知。 Microsoft は、新しい下請業者の 180 日前の通知および、お客様が新しい下請業者の指名を承認しない場合には契約を終了する権利をお客様に提供するという契約上のコミットメントにより業界をリードしています。
-- 事業の継続性。 Microsoft は、Microsoft コンサルティング サービスを介した移行支援を提供する意思を含む金融サービス修正案で事業の継続性と解決への対策を提供します。
-- リスク評価とセキュリティ監視。 Microsoft はお客様独自のリスク評価の実施を可能にし、ツールとダッシュボードを提供して、クラウド サービスを監督および監視できるようにします。
+- 下請業者に関する通知。Microsoft は、新しい下請業者の 180 日前の通知および、お客様が新しい下請業者の指名を承認しない場合には契約を終了する権利をお客様に提供するという契約上のコミットメントにより業界をリードしています。
+- 事業の継続性。Microsoft は、Microsoft コンサルティング サービスを介した移行支援を提供する意思を含む金融サービス修正案で事業の継続性と解決への対策を提供します。
+- リスク評価とセキュリティ監視。Microsoft はお客様独自のリスク評価の実施を可能にし、ツールとダッシュボードを提供して、クラウド サービスを監督および監視できるようにします。
 
 EU 圏内の金融機関向けに、Microsoft は EBA ガイダンスをモデルにしたチェックリストである [Microsoft Cloud の金融機関向けリスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide)も公開しています。 規制要件を満たすように最適化されたガバナンス モデルを確立し、Microsoft クラウド サービスを使用するリスクを効率的に評価し、その後規制当局の承認を得るための提出方法を説明します。 このガイドには、クラウド サービス プロバイダーへのアウトソーシングに関する EBA ガイダンスから引用され、かつそれに対応する規制当局への提出時に回答する質問のリストが含まれています。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Microsoft 365](https://aka.ms/o365-compliance-framework)
@@ -71,4 +71,4 @@ EU 圏内の金融機関向けに、Microsoft は EBA ガイダンスをモデ�
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 金融サービスのブログ](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

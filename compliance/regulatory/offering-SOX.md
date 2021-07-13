@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3720eb98ee6f903d59316500ffe008398f388bf0
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 3621d34a87402722e18d50a298dff4d5a10ac3a9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089791"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384347"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>米国企業改革法 (SOX 法)
 
@@ -39,21 +39,35 @@ Sarbanes-Oxley 法 (SOX) に準拠する Microsoft クラウド サービスの�
 
 サード パーティの監査会社によって作成された監査レポートは、Microsoft のコントロールが適切に設計され、指定された日付に運用され、指定された期間に有効に運用されたと証明します。 お客様はレポートを確認して、Microsoft のコントロールの目的とコントロールの有効性について学習し、補完的なコントロールにアクセスできます。
 
-Azure クライアントが SOX の義務に対処するために、Microsoft は [Azure Guidance for Sarbanes-Oxley を公開しました](https://aka.ms/Azure-SOX-Guide)。 このホワイト ペーパーでは、SOX への準拠の影響を含む移行のベスト プラクティスを提供し、SOX 関連のアプリケーション (Microsoft Financey および Microsoft Finance) を Azure に移行する内部エクスペリエンスについて説明します。
-
 Microsoft では、お客様とのコンプライアンスの責任を共有しています。 コンプライアンス プログラムに関する詳細な情報を提供します。これは、認定する第三者から詳細な監査結果を要求することで確認できます。 ただし、最終的には、サービスがビジネスに適用される特定の法律および規制に準拠するかどうかを判断する必要があります。 たとえば、SOX 関連のセキュリティ制御 (クラウド リソースへのユーザー アクセスなど) は、お客様の責任です。組織は、SOX コンプライアンスの一環として、これらのコントロールの適切な監査を開発する必要があります。
 
-SOX コンプライアンスの義務に対処する際Microsoft Azureコンプライアンス レポートを使用する方法の詳細[:Azure Guidance for Sarbanes-Oxley をダウンロードする](https://aka.ms/Azure-SOX-Guide)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
-
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Office 365
+- Power BI クラウド サービス (スタンドアロン サービスとして、またはブランド化されたプランまたはスイートOffice 365含まれている場合)
 
-## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
+## <a name="azure-dynamics-365-and-sox"></a>Azure、Dynamics 365、SOX
+
+Azure、Dynamics 365、その他のオンライン サービスコンプライアンスの詳細については [、「Azure SOX 製品」を参照してください](/azure/compliance/offerings/offering-sox-us)。
+
+## <a name="office-365-and-sox"></a>Office 365 SOX
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | 拡張ループ、Auto Alt Text、Azure Information Protection、Binary Conversion Services、Bookings、Delve、Document Item、Editor、Exchange Online、Forms、Insert Online Media、インサイト、Kaizala、Microsoft Analytics、 Microsoft Booking、Microsoft Graph、Microsoft Teams、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、OneDrive for Business、プランナー、Power Apps、PowerApps、Power Automate、Power BI、PowerPoint デザイナー、PowerPoint PowerPoint Online ドキュメント サービス、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、To-Do、Yammer Enterprise レンダリング サービス、To-Do  |
+
+### <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
 [SOC 1 タイプ 2](offering-SOC.md) レポート:
 
@@ -61,17 +75,15 @@ SOX コンプライアンスの義務に対処する際Microsoft Azureコンプ�
 - Dynamics 365
 - Office 365
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **組織のコンプライアンス プロセスを容易にするために Microsoft SOX コンプライアンスを使用する方法**
 
 対象となる Microsoft クラウド サービスにアプリケーションとデータを移行する場合は、Microsoft が保持する構成証明と認定を基に構築できます。 独立監査人は、データのセキュリティとプライバシーを維持するために Microsoft が実装したコントロールの有効性を証明します。 ただし、お客様は、組織が適用される法律および規制の遵守を保証する責任を負います。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
-- [Sarbanes-Oxley の Azure ガイダンス](https://aka.ms/Azure-SOX-Guide)
 - [Microsoft 金融サービス コンプライアンス プログラム](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

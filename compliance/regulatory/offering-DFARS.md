@@ -1,6 +1,6 @@
 ---
-title: 米国国防総省取得規則補足 (DFARS)
-description: Microsoft Azure Government は、Defense Federal Acquisition Regulation (DFARS) の要件をサポートしています。
+title: 国防連邦取得規則の補足 (DFARS)
+description: Microsoft Azure政府は、国防連邦取得規則 (DFARS) の要件をサポートしています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,75 +16,92 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a969d446296605fd3ea9b1d7b9225009e99f4471
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 494acc364123c32d409a64324715bcc27e81e7a8
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121286"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385277"
 ---
-# <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>米国国防総省取得規則補足 (DFARS)
+# <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>国防連邦取得規則の補足 (DFARS)
 
 ## <a name="dfars-overview"></a>DFARS の概要
 
-2016 年 10 月 21 日、国防総省 (DoD) は、米国国防総省取得規則 (DFARS) を修正し、情報システムが対象となる防御情報 (CDI) を処理、保存、または送信する防御請負業者に対して保護とサイバー インシデント報告の義務を課す最終規則を発行しました。  
+2016 年 10 月 21 日、国防総省 (DoD) は、防衛連邦取得規制補足 (DFARS) を修正し、情報システムが対象防御情報 (CDI) を処理、保存、または送信する防衛請負業者に対して保護およびサイバー インシデント報告義務を課す最終規則を発行しました。  
   
-最後の DFARS 条項 252.204-7012 (対象となる防御情報とサイバー インシデントレポートの保護) では、サイバー インシデント報告の要件とクラウド サービス プロバイダーに関する追加の考慮事項を含むセーフガードを指定しています。 DFARS 252.204-7012 では、すべての DoD 請負業者と防御産業基盤は、適切なセキュリティのための DFARS 要件に準拠する必要があります (2017 年 12 月 31 日より早く、
+最後の DFARS 条項 252.204-7012 (保護対象防御情報とサイバー インシデント報告) では、サイバー インシデント報告要件とクラウド サービス プロバイダーの追加の考慮事項を含むセーフガードを指定します。 DFARS 252.204-7012 では、すべての DoD 請負業者と防衛産業基盤は、「できるだけ早く実用的だが、2017 年 12 月 31 日より早く」適切なセキュリティのために DFARS 要件に準拠する必要があります。
 
-## <a name="microsoft-and-dfars"></a>Microsoft と DFARS
+## <a name="microsoft-and-dfars"></a>Microsoft および DFARS
 
-Microsoft Government Cloud サービスは、米国防総省の請負業者のお客様が、クラウド サービス プロバイダーに適用される 252.204-7012 の DFARS 条項に列挙されている DFARS 要件を満たすのに役立ちます。 防御請負業者が契約で DFARS 条項 252.204-7012 に準拠する必要がある場合、Microsoft は Azure Government および Office 365 U.S. Government Defense サービスのクラウド サービス プロバイダーに適用される要件をサポートできます。 どちらのサービスも、お客様が国防総省セキュリティ要件ガイドへの L5 認定を通じて DFARS 7012 条項に準拠するために必要な機能のサポートを示しています。  
-  
-Azure のセキュリティとコンプライアンスのブループリントを使用して DFARS の展開を加速する方法について説明します [。Azure をダウンロードする — Blueprint DFARS Customer Responsibilities Matrix](https://servicetrust.microsoft.com/ViewPage/Blueprint?command=Download&downloadType=Document&downloadId=7ed1b47c-b180-4323-9aec-21712d54b167&docTab=fc060920-cdb8-11e7-bacf-0bf52b09d912_DoD_Blueprint)
+Microsoft Government Cloud Services は、米国の防衛産業基盤および防衛請負業者のお客様が、クラウド サービス プロバイダーに適用される 252.204-7012 の DFARS 条項に列挙されている DFARS 要件を満たすのに役立ちます。 防衛請負業者が契約で DFARS 条項 252.204-7012 に準拠する必要がある場合、Microsoft は Azure Government および Office 365 米国政府機関のクラウド サービス プロバイダーに適用される要件をサポートできます。 どちらのサービスも、L5 認定を通じて、お客様が DFARS 7012 条項に準拠するために必要な機能を国防総省セキュリティ要件ガイドに対するサポートを示しています。  
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
 DoD 影響レベル 5 の対象サービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 U.S. Government and Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure および Azure Government
+- Office 365米国政府と米国Office 365国防
 
-## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
+## <a name="azure-dynamics-365-and-dfars"></a>Azure、Dynamics 365、DFARS
 
-- [Microsoft Cloud Services Authorizations](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
-- [2017 年 3 月 3 日に署名された Azure P-ATO レター](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=94ff5b42-4077-4612-8cf7-3194ded323dc&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+Azure、Dynamics 365、その他のオンライン サービスコンプライアンスの詳細については [、「Azure DFARS](/azure/compliance/offerings/offering-dfars)の提供」を参照してください。
+
+## <a name="office-365-and-dfars"></a>Office 365 DFARS
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
+| **DoD** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、SharePoint Online、Skype for Business |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365監査、レポート、および証明書
+
+- [Microsoft Cloud Services の承認](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [その他の監査レポートを見る](https://aka.ms/auditreports)
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**Microsoft Azure Government および 365 U.S. Government Defense Officeサポートされている DFARS 要件は何ですか?**
+**どの DFARS 要件が米国政府機関Office 365サポートされていますか?**
 
-Azure Government および Office 365 U.S. Government Defense は、クラウド サービス プロバイダーに適用される 252.204-7012 の DFARS 条項に列挙されている DFARS 要件に従って、当社の防御技術基盤および防御請負業者のお客様が DFARS 要件を満たします。
+Office 365米国政府機関は、クラウド サービス プロバイダーに適用される 252.204-7012 の DFARS 条項に列挙されている DFARS 要件を、防衛産業基盤および防衛請負業者のお客様が満たします。
 
-**独立評価者は、Azure Government および Office 365 U.S. Government Defense が DFARS 要件をサポートしていることを検証しましたか?**
+**独立した評価者は、米国Office 365が DFARS 要件をサポートしていることを検証しましたか?**
 
-はい。第三者評価機関は、Azure Government および Office 365 U.S. Government Defense クラウド サービスが DFARS 条項 252.204-7012 (未分類の制御された技術情報の保護) の該当する要件を満たしていることを証明しています。
+はい、サード パーティの評価組織は、Office 365 米国政府機関のクラウド サービス提供が DFARS 条項 252.204-7012 (未分類の管理技術情報の保護) の該当する要件を満たしていることを証明しています。
 
-**CUI (Controlled Unclassified Information) と対象となる防御情報 (CDI) の関係は何ですか?**
+**管理された未分類情報 (CUI) と対象となる防御情報 (CDI) の関係は何ですか?**
 
-CUI は、法律、規制、または政府全体のポリシーに従ってコントロールを保護または普及する必要がある情報です。 [CUI レジストリは、承認済](https://www.archives.gov/cui/registry/category-list.html)みの CUI カテゴリとサブカテゴリを識別します。
+CUI は、法律、規制、または政府全体のポリシーに従って制御を保護または普及する必要がある情報です。 [CUI レジストリは、](https://www.archives.gov/cui/registry/category-list.html)承認済みの CUI カテゴリとサブカテゴリを識別します。
 
-CDI は、技術的な情報または (CUI レジストリに記載されている) その他の情報を管理します。この情報は、保護または流用の制御を必要とします。次のいずれかです。
+CDI は、技術的な情報または他の情報 (CUI レジストリに記載されている) を制御し、保護または普及の制御が必要であり、次のいずれかです。
 
-- 契約、タスク注文、または配信注文でマークまたは他の方法で識別され、契約のパフォーマンスに関連して DoD によって、または DoD の代わりに契約者に提供されます。
-- 契約のパフォーマンスをサポートするために、契約者によって、または代理で収集、開発、受信、送信、使用、または保存される
+- 契約、タスクオーダー、または配信注文でマークされた、または他の方法で識別され、契約のパフォーマンスに関連して DoD によって、または DoD に代わって請負業者に提供される
+- 契約のパフォーマンスをサポートするために、契約者によってまたは代理して収集、開発、受信、送信、使用、または保存される
 
-**すべての Microsoft サービスは、DFARS 規制の下で「対象となる防御情報」に適用される「適切なセキュリティ」要件を満たしていますか?**
+**すべてのサービスMicrosoft Office 365は、DFARS 規制の下で「対象となる防御情報」に適用される「適切なセキュリティ」要件を満たしていますか?**
 
-2016 年 10 月、国防総省 (DoD) は、情報システムを通じて 「対象となる防御情報」を処理、保存、または送信する DoD 請負業者全員に適用される、国防総省入手規則補足 (DFARS) 条項を実施する最終的な規則を規定しました。 この規則では、このようなシステムは、NIST SP 800-171、非組織の非分類[](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)情報の保護、または DoD 契約責任者によって承認された「代替の、同じように効果的なセキュリティ対策」に定めるセキュリティ要件を満たす必要があるという定めがあります。 また、DoD 請負業者が外部のクラウド サービス プロバイダーを使用して対象となる防御情報を処理、保存、または送信する場合、そのようなプロバイダーは FedRAMP Moderate ベースラインと同等のセキュリティ要件を満たす必要があります。
+2016 年 10 月、国防総省 (DoD) は、情報システムを通じて 「対象となる防御情報」を処理、保存、または送信するすべての DoD 請負業者に適用される、国防連邦取得規制補足 (DFARS) 条項を実装する最終規則を公布しました。 このルールでは、このようなシステムは、NIST SP 800-171、非統合情報システムおよび[](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)組織における制御された未分類情報の保護、または DoD 契約担当者によって承認された「代替的だが、同様に効果的なセキュリティ対策」に記載されているセキュリティ要件を満たす必要があります。 また、DoD の請負業者が外部クラウド サービス プロバイダーを使用して、対象となる防御情報を処理、保存、または送信する場合、そのようなプロバイダーは FedRAMP モデレート ベースラインと同等のセキュリティ要件を満たす必要があります。
 
-次の Microsoft クラウド サービスは、FedRAMP の中程度の承認を受け、DFARS (Azure Government、Dynamics 365 U.S. Government、Office 365 U.S. Government、および Office 365 U.S. Government Defense) に対して適切です。
+次のMicrosoft Office 365クラウド サービスは FedRAMP の中程度の承認を受け取り、DFARS Office 365 米国政府、および米国政府機関Office 365に十分です。
 
-また、Microsoft は FedRAMP 認定の境界外の製品を提供しています。DoD の請負業者が「対象となる防御情報」の処理、保存、または送信に使用する可能性がある製品は、コンプライアンスの期限である 2017 年 12 月 31 日を満たすためにレビューを実施しています。 Microsoft は、DFARS 関連条項を満たすために、これらの内部および顧客向けサービスが NIST SP 800-171 または許容されるセキュリティ同等物に準拠する方法を文書化する取り組みです。
+また、DoD の請負業者が「対象となる防御情報」の処理、保存、または送信に使用する可能性がある FedRAMP 認定の境界外の Microsoft 製品は、2017 年 12 月 31 日のコンプライアンス期限を満たす審査を受けています。 Microsoft は、DFARS 関連条項を満たすために、これらの内部および顧客向けサービスが NIST SP 800-171 または許容可能なセキュリティと同等に準拠する方法を文書化しています。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
-- [米国国防総省取得規則補足 (DFARS)](https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html)
+- [国防連邦取得規則の補足 (DFARS)](https://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html)
 - [Microsoft Cloud for Government](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
 - [オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
 - [制御された未分類情報 (CUI)](https://www.archives.gov/cui/registry/category-list)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

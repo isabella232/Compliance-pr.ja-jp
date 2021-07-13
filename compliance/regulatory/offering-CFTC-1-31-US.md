@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 85a8a27b1478ef3cecccd15a4f01bba563a5e1ef
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: ac17525d8368b61dfd00bfa765e5ee2d1533b3f6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087626"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385427"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>コモディティ先物取引委員会 (CFTC) ルール 1.31(c-d) 米国
 
@@ -45,7 +45,7 @@ CfTC ルール 1.31(c-d) に対する Azure コンプライアンスを評価す
 
 [CFTC 1.31(c)-(d)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)の要件に対して、Cohasset は、Microsoft 365 には、ブローカー-ディーラを含む規制対象の顧客がレコード保持の SEC 要件に準拠する方法でデータを保存できるアーカイブ機能が含まれると検証しました。 メール、ボイスメールMicrosoft 365共有ドキュメント、インスタント メッセージ、サードパーティデータなど、さまざまなデータを保持するのに役立ちます。 特に、Microsoft 365 でのアーカイブを使用すると、ユーザーは、グローバルまたは詳細なメッセージング保持ポリシーを設定して、定義された期間以降のデータを書き換え不可の消去可能な形式で保存できます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Office 365](https://aka.ms/o365-compliance-framework)

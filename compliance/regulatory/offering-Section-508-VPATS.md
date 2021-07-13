@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b6c48ebc9461010db1e129e88e53b4ada5c32683
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b761a9848e29b09fa46fdac822a545dc67be61f1
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088806"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384337"
 ---
 # <a name="us-section-508"></a>米国セクション 508
 
@@ -35,21 +35,37 @@ Microsoft は、米国連邦政府および州政府の主要なソフトウェ�
 
 製品およびサービスの開発における Microsoft の米国 508 セクションの検討は、すべてのお客様がテクノロジとデータをアクセス可能にする取り組みを示しています。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure および Azure Government](https://go.microsoft.com/fwlink/p/?linkid=2051569)
+- Azure および Azure Government
 - Azure DevOps Services
 - Dynamics 365、Dynamics 365 米国政府
 - Intune
-- [Office 365 および Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- [Office 365 米国防総省](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365、Office 365、米国政府、Office 365国防
 - Windows Server 2016
 
-## <a name="microsoft-accessibility-conformance-reports"></a>Microsoft アクセシビリティ適合レポート
+## <a name="office-365-and-us-section-508"></a>Office 365米国セクション 508
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | Access、Azure Active Directory、Bookings、Compliance Manager、Delve、Excel、Exchange Online、Forms、Kaizala、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Office 365 管理ポータル for iOS、Office 365 管理ポータル、Office 365 Advanced Compliance アドオン、Office 365、Azure AD サインイン、Office 365 Business Office 365 セキュリティ & コンプライアンス センター、Office 365 ビデオ、Office 365 Web スイート、Office 構成ツール、Office Lens、Office Online、Office Pro Plus、OneDrive for Business、OneDrive、OneNote、Outlook グループ、Outlook、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、SharePoint、SharePoint、Skype for Business Hub、、Stream、To-Do、Visio、Word、Yammer  |
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
+| **DoD** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、SharePoint Online、Skype for Business |
+
+### <a name="microsoft-accessibility-conformance-reports"></a>Microsoft アクセシビリティ適合レポート
 
 すべての製品およびサービスの[適合レポート](https://cloudblogs.microsoft.com/industry-blog/government/2018/09/11/accessibility-conformance-reports/) を検索します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [[Microsoft アクセシビリティ] ページ](https://go.microsoft.com/fwlink/p/?linkid=2051579): Microsoft がイノベーションを起こして、すべてのユーザーがさらに多くの機能を実現する方法について説明します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。

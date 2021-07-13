@@ -1,6 +1,6 @@
 ---
 title: グラム リーチ ブライリー法 (GLBA)
-description: Microsoft は、金融サービスクライアントが、GlBA (Gramm-Leach-Bliley Act) のプライバシーとセキュリティの要件に準拠するのに役立ちます。
+description: Microsoft は、金融サービスクライアントが Gramm-Leach-Bliley Act (GLBA) のプライバシー要件とセキュリティ要件を遵守するのに役立ちます。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
@@ -16,58 +16,75 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 548cafdd7e7dfd68f06e28ba14d182505cd60d95
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3799b59b8ad88c69e400336f0026a1730224693a
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120306"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384917"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>グラム リーチ ブライリー法 (GLBA)
 
 ## <a name="glba-overview"></a>GLBA の概要
 
-Gramm-Leach-Bliley Act (GLBA) は、金融サービス業界を変革し、商用および投資銀行、証券会社、保険会社を統合することを許可し、消費者のプライバシー保護に関する懸念に対処する米国の法律です。 連邦取引委員会 (FTC) および他の金融サービス規制機関は、金融プライバシー規則やセーフガードルールなどのプライバシーに関する規定に対処するための規制を実施する必要があります。 機密性の高い消費者データを保護するための GLBA 要件は、消費者に対して金融製品やサービスを提供する金融機関 (投資に関するアドバイス、保険など) に適用されます。 FTC はコンプライアンスの実施で課金されます。
+Gramm-Leach-Bliley Act (GLBA) は、金融サービス業界を改革し、商業および投資銀行、証券会社、保険会社が統合することを可能にし、消費者のプライバシー保護に関する懸念に対処した米国の法律です。 連邦取引委員会 (FTC) や他の金融サービス規制当局は、金融プライバシールールやセーフガードルールなどのプライバシー条項に対処するための規制を実施する必要があります。 機密性の高い消費者データを保護するための GLBA 要件は、ローン、投資アドバイス、保険など、消費者に金融商品やサービスを提供する金融機関に適用されます。 FTC はコンプライアンスの実施で課金されます。
 
 ## <a name="microsoft-and-glba"></a>Microsoft と GLBA
 
-Microsoft Azure、Microsoft Office 365、Dynamics 365、および Microsoft Power BI は、金融機関向けクラウド サービスを提供する厳しい要件を満たすのに役立ちます。 サポートの一環として、セキュリティを維持し、許可されていない使用を防止するための技術的および組織的な保護措置を提供することで、GLBA の要件を満たすのに役立つガイダンスを提供します。
+Microsoft Azure、Microsoft Office 365、Dynamics 365、Microsoft Power BI は、金融機関にクラウド サービスを提供する厳しい要件を満たすのに役立ちます。 サポートの一環として、セキュリティの維持と不正使用の防止に役立つ技術的および組織的な保護措置を提供することで、GLBA の要件を遵守するためのガイダンスを提供します。
 
-Microsoft は、Azure と[Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)の両方のリスク評価ツールを開発し[、Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)と Office 365 サービスのリスク評価を効率的に実施するのに役立ちます。 このツール (Excel スプレッドシート) には、金融サービス規制や関連する標準 (AZURE スプレッドシートの列 R、Office 365 スプレッドシートの列 Q) など、金融サービス規制の要件を追跡する 19 の情報セキュリティ ドメイン (セキュリティ ポリシーやリスク管理など) が用意されています。 このツールは、Azure と Office 365 がクラウド サービス プロバイダーに適用される各要件に準拠する方法を説明し、GLBA のセキュリティ要件を満たすのに役立ちます。
+Microsoft は[、Azure](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)と Office 365サービスの[](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)リスク評価を効率的に行うのに役立つリスク評価ツールを開発Office 365しました。 このツール (Excel スプレッドシート) には、金融サービス規制の要件や、GLBA (Azure スプレッドシートの列 R、Office 365 スプレッドシートの列 Q) など、関連する標準の要件を追跡する多数の情報セキュリティ ドメイン (セキュリティ ポリシーやリスク管理など) があります。 このツールは、Azure と Office 365がクラウド サービス プロバイダーに適用される各要件に準拠する方法を説明し、GLBA のセキュリティ要件を満たすのに役立ちます。
 
-## <a name="promote-your-glba-compliance"></a>GLBA コンプライアンスの促進
+## <a name="promote-your-glba-compliance"></a>GLBA コンプライアンスの推進
 
 - [Azure Financial Services クラウド リスク評価ツールをダウンロードする](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [Office 365 クラウド リスク評価ツールをダウンロードする](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [クラウド リスクOffice 365ツールをダウンロードする](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Office 365 Office 365米国政府
+- Power BI クラウド サービス (スタンドアロン サービスとして、またはブランド化されたプランまたはスイートOffice 365含まれている場合)
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+## <a name="azure-dynamics-365-and-glba"></a>Azure、Dynamics 365、および GLBA
 
-**金融機関が GLB 法に準拠する必要がある場合、どのように確認できますか。**
+Azure、Dynamics 365、その他のオンライン サービスのコンプライアンスの詳細については [、「Azure GLBA](/azure/compliance/offerings/offering-glba-us)の提供」を参照してください。
 
-FTC は GLB 法のページで、プライバシー 規則の対象となるユーザーについて詳 [しく答えます](https://www.ftc.gov/tips-advice/business-center/guidance/how-comply-privacy-consumer-financial-information-rule-gramm#whois)。
+## <a name="office-365-and-glba"></a>Office 365 GLBA
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Delve、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、 Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 グループ、Office 365 セキュリティ & コンプライアンス センター、Office 365 ビデオ、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway Yammer Enterprise、 |
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365 Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
+
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
+
+**金融機関が GLB 法を遵守する必要があるかどうかは、どのように確認できますか?**
+
+FTC は GLB Act ページで詳細にこの回答を行いWhoプライバシー ルールでカバー[されていますか](https://www.ftc.gov/tips-advice/business-center/guidance/how-comply-privacy-consumer-financial-information-rule-gramm#whois)?
+
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
-- [Gramm-Leach-Bliley 法](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act)
-- [Azure 金融サービス クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=6b218946-c235-4234-9beb-d557e39a3f44&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
-- [Office 365 クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Gramm-Leach-Bliley Act](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/gramm-leach-bliley-act)
+- [Office 365クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=55702ffd-c35a-4619-8722-ab71c0c02002&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="other-microsoft-resources-for-financial-services"></a>金融サービス向けのその他の Microsoft リソース
+### <a name="other-microsoft-resources-for-financial-services"></a>金融サービス向けのその他の Microsoft リソース
 
 - [Microsoft 金融サービス コンプライアンス プログラム](https://www.microsoft.com/download/details.aspx?id=55332)
-- [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)

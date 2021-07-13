@@ -1,6 +1,6 @@
 ---
 title: 人事管理の概要
-description: リソースの詳細については、Microsoft 365
+description: Microsoft オンライン サービスの人事とコンプライアンスについて説明します。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1dc9e54b7ebbf27dc77a1814a5411002ca75ad4c
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
+ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088616"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53395647"
 ---
 # <a name="human-resources-overview"></a>人事管理の概要
 
@@ -42,13 +42,13 @@ Microsoft は、すべての従業員、インターン、および派遣スタ�
 - 性犯罪者のレジストリ レビュー
 - グローバル制裁リストのレビュー
 
-## <a name="what-additional-checks-are-performed-for-those-who-manage-cloud-services"></a>クラウド サービスを管理するユーザーに対して実行される追加のチェック
+## <a name="what-additional-checks-are-performed-for-employees-that-manage-cloud-services"></a>クラウド サービスを管理する従業員に対して実行される追加のチェック
 
-雇用前のスクリーニングに加えて、米国で Microsoft 365 関連サービスを提供する Microsoft 従業員は、Microsoft 365 システムへのアクセスの前提条件として Microsoft Cloud Background Check を受ける必要があります。 バックグラウンド チェックの要件は、適用される法律やサービス配信モデルに準拠する場合によって異なります。 Microsoft Cloud バックグラウンド チェックの結果は従業員データベースに保存され、少なくとも 2 年ごとに更新する必要があります。 Microsoft Cloud バックグラウンド チェックの有効期限が切れ、従業員が更新しない場合、Microsoft 365 サービスへのアクセスは取り消され、Microsoft Cloud バックグラウンド チェックが完了するまで使用できません。 同様に、Microsoft との雇用関係が終了すると、すべてのアクセスが直ちに取り消されます。
+雇用前のスクリーニングに加えて、米国で Microsoft オンライン サービスを維持している Microsoft 従業員は、オンライン サービス システムへのアクセスの前提条件として Microsoft Cloud Background Check を受ける必要があります。 バックグラウンド チェックの要件は、適用される法律やサービス配信モデルに準拠する場合によって異なります。 Microsoft Cloud バックグラウンド チェックの結果は従業員データベースに保存され、少なくとも 2 年ごとに更新する必要があります。 Microsoft Cloud バックグラウンド チェックの有効期限が切れ、従業員が更新しない場合、オンライン サービスへのアクセスは取り消され、Microsoft Cloud バックグラウンド チェックが完了するまで利用できません。 同様に、Microsoft との雇用関係が終了すると、すべてのアクセスが直ちに取り消されます。
 
-## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skillset-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft では、従業員が自分の責任を果たして Microsoft ポリシーに従うのに十分なスキルセットと知識を維持する方法について説明します。
+## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft では、従業員が自分の責任を果たして Microsoft ポリシーに従うのに十分なスキルと知識を維持する方法について説明します。
 
-Microsoft のすべての従業員は、基本的なセキュリティ認識トレーニングを完了する必要があります。 初任者研修は、新しい従業員が Microsoft で仕事を開始したときに実施され、その後毎年更新研修が行われます。 このトレーニングは、Microsoft のセキュリティに対する基本的なアプローチについて従業員に理解を提供するように設計されています。 該当する役割ベースのセキュリティ トレーニングは、個人の仕事の責任に必要な特定のアクセス権を付与する前に必要です。 Microsoft の従業員のセキュリティ トレーニングは、システムまたはポリシーの変更が新しいトレーニングを保証する場合と同様に、年単位で更新されます。
+Microsoft のすべての従業員は、基本的なセキュリティ認識トレーニングを完了する必要があります。 初任者研修は、新しい従業員が Microsoft で仕事を開始したときに実施され、その後毎年更新研修が行われます。 このトレーニングは、Microsoft のセキュリティに対する基本的なアプローチについて従業員に理解を提供するように設計されています。 該当する役割ベースのセキュリティ トレーニングは、個人の仕事の責任に必要な特定のアクセス権を付与する前に必要です。 Microsoft 従業員のセキュリティ トレーニングは毎年更新され、システムまたはポリシーの変更によって新しいトレーニングが保証されます。
 
 セキュリティ認識トレーニングに加えて、Microsoft の従業員は Standards of Business Conduct トレーニングを完了する必要があります。 このトレーニングには、ビジネス倫理、従業員の安全、プライバシー、ハラスメント防止、非倫理的な行動に対するゼロトレランスが含まれます。 コースの最後に、従業員は、組織レベルで追跡される Microsoft のビジネス行動規範を遵守することを証明する必要があります。 ビジネス行動基準のトレーニングは、毎年更新されます。
 
@@ -60,16 +60,26 @@ Microsoft は、明確に定義されたポリシーと手順を使用して、�
 
 ## <a name="how-does-microsoft-ensure-third-party-suppliers-meet-the-same-personnel-requirements-as-microsoft-employees"></a>Microsoft は、サード パーティのサプライヤーが Microsoft の従業員と同じ人員要件を満たしていることを確認する方法を説明します。
 
-Microsoft 365、サード パーティのサプライヤーに、署名されたマスター サプライヤー サービス契約 (MSSA) が必要です。 この契約では、サプライヤーは、人事のセキュリティ ポリシーや手順を含む Microsoft のポリシーと手順を遵守する必要があります。 Microsoft 365審査の結果を直接追跡することで、サード パーティの担当者のスクリーニング要件への準拠を監視します。 Microsoft では、サード パーティの担当者の審査結果を Microsoft に直接提出する必要があります。
+Microsoft のオンライン サービスでは、サード パーティのサプライヤーが署名されたマスター サプライヤー サービス契約 (MSSA) を持っている必要があります。 この契約では、サプライヤーは、人事のセキュリティ ポリシーや手順を含む Microsoft のポリシーと手順を遵守する必要があります。 Microsoft は、スクリーニングの結果を直接追跡することで、サード パーティの担当者のスクリーニング要件への準拠を監視します。 Microsoft では、サード パーティの担当者の審査結果を Microsoft に直接提出する必要があります。
 
 ## <a name="related-external-regulations--certifications"></a>関連する外部規制&認定
 
 Microsoft のオンライン サービスは、定期的に外部の規制と認定に準拠した監査を受けています。 人事に関連するコントロールの検証については、次の表を参照してください。
 
+### <a name="azure-and-dynamics-365"></a>Azure と Dynamics 365
+
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
-| [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | AT-2: セキュリティの認識 <br> AT-3: 役割ベースのセキュリティ トレーニング <br> AT-4: セキュリティ トレーニング レコード <br> PS-3: 人事審査 <br> PS-4: 人員の終了 <br> PS-5: 人事異動 <br> PS-7: サードパーティの人事セキュリティ | 2020 年 9 月 24 日 |
-| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2021 年 4 月 20 日 |
-| [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [適用性のステートメント](https://aka.ms/o365isosoa) <br> [認定](https://aka.ms/Office365ISO27017Cert) | A.7: 人事のセキュリティ | 2021 年 4 月 20 日 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 | 2020 年 12 月 24 日 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: Standards of Business Conduct (SBC) <br> CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 | 2020 年 12 月 24 日 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2020 年 12 月 2 日 |
+| [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a3bca0ac-867d-4204-b66b-13665f5f1e8d&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=25718a8a-f34d-41e1-a95a-c49246508787&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2020 年 12 月 2 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | IS-4: セキュリティ トレーニング <br> OA-3: アカウントの失効 | 2021 年 3 月 31 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | C5-2: サプライヤーのリスク評価 <br> ELC-6: サプライヤーの行動規範 <br> IS-4: セキュリティ トレーニング <br> OA-3: アカウントの失効 <br> SOC2-1: 懲戒アクション <br> SOC2-12: バックグラウンド チェック <br> SOC2-13: 雇用契約 <br> SOC2-14: 秘密保持と秘密保持契約 | 2021 年 3 月 31 日 |
+
+### <a name="office-365"></a>Office 365
+
+| **外部監査** | **Section** | **最新のレポート日付** |
+|:--------------------|:------------|:-----------------------|  
+| [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AT-2: セキュリティの認識 <br> AT-3: 役割ベースのセキュリティ トレーニング <br> AT-4: セキュリティ トレーニング レコード <br> PS-3: 人事審査 <br> PS-4: 人員の終了 <br> PS-5: 人事異動 <br> PS-7: サードパーティの人事セキュリティ | 2020 年 9 月 24 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2021 年 4 月 20 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 | 2020 年 12 月 24 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: Standards of Business Conduct (SBC) <br> CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 <br> ELC-08/13/14: 雇用契約 | 2020 年 12 月 24 日 |

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e50e5a8e0dd8ec400b4ca5ae053f3898e4cb0abc
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496531"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385157"
 ---
 # <a name="european-union-model-clauses"></a>欧州連合モデル条項
 
@@ -41,19 +41,33 @@ Microsoft は、監査と承認のために標準契約条項を EU の第 29 �
 
 同作業部会によって、Microsoft の契約条項を組み込むことで、EU の厳しい要件に適合すると判定されました  この承認は、モデル契約条項 2010/87/EU の契約書 (付属書類ではない) を対象としています。これは、データの転送と、データを取り込む側で実装するセキュリティ対策について規定しています。 この付録は、DPA 別に分析することができます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- Microsoft Professional Services: Azure、Dynamics 365、Intune と、Microsoft 365 for business の Medium Business および Enterprise のお客様への Premier およびオンプレミス サポート
+- Azure および Azure Government
+- Azure DevOps Services
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune: Intune アドオン製品のクラウド サービス、Mobile Device Management for Office 365
-- Power Automate (以前の Microsoft Flow) クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Microsoft Cloud App Security
+- Microsoft Defender for Endpoint は、次のクラウド サービス部分を対象としています。エンドポイント検出 & 応答、自動調査 & 修復、セキュリティで保護されたスコア。
+- Microsoft Professional Services: Azure、Dynamics 365、Intune と、Microsoft 365 for business の Medium Business および Enterprise のお客様への Premier およびオンプレミス サポート
+- Office 365
+- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
-- Azure DevOps Services
-- Microsoft Defender for Endpoint は、次のクラウド サービス部分を対象としています。エンドポイント検出 & 応答、自動調査 & 修復、セキュリティで保護されたスコア。
+
+## <a name="office-365-and-european-union-model-clauses"></a>Office 365 と欧州連合モデル条項
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | 高度な脅威に対する保護、Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -88,7 +102,6 @@ Microsoft は EU 規格を継続的に調べ、必要に応じてサービスを
 - [EU データ保護条令](https://aka.ms/EU-DPD)
 - [欧州データ保護ボード](https://edpb.europa.eu/)
 - [Dynamics 365 および Office 365 の EU モデル条項に関する FAQ](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
-- [Microsoft と EU-米国 プライバシー シールド](offering-eu-us-privacy-shield.md)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

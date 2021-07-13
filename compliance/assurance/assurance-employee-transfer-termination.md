@@ -1,5 +1,5 @@
 ---
-title: Microsoft 従業員の転送と終了
+title: Microsoft 従業員の異動と退職
 description: Microsoft の従業員の転送と終了のプロセスについて詳しくは、Microsoft 365
 ms.author: robmazz
 author: robmazz
@@ -19,18 +19,18 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: b31dd13f4a6209712a9cc212ab3bcd9c5addf6b7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 862bd05a84e5144602a24ac2aca1780cffaff3fe
+ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089627"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53395617"
 ---
-# <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 従業員の転送と終了
+# <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 従業員の異動と退職
 
-従業員の移動と終了は、すべての組織の通常の業務の一部です。 従業員が役職を変更したり、会社を離れる場合は、不適切なアクセスを不適切な方法で取り消す必要があります。 Microsoft 365 は、効率的なアクセス変更とアクセス取り消しを容易にするために、標準化された手順と自動化されたプロセスを使用して、人事情報システム (HRIS) と IDM (IDM) システムを調整します。 これら 2 つのシステム間の自動オーケストレーションは、運用の一貫性を維持し、Microsoft 365 のサービスとデータを保護し、特権のクリープを防止し、内部の脅威に関連するリスクを軽減するために不可欠です。
+Microsoft は、他のすべての組織と同様に、通常の業務の一環として従業員の転送と終了を処理します。 従業員が役職を変更したり、会社を離れる場合は、不適切なアクセスを不適切な方法で取り消す必要があります。 効率的なアクセス変更とアクセス取り消しを容易にするために、Microsoft は標準化された手順と自動化されたプロセスを使用して、人事情報システム (HRIS) と IDM (IDM) システムを調整します。 これら 2 つのシステム間の自動オーケストレーションは、運用の一貫性を維持し、Microsoft のオンライン サービスとデータを保護し、特権の不気味を防止し、インサイダーの脅威に関連するリスクを軽減するために不可欠です。
 
-Microsoft 365システムは、エンジニアの運用環境に対する管理アクセスを常に行わずに動作するように設計されています。 Microsoft では、Just-In-Time (JIT) Just-Enough-Access (JEA) モデルを使用して、必要に応じてサービスをサポートするために必要な一時的なアクセスをエンジニアに提供します。 JIT アクセスにサービス チーム アカウントを要求して使用するには、IDM ツールを使用して資格を要求し、維持する必要があります。 従業員が転送または終了すると、サービス チーム アカウントと関連する資格が自動的に変更され、不適切なアクセスが防止されます。
+Microsoft のオンライン サービスは、エンジニアの運用環境への管理アクセスを常に行わずに動作するように設計されています。 Microsoft では、Just-In-Time (JIT) Just-Enough-Access (JEA) モデルを使用して、必要に応じてサービスをサポートするために必要な一時的なアクセスをエンジニアに提供します。 JIT アクセスにサービス チーム アカウントを要求して使用するには、IDM ツールを使用して資格を要求し、維持する必要があります。 従業員が転送または終了すると、サービス チーム アカウントと関連する資格が自動的に変更され、不適切なアクセスが防止されます。
 
 ## <a name="transfer-and-reassignment"></a>転送と再割り当て
 

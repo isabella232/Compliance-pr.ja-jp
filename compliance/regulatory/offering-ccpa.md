@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 83fa62315fa141e19c5c838c4b2961c1af364531
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 2d06aefc89312dece2ecbe81aa6c0a9f10500369
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141449"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384157"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>カリフォルニア州消費者プライバシー法 (CCPA)
 
@@ -41,7 +41,7 @@ CCPA は 2020 年 1 月 1 日から有効になります。 ただし、カリ�
 
 OST に定める通り、Microsoft は、CCPA を含むオンライン サービスの提供に適用される法律および規制を遵守します。  
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Azure Dev Ops

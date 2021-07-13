@@ -16,16 +16,16 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: da53b5e2cdac7095e2fc3ff9b243d2863b85fdbf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 4c27c84d2abc2de4866471d652d8b11351bc3168
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088786"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385657"
 ---
-# <a name="new-zealand-government-cloud-computing-security-and-privacy-considerations"></a>ニュージーランド政府機関向けクラウド コンピューティングのセキュリティとプライバシーに関する考慮事項
+# <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ニュージーランド政府機関の情報セキュリティとプライバシーに関する考慮事項 (ISPC)
 
-## <a name="new-zealand-government-cloud-computing-security-and-privacy-overview"></a>ニュージーランド政府機関向けクラウド コンピューティングのセキュリティとプライバシーの概要
+## <a name="new-zealand-government-information-security-and-privacy-considerations-overview"></a>ニュージーランド政府機関の情報セキュリティとプライバシーに関する考慮事項の概要
 
 2015 年 10 月、ニュージーランド政府は、公共部門全体での情報技術の使用に関する「クラウド ファースト」ポリシーを再確認した、改訂された全政府 ICT 戦略を支持しました。 改訂された戦略は、NZ 政府最高情報責任者 (GCIO) の権限の下で開発および実装された「クラウド コンピューティング リスクと保証フレームワーク」を保持します。
 
@@ -37,14 +37,30 @@ NZ 政府機関が潜在的なクラウド ソリューションに関する一�
 
 政府機関が Microsoft エンタープライズ クラウド サービスの分析と評価を行うのを支援するために、Microsoft ニュージーランドは、エンタープライズ クラウド サービスが Microsoft クラウド サービスが認定される標準にリンクすることで、「クラウド コンピューティング ISPC」に記載されている質問に対処する方法を示すドキュメントを作成しました。 これらの認定は、Microsoft が、プライバシーとセキュリティのリスクを効果的に軽減し、データ主権の懸念に対処するために、クラウド サービスが設計、構築、運用されるという公的および民間部門の両方の顧客に保証する方法の中心です。 [クラウド コンピューティング ISPC に対する Azure の応答は](https://azure.microsoft.com/resources/microsoft-azure-response-to-nz-gcio-cloud-computing-information-security-privacy-considerations/)、お客様がダウンロードできます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
+- Azure および Azure Government
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
+- Office 365
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Exchange Online、SharePointオンライン、およびMicrosoft Teams。 Microsoft NZ は、GCIO チームと一緒に、アプリケーションと SEEMail を統合する参照Exchange Online開発しました。
+
+## <a name="office-365-and-ispc"></a>Office 365 ISPC
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint, Skype for Business |
+
+>[!Note]
+>Microsoft NZ は GCIO チームと連携して、「Office 365: SEEMail Integration and Reference Architecture」で説明されている Exchange Online と SEEMail を統合するリファレンス アーキテクチャを開発しました。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -61,10 +77,10 @@ GCIO の義務に該当する組織、公的および非公的サービス部門
 - [オフショアホスト型生産性サービスのセキュリティ要件:Officeの準拠ガイドOffice 365](https://aka.ms/o365-gcio-conformance-guidance)
 - [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [クラウド コンピューティング: 情報セキュリティとプライバシーに関する考慮事項 (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
-- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
-## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>「クラウド コンピューティング IPSC」に対する Microsoft の応答
+## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>クラウド コンピューティング IPSC に対する Microsoft の応答
 
 - [Azure](https://aka.ms/Azure-NZ-response)
 - [Intune](https://aka.ms/Intune-NZ-response)

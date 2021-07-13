@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: eb609f081f3f2aeb182bfe7a24327ebc89513a9c
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 711cbafddaa6fbdff4050b138edacbd399666ef3
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496312"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377784"
 ---
 # <a name="data-protection-impact-assessment-for-the-gdpr"></a>GDPR のデータ保護影響評価
 
@@ -43,7 +43,7 @@ GDPR では、管理者は、「自然人の権利と自由を危険にさらす
 
 ## <a name="dpia-in-action"></a>実行中の DPIA
 
-DPIA ガイダンスは、Office 365、Azure、Dynamics 365、Microsoft サポート/プロフェッショナル サービスに適用されます。 このガイダンスには、以下の考慮事項が含まれています。
+DPIA ガイダンスは、Office 365、Azure、Dynamics 365、Microsoft サポート/プロフェッショナル サービスに適用されます。このガイダンスには、以下の考慮事項が含まれています。
 
 **いつ DPIA が必要ですか?**
 
@@ -53,11 +53,11 @@ DPIA を完了するかどうかを検討する際には、以下にリストす
 - 特殊なカテゴリのデータ (自然人を一意に識別する情報が明らかになるデータ)、または有罪判決や違反に関する個人データを対象とした大規模な処理。
 - 公開アクセス可能な地域での体系的な大規模監視。
 
-GDPR では次のように説明しています。「個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。 その場合、データ保護影響評価は必須ではない」。
+GDPR では次のように説明しています。'個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。その場合、データ保護影響評価は必須ではない'。
 
 **DPIA の完了には何が必要ですか?**
 
-DPIA では、想定された処理作業に関する具体的な情報を提供する必要があります。これは、このガイダンスの第 2 部で詳細に説明します。 この情報には、次のものがあります。
+DPIA では、想定された処理作業に関する具体的な情報を提供する必要があります。これは、このガイダンスの第 2 部で詳細に説明します。この情報には、次のものがあります。
 
 - DPIA の目的に関するデータ処理作業の必要性および比例性の評価。  
 - 自然人の権利および自由に関するリスクの評価。
@@ -77,6 +77,7 @@ Microsoft 実装に関連する可能性がある具体的な詳細情報につ�
 - [Office 365](gdpr-dpia-office365.md): このドキュメントは、Exchange Online、SharePoint Online、Yammer、Skype for Business、Power BI などの Office 365 のアプリケーションとサービスに適用されます。ただし、これに限定されるものではありません。 詳細については、表 [1](/microsoft-365/compliance/gdpr-dpia-office365#part-1--determining-whether-a-dpia-is-needed) と [2](/microsoft-365/compliance/gdpr-dpia-office365#part-2--contents-of-a-dpia) を参照してください。  
 - [Azure](gdpr-dpia-azure.md): Microsoft Azure の使用に関しての DPIA の必要性および内容を判断するにあたり、お客様にはプライバシー責任者または弁護士と連携することをお勧めします。  
 - [Dynamics 365](gdpr-dpia-dynamics.md): DPIA の内容は、使用している Dynamics 365 ツールによって異なる場合があります。 詳細については、「[パート 2 - DPIA の内容](/microsoft-365/compliance/gdpr-dpia-dynamics#part-2--contents-of-a-dpia)」を参照してください。
+- [Windows](/compliance/regulatory/gdpr-dpia-windows): このドキュメントは、[Windows 診断データ処理者の構成](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)に適用されます。 Windows 診断データ処理者の構成の使用に関しての DPIA の必要性および内容を判断するにあたり、お客様にはプライバシー責任者または弁護士と連携することをお勧めします。
 - [Microsoft サポート/プロフェッショナル サービス](gdpr-dpia-prof-services.md): プロフェッショナル サービスでは、特定のルーチンまたは自動データ処理は行われません。また、特別なカテゴリを処理したり、パブリックにアクセス可能なデータの監視を促進または要求するタスクを実行したりすることも想定されていません。 詳細については、「[パート 1 - DPIA が必要であるかどうかの判断](/microsoft-365/compliance/gdpr-dpia-prof-services#part-1--determining-whether-a-dpia-is-needed)」を参照してください。 コントローラーは、コントローラーによる特定の実装およびプロフェッショナル サービスの使用において、上記の DPIA 要素を他のすべての関連要因とともに考慮する必要があります。 プロフェッショナル サービス情報については、「[パート 2 - DPIA の内容](/microsoft-365/compliance/gdpr-dpia-prof-services#part-2--contents-of-a-dpia)」を参照してください。
 
 ## <a name="learn-more"></a>詳細情報

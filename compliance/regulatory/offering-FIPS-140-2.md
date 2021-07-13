@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0838ce11e732f5c6e8c79c40af0e85bff9d22caf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089731"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385007"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>連邦情報処理標準 (FIPS) 文書 140-2
 
@@ -37,19 +37,37 @@ Microsoft は、2001 年の標準の初めから暗号化モジュールを検�
 
 Microsoft Windows 暗号化モジュール、各モジュールのセキュリティ ポリシー、および CMVP 証明書の詳細のカタログに関する技術情報については、「Windows および[Windows Server FIPS 140-2](https://aka.ms/AA6ehud)コンテンツ」を参照してください。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
 現在の CMVP FIPS 140-2 実装ガイダンスでは、クラウド サービス自体に対する FIPS 140-2 の検証が行えなっています。クラウド サービス プロバイダーは、クラウド サービスを構成するコンピューティング要素の FIPS 140 検証済み暗号化モジュールを取得して運用できます。 FIPS 140-2 が検証されているコンポーネントを含む Microsoft オンライン サービスには、次のものが含まれます。
 
-- [Azure および Azure Government](/azure/azure-government/documentation-government-plan-security)
-- [Dynamics 365 および Dynamics 365 Government](/microsoft-365/compliance/office-365-encryption-in-microsoft-dynamics-365)
-- [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](/microsoft-365/compliance/office-365-encryption-risks-and-protections)
+- Azure および Azure Government
+- Dynamics 365 および Dynamics 365 Government
+- Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+## <a name="azure-dynamics-365-and-fips-140-2"></a>Azure、Dynamics 365、および FIPS 140-2
 
-**'FIPS 140 Validated" と 'FIPS 140 準拠" の違いは何ですか?**
+Azure、Dynamics 365、その他のオンライン サービスのコンプライアンスの詳細については [、「Azure FIPS 140-2](/azure/compliance/offerings/offering-fips-140-2)製品」を参照してください。
 
-'FIPS 140 Validated" は、暗号化モジュールまたはモジュールを埋め込む製品が、FIPS 140-2 の要件を満たすとして CMVP によって検証 ('認定") されたという意味です。 「FIPS 140 準拠」は、暗号化機能のために FIPS 140 検証済み製品に依存する IT 製品の業界用語です。
+## <a name="office-365-and-fips-140-2"></a>Office 365 FIPS 140-2
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| Office 365、GCC、GCC High、DoD | [「FIPS 140-2 検証」を参照してください。](/windows/security/threat-protection/fips-140-validation) |
+
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
+
+**'FIPS 140 Validated' と 'FIPS 140 準拠' の違いは何ですか?**
+
+'FIPS 140 Validated' は、暗号化モジュールまたはモジュールを埋め込む製品が、FIPS 140-2 の要件を満たすとして CMVP によって検証 ('認定') されたと意味します。 'FIPS 140 準拠' は、暗号化機能のために FIPS 140 検証済み製品に依存する IT 製品の業界用語です。
 
 **Microsoft が FIPS 140 検証を行うのは、いつですか?**
 
@@ -71,10 +89,6 @@ FIPS 140-2 で検証された暗号化モジュールを使用する必要があ
 
 はい、連邦リスクおよび承認管理プログラム (FedRAMP) は [、NIST SP 800-53](https://nvd.nist.gov/800-53/Rev4/)リビジョン 4 で定義された制御基準に依存しています。FIPS 検証された暗号化または NSA 承認済み暗号化の使用を要求する [SC-13](https://nvd.nist.gov/800-53/Rev4/control/SC-13) 暗号化保護を含みます。
 
-**FIPS 140-2 Microsoft Azureサポートする方法**
-
-Azure は、ハードウェア、商用利用可能なオペレーティング システム (Linux および Windows)、および Azure 固有のバージョンのアプリケーションを組み合わせてWindows。 Microsoft [Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl/) (SDL) を通じて、すべての Azure サービスは、ハイパー スケール クラウドでの運用中に FIPS 140-2 承認済みアルゴリズムを使用するオペレーティング システムのため、データ セキュリティに FIPS 140-2 承認済みアルゴリズムを使用します。
-
 **代理店の認定プロセスで Microsoft の FIPS 140-2 への準拠を使用できますか?**
 
 FIPS 140-2 に準拠するには、暗号化モジュールが FIPS 承認済みアルゴリズムのみを使用するように、FIPS 承認済み操作モードで実行するようにシステムを構成する必要があります。 準拠するシステムを構成する方法の詳細については、「Windowsサーバー [FIPS 140-2 Windows」を参照してください](https://aka.ms/AA6ehud)。
@@ -83,7 +97,7 @@ FIPS 140-2 に準拠するには、暗号化モジュールが FIPS 承認済み
 
 これらは、2 つの独立したセキュリティ標準で、相互に補完的な目的が異なります。 FIPS 140-2 はソフトウェアとハードウェアの暗号化モジュールを検証するために特別に設計され、Common Criteria は IT ソフトウェアおよびハードウェア製品のセキュリティ機能を評価するように設計されています。 一般的な Criteria 評価は、基本的な暗号化機能が適切に実装されていることを保証するために、FIPS 140-2 検証に依存する場合が多い。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [FIPS Pub 140-2 暗号化モジュールのセキュリティ要件](https://csrc.nist.gov/publications/fips/fips140-2/fips1402.pdf)
 - [NIST 暗号化モジュール検証プログラム](https://csrc.nist.gov/groups/STM/cmvp/index.html)

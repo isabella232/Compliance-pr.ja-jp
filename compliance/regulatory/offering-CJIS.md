@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fe96da8b7a8ef89f9dd8ce14573e3489c75f93e7
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087616"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385367"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>刑事司法情報サービス (CJIS) セキュリティ ポリシー
 
@@ -43,20 +43,38 @@ Microsoft は、Microsoft Azure Government、Microsoft Office 365 米国政府�
 
 Microsoft Cloud での CJIS セキュリティ ポリシーの利点について説明します。 Genetec が犯罪捜査をクリアした方法 [を読む](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure Government](/azure/azure-government/documentation-government-welcome)
-- [Dynamics 365 米国政府機関](/power-platform/admin/microsoft-dynamics-365-government#certifications-and-accreditations)
-- [Office 365米国政府](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc#us-government-community-compliance)
+- Azure Government
+- Dynamics 365 米国政府機関
+- Office 365米国政府
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
-## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
+## <a name="azure-dynamics-365-and-cjis"></a>Azure、Dynamics 365、および CJIS
+
+Azure、Dynamics 365、その他のオンライン サービスのコンプライアンスの詳細については [、「Azure CJIS](/azure/compliance/offerings/offering-cjis)の提供」を参照してください。
+
+## <a name="office-365-and-cjis"></a>Office 365 CJIS
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365、レポート、および証明書
 
 FBI は、CJIS 要件に準拠した Microsoft の認定を提供していない。 代わりに、Microsoft の構成証明は、Microsoft と州の CJIS 機関との間、および Microsoft とその顧客間の契約に含まれています。
 
 [Microsoft CJIS クラウド要件](https://aka.ms/MicrosoftCJISCloudRequirements)
 
-## <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>米国の CJIS ステータス (2020 年 11 月 5 日現在)
+### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>米国の CJIS ステータス (2020 年 11 月 5 日現在)
 
 45 の州とコロンビア特別区と管理契約が締結され、緑色のマップで強調表示されます。
 
@@ -64,7 +82,7 @@ FBI は、CJIS 要件に準拠した Microsoft の認定を提供していない
 
 適用される CJIS 規制規制を遵守する Microsoft の取り組みにより、刑事司法組織はクラウドベースのソリューションを実装し、CJIS セキュリティ ポリシー V5.9 に準拠することができます。
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **コンプライアンス情報はどこで要求できますか?**
 
@@ -78,15 +96,14 @@ Microsoft は、州 CJIS Systems Agency (CSA) と情報契約を締結します�
 
 [CJIS セキュリティ ポリシーでは、CJI](https://aka.ms/cjis-security-policy) を保護するために代理店が取る必要がある予防措置について説明します。 さらに、Microsoft アカウント担当者は、お客様の管轄地域の要件に精通しているユーザーと連絡を取り合う場合があります。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [刑事司法情報サービス](https://aka.ms/cjis)
 - [CJIS セキュリティ ポリシー](https://aka.ms/cjis-security-policy)
-- [Azure Government の CJIS 実装ガイドライン](https://aka.ms/cjisimplementationguidelines)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government クラウド](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ab0e70a9dab9b1f98351556dcdf4ae597e362b64
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 9080474699eae7e65d8df86638a9250ec7127585
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088916"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385677"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>国立標準技術研究所 (NIST) サイバーセキュリティ フレームワーク (CSF)
 
@@ -42,35 +42,41 @@ NIST Cybersecurity Framework (CSF) は、サイバーセキュリティ関連の
 - [NIST SP 800-53 R4 ブループリント サンプルの概要](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [コンプライアンス スコアの NIST CSF 評価の詳細については、「Office 365」を参照してください。](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure Government](https://aka.ms/AzureCompliance)
-- [Dynamics 365 for Government](https://aka.ms/d365-compliance-list)
-- [Office 365 および Office 365 U.S. Government](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure Government
+- Dynamics 365 for Government
+- Office 365
 
-## <a name="audit-cycle-and-certification"></a>監査サイクルと認定
+## <a name="azure-dynamics-365-and-nist-csf"></a>Azure、Dynamics 365、および NIST CSF
+
+Azure、Dynamics 365、その他のオンライン サービスのコンプライアンスの詳細については [、「Azure NIST CSF](/azure/compliance/offerings/offering-nist-csf)の提供」を参照してください。
+
+## <a name="office-365-and-nist-csf"></a>Office 365 NIST CSF
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+
+### <a name="office-365-audit-cycle-and-certification"></a>Office 365監査サイクルと認定
 
 NIST CSF 認定Office 365 2 年間有効です。
 
 - [Office 365NIST CSF 認定書](https://aka.ms/O365NISTCSFcertification)
 
-## <a name="quickly-build-nist-csf-solutions-on-azure"></a>Azure で NIST CSF ソリューションをすばやくビルドする
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-NIST サイバーセキュリティ フレームワーク (CSF) 標準は、クラウドでは困難な場合があります。 幸い、Azure を使用すると、Azure セキュリティとコンプライアンス NIST CSF ブループリントを開始できます。 このブループリントは、NIST CSF 準拠ソリューションの構築を今日開始するためのツールとガイダンスを提供します。
+**独立した評価者は、NIST CSF Office 365サポートしていることを検証しましたか?**
 
-- [Azure NIST CSF ブループリントの使用を開始する](https://aka.ms/Azure-Blueprint-DoD-NIST)
-
-## <a name="perform-risk-assessment-on-office-365-using-nist-csf-in-compliance-score"></a>コンプライアンス スコアで NIST CSF をOffice 365のリスク評価を実行する
-
-デジタル変換の時代、サイバーセキュリティは依然として重要な管理上の問題です。 Microsoft は、Office 365 テナントのセキュリティ制御を実装して確認するために、コンプライアンス スコアの NIST CSF 評価で推奨される顧客アクションを提供します。
-
-- [コンプライアンス スコアの使用を開始する](/microsoft-365/compliance/compliance-manager)
-
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
-
-**独立した評価者が、Azure Government、Dynamics 365、およびサービスが NIST CSF 要件をOffice 365していることを検証しましたか?**
-
-はい、サード パーティの評価組織は、2014 年 2 月 12 日付の「重要なインフラストラクチャサイバーセキュリティの向上のためのフレームワーク バージョン 1.0」で定義されている、NIST サイバーセキュリティ フレームワーク (CSF) のリスク管理プラクティスに準拠している Azure Government クラウド サービスを証明しています。 NIST CSF は FedRAMP モデレート コントロール フレームワークにマップされ、独立した評価者が FedRAMP モデレート ベースラインに対して Dynamics 365 を評価しました。 また、Office 365 2019 年 7 月に HITRUST から[NIST CSF](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)認定書を取得しました。
+はい、Office 365 2019 年 7 月に HITRUST から[NIST CSF](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=2a472d92-7c3b-47e0-9ae7-0f539da31f42&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)認定書を取得しました。
 
 **Microsoft Cloud Services は、フレームワークへの準拠を実証する方法を説明します。**
 
@@ -78,7 +84,7 @@ NIST サイバーセキュリティ フレームワーク (CSF) 標準は、ク�
 
 **このイニシアチブへの準拠を維持するための Microsoft の責任は何ですか?**
 
-FICIC への参加は任意です。 ただし、Microsoft は、Azure、Office 365、および Dynamics 365 が、管理する Online Services の利用規約および該当するサービス レベル契約で定義されている条件を満たします。 これらは、Azure プラットフォームをセキュリティで保護し、システムを監視するために適切なコントロールを実装および保守する Microsoft の責任を定義します。
+FICIC への参加は任意です。 ただし、Microsoft は、Office 365オンライン サービス条項および該当するサービス レベル契約で定義されている条件を満たします。
 
 **組織で Microsoft のコンプライアンスを使用できますか?**
 
@@ -88,22 +94,15 @@ FICIC への参加は任意です。 ただし、Microsoft は、Azure、Office 
 
 ホームランドセキュリティ[](https://www.dhs.gov/critical-infrastructure-sectors)省によると、これらには、化学、商業施設、通信、重要な製造、ダム、防衛産業基盤、緊急サービス、エネルギー、金融サービス、食料と農業、政府機関、医療と公衆衛生、情報技術、核(リアクターの材料と廃棄物)、輸送システムと水(および廃水)の組織が含まれます。
 
-**サービスのスコープ内サービスOffice 365?**
-
-NIST CSF 認定のスコープ内サービスは、Exchange Online Archiving、Exchange Online Protection、Exchange Online、Skype for Business、管理センター、SharePoint Online、Project Online、OneDrive for Business、Office Online、MyAnalytics、Microsoft Teams、Microsoft 365 Apps for enterprise Office 365 マルチテナント クラウドおよび Office 365 GCC です。
-
-> [!NOTE]
-> Microsoft 365 Apps for enterpriseローミング 設定、ライセンス、OneDrive コンシューマー クラウド ストレージなど、さまざまなクラウド サービスへのアクセスを有効にし、将来、追加のクラウド サービスにアクセスできる可能性があります。 ローミング 設定ライセンスは HITRUST の標準をサポートします。 OneDriveクラウド ストレージは、Microsoft 365 Apps for enterprise を通じてアクセス可能であり、Microsoft が将来提供する可能性のあるその他のクラウド サービスも、これらの標準をサポートしない場合があります。*
-
 **一部のOffice 365サービスが、この認定の対象ではない理由**
 
 Microsoft は、他のクラウド サービス プロバイダーと比較して最も包括的なサービスを提供します。 地域や業界全体にわたる広範なコンプライアンスの提供に対応するために、市場の需要、顧客からのフィードバック、製品ライフサイクルに基づく保証の取り組みの範囲にサービスが含まれます。 特定のコンプライアンスサービスの現在の範囲にサービスが含まれていない場合、組織は、コンプライアンス義務に基づいてリスクを評価し、そのサービスでデータを処理する方法を決定する責任があります。 お客様からのフィードバックを継続的に収集し、規制当局や監査人と一緒に取り組み、お客様のセキュリティとコンプライアンスのニーズに合わせてコンプライアンス範囲を拡大します。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [Microsoft Cloud Services の承認](https://marketplace.fedramp.gov/index.html#/products?status=Compliant&sort=productName)
 - [Microsoft Cyber Offerings のマッピング: NIST サイバーセキュリティ フレームワーク (CSF)、CIS コントロール、ISO27001:2013、HITRUST CSF](https://go.microsoft.com/fwlink/p/?linkid=2074025)

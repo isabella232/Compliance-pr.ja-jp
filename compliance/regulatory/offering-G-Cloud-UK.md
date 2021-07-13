@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 887d6a2be0ef4b1d9f1d22eefc53e3fc23e75e22
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: b39c658a768dc106008dcd73a064b05706f734c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088816"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384967"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>イギリス Government-Cloud (G-Cloud)
 
@@ -41,16 +41,30 @@ Microsoft は毎年、ドキュメントを準備し、スコープ内のエン�
 
  Microsoft Azure を使用した英国のクラウド向け[14](https://azure.microsoft.com/resources/14-cloud-security-controls-for-uk-cloud-using-microsoft-azure/)クラウド セキュリティコントロールは、サービスを Azure に移行し、CESG/NCSC が義務付ける英国の義務を満たすのに役立つ顧客戦略を提供します。 ホワイトペーパーでは、Azure を使用してクラウド セキュリティ プリンシパルで概説されている 14 のコントロールに対処する方法について説明し、Microsoft Azure サービスを採用する場合に顧客が迅速に移行し、より多くの成果を達成する方法について説明します。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Microsoft Cloud App Security
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
-- Office 365: Exchange Online、SharePointオンライン、およびオンラインSkype for Businessします。
-- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Office 365
+- Power Automate (Microsoft Flow) クラウド サービス (スタンドアロン サービスとして、または Office 365 または Dynamics 365 ブランドプランまたはスイートに含まれている場合)
+- PowerApps クラウド サービス (スタンドアロン サービスとして、または Office 365 または Dynamics 365 ブランドプランまたはスイートに含まれている場合)
+- Power BI クラウド サービス (スタンドアロン サービスとして、またはブランド化されたプランまたはスイートOffice 365含まれている場合)
+
+## <a name="office-365-and-uk-g-cloud"></a>Office 365と英国の G-Cloud
+
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online, SharePoint, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

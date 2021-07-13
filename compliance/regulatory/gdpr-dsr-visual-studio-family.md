@@ -20,16 +20,16 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 46b59094b188e6ceac58c4aa1fac6dedf8c55671
-ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+ms.openlocfilehash: 4a4ec723a046b65ade51b2e7aaa08fcda3a1908d
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53141468"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377944"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA に関する Visual Studio ファミリ データ主体要求
 
-EU の [一般データ保護規則 (GDPR)](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) は、ユーザー (規則では _データ主体_ と呼ばれる) に対して個人データを管理する権利を与えています。個人データは、GDPR の下で特定されたまたは特定可能な自然人に関するあらゆるデータとして広く定義されています。GDPR は、個人データに対するデータ主体固有の権利を与えています。これらの権利には、個人データのコピーの取得、その修正の要求、その処理の制限、その削除、またはその電子形式での受信が含まれます。データ主体からデータ コントローラー (個人データを制御する雇用主、その他の種類の代理人、または組織) にデータ主体の個人データに対するアクションの実行を求める正式な要求は、_データ主体要求_ (DSR) と呼ばれます。
+欧州連合の [一般データ保護規制 （GDPR）](https://ec.europa.eu/justice/data-protection/reform/index_en.htm) は、ユーザー (規制では _データ主体_ と呼ばれます) に、自分の個人データを管理する権利を付与します。 GDPR における個人データは、特定された自然人または特定可能な自然人に関連するすべてのデータとして広範囲に定義されています。 GDPR では、個人データに対するデータ主体固有の権限が付与されます。このような権限には、個人データのコピーの取得、個人データの修正の要求、個人データの処理の制限、または個人データの削除、または電子的な形式での個人データの受け取りが含まれます。 データ主体がデータ管理者 (個人データを管理する雇用者またはその他の種類の機関または組織) に対して、そのデータ主体の個人データに関する行為を行うよう正式に要求することを、_データ主体の要求_ または DSR といいます。
 
 同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。  また、CCPA では、特定の開示、権利の行使を選択する際の差別に対する保護、"売上" として分類された特定のデータ転送の "オプトアウト/オプトイン" 要件を規定します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](offering-ccpa.md)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](ccpa-faq.yml)」を参照してください。
 
@@ -212,9 +212,9 @@ IIS.NET Web サイトの DSR については、「[IIS.NET Web サイトと GDPR
 
 ## <a name="other-visual-studio-family-services"></a>その他の Visual Studio ファミリ サービス
 
-### <a name="surveymonkey"></a>SurveyMonkey
+### <a name="survey-monkey"></a>Survey Monkey
 
-SurveyMonkey 経由でこれらの製品に関するフィードバックの提供をお願いすることがあります。このデータは 28 日以内に削除されます。これらの製品に関するデータ主体要求を処理するときに、アンケートの回答が認証されていれば、それらをエクスポートに含め、データ主体要求を削除します。
+時々、これらの製品に関するお客様からのフィードバックを Survey Monkey を介して募集することもあります。 このデータは、28 日以内に Survey Monkey から削除されます。 Microsoft は、このデータを最大 18 か月間、社内で保持する場合があります。 アンケートの回答が認証されている場合は、これらの製品のデータ主体の要求に対応するときに、データ主体の要求をエクスポートおよび削除に含めます。
 
 ## <a name="learn-more"></a>詳細情報
 

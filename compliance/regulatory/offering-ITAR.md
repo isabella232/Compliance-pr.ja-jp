@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5ee31d5d61048593eec53a6bb72f8af538d2c3b3
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 0797161b0c7bfca8d4fda37cbf05a037d29322de
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088926"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384637"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>国際武器規制 (ITAR)
 
@@ -41,22 +41,39 @@ ITAR には違反を報告する特定の義務があります。これは、特
   
 ITAR で規制されたデータをホストする場合は、Microsoft アカウントとライセンス チームと一緒に作業し、詳細を確認し、適切な契約を取得し、関連するシステム アーキテクチャ情報にアクセスする必要があります。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
 
-- [Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365 米国防総省](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure Government
+- Office 365米国政府 - 高、高、Office 365防衛
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+## <a name="azure-dynamics-365-and-itar"></a>Azure、Dynamics 365、ITAR
 
-**コンプライアンス情報はどこで要求できますか?**
+Azure、Dynamics 365、その他のオンライン サービスコンプライアンスの詳細については [、「Azure ITAR サービス」を参照してください](/azure/compliance/offerings/offering-itar)。
 
-Microsoft アカウント担当者にお問い合わせください。
+## <a name="office-365-and-itar"></a>Office 365 ITAR
 
-## <a name="resources"></a>リソース
+### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+
+次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+
+| **適用対象** | **スコープ内サービス** |
+|:------------------|:----------------------|
+| **GCC High** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+| **DoD** | Activity Feed Service, Bing Services, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Service Infrastructure, Office Usage Reports, OneDrive for Business, People Card, SharePoint Online, Skype for Business, Windows Ink |
+
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
+
+**ITAR のコンプライアンス情報Office 365要求できる場所**
+
+アカウント担当者Microsoft Office 365問い合わせください。
+
+### <a name="resources"></a>リソース
 
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR タイトル 22 CFR 120~130](https://aka.ms/itar)
-- [ITAR 制御データで Azure Government を使用する](https://aka.ms/azure-itar-guide)
-- [Azure Government](https://azure.microsoft.com/features/gov/)
 - [Office 365米国政府](https://products.office.com/government/office-365-web-services-for-government)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

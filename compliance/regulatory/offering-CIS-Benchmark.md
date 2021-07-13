@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f35e72bc81a93bcba3ecea5ca8a416553e6116a8
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 7cc2131bf35f4f230ed3d18a22d7da0533dd3be5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50121376"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385397"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Center for Internet Security (CIS) ベンチマーク
 
@@ -50,7 +50,7 @@ CIS ベンチマークは、IT システムおよびデータをサイバー攻�
   
 CIS は、Microsoft 製品およびサービスのベンチマークに加えて、CIS ベンチマークを満たすように構成された [Azure 仮想マシンでの使用するための CIS ハードニング済みイメージ](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)も公開しています。 それらには、Azure 上での実行が保証された Microsoft Windows Server 2016 向け CIS ハードニング済みイメージが含まれます。 CIS は、[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) で利用可能なすべての CIS 強化されたイメージが、Azure で実行されることが認定されていることを示しています。 これらは、クラウド OS ネットワークを介してプロバイダによってホストされている Microsoft Cloud プラットフォーム、およびカスタマーによって管理されているオンプレミスのプライベート クラウド Windows Server Hyper-v 展開を介して、Azure パブリッククラウドとの変換準備と互換性を事前テスト済みです。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure および Azure Government](https://aka.ms/AzureCompliance)
 - [Office および Microsoft 365](https://aka.ms/o365-compliance-framework)
@@ -97,4 +97,4 @@ CIS は、"ベンチマークは内容領域専門家、テクノロジ ベン�
 - [Microsoft 365 を安全に使用するための CIS ベスト プラクティス](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
 - [Windows 10 のセキュリティ ポリシー設定](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
 - [Windows 10 Enterprise のセキュリティ](/windows/security/index)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
