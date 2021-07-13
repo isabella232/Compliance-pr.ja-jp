@@ -248,8 +248,8 @@
       items:
         - name: アカウンタビリティ対応準備チェックリスト
           href: gdpr-arc.md
-        - name: Azure と Dynamics 365
-          href: gdpr-arc-azure-dynamics.md
+        - name: Azure、Dynamics 365、および Windows
+          href: gdpr-arc-azure-dynamics-windows.md
         - name: Microsoft サポート/プロフェッショナル サービス
           href: gdpr-arc-prof-services.md
         - name: Office 365
@@ -274,20 +274,18 @@
           href: gdpr-dsr-office365.md
         - name: Visual Studio ファミリ
           href: gdpr-dsr-visual-studio-family.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dsr-windows.md
     - name: 侵害の通知
       items:
         - name: 侵害の通知
           href: gdpr-breach-notification.md
-        - name: Azure および Dynamics 365
-          href: gdpr-breach-azure-dynamics.md
+        - name: Azure、Dynamics 365、および Windows
+          href: gdpr-breach-azure-dynamics-windows.md
         - name: Microsoft サポート/プロフェッショナル サービス
           href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
           href: gdpr-breach-office365.md
-        - name: Windows Enterprise
-          href: gdpr-breach-windows.md
     - name: データ保護影響報告書
       items:
         - name: データ保護影響評価
@@ -300,7 +298,7 @@
           href: gdpr-dpia-prof-services.md
         - name: Office 365
           href: gdpr-dpia-office365.md
-        - name: Windows Enterprise
+        - name: Windows
           href: gdpr-dpia-windows.md
     - name: オンプレミス Office サーバーでの GDPR 対応
       items:
