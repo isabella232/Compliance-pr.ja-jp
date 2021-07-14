@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d8ffd78c4d762d72310e3ac5b200d422b0af26cf
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a3801d434cb86f4157b70d1afcb0479365af3e9c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089761"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384197"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Good Clinical, Laboratory, and Manufacturing Practices (GxP)
 
@@ -46,7 +46,7 @@ Microsoft は、ライフ サイエンス業界向けの品質保証および規
 
 Azure および Office 365 で GxP ソリューションを構築するライフ サイエンス組織は、クラウドの効率性を活用しながら、患者の安全性、製品品質、データの整合性を保護できます。 また、顧客は、特定のレベルでデータのプライバシーと整合性を強化するセキュリティおよびガバナンス テクノロジー、運用上の慣行、コンプライアンス ポリシーの複数のレイヤーの恩恵を受けます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - Microsoft 365

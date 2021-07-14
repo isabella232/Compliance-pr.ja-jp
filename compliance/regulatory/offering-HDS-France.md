@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84af03217d697f6f54db1a7d87230ae08c2b02b4
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: 65739fcf3b787ea50523c3195ffaf7e31d315d3f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508888"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384907"
 ---
 # <a name="health-data-hosting-hds-france"></a>健康データ ホスティング (HDS) フランス
 
@@ -46,7 +46,7 @@ HDS 認定により、フランスの医療提供者は Microsoft クラウド �
 - コンプライアンスについて毎年監査が行われる。Microsoft クラウド サービスの [ISO/IEC 27001:2013 情報セキュリティ マネジメント](offering-iso-27001.md)認証。
 - GDPR および [クラウドで個人データを保護するための ISO/IEC 27018 実施基準](offering-iso-27018.md)に準拠した高レベルのプライバシー。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)。 HDS 証明書は Azure コンプライアンス サービスの ISO/IEC 27001 規格に準拠しているものとしてリストされ、フランス中部、フランス南部、ヨーロッパ西部、ヨーロッパ北部の Azure リージョンからプロビジョニングされた Azure サービスに適用されます。
 - Dynamics 365。 HDS 証明書は、フランスおよび欧州連合地域からプロビジョニングされた Dynamics 365 [コア オンライン サービス](https://aka.ms/Online-Services-Terms)に適用されます。
@@ -60,7 +60,7 @@ HDS 証明書は、プレビューまたはプレリリースの Microsoft オ�
 
 HDS 認証は 3 年間有効です。
 
-- HITACHI: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
+- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
 - [BSI グループ](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
 
 ## <a name="how-to-implement"></a>実装方法
@@ -75,4 +75,4 @@ HDS 認証は 3 年間有効です。
 - [Azure フランス](https://azure.microsoft.com/global-infrastructure/france/)
 - [保険向け Azure](https://azure.microsoft.com/industries/healthcare/)
 - [Microsoft のセキュリティ](https://www.microsoft.com/security)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

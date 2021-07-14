@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 804d785cc8dfd3d693e34f17b48e2f8b0a94de17
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 2b98a7ab816f526a5371788df14755b998e14099
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120016"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384367"
 ---
 # <a name="office-of-the-superintendent-of-financial-institutions-osfi-canada"></a>カナダの金融機関監督官局 (OSFI)
 
@@ -44,7 +44,7 @@ Microsoft チェックリストでは、カナダの金融機関による Micros
 - 条件に応じた規制状況の概要。
 - チェックリストでは、対処すべき問題を定め、それらの規制義務を背景にして Microsoft Azure、Microsoft Dynamics 365、および Microsoft 365 サービスを対応づけています。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -71,7 +71,7 @@ Microsoft チェックリストでは、カナダの金融機関による Micros
 
 ## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
-[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager) は、[Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center) の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンス マネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンス マネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンス マネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments) について説明します。
+[Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
 ## <a name="resources"></a>リソース
 

@@ -1,5 +1,5 @@
 ---
-title: スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999
+title: スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999 (LOPD)
 description: Microsoft クラウドのお客様は、スペインの個人データ保護局 (AEPD) により国境を越えたデータの転送の許可を受けています。
 keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: Priority
@@ -16,14 +16,14 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a665e6be33d42901597de23f39b6e71ae9c2fe70
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089801"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384567"
 ---
-# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999
+# <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999 (LOPD)
 
 ## <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-overview"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999 の概要
 
@@ -35,12 +35,26 @@ Royal Decree 1720/2007 の Title VIII は個人データの処理に関する厳
 
 Microsoft は、お客様のために、スペインの基本法 5/1999 (Ley Orgánica 15/1999 de Protección de Datos (LOPD)) に定められている国際データ転送に関する高度な基準に準拠しているとして、スペインの個人データ保護局 (Agencia Española de Protección de Datos (AEPD)) より認可を受けた最初の超大規模クラウド サービス プロバイダーです。 Microsoft は、そのオンライン サービスが Royal Decree 1720/2007 の Title VIII に定められたセキュリティ対策に準拠しているとする第三者監査による認定を受けた最初の超大規模クラウド サービス プロバイダーでもあります。 この認可により、お客様は、欧州連合標準契約条項が適用される Microsoft Azure、Dynamics 365、および Office 365 サービスに個人データを転送できます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Microsoft Azure](https://aka.ms/AzureCompliance)
-- [Microsoft Dynamics 365](https://aka.ms/d365-compliance-list)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Microsoft Office 365](https://aka.ms/o365-compliance-framework)
+- Office 365
+
+## <a name="office-365-and-lopd"></a>Office 365 と LOPD
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

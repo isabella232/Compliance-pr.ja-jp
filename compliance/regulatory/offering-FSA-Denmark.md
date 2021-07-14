@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 55f600c7b1fa5f4573c389ca2c5fc5f3b827bb10
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 2896f3dea06181ef11393a40a4822b3b6fd345a5
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089530"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384937"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>金融監督機関 (FSA) デンマーク
 
@@ -48,10 +48,10 @@ Microsoft チェックリストでは、デンマークの金融機関による 
 - 条件に応じた規制状況の概要。
 - チェックリストでは、対処すべき問題を定め、それらの規制義務を背景にして Microsoft Azure、Microsoft Dynamics 365、および Microsoft 365 サービスを対応づけています。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - [Microsoft 365](https://aka.ms/RiskGovernanceGuide)
 
 ## <a name="how-to-implement"></a>実装方法

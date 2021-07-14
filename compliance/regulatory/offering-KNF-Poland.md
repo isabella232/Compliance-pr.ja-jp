@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 68d5fc100ac504eaed07f45dabbfe37c82e1c66a
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 66681ad614a004242447e605ae2e1105dc6ed5bd
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089590"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384597"
 ---
 # <a name="financial-supervision-authority-knf-poland"></a>ポーランド金融監督庁 (KNF)
 
@@ -51,7 +51,7 @@ Microsoft チェックリストでは、ポーランドの金融機関による 
 - 条件に応じた規制状況の概要。
 - チェックリストでは、対処すべき問題を定め、それらの規制義務を背景にして Microsoft Azure、Microsoft Dynamics 365、および Microsoft 365 サービスを対応づけています。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

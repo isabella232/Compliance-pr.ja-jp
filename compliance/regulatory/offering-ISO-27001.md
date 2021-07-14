@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a6c2a5c32e06b16f733ce00da4400d22e4da4eff
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: 2571332c56d4fc7968f97d6f8ee458a67eeb9501
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497751"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384747"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 
@@ -39,19 +39,19 @@ ISO/IEC 27001 は国際的に受け入れられ、広く適用されています
 
 Microsoft Cloud における ISO/IEC 27001 のメリットをご確認ください: [ISO/IEC 27001:2013 をダウンロードする](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure、Azure Government、Azure Germany](https://aka.ms/AzureCompliance)
+- Azure、Azure Government、Azure ドイツ
 - Azure DevOps Services
 - Microsoft Cloud App Security
 - Microsoft Defender for Endpoint
-- [Dynamics 365、Dynamics 365 Government、Dynamics 365 ドイツ](https://aka.ms/d365-compliance-list)
+- Dynamics 365、Dynamics 365 Government、Dynamics 365 ドイツ
 - Microsoft Graph
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
 - Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
-- [Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?linkid=2077751)
+- Office 365、Office 365 米国政府、Office 365 米国防総省
 - Office 365 Germany
 - OMS Service Map
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
@@ -63,76 +63,70 @@ Microsoft Cloud における ISO/IEC 27001 のメリットをご確認くださ�
 - Microsoft Threat Expert
 - Microsoft Translator
 
-## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
+## <a name="azure-dynamics-365-and-iso-27001"></a>Azure、Dynamics 365、ISO 27001
 
-監査サイクル: Microsoft のクラウド サービスでは、少なくとも年に 1 回、ISO 27001:2013 標準に照らした監査が実施されます。
+Azure、Dynamics 365、およびその他のオンライン サービス コンプライアンスの詳細については、[Azure ISO 27001:2013 サービス](/azure/compliance/offerings/offering-iso-27001)を参照してください。
 
-### <a name="azure"></a>Azure
+## <a name="office-365-and-iso-27001"></a>Office 365 と ISO 27001
 
-- [Azure、Dynamics 365、および Online Services: ISO27001 の証明書](https://aka.ms/azureiso27001cert)
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
-### <a name="office-365"></a>Office 365
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Access Online、Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Exchange Online Protection、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Customer Portal、Office 365 Microservices (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online Document Service、Query Annotation Service、School Data Sync、Siphon、Speech、StaffHub、eXtensible Application Program を含むがこれらに限定されない)、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、Office Services Infrastructure、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、カスタマー キーによるサービスの暗号化、SharePoint Online、Skype for Business、Stream |
+| **GCC** | Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
+| **GCC High** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
+| **DoD** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、SharePoint Online、Skype for Business |
+
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
+
+Office 365 のクラウド サービスでは、少なくとも年に 1 回、ISO 27001:2013 標準に照らした監査が実施されます。
 
 - [Office 365—Global および Germany ISO 27001: 情報セキュリティ管理基準証明書](https://aka.ms/o365iso27001cert)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
+### <a name="office-365-assessments-and-reports"></a>Office 365 の評価とレポート
 
-- [Azure DevOps Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d619017%26company%3dAzure%2bDevOps%2bServices&licencenumber=IS%20619017)
-
-### <a name="microsoft-professional-services"></a>Microsoft Professional Services
-
-- [Microsoft Professional Services](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d601002%26company%3dMicrosoft&licencenumber=IS%20601002)
-
-## <a name="assessments-and-reports"></a>評価とレポート
-
-### <a name="azure"></a>Azure
-
-- [Azure、Dynamics 365、Online Services: ISO27001、27018、27701 の監査評価レポート](https://aka.ms/azureiso27001report)
-- [Azure、Dynamics 365、および Online Services: 27001、27018、27701 の適用性に関するステートメント (SOA)](https://aka.ms/Azureiso27001soa)
-
-### <a name="office-365"></a>Office 365
-
-- [Office 365: ISO 27001、27018、27017 監査評価レポート](https://aka.ms/o365isoreport)
+- [Office 365: ISO 27001、27018、27017 監査評価レポート](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
+- [Office 365: ISO 27001、27018、27017 Statement of Authority (SOA)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 - [Office 365 情報セキュリティ管理システム (ISMS)—セキュリティおよびプライバシーに関する適用宣言書](https://aka.ms/o365isosoa)
 - [Office 365 ドイツ: ISO 27001、27017、27018 監査評価レポート](https://aka.ms/o365gerisoaudit)
 - [Yammer: ISO27001 監査評価レポート](https://aka.ms/yammeriso)
 
-### <a name="azure-devops-services"></a>Azure DevOps Services
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-- [Azure DevOps Services ISO 27001 証明書 IS 619017](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dAzure&licencenumber=IS%20619017)
-
-[その他の監査レポートを見る](https://aka.ms/auditreports)
-
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
-
-**Microsoft が ISO/IEC 27001 に準拠していることが重要なのはなぜですか?**
+**Office 365 が ISO/IEC 27001 に準拠していることが重要なのはなぜですか?**
 
 認定監査人が確認したこれらの基準に準拠することで、Microsoft が、国際的に認められたプロセスとベスト プラクティスを使用して、サービスをサポートおよび提供するインフラと組織を管理していることが証明されます。 証明書は、Microsoft が、情報セキュリティの管理を開始、実装、保守、および強化するためのガイドラインと一般原則を実装していることを実証するものです。
 
-**Microsoft サービスの ISO/IEC 27001 監査レポートおよび scope ステートメントはどこで入手できますか?**
+**Office 365 サービスの ISO/IEC 27001 監査レポートおよび対象範囲を記述した文書はどこで入手できますか?**
 
 [Service Trust Portal](/microsoft-365/compliance/get-started-with-service-trust-portal) では、中立的な監査によるコンプライアンス レポートを提供しています。 貴社の監査人が Microsoft のクラウド サービスの監査結果と貴社の法的および規制要件を比較できるようにするために、ポータルでレポートをリクエストすることができます。
 
-**Microsoft はインフラ障害のテストを毎年実施していますか?**
+**Office 365 インフラストラクチャの障害に対して年次テストが実行されていますか?**
 
-はい。 1 年に 1 回実施される Microsoft Cloud Infrastructure and Operations グループの ISO/IEC 27001 認定プロセスには、運用回復性の監査が含まれます。 最新の証明書をプレビューするには、下記のリンクをクリックします。
+はい。 1 年に 1 回実施される Microsoft Cloud Infrastructure and Operations グループの ISO/IEC 27001 認定プロセスには、運用回復性の監査が含まれます。 最新の証明書を表示するには、下記のリンクを選択します。
 
-- Microsoft Azure: [Microsoft Cloud Infrastructure and Operations の ISO/IEC 27001:2013 証明書](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
-- Azure German: [Microsoft Cloud Infrastructure and Operations の ISO/IEC 27001:2013 証明書](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
+- Microsoft 365 および Office 365 証明書: [Microsoft Cloud Infrastructure and Operations の ISO/IEC 27001:2013 証明書](https://www.bsigroup.com/en-US/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 
 **組織の ISO/IEC 27001 コンプライアンス順守は、何から始めればいいですか?**
 
 ISO/IEC 27001 を適用することは戦略的なコミットです。 まずは、[ISO/IEC 27000 ディレクトリ](https://www.27000.org/index.htm)を確認してください。
 
-**Microsoft サービスの ISO/IEC 27001 コンプライアンスを、自分の組織の認定に利用できますか?**
+**Office 365 サービスの ISO/IEC 27001 コンプライアンスを、自分の組織の認定に利用できますか?**
 
 はい。 ビジネスに必要なのが、Microsoft サービスでデプロイされている実装の ISO/IEC 27001 認定である場合は、該当する認定をコンプライアンス評価で利用できます。 ただし、ご自身の責任で、査定人が、組織内での制御やプロセスと ISO/IEC 27001 コンプライアンスの実装を評価するよう、手配する必要があります。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーは、Enterprise E5 をご利用のお客様を対象として、事前に組み込まれた評価を行います。 評価の作成に使用するテンプレートについては、コンプライアンスマネージャーの [ **評価テンプレート** ] を参照してください。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [Microsoft サイバー サービスのマッピング: NIST サイバーセキュリティ: (CSF)、CIS コントロール、ISO27001:2013 フレームワーク](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [ISO/IEC 27000 ディレクトリ](https://www.27000.org/index.htm)
@@ -141,9 +135,3 @@ ISO/IEC 27001 を適用することは戦略的なコミットです。 まず�
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft Cloud for Government](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-
-## <a name="white-papers"></a>ホワイト ペーパー
-
-- [Azure DevOps Services によるデータ保護の概要](https://www.visualstudio.com/articles/team-services-security-whitepaper)
-- [ISO 27001 のコンプライアンスを実現するための 13 の効率的な Azure セキュリティ コントロール](https://aka.ms/13securitycontrolsforiso27001compliance)
