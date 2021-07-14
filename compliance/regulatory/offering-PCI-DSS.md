@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: feba7b943f04dc0a9470cef23465f1f63fc55ef7
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: ab92c2d12477e0e7fa1890ae25e06d264305e95c
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497725"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384387"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Payment Card Industry (PCI) Data Security Standard (DSS)
 
@@ -39,36 +39,46 @@ Microsoft では、年 1 回、認定 Qualified Security Assessor (QSA) によ�
 
 Azure、OneDrive for Business、および SharePoint Online の PCI DSS コンプライアンス ステータスが、顧客がプラットフォームで構築またはホストするサービスの PCI DSS 認定を直ちに意味するわけではありません。これを理解しておくことが重要です。 PCI DSS 要件への対応についてはお客様自身が責任を負います。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
-- Microsoft Cloud App Security
-- フロー クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに組み込まれているサービス)
-- Microsoft Graph
+- Azure および Azure Government
 - Intune
+- Microsoft Cloud App Security
 - [Microsoft Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)
-- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
+- Microsoft Graph
+- Office 365
 - OneDrive for Business および SharePoint Online (米国のみ)
+- PowerApps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランまたはスイートに搭載されているサービス)
+- Power Automate (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランまたはスイートに搭載されているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
-## <a name="audit-reports-and-certificates"></a>監査、レポート、認証
+## <a name="azure-dynamics-365-and-pci-dss"></a>Azure、Dynamics 365、PCI DSS
 
-- [Azure PCI DSS Attestation of Compliance (AoC)](https://aka.ms/azure-pci)
+Azure、Dynamics 365、およびその他のオンライン サービス コンプライアンスの詳細については、[Azure PCI DSS サービス](/azure/compliance/offerings/offering-pci-dss)を参照してください。
+
+## <a name="office-365-and-pci-dss"></a>Office 365 と PCI DSS
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | OneDrive for Business (米国)、SharePoint Online |
+
+### <a name="office-365-audit-reports-and-certificates"></a>Office 365 監査、レポート、証明書
+
 - [OneDrive for Business および SharePoint Online の PCI DSS Attestation of Compliance (AoC)](https://aka.ms/spo-pci)
 
-## <a name="get-your-pci-dss-solution-running-on-azure"></a>Azure で実行される PCI DSS ソリューションを入手する
-
-Azure のセキュリティとコンプライアンスの PCI DSS ブループリントを使用して、クラウドでの PCI DSS ソリューションの構築や展開をすばやく行うことができます。 基準となるアーキテクチャ、展開ガイダンス、コントロール実装マッピング、自動化スクリプトなどを入手できます。 [Azure PCI DSS ブループリントの使用を開始します](https://aka.ms/pciblueprint)。
-
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **Attestation of Compliance (AoC) の表紙に「2018 年 6 月」と記載されているのはなぜですか?**
 
-この表紙に表示されている「2018 年 6 月」の日付は、AoC のテンプレートが発行された日付です。 評価の日付については、セクション 2 を参照してください。
-
-**Azure の Attestations of Compliance (AoCs) が複数あるのはなぜですか?**
-
-Azure AoC パッケージには、Azure パブリック、ドイツ、政府機関向けクラウドに対応する AoC が用意されています。 お客様には Azure 環境に対応する AoC の使用をお勧めします。  
+この表紙に表示されている「2018 年 6 月」の日付は、AoC のテンプレートが発行された日付です。 評価の日付については、セクション 2 を参照してください。 
 
 **PA DSS と PCI DSS の間にはどのような関係があるのですか?**
 
@@ -82,12 +92,6 @@ Payment Application Data Security Standard (PA DSS) は PCI DSS に準拠する�
 
 PCI DSS は、規模や取引数に関係なく、カード会員データを受信、転送、または保存するすべての企業に適用されます。 つまり、お客様がクレジット カードまたはデビット カードを使用して企業に支払った場合は、必ず PCI DSS 要件が適用されます。 企業は、12 か月間の取引量合計に基づいて 4 つのレベルのいずれかで検証されます。 レベル 1 は年間取引件数が 600 万件を超える企業、レベル 2 は 100 ～ 600 万件、レベル 3 は 2 ～ 100 万件、レベル 4 は 2 万件未満の企業を対象としています。
 
-**Azure 上に展開しているソリューションの PCI DSS コンプライアンス順守はどのように始めればよいですか?**
-
-PCI Security Standards Council が提供している情報により、具体的なコンプライアンス要件を把握できます。 また、カード支払い処理に関与する事業者向けに [PCI DSS クイック レファレンス ガイド](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf) を公開しています。 このガイドでは、PCI DSS を使用してカード支払い取引環境を保護する方法および PCI DSS の適用方法を説明しています。
-
-コンプライアンスには、Azure ではホストされていないシステムやプロセスの評価を含む、いくつかの要素があります。 各要件は、使用される Azure サービスや、それらのサービスがソリューション内でどのように利用されているかによって異なります。
-
 **OneDrive for Business および SharePoint Online が米国以外で PCI DSS に準拠する計画はありますか?**
 
 現在 OneDrive for Business および SharePoint Online は、米国内でのみ PCI-DSS に準拠しています。 Microsoft は、米国以外の地域が追加された場合は、他の地域の要件や予定を評価し、更新情報を提供します。
@@ -96,14 +100,13 @@ PCI Security Standards Council が提供している情報により、具体的�
 
 現在のところ、OneDrive for Business および SharePoint Online にアップロードされたファイルとドキュメントのみが PCI DSS に準拠しています。
 
-## <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
+### <a name="use-microsoft-compliance-manager-to-assess-your-risk"></a>Microsoft コンプライアンス マネージャーを使用してリスクを評価する
 
 [Microsoft コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)は、[ Microsoft 365 コンプライアンス センター](/microsoft-365/compliance/microsoft-365-compliance-center)の機能で、組織のコンプライアンスに対する姿勢を把握し、リスクを軽減するための処置を実行できるようにします。 コンプライアンスマネージャーには、この規制の評価を構築するためのプレミアム テンプレートが用意されています。 コンプライアンスマネージャーの **評価テンプレート** ページでテンプレートを見つけます。 [コンプライアンスマネージャーで評価をする方法](/microsoft-365/compliance/compliance-manager-assessments)について説明します。
 
-## <a name="resources"></a>リソース
+### <a name="resources"></a>リソース
 
 - [PCI Security Standards Council](https://www.pcisecuritystandards.org/)
 - [PCI データ セキュリティ基準](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
-- [Azure PCI DSS 3.2.1 ブループリント](/azure/governance/blueprints/samples/pci-dss-3.2.1/)
 - [PCI DSS クイック レファレンス ガイド](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

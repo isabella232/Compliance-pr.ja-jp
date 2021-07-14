@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 978979483be55852b34a4ab65e6949a7f234c82d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a559597f3fc959ffdc20ecfb14c7b143ae9b1849
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088496"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385347"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>クラウド セキュリティ ゴールド マーク (CS ゴールド マーク)
 
@@ -41,11 +41,25 @@ JASA が制定したクラウド情報セキュリティ監査制度では、情
 
 JASA 公認の監査人による厳格な評価を受けた結果、Microsoft は 3 つのサービス分類すべてについて CS ゴールド マークを取得しました。 認定された分類は、Microsoft Azure がサービスとしてのインフラストラクチャ (IaaS) と サービスとしてのプラットフォーム (PaaS)、Microsoft Office 365 がサービスとしてのソフトウェア (SaaS) です。 Microsoft は、3 つのサービス分類すべてでこの認定を取得した最初の国際 CSP となりました。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-cs-gold-mark"></a>Office 365 と CS ゴールド マーク
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

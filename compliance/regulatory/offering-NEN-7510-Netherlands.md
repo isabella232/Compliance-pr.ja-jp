@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9ae0ba0b3ad10e4b1f2d308090f05c698bce092f
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 79dc7fc209b85048189016a9bed8f5ca45b99bdb
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088486"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384457"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -35,11 +35,25 @@ Microsoft では現在の認証と保証声明を分析し、[NEN 7510 カバレ
 
 Azure セキュリティおよびコンプライアンス ブループリントを使用して NEN 7510 の展開を加速する方法を説明します。「[Microsoft クラウドをダウンロードする: Azure および Office 365 NEN7510-2011 標準範囲ユーザー ガイド](https://aka.ms/Azure-NEN7510-2011)」をダウンロードしてください。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
+- Azure および Azure Government
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Office 365
+
+## <a name="office-365-and-iso-27001"></a>Office 365 と ISO 27001
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Information Protection、Bookings、Delve、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、OneDrive for Business、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

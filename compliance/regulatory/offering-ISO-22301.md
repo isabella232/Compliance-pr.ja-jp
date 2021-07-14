@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d87d143479cab3dffb881c58dc19d11a81b1c7a9
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 1c4cf624eb6f658bcdddde1acbef7bc43323f257
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088936"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384717"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 ビジネス継続性管理標準
 
@@ -35,7 +35,7 @@ ms.locfileid: "53088936"
 
 Microsoft は、ビジネス継続性に関する ISO 22301 認証を取得した最初の超大規模クラウド サービス プロバイダーです。 独立した認証機関による、事業継続性のプロセスに関するすべての要素を対象とした厳格な監査を経て、Microsoft Azure、Microsoft Azure Government、Microsoft Office 365 (Commercial、Government、Education 製品など)、Microsoft Cloud App Security、Microsoft Intune、Microsoft Power BI が同認証を取得しました。 この監査では、下記の対象サービス、Azure 管理機能、Azure Portal、対象サービスの監視、操作、更新に使用するシステムが審査されました。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure、Azure Government、Azure Germany](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
@@ -45,9 +45,9 @@ Microsoft は、ビジネス継続性に関する ISO 22301 認証を取得し�
 - Microsoft Healthcare Bot
 - Intune
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
-- Power Automate (以前の Microsoft Flow) クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
-- [Office 365 Commercial、Government、Education](https://go.microsoft.com/fwlink/p/?linkid=2077751)
-- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power Automate (旧称 Microsoft Flow) スタンドアロン サービス、または Office 365 や Dynamics 365 ブランド プランあるいはスイートに搭載されているサービスとしてのクラウド サービス
+- Office 365 Commercial、Government、Education
+- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - Power BI Embedded
 

@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: f6b0582215242dd1de187b4cd0386e44b144dba8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b0b16b88ede35ed71cdc90b27a7e3076e51ae56b
+ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496478"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53377814"
 ---
 # <a name="support-your-gdpr-program-with-accountability-readiness-checklists"></a>アカウンタビリティ対応準備チェックリストを使用して GDPR プログラムをサポートする
 
@@ -37,8 +37,9 @@ Microsoft の製品とサービスを使用するときに GDPR をサポート�
 4 つの Microsoft 製品とサービス ファミリに関する詳しいガイドが用意されています:
 
 - [Office 365](gdpr-arc-Office365.md)
-- [Dynamics 365](gdpr-arc-azure-dynamics.md)
-- [Azure](gdpr-arc-azure-dynamics.md)
+- [Dynamics 365](gdpr-arc-azure-dynamics-windows.md)
+- [Azure](gdpr-arc-azure-dynamics-windows.md)
+- [Windows](gdpr-arc-azure-dynamics-windows.md)
 - [Microsoft サポート/プロフェッショナル サービス](gdpr-arc-prof-services.md)
 
 [コンプライアンス マネージャー](/microsoft-365/compliance/compliance-manager)で、GDPR タイル内の顧客管理コントロールの下にあるコントロール ID とコントロール タイトルを参照することによって、このチェックリストの項目を管理できます。

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9bf4c3cf6615b966b4bfb4e70293415deaeeac6
-ms.sourcegitcommit: 626b0076d133e588cd28598c149a7f272fc18bae
+ms.openlocfilehash: c2736c5ddb9c29a65d37f95c271bfb56e97fee88
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49508286"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384217"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Cloud Security Alliance (CSA) STAR Self-Assessment
 
@@ -44,20 +44,31 @@ STAR は 3 つのレベルの保証を提供します。CSA STAR Self-Assessment
 
 STAR Self-Assessment の一環として、CSP は、CSA ベスト プラクティスへの準拠を示す 2 種類の異なるドキュメントを提出できます。1 つは回答を記入した CAIQ で、もう 1 つは CCM への準拠状態を記録したレポートです。 CSA STAR Self-Assessment の場合、Microsoft では Microsoft Azure 用に CAIQ と CCM ベースのレポートの両方を、Microsoft Dynamics 365 と Microsoft Office 365 用には CCM ベースのレポートを公開しています。  
 
-「Azure のセキュリティとコンプライアンスのブループリント」で CSA STAR Self-Assessment のデプロイメントを加速する方法についてご確認ください: [CSA STAR コンセンサス評価に対する Azure の対応をダウンロードする](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+- Azure および Azure Government
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Office 365
 
-- [Azure および Azure Government](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365 CSA STAR Self-Assessment](https://cloudsecurityalliance.org/star/registry/microsoft/)
+## <a name="azure-dynamics-365-and-csa-star-self-assessment"></a>Azure、Dynamics 365、CSA STAR 自己評価
 
-## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
+Azure、Dynamics 365、およびその他のオンライン サービス コンプライアンスの詳細については、[Azure CSA STAR 自己評価サービス](/azure/compliance/offerings/offering-csa-star-self-assessment)を参照してください。
 
-- [情報要求に対する Azure の標準応答](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7ca8423-1bc5-4be0-bff8-b6056f87c134&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ%20and%20White%20Papers)
-- [Azure Cloud Security Alliance CAIQ](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a966a424-ecfd-4de2-9739-b08aee2d3ca0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)
-- [CSA CAIQ v3.0.1 への Azure の対応](https://gallery.technet.microsoft.com/Azure-Responses-to-CSA-46034a11)
+## <a name="office-365-and-csa-star-self-assessment"></a>Office 365 と CSA STAR 自己評価
 
-## <a name="frequently-asked-questions"></a>よく寄せられる質問
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** |Exchange Online、Exchange Online Protection、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
+
+### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **CSA CCM が対応しているのはどの業界標準ですか?**
 
@@ -67,21 +78,14 @@ CCM は、ISO 27001、PCI DSS、HIPAA、AICPA SOC 2、NERC CIP、FedRAMP、NIST 
 
 CSP は CSA STAR Self-Assessment を使用すると、透明性の高い方法で、CSA が発行したベスト プラクティスに準拠していることを文書化できます。 自己評価レポートは一般に公開されるため、クラウドのお客様が CSP のセキュリティ施策について確認し、同じ基準を使用して異なる CSP を比較検討できます。
 
-**Microsoft のビジネス クラウド サービスは、CSA STAR のどの保証レベルを達成していますか?**
+**Office 365 が達成した CSA STAR の保証レベルは?**
 
-- **Level 1**: **CSA STAR Self-Assessment**: Azure、Dynamics 365、Office 365。 Self-Assessment は、お客様がサービスのセキュリティを評価できるように、クラウド サービス プロバイダーが自社のセキュリティ コントロールの文書化に使用でき、無料で提供されます。
-- **Level 2**: **CSA STAR 認定資格**: Azure、Microsoft Cloud App Security、Intune、Power BI。 STAR 認証は、ISO/IEC 27001 認証の取得および CCM に規定されている基準への適合に基づきます。 この認証は、クラウド サービス プロバイダーにおけるセキュリティの制御と取り組みについて、第三者による厳格な評価を経て付与されます。
-- **レベル 2**: **CSA STAR 評価証明**: Azure および Intune。 CSA と AICPA が協力して、CPA が SOC 2 に取り組む際に使用できるガイドラインを提供しています。このガイドラインでは、AICPA (Trust Service Principles, AT 101) および CSA CCM の基準を使用しています。 STAR Attestation では、これらのガイドラインを基に、クラウド プロバイダーに対する独立機関による厳格な評価を経て認定されます。
+- **レベル 1**: **CSA STAR 自己評価**: クラウド サービス プロバイダーにより提供される無償のサービスで、顧客がサービスのセキュリティを評価できるよう、プロバイダーが自社のセキュリティ制御を文書化したものです。
 
-## <a name="resources"></a>リソース
+### <a name="office-365-resources"></a>Office 365 のリソース
 
 - [Cloud Security Alliance](https://cloudsecurityalliance.org/)
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA Security, Trust & Assurance Registry (STAR)](https://cloudsecurityalliance.org/star/)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-
-## <a name="microsoft-csa-star-self-assessments"></a>Microsoft の CSA STAR self-assessments
-
-- [Azure](https://aka.ms/Azure_STAR)
-- [Dynamics 365](https://aka.ms/DynamicsCRM_Online_STAR)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7079147a9ee952f97a4ad5b9d8df0cfcf9d494a2
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 55f576c4fdfd22b487a948c16eca4327f45494c6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089821"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385167"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>スペインの Esquema Nacional de Seguridad (ENS) のハイ レベルなセキュリティ対策
 
@@ -41,10 +41,24 @@ ms.locfileid: "53089821"
 
 Microsoft Azure と Microsoft Office 365 は、独立監査人である BDO の厳しい審査を経て、正式な認定証を取得しました。 BDO は、両方のサービスにおけるセキュリティ対策、情報システムとデータ処理に関する機能が RD 3/2010 に高水準に準拠しており、是正措置が不要であると報告しています。 マイクロソフトは、この認定をスペインで取得した最初の超大規模クラウド サービス プロバイダーになりました。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure および Azure Government](https://aka.ms/AzureCompliance)
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+- Azure および Azure Government
+- Office 365
+
+## <a name="office-365-and-ens-high"></a>Office 365 と ENS High
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online、Exchange Online Protection、Microsoft Teams、MyAnalytics、Office 365 Customer Portal、Office Online、Office Service Infrastructure、Outlook Mobile、SharePoint Online、Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

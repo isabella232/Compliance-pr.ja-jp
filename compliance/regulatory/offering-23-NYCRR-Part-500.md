@@ -16,24 +16,22 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f48ba2f7bd10167d5e4cb384a7740df5e48b7617
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 93a45f3da668ef9f6115fe352b5bbbce49e15d7f
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088716"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53385527"
 ---
 # <a name="title-23-nycrr-part-500"></a>Title 23 NYCRR Part 500
 
 ## <a name="title-23-nycrr-part-500-overview"></a>Title 23 NYCRR Part 500 の概要
 
-深刻で、増加の一途をたどる情報や財務システムのサイバーセキュリティに対する脅威に対応するために、ニューヨーク州金融サービス局は 2017 年に、州内での業務の免許または承認を受けている金融機関に対して新しいサイバーセキュリティ要件を適用しました。 この規制は 「Title 23 New York Codes, Rules, and Regulation Part 500: Cybersecurity Requirements for Financial Services Companies (金融サービス会社向けサイバーセキュリティ要件)」と呼ばれ、州政府の認可を受けた、民間、または国際的な銀行、住宅ローン ブローカー、保険会社などの顧客データおよび IT システムを保護することを目的としています。
+深刻で、増加の一途をたどる情報や財務システムのサイバーセキュリティに対する脅威に対応するために、ニューヨーク州金融サービス局は 2017 年に、州内での業務の免許または承認を受けている金融機関に対して新しいサイバーセキュリティ要件を適用しました。 Title 23 New York Codes, Rules, and Regulation Part 500: Cybersecurity Requirements for Financial Services Companies (金融サービス会社向けサイバーセキュリティ要件) は、州政府の認可を受けた、民間、または国際的な銀行、住宅ローン ブローカー、保険会社などの金融機関の顧客データおよび IT システムを保護することを目的としています。
 
 ## <a name="microsoft-and-title-23-nycrr-part-500"></a>Microsoft と Title 23 NYCRR Part 500
 
 Microsoft では、Title 23 NYCRR Part 500 の規制を受ける金融サービスに対して、包括的ガイド[『Microsoft クラウド サービス: NYDFS サイバーセキュリティ要件への準拠支援』(Microsoft Cloud Services: Supporting Compliance with NYDFS Cybersecurity Requirements)](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=f7e56dc6-4e52-4e9a-af06-aa41d5851d36&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides) を提供しています。 規制の要求事項へ準拠が Azure、Office 365、Power BI の各クラウド サービスでサポートされる方法ついて詳しく説明しています。 世界の金融の中心地であるニューヨークでの操業を希望する金融機関はこれらの要求事項を満たす必要があるため、多くの機関にとってコンプライアンスは重要課題です。
-
-ガイダンス『Microsoft クラウド サービス: [NYDFS サイバーセキュリティ要件への準拠支援](https://go.microsoft.com/fwlink/p/?linkid=2098969)』に従うことで、Title 23 NYCRR Part 500 への準拠を加速させることができます。
 
 ニューヨーク州の規制では、各金融機関に対して以下の活動が要求されます。
 
@@ -51,18 +49,31 @@ Microsoft では、Title 23 NYCRR Part 500 の規制を受ける金融サービ�
 - **承認されたユーザーのアクティビティの監視、許可されていないアクセスの検出、従業員へのサイバーセキュリティに関する定期的な意識向上研修の提供**: Azure、Office 365、および Power BI では、外部からの内部の監視によるインシデント警告機能およびログ記録と監査のための広範な診断機能が提供されています。 [Microsoft Virtual Academy](https://mva.microsoft.com/): Microsoft クラウド サービスを取り扱うオンライン トレーニングを提供します。
 - **サイバーセキュリティ インシデントでの対応と復旧に関する計画の整備**: Microsoft では、セキュリティ侵害を発生前に検出、予測、および回避する防御戦略を使用して、サイバーセキュリティ インシデントへの準備をお手伝いします。 独自の計画を整備する際でも、Microsoft のインシデント管理プランを参考にして、サイバーセキュリティ侵害に対応することができます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象 Microsoft クラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure](https://aka.ms/AzureCompliance)
+- Azure
 - Intune
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Office 365
+
+## <a name="office-365-and-title-23-nycrr-part-500"></a>Office 365 と Title 23 NYCRR Part 500
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **この規制の対象となるのはどの機関ですか?**
 
-お客様の機関がこの規制の対象かどうかを特定するには、ニューヨーク州金融サービス局の [Who we Supervise (監督対象機関)](https://go.microsoft.com/fwlink/p/?linkid=2099374) を参照してください。
+お客様の機関がこの規制の対象かどうかを特定するには、[ニューヨーク州金融サービス局の Who We Supervise (監督対象機関)](https://go.microsoft.com/fwlink/p/?linkid=2099374) サイトを参照してください。
 
 ## <a name="resources"></a>リソース
 
@@ -76,5 +87,4 @@ Microsoft では、Title 23 NYCRR Part 500 の規制を受ける金融サービ�
 
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Microsoft Cloud Financial Services Compliance Program](https://www.microsoft.com/download/confirmation.aspx?id=55332)
-- [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)- 

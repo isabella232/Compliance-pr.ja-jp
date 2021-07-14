@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 379720a1769048fea6abc22f850a6ef54f601351
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 9b7accfce56b2035dcaab95f774f8035c05c7362
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089056"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384547"
 ---
 # <a name="monetary-authority-of-singapore-mas-and-association-of-banks-in-singapore-abs"></a>シンガポール金融庁（MAS）およびシンガポール銀行協会（ABS）
 
@@ -66,7 +66,7 @@ MAS ガイドラインに準拠してデータおよびワークロードを Mic
 
 [シンガポールの金融機関向けのコンプライアンス チェックリストをダウンロードする](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=37557722-d5ed-419b-9365-2762982bacbf&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -82,7 +82,7 @@ MAS ガイドラインに準拠してデータおよびワークロードを Mic
 
 **"重要な" アウトソーシングの取り決めとは何を意味し、その定義が重要である理由は何ですか?**
 
-サービスの障害や違反が、金融機関のビジネス運営に重大な影響を与える可能性がある場合、リスクの管理や適用される法律および規制の遵守が不可能になった場合、それが "重要な" アウトソーシング契約になります。また、契約が顧客情報に関わるもので、万一顧客情報への承認されていないアクセスまたはその開示、消失、盗難が発生すると、金融機関の顧客に重大な影響を与える場合も、"重要な" アウトソーシング契約になります。 "顧客情報" の定義では、セキュリティで保護され、暗号化された情報は明示的に除外されることに注意してください。
+アウトソーシングの取り決めは、以下の状況において "重要" です。サービスの失敗または違反が金融機関の事業運営、または金融機関のリスクを管理し、適用される法律および規制を遵守する能力に重大な影響を与える可能性がある場合、または、顧客情報が含まれる場合で、顧客情報への不正アクセスまたは開示、紛失、または盗難が企業の顧客に重大な影響を与える場合です。"顧客情報" の定義では、セキュリティで保護され、暗号化された情報は明示的に除外されることに注意してください。
 
 『MAS Outsourcing Guidelines』の一部の規定は、"重要なアウトソーシング契約" にのみ適用されるため、この定義は重要です。 この定義は重要です。 このような重要なアウトソーシング契約には、年 1 回のレビューの実施義務、監査権を定めた必須契約条項、シンガポール国外へのアウトソーシングが MAS の監督業務に影響を与えないようにしなければならないことなどが含まれます。
 

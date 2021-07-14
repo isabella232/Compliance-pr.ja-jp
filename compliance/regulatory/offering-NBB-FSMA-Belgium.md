@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: abe7b849b8cb10ddbe11eb1a95a972d244ac43c3
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 3e0cedef50d4ac52547c785e5a5395b8b67ca1d6
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120089"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384447"
 ---
 # <a name="national-bank-of-belgium-nbb-and-the-financial-services-and-markets-authority-fsma"></a>ベルギー国立銀行 (NBB) と Financial Services and Markets Authority (FSMA)
 
@@ -45,12 +45,12 @@ NBB と FSMA は、欧州銀行監督局 (EBA) と協力して活動しており
 
 ベルギーの金融機関がビジネス機能をクラウドにアウトソーシングする場合、欧州銀行監督局 (EBA) の広範なポリシー フレームワーク内でベルギー国立銀行 (NBB) と Financial Services and Markets Authority (FSMA) のルールとガイドラインを遵守する必要があります。
 
-Microsoft チェックリストでは、ベルギー金融機関による Microsoft 法人向けクラウド サービスのデューデリジェンス評価の実施を支援します。 内容は以下のとおりです。
+Microsoft チェックリストでは、ベルギー金融機関による Microsoft 法人向けクラウド サービスのデューデリジェンス評価の実施を支援します。以下を含みます。
 
 - 条件に応じた規制状況の概要。
 - チェックリストでは、対処すべき問題を定め、それらの規制義務を背景にして Microsoft Azure、Microsoft Dynamics 365、および Microsoft 365 サービスを対応づけています。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となるマイクロソフトのクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -66,7 +66,7 @@ Microsoft チェックリストでは、ベルギー金融機関による Micros
 
 **規制当局の承認が必要ですか?**
 
-いいえ。 ただし、金融機関は、業務の運営、評判、または収益性、またはリスクを管理し適用される法規制に準拠する能力に重大な影響を及ぼす可能性のあるアウトソーシングの取り決めに混乱が生じた場合、NBB および FSMA に通知する必要があります。
+いいえ。ただし、金融機関は、業務の運営、評判、または収益性、またはリスクを管理し適用される法規制に準拠する能力に重大な影響を及ぼす可能性のあるアウトソーシングの取り決めに混乱が生じた場合、NBB および FSMA に通知する必要があります。
 
 **クラウド サービス プロバイダーについて、契約に含める必要がある必須条項はありますか?**
 

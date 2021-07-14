@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 07620a613cefd4ebac5acd0626ee855f8d077089
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120096"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384517"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>シンガポールの多階層クラウド セキュリティ (MTCS) 標準
 
@@ -40,25 +40,37 @@ MTCS は、さまざまなセキュリティ レベルを備えた最初のク�
 
 ## <a name="microsoft-and-mtcs"></a>Microsoft と MTCS
 
-Microsoft クラウド サービスは、MTCS 認定機関による厳格な評価を受けた後、サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、サービスとしてのソフトウェア (SaaS) の 3 つのサービス分類のすべてについて MTCS 584:2013 認定を取得しました。 Microsoft は、3 つのサービス分類すべてでこの認定を取得した最初の国際 CSP となりました。
+Microsoft クラウド サービスは、MTCS 認定機関による厳格な評価を受けた後、サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、サービスとしてのソフトウェア (SaaS) の 3 つのサービス分類のすべてについて MTCS 584:2013 認定を取得しました。Microsoft は、3 つのサービス分類すべてでこの認定を取得した最初の国際 CSP となりました。
 
 Microsoft Azure サービス (IaaS および PaaS)、Microsoft Dynamics 365 サービス (SaaS)、Microsoft Office 365 サービス (SaaS) が、レベル 3 で認定されました。 レベル 3 認定は、対象となる Microsoft クラウド サービスが、最も厳密なセキュリティ要件を持つ規制組織の影響力の大きいデータをホストできることを意味します。 このレベルは、シンガポール政府のクラウド ソリューション実装に必要です。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure](https://go.microsoft.com/fwlink/p/?linkid=2092718)
-- [Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2051700)
-- Microsoft Cloud App Security
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Genomics
+- Intune
+- Microsoft Cloud App Security
 - Microsoft Graph
 - Microsoft Healthcare Bot
-- Intune
-- Flow
+- Office 365
 - OMS Service Map
 - PowerApps
 - Power BI
-- Microsoft Stream
-- [Office 365](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
+
+## <a name="office-365-and-mtcs"></a>Office 365 と MTCS
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Delve、Exchange Online、Exchange Online Protection Loki、Microsoft Teams、Office 365 Customer Portal、Office Online、Office Service Infrastructure、SharePoint Online、Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -88,7 +100,7 @@ MTCS 基準に準拠する必要があるクラウド サービスを購入し�
 MTCS には合計で 535 個の制御があり、3 つのセキュリティ レベルが用意されています。
 
 - レベル 1 は、コストを抑えるために、最小限必要な基本的セキュリティ コントロールのみを備えています。 Web サイトのホスト、テストと開発作業、シミュレーション、およびクリティカルではないビジネス アプリケーションに適しています。
-- レベル 2 は、データのセキュリティについて不安を抱えるほとんどの組織のニーズに対応し、データに対するセキュリティ リスクと脅威を対象とした厳格な制御を備えています。 レベル 2 は、ミッションクリティカルなビジネス アプリケーションを含め、クラウド使用のほとんどに適用できます。
+- レベル 2 は、データのセキュリティについて不安を抱えるほとんどの組織のニーズに対応し、データに対するセキュリティ リスクと脅威を対象とした厳格な制御を備えています。レベル 2 は、ミッションクリティカルなビジネス アプリケーションを含め、クラウド使用のほとんどに適用できます。
 - レベル 3 は、特定の要件を持つ規制組織や、より厳しいセキュリティ要件に対してコストをかけてもかまわない組織を対象としています。 レベル 3 では、レベル 1 と 2 のセキュリティ コントロールを補完する一連の制御が追加されます。 規制システム内の機密情報が含まれるホスト アプリケーションなど、クラウド サービスを利用している、影響力の大きい情報システムへのセキュリティ リスクおよび脅威には、この制御で対処します。
 
 **組織でのコンプライアンス活動は、何から始めればよいですか?**

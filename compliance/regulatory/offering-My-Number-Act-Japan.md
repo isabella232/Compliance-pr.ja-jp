@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9c3ebd4c4988366d429f7b6cfc377f4f9c8a611
-ms.sourcegitcommit: 21ed42335efd37774ff5d17d9586d5546147241a
+ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
+ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50120076"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53384467"
 ---
 # <a name="my-number-act-japan"></a>マイ ナンバー法 (日本)
 
@@ -47,23 +47,33 @@ Microsoft はクラウド サービスに保存されているマイ ナンバ�
 
 したがって、Microsoft ビジネス クラウド サービスはマイ ナンバー法の要件をサポートし、個人データの個々の所有者からの同意など、顧客に対する法律の下で追加の義務を作成しません。
 
-## <a name="microsoft-in-scope-cloud-services"></a>対象となる Microsoft のクラウド サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
-- [Dynamics 365](https://download.microsoft.com/download/E/1/9/E1977163-7A86-4812-AC18-C03ADC958AAF/Microsoft_Dynamics_365_Cloud_Service_Compliance_Datasheet.pdf)
+- Azure
+- [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
-- [Office 365](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9f756cce-b15d-45a9-94d7-6a583dee4401&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- Office 365
+
+## <a name="office-365-and-the-my-number-act"></a>Office 365 とマイ ナンバー法
+
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
+
+[!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
+
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
+
+次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+
+| **適用対象** | **範囲内のサービス** |
+|:------------------|:----------------------|
+| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>実装方法
 
 - [Microsoft セキュリティ ポリシー](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=231213ea-9954-41fd-a757-ae62f3721dc7&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft がクラウド サービスで個人情報および組織情報のセキュリティを処理する方法。
-
 - [Office 365 のプライバシー](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=a1b48a5b-bcb1-4c19-9277-952c0df87113&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers): Microsoft が Office 365 に強力なプライバシー保護を構築する方法。
-
 - [Office 365 の管理者アクセス](/office365/SecurityCompliance/office-365-administrative-access-controls-overview): Microsoft が顧客データへの管理アクセスを管理する方法。
-
 - [Office 365 の監査とレポート](/office365/SecurityCompliance/office-365-auditing-and-reporting-overview): テナント内のユーザーおよび管理アクティビティを追跡するために顧客が使用できる機能の探索。
-
 - [Office 365 のデータ保持](/office365/SecurityCompliance/office-365-data-retention-deletion-and-destruction-overview): 削除された後、顧客データが保持される期間のデータ処理ポリシーの理解。
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
@@ -78,4 +88,4 @@ PPC Q\&Aの[セクション Q3-13](https://www.ppc.go.jp/legal/policy/faq/) (日
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com/ja-JP/)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
