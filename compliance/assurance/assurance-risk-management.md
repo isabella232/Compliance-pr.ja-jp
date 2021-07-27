@@ -14,17 +14,18 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 673090a2ce8c4ad59b3f406fc6b76917ff3e9cdb
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 04ca3dde35ded2f0f4117d91ccc8ae0fa6a9aa9b
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088759"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573645"
 ---
 # <a name="risk-management-overview"></a>リスク管理の概要
 
@@ -32,7 +33,7 @@ ms.locfileid: "53088759"
 
 リスク管理は、リスクを特定、評価、対処するプロセスです。 Microsoft のリスク管理は、新しい脅威を予測し、クラウド システムとそれを使用するお客様に継続的なセキュリティを提供するように設計されています。
 
-Microsoft のリスク管理アクティビティは、ERM Enterpriseプログラムによって管理されます。 ERM は、企業全体のリスク管理プロセスを有効にし、企業全体の管理と一緒に Microsoft の最も重要なリスクに対する説明責任を特定し、保証します。 Microsoft のビジネス戦略を知らせ、リスクの軽減と説明責任を推進するために、リスクの予測、評価、および報告に重点を当て、
+Microsoft のリスク管理アクティビティは、企業リスク管理 (ERM) プログラムによって統制されます。 ERM は、企業全体のリスク管理プロセスを可能にし、企業全体の管理者と連携して、Microsoft の最も重要なリスクの説明責任を特定し実現します。 ここでは、リスクの予測、評価、報告に重点を置き、Microsoft のビジネス戦略を判断し、リスクの軽減と説明責任を推進します。
 
 ![リスク管理構造](../media/assurance-risk-management-structure.png)
 

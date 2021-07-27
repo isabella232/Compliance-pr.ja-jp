@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5c94dcab6ac61daa2d1723d84b47a6f360d55b59
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 5708ab20d78d1862af5613c64ea492c40bea9da1
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53087706"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573835"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365 の攻撃シミュレータ
 
@@ -35,7 +35,7 @@ Microsoft 365は、障害を継続的に監視し、障害が検出された場�
 
 Microsoft 365 は可能な限り自動回復アクションを実行しますが、Microsoft のオンコール エンジニアは、すべての重大度 1 セキュリティ エスカレーションを調査するために 24 時間 365 日利用できます。また、すべてのサービス インシデントの事後レビューは継続的な学習と改善に貢献します。 このチームには、サポート エンジニア、製品開発者、プログラム マネージャー、製品管理者、シニア リーダーシップが含まれます。 オンコールの専門家は、スケジュールに合ったバックアップを提供し、多くの場合、回復アクションを自動化して、次にイベントが発生した場合に自己回復を行うことができます。
 
-Microsoft は、影響の大きさに関係なく、Microsoft 365インシデントが発生する度に徹底的なインシデント後のレビューを実行します。 インシデント後のレビューは、何が起こったのか、どのように対応したのか、また今後同様のインシデントを防止する方法の分析で構成されます。 透明性と説明責任のために、主要なサービス インシデントに関するインシデント後のレビューを影響を受けるお客様と共有しています。 具体的な詳細については、「セキュリティ[インシデントOffice 365」を参照してください](https://aka.ms/Office365SIM)。
+Microsoft は、影響の大きさに関係なく、Microsoft 365インシデントが発生する度に徹底的なインシデント後のレビューを実行します。 インシデント後のレビューは、何が起こったのか、どのように対応したのか、また今後同様のインシデントを防止する方法の分析で構成されます。 透明性と説明責任のために、主要なサービス インシデントに関するインシデント後のレビューを影響を受けるお客様と共有しています。 具体的な詳細については [、「Microsoft セキュリティ インシデント管理」を参照してください](assurance-security-incident-management.md)。
 
 ## <a name="assume-breach-methodology"></a>違反の方法を想定する
 

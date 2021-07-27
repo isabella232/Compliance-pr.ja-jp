@@ -14,19 +14,20 @@ localization_priority: Normal
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 search.appverid:
 - MET150
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 8922124e6fd6da852ee4bfc4c51dae7ee432f35b
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 21408643bcdb3effc0a8630d3f4da54a42281f44
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089649"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573755"
 ---
-# <a name="microsoft-365-risk-management-program"></a> Microsoft 365 のリスク管理のプログラム
+# <a name="microsoft-365-risk-management-program"></a>Microsoft 365リスク管理プログラム
 
 リスク管理プログラムMicrosoft 365目的は、リスクを特定、評価、および管理Microsoft 365。 Microsoft 365の優先事項は、契約上の義務と認定を満たし、顧客の信頼を高め、競争力を維持します。 Microsoft 365リスク管理プログラムは独立して機能しますが、包括的な Enterprise リスク管理 (ERM) プログラムのポリシー、優先順位、および方法に合わせて調整されます。 ERM プログラムを使用すると、ビジネス ユニットとエンジニアリング グループ間で一貫した比較が可能になります。企業全体のリスク管理に対するより一貫性のあるアプローチに貢献します。
 

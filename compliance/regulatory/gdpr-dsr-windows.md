@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: b79d856591566aa1e13633377600c605429ee68e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 8715ef1ee8133fe950e3ff42b0c53b49f916a018
+ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377964"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53573845"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Windows 診断データ 処理の構成 GDPRとCCPAのためのデータ主体の要求
 
@@ -104,3 +104,6 @@ Microsoft はまた、既存のアプリケーション プログラミング �
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>問題のエクスポートまたは削除について通知する
 
 Azure portal で Windows 診断データ をエクスポートまたは削除中に問題が発生した場合は、Azure ポータルの **[ヘルプとサポート]** ブレードに移動し、**[サブスクリプションの管理] > [サブスクリプションに必要なプライバシーとコンプライアンスの要求] > [プライバシー ブレードと GDPR 要求]** で新しいチケットを送信します。
+
+>[!NOTE]
+>Windows 診断データのエクスポート要求が完了するまでに最大 5 日かかる場合があります。 問題が発生した場合は、サポート チケットを開くまで少なくとも 7 日間お待ちください。
