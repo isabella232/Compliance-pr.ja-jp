@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0af79e7834006940f46643dae678c1a8ca77fad2
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: ee0645b13594585df5d940732fa420f2ccd4473b
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573785"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678242"
 ---
 # <a name="privacy-overview"></a>プライバシーの概要
 
@@ -49,18 +49,28 @@ Microsoft では、顧客データの収集を、[](https://www.microsoft.com/tr
 
 ## <a name="how-does-microsoft-delete-customer-data-when-a-customer-leaves-the-service"></a>Microsoft は、顧客がサービスを離れるときに顧客データを削除する方法を説明します。
 
-Microsoft Data Handling Standard は、削除後に顧客データを保持する期間を指定します。 顧客がサブスクリプションを終了すると、Microsoft は顧客データを 90 日間限定機能アカウントに保持し、顧客がデータを抽出できるようにします。 90 日間の保持期間が終了すると、顧客データの保持が許可されていない場合、または法律により保持が要求されていない限り、Microsoft は顧客データを削除します。 Microsoft 365 のサブスクリプションの期限切れまたは終了後 180 日以内に、Microsoft はアカウントを無効にし、すべての顧客データをアカウントから削除します。 データの最大保存期間が経過すると、そのデータは商業的に回復できなくなります。
+Microsoft Data Handling Standard は、削除後に顧客データを保持する期間を指定します。 顧客がサブスクリプションを終了すると、Microsoft は顧客データを 90 日間限定機能アカウントに保持し、顧客がデータを抽出できるようにします。 90 日間の保持期間が終了すると、顧客データの保持が許可されていない場合、または法律により保持が要求されていない限り、Microsoft は顧客データを削除します。 Microsoft オンライン サービスへのサブスクリプションの有効期限または終了から 180 日以内に、Microsoft はアカウントを無効にし、アカウントからすべての顧客データを削除します。 データの最大保存期間が経過すると、そのデータは商業的に回復できなくなります。
 
-また、サービスのセキュリティと安定性を維持するためにデータを必要としない限り、Microsoft はサービス生成および診断データを標準の Microsoft データ ライフサイクルの一部として削除します。 サブスクリプションについては、サブスクライバーは Microsoft サポートに連絡して、サブスクリプションのデプロビジョニングの迅速化を要求できます。 顧客がこのプロセスを活用すると、管理者が Microsoft が提供するロックアウト コードを入力した 3 日後に、すべてのユーザー データが削除されます。 この削除には、オンラインのSharePoint、非アクティブExchange Online保持中または非アクティブなメールボックスに保存されているデータが含まれます。
+また、サービスのセキュリティと安定性を維持するためにデータを必要としない限り、Microsoft はサービス生成および診断データを標準の Microsoft データ ライフサイクルの一部として削除します。 サブスクリプションについては、サブスクライバーは Microsoft サポートに連絡して、サブスクリプションのデプロビジョニングの迅速化を要求できます。 顧客がこのプロセスを使用すると、管理者が Microsoft が提供するロックアウト コードを入力した 3 日後に、すべてのユーザー データが削除されます。 この削除には、オンラインのSharePoint、非アクティブExchange Online保持中または非アクティブなメールボックスに保存されているデータが含まれます。
 
 ## <a name="related-external-regulations--certifications"></a>関連する外部規制&認定
 
 Microsoft のオンライン サービスは、定期的に外部の規制と認定に準拠した監査を受けています。 プライバシーに関連するコントロールの検証については、次の表を参照してください。
 
+### <a name="azure-and-dynamics-365"></a>Azure と Dynamics 365
+
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2021 年 4 月 20 日 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: サービス レベル契約 (SLA) <br> CA-17: Microsoft セキュリティ ポリシー <br> CA-25: コントロール フレームワークの更新 | 2020 年 12 月 24 日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2020 年 12 月 2 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: 顧客サブスクリプションの終了/有効期限 <br> SDL-1: セキュリティ開発ライフサイクル (SDL) の方法論 <br> LA-4: 機密顧客データの保護 | 2021 年 3 月 21 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | DS-15: 顧客サブスクリプションの終了/有効期限 <br> SDL-1: セキュリティ開発ライフサイクル (SDL) の方法論 <br> LA-4: 機密顧客データの保護 <br> SOC2-1: アセットの分類 <br> SOC2-7: 公開された機密性とセキュリティの義務 | 2021 年 3 月 31 日 |
+
+### <a name="office-365"></a>Office 365
+
+| **外部監査** | **Section** | **最新のレポート日付** |
+|:--------------------|:------------|:-----------------------|  
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2021 年 4 月 20 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: サービス レベル契約 (SLA) <br> CA-17: Microsoft セキュリティ ポリシー <br> CA-25: コントロール フレームワークの更新 | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース
 

@@ -20,22 +20,22 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 7a706cda887c0c2675841648ef8541ffbb872884
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 3e2b1e62e0d614c503c978dff98d6952ff7de20d
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573695"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678222"
 ---
 # <a name="security-development-and-operations-overview"></a>セキュリティの開発と運用の概要
 
 ## <a name="how-does-microsoft-implement-secure-development-practices"></a>Microsoft はセキュリティで保護された開発プラクティスを実装する方法を説明します。
 
-Microsoft のセキュリティ開発ライフサイクル (SDL) は、セキュリティ保護されたソフトウェアの開発と運用に重点を置くセキュリティ 保証プロセスです。 SDL には、Microsoft の開発者やエンジニアにとって、より多くの測定可能なセキュリティ要件が用意されています。 Microsoft は、お客様の製品とサービスの脆弱性の数と重大度を削減します。 すべての Microsoft ソフトウェア開発チームは、SDL の要件に従う必要があります。また、変化する脅威の状況、業界のベスト プラクティス、コンプライアンスに関する規制基準を反映するように SDL を継続的に更新します。
+Microsoft のセキュリティ開発ライフサイクル (SDL) は、セキュリティで保護されたソフトウェアの開発および運用に重点を置いたセキュリティ保証プロセスです。 SDL には、Microsoft の開発者やエンジニアにとって、より多くの測定可能なセキュリティ要件が用意されています。 Microsoft は、お客様の製品とサービスの脆弱性の数と重大度を削減します。 すべての Microsoft ソフトウェア開発チームは、SDL の要件に従う必要があります。また、変化する脅威の状況、業界のベスト プラクティス、コンプライアンスに関する規制基準を反映するように SDL を継続的に更新します。
 
 ## <a name="how-does-microsofts-sdl-improve-application-security"></a>Microsoft の SDL は、アプリケーションのセキュリティを向上させる方法を説明します。
 
-Microsoft の SDL プロセスは、要件、設計、実装、検証、およびリリースの 5 つのフェーズで考え得る。 まず、セキュリティを念頭に置いてソフトウェア要件を定義します。 これを行うには、アプリケーションが実行する必要があるセキュリティ関連の質問を確認します。 アプリケーションで機密データを収集する必要がありますか? アプリケーションは機密情報や重要なタスクを実行しますか? アプリケーションは、信頼できない発行元からの入力を受け入れる必要がありますか?
+Microsoft の SDL プロセスは、要件、設計、実装、検証、およびリリースの 5 つのフェーズで考え得る。 まず、セキュリティを念頭に置いてソフトウェア要件を定義します。 この目標を達成するために、アプリケーションが何を達成する必要があるのかについて、セキュリティ関連の質問を行います。 アプリケーションで機密データを収集する必要がありますか? アプリケーションは機密情報や重要なタスクを実行しますか? アプリケーションは、信頼できない発行元からの入力を受け入れる必要がありますか?
 
 関連するセキュリティ要件が特定されると、これらの要件を満たすセキュリティ機能が組み込まれるようにソフトウェアを設計します。 開発者は SDL と設計要件をコードに実装し、手動のコード レビュー、自動化されたセキュリティ ツール、および侵入テストで検証します。 最後に、コードをリリースする前に、新しい機能と重要な変更は最終的なセキュリティとプライバシーのレビューを受け、すべての要件が満たされます。
 
@@ -49,26 +49,34 @@ Microsoft では、セキュリティ保護された開発ツールと手動コ�
 
 ## <a name="how-does-microsoft-manage-open-source-software"></a>Microsoft はオープンソース ソフトウェアを管理する方法を説明します。
 
-Microsoft では、次の目的で設計されたツールとワークフローを活用する、オープンソース のセキュリティを管理するための高度な戦略を採用しています。
+Microsoft では、次の目的で設計されたツールとワークフローを使用する、オープンソース のセキュリティを管理するための高レベルの戦略を採用しています。
 
 - 当社の製品およびサービスで使用されているオープン ソース コンポーネントを理解します。
 - これらのコンポーネントがどこでどのように使用されているかを追跡します。
 - それらのコンポーネントに脆弱性があるかどうかを確認します。
 - これらのコンポーネントに影響を与える脆弱性が発見された場合は、適切に対応します。
 
-Microsoft のエンジニアリング チームは、製品またはサービスに含まれるすべてのオープン ソース ソフトウェアのセキュリティに対する責任を維持します。 これを大規模に実現するために、Microsoft は、オープン ソースの検出、法的要件のワークフロー、および脆弱なコンポーネントのアラートを自動化する CG を通じて、エンジニアリング システムに不可欠な機能を組み込みました。 自動化された CG ツールは、Microsoft のビルドをスキャンして、オープンソース コンポーネントと関連するセキュリティの脆弱性や法的義務をスキャンします。 検出されたコンポーネントは登録され、ビジネスおよびセキュリティ レビューのために適切なチームに送信されます。 これらのレビューは、オープン ソース コンポーネントに関連する法的義務またはセキュリティの脆弱性を評価し、コンポーネントの展開を承認する前にそれらを解決するように設計されています。
+Microsoft のエンジニアリング チームは、製品またはサービスに含まれるすべてのオープン ソース ソフトウェアのセキュリティに対する責任を維持します。 このセキュリティを大規模に実現するために、Microsoft は、オープンソースの検出、法的要件ワークフロー、脆弱なコンポーネントの警告を自動化する、CG を通じてエンジニアリング システムに不可欠な機能を構築しました。 自動化された CG ツールは、Microsoft のビルドをスキャンして、オープンソース コンポーネントと関連するセキュリティの脆弱性や法的義務をスキャンします。 検出されたコンポーネントは登録され、ビジネスおよびセキュリティ レビューのために適切なチームに送信されます。 これらのレビューは、オープン ソース コンポーネントに関連する法的義務またはセキュリティの脆弱性を評価し、コンポーネントの展開を承認する前にそれらを解決するように設計されています。
 
 ## <a name="related-external-regulations--certifications"></a>関連する外部規制&認定
 
 Microsoft のオンライン サービスは、定期的に外部の規制と認定に準拠した監査を受けています。 セキュリティの開発と運用に関連するコントロールの検証については、次の表を参照してください。
 
+### <a name="azure-and-dynamics-365"></a>Azure と Dynamics 365
+
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|
-| [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | SA-3: システム開発ライフサイクル | 2020 年 9 月 24 日 |
-| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: 変更管理コントロール <br> A.14.2: 開発およびサポート プロセスのセキュリティ | 2021 年 4 月 20 日 |
-| [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: 変更管理コントロール <br> A.14.2: 開発およびサポート プロセスのセキュリティ | 2021 年 4 月 20 日 |
-| [SOC 1 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-03: リスク管理 <br> CA-18: 変更管理 <br> CA-19: 変更監視 <br> CA-21: 変更テスト <br> CA-38: ベースライン構成 <br> CA-46: セキュリティ レビュー | 2020 年 12 月 24 日 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-03: リスク管理 <br> CA-18: 変更管理 <br> CA-19: 変更監視 <br> CA-21: 変更テスト <br> CA-38: ベースライン構成 <br> CA-46: セキュリティ レビュー | 2020 年 12 月 24 日 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: 変更管理コントロール <br> A.14.2: 開発およびサポート プロセスのセキュリティ | 2020 年 12 月 2 日 |
+| [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a3bca0ac-867d-4204-b66b-13665f5f1e8d&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=25718a8a-f34d-41e1-a95a-c49246508787&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: 変更管理コントロール <br> A.14.2: 開発およびサポート プロセスのセキュリティ | 2020 年 12 月 2 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b8721ebd-af20-42fe-b22f-8332b0a19517&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | SDL-1: セキュリティ開発ライフサイクル (SDL) の方法論 <br> SDL-2: リリースに記載されているセキュリティ制御要件 <br> SDL-4: テスト環境と実稼働環境の分離 <br> SDL-6: ソース コードビルドでのマルウェア スキャン <br> SDL7: 半期 SDL レビュー | 2021 年 3 月 31 日 |
+
+### <a name="office-365"></a>Office 365
+
+| **外部監査** | **Section** | **最新のレポート日付** |
+|:--------------------|:------------|:-----------------------|
+| [FedRAMP](https://compliance.microsoft.com/compliancemanager) | SA-3: システム開発ライフサイクル | 2020 年 9 月 24 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: 変更管理コントロール <br> A.14.2: 開発およびサポート プロセスのセキュリティ | 2021 年 4 月 20 日 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-03: リスク管理 <br> CA-18: 変更管理 <br> CA-19: 変更監視 <br> CA-21: 変更テスト <br> CA-38: ベースライン構成 <br> CA-46: セキュリティ レビュー | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース
 

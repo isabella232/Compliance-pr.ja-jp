@@ -20,22 +20,22 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 7d645db077972678674a2f7999a271766e940130
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 00a1f4ae37e3ec79a87414926c2821bab8393e39
+ms.sourcegitcommit: 0ffa79db0bbb35258496c7702285ed9d473b4ad9
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573685"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53678232"
 ---
 # <a name="supplier-management-overview"></a>サプライヤー管理の概要
 
 ## <a name="how-does-microsoft-manage-risk-related-to-suppliers"></a>Microsoft は、サプライヤーに関連するリスクを管理する方法を説明します。
 
-Microsoft は、お客様のニーズを満たすのに役立つサードパーティ企業と提携しています。 これらのサードパーティ企業は、サプライヤーまたはサブプロセッサと呼ばれます。 Microsoft のサプライヤーのセキュリティとプライバシーは、Microsoft と提携してオンライン サービスを提供するために、Microsoft と提携しているすべてのサプライヤーに対する企業全体の要件である、Supplier [Security and Privacy Assurance (SSPA)](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)プログラムによって管理されます。 SSPA プログラムは、サプライヤー ベースの包括的なガバナンスと管理を提供しますが、Microsoft 365 などの個々のビジネス ユニットは、サプライヤーに対する追加の要件を維持する場合があります。
+Microsoft は、お客様のニーズを満たすのに役立つサードパーティ企業と提携しています。 これらのサードパーティ企業は、サプライヤーまたはサブプロセッサと呼ばれます。 Microsoft のサプライヤーのセキュリティとプライバシーは、Microsoft と提携してオンライン サービスを提供するために、Microsoft と提携しているすべてのサプライヤーに対する企業全体の要件である、Supplier [Security and Privacy Assurance (SSPA)](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)プログラムによって管理されます。 SSPA プログラムは、サプライヤー ベースの包括的なガバナンスと管理を提供しますが、個々のビジネス ユニットは、サプライヤーに対する追加の要件を維持する場合があります。
 
 ## <a name="how-does-microsofts-supplier-security-and-privacy-assurance-sspa-program-protect-customer-data"></a>Microsoft のサプライヤー セキュリティおよびプライバシー アシュアランス (SSPA) プログラムが顧客データを保護する方法
 
-SSPA は、サプライヤーが Microsoft のプライバシーとセキュリティの原則を遵守するための、Microsoft の調達、企業の外部および法務、および企業セキュリティのパートナーシップです。 SSPA の範囲は、個人データまたは Microsoft 機密データを処理するすべてのサプライヤーを対象とします。 SSPA プログラムの登録には、Microsoft のデータ保護要件 (DPR) への準拠が含まれます。 DPR は、Microsoft との契約作業を開始する前に、サプライヤーが実装する必要があるセキュリティおよびプライバシー制御で構成されています。 登録されているすべてのサプライヤーは、毎年 DPR に準拠する自己証明を行います。
+SSPA は、サプライヤーが Microsoft のプライバシーとセキュリティの原則を遵守するための、Microsoft の調達、企業の外部および法務、および企業セキュリティのパートナーシップです。 SSPA の範囲は、個人データまたは Microsoft 機密データを処理するすべてのサプライヤーを対象とします。 SSPA プログラムの登録には、Microsoft のデータ保護要件 (DPR) への準拠が含まれます。 DPR は、Microsoft との契約作業を開始する前に、サプライヤーが実装する必要があるセキュリティとプライバシーの制御で構成されています。 登録されているすべてのサプライヤーは、毎年 DPR に準拠する自己証明を行います。
 
 DPR 要件の範囲は、SSPA への登録の一環として、サプライヤーが承認できる 6 つの異なるデータ処理カテゴリに基づいて行います。 これらのカテゴリは、サプライヤーが Microsoft に提供するサービスに関連するリスクを特定するために使用されます。 サプライヤーのデータ処理プロファイルは、適切なデータ保護を提供するためにスコープ内と見なされる DPR コントロールを決定します。 リスクが高いと見なされるデータを処理するサプライヤーは、すべての DPR 要件に準拠する必要があります。また、コンプライアンスの独立した検証を提供する必要があります。 Microsoft の購入ツールは、そのサプライヤーの調達を許可する前に、DPR の該当する部分への準拠を含むすべてのサプライヤーの SSPA 状態を検証します。
 
@@ -64,13 +64,23 @@ Microsoft Online Service Data Protection Addendum (DPA) に基づき、Microsoft
 
 Microsoft のオンライン サービスは、定期的に外部の規制と認定に準拠した監査を受けています。 サプライヤー管理に関連するコントロールの検証については、以下の表を参照してください。
 
+### <a name="azure-and-dynamics-365"></a>Azure と Dynamics 365
+
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
-| [FedRAMP (Office 365)](https://compliance.microsoft.com/compliancemanager) | CA-3: システム相互接続 <br> IA-4: 識別子の管理 <br> PS-6: アクセス契約 <br> PS-7: サードパーティの人事セキュリティ <br> SA-4: 取得プロセス <br> SA-9: 外部情報システム サービス <br> SA-12: サプライ チェーン保護 | 2020 年 9 月 24 日 |
-| [ISO 27001/27002 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2021 年 4 月 20 日 |
-| [ISO 27017 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2021 年 4 月 20 日 |
-| [ISO 27018 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 外注 PII 処理の開示 | 2020 年 12 月 24 日 |
-| [SOC 2 (Office 365)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: サードパーティの監視 | 2020 年 12 月 24 日 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7af5304-3a31-40e6-9abb-e26352305d41&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2020 年 12 月 2 日 |
+| [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a3bca0ac-867d-4204-b66b-13665f5f1e8d&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=25718a8a-f34d-41e1-a95a-c49246508787&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2020 年 12 月 2 日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=e9116047-f327-430c-a83f-166b7e561ad6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=00af6c3e-7f3e-4e0d-8b0e-79f45ef2cef1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=56904fc3-0942-4ff5-9eef-7cabc751a25c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 外注 PII 処理の開示 | 2020 年 12 月 2 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=234a0f57-83c1-4afc-a586-a0e7a59592f7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) <br> [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=75c8cbf6-e456-473c-a05e-34fea888ec2a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | SOC2-25: サプライヤーのリスク管理 <br> C5-2: サプライヤー リスク プロファイルのレビュー| 2021 年 3 月 31 日 |
+
+### <a name="office-365"></a>Office 365
+
+| **外部監査** | **Section** | **最新のレポート日付** |
+|:--------------------|:------------|:-----------------------|  
+| [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-3: システム相互接続 <br> IA-4: 識別子の管理 <br> PS-6: アクセス契約 <br> PS-7: サードパーティの人事セキュリティ <br> SA-4: 取得プロセス <br> SA-9: 外部情報システム サービス <br> SA-12: サプライ チェーン保護 | 2020 年 9 月 24 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2021 年 4 月 20 日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 外注 PII 処理の開示 | 2020 年 12 月 24 日 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: サードパーティの監視 | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース
 
