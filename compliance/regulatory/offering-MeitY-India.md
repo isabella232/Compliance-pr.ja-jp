@@ -1,7 +1,7 @@
 ---
 title: 電子情報技術省 (MeitY)
 description: Microsoft はインドの電子情報技術省から完全な認定を受けた。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f9b5924ce8f8424479bd4320f6e33e6fec7e636d
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: ca3ecd5dc99f71c76c2b8e724a1b6ace3350d947a3bbb278a5ec6ab00c13fe7d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292454"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>電子情報技術省 (MeitY)
 
@@ -43,7 +43,7 @@ MeitY は、クラウド サービス プロバイダーの認定 (MeitY によ�
 
 Microsoft の MeitY 認定は、MeghRaj Cloud Initiative の作業に基づく評価フレームワークを使用して、品質保証サービスを提供する政府機関である標準化テストおよび品質認定 (STQC) ディレクターによる厳格な監査の結果です。 Microsoft Azure を通じて、公共部門の組織は、サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、障害復旧、DevOps、および管理バックアップなど、幅広い展開モデルとサービスサービスを活用できます。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://aka.ms/AzureCompliance)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 445d812b33214a3d2287268b587607004ef96ab7
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 9ec3e0456934c178b32a6f5fac987d70c267ef8046ff5c361abce914a2cea90a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291870"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft セキュリティ インシデント管理: 検出と分析
 
@@ -60,7 +60,7 @@ Azure、Dynamics 365、および Microsoft 365 サービス チームは、セ�
 - 影響
 - 範囲
 - 影響を受けるテナントの数
-- 地域
+- Region
 - サービス
 - インシデントの詳細
 - 特定の顧客業界または市場規制。

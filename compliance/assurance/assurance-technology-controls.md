@@ -21,12 +21,12 @@ ms.custom:
 - seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1317d8507156ee7752c3eca96e3cf0e9813a5784
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: b82dfdbe3de63f8b5ded42c037d0d574da051047462c6900d368a70efd625fcf
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291725"
 ---
 # <a name="technology-controls-in-microsoft-365"></a>Microsoft 365 
 
@@ -52,7 +52,7 @@ Lockbox は、サービス内で運用機能および管理機能を実行する
 >[!NOTE]
 > 顧客ロックボックスは[、Microsoft 365 E5購入](https://products.office.com/business/office-365-enterprise-e5-business-software)として使用できます。 詳細については、「顧客ロック[ボックス要求Microsoft 365を参照してください](https://support.office.com/article/Office-365-Customer-Lockbox-Requests-36f9cdd1-e64c-421b-a7e4-4a54d16440a2)。
 
-## <a name="just-in-time-access"></a>Just-in-time access
+## <a name="just-in-time-access"></a>Just-In-Time アクセス
 
 Microsoft では、資格情報の改ざんリスクと横方向の攻撃を軽減するために、Microsoft 365(JIT) アクセス原則を使用します。 JIT は、サービスへの永続的な管理アクセスを削除し、エンタイトルメントをオンデマンドでそれらのロールに昇格する機能に置き換わります。 管理者から永続的なアクセス権を削除すると、資格情報が必要な場合にのみ使用できます。資格情報の盗難リスクを軽減します。
 

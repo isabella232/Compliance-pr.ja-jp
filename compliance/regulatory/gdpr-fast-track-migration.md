@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: d3429d3fb35317146e32fddc71bae2f12c40269d
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: a83a39ec6f60dae780d1082f534c094c45ac4d2c6788c851c6c1cf35b1a7d256
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293092"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>削除要求を送信するための FastTrack 移行ツールセット
 
@@ -35,9 +35,9 @@ FastTrack 移行に関与しているお客様の場合は、ユーザー アカ
 
 Microsoft は、Windows プラットフォームと PowerShell コンソールでこのツールセットの初期リリースをサポートしています。以下の既知のプラットフォームがこのツールセットでサポートされています。
 
-***表 1 - このツールセットでサポートされているプラットフォーム** _
+***表 1 - このツールセットでサポートされているプラットフォーム***
 
-_***
+****
 
 |PowerShell バージョン|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -61,7 +61,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 この操作の確認が要求されます。これは、管理者が自分の判断で範囲を変更できるためです。
 
-**_実行ポリシーの設定_* _
+***実行ポリシーの設定***
 
 ![PowerShell での実行ポリシー変更の設定](../media/powershell-set-execution-policy_image.png)
 
@@ -83,7 +83,7 @@ Login-FastTrackAccount -ApiKey <API Key provided by FastTrack MVM>
 
 ログインに成功すると、資格情報とキーが保存され、現在の PowerShell セッションの残りの部分に対して FastTrack モジュールで使用されます。
 
-商用以外のクラウド環境に接続する必要がある場合は、次の有効な環境のいずれかを使用して、_-Environment* を *Log in* コマンドに追加する必要があります。
+商用以外のクラウド環境に接続する必要がある場合は、次の有効な環境のいずれかを使用して、*-Environment* を *Login* コマンドに追加する必要があります。
 
 - AzureCloud
 - AzureChinaCloud

@@ -42,7 +42,7 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: 規制コンプライアンス
+  title: 法令遵守
   summary: 国際的および国内の標準および規制への準拠に関する Microsoft のガイダンス。
   items:
     - title: EU 一般データ保護規則 (GDPR)

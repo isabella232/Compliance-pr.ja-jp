@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 0ac1cdfb315c872e78872d144fa24d28500be096
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: f9cd84fed225764b61049aefc3ec95b2eb75fce845b2b9ef752fc194d949c409
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292444"
 ---
 # <a name="datacenter-security-overview"></a>データセンターのセキュリティの概要
 
@@ -51,7 +51,7 @@ Microsoft では、データセンターの可用性に対する環境上の脅�
 
 ## <a name="how-does-microsoft-verify-the-effectiveness-of-datacenter-security"></a>Microsoft はデータセンター のセキュリティの有効性を確認する方法を説明します。
 
-Microsoft では、お客様にクラウドのメリットを最大限に活用していただくには、お客様がクラウド サービス プロバイダーを信頼できる必要があることを理解しています。 Microsoft のクラウド サービスのインフラストラクチャとスイートは、お客様の厳しいセキュリティとプライバシーに関する要件に対処できるよう一から構築されています。 クラウド サービス プロバイダーのコンプライアンスに関する最も包括的な一連のサービスを提供することで、お客様が個人のデータの収集と使用を管理する国内、地域、業界固有の要件に準拠できるよう支援します。
+Microsoft では、お客様にクラウドのメリットを最大限に活用していただくには、お客様がクラウド サービス プロバイダーを信頼できる必要があることを理解しています。 Microsoft のクラウド サービスのインフラストラクチャとスイートは、お客様の厳しいセキュリティとプライバシーに関する要件に対処できるよう一から構築されています。 個人データの収集と使用を規定する国、地域、業界固有の要件にお客様が準拠できるよう、他のクラウド プロバイダーにはない、最も包括的なコンプライアンス サービスを提供します。
 
 Microsoft のクラウド インフラストラクチャとサービスは、ISO、HIPAA、FedRAMP、SOC などの国際的および業界固有のコンプライアンス標準の他、オーストラリアの IRAP、英国の G-Cloud、シンガポールの MTCS のような各国固有の標準に適合しています。 厳しい第三者監査により、これらの標準で義務付けられている厳格なセキュリティ制御に Microsoft が準拠していることが確認されます。  データセンター インフラストラクチャとクラウド サービスの監査レポートは [、Microsoft Service Trust Portal で確認できます](https://servicetrust.microsoft.com/)。
 

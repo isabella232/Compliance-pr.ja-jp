@@ -1,5 +1,5 @@
 ---
-title: インフラストラクチャのセキュリティMicrosoft 365する
+title: Microsoft 365 インフラストラクチャのセキュリティ保護
 description: Microsoft がインフラストラクチャをセキュリティで保護するMicrosoft 365説明します。
 ms.author: robmazz
 author: robmazz
@@ -20,14 +20,14 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 224900bd60f2fd5637e7264f1aed98d5ff878b20
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: d0ef6dc92820089259cd315713c0e7e4a9e11aaec50d731b15cd6e826a721107
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53089641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292754"
 ---
-# <a name="securing-the-microsoft-365-infrastructure"></a>インフラストラクチャのセキュリティMicrosoft 365する
+# <a name="securing-the-microsoft-365-infrastructure"></a>Microsoft 365 インフラストラクチャのセキュリティ保護
 
 Microsoft 365は、世界最大のエンタープライズ およびコンシューマー クラウド サービスの 1 つであり、顧客ベース、製品、および機能の両方で急速に成長し続けています。 お客様はMicrosoft 365の生産性ソリューションだけでなく、絶えず進化し続けるサイバー脅威の状況から最も機密性の高い情報を保護します。 顧客データを安全に保ち、顧客の信頼を維持するのが Microsoft の最優先事項です。
 

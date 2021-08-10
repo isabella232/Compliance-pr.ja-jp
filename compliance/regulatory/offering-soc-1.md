@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a3431b93e1c8f4b2705a0362114412aa4381143b
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: abe4804585269110d07e00b2e6f7cda75bd88106effd21f4d8060fedc03bbce8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294354"
 ---
 # <a name="system-and-organization-controls-soc-1-type-2"></a>システムおよび組織管理 (SOC) 1 Type 2
 
@@ -54,7 +54,7 @@ SOC 1 Type 2 認証は次のように実行されます。
 - Microsoft Stream
 - Microsoft 脅威エキスパート (Azure Government の対象外)
 - Nomination Portal
-- Office 365、Office 365 米国政府、Office 365 米国政府 - 高、Office 365 米国防総省
+- Office 365、Office 365 U.S. Government、Office 365 U.S. Government - High、Office 365 U.S. Government Defense
 - Power Apps
 - Power Automate
 - Power BI
@@ -73,9 +73,9 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **範囲内のサービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **Office 365** | コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online Protection、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Teams、MyAnalytics、Office 365 Customer Portal、Office 365 Microservices (Kaizala、ObjectStore、Sway、PowerPoint Online Document Service、Query Annotation Service、School Data Sync、Siphon、Speech、StaffHub、eXtensible Application Program を含むがこれらに限定されない)、Office Online、Office Services Infrastructure、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、カスタマー キーによるサービスの暗号化、SharePoint Online、Skype for Business |
 | **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
@@ -91,9 +91,9 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**Office 365 SOC 報告書が発行される頻度はどれくらいですか?**
+**Office 365 SOC レポートが発行される頻度はどれくらいですか?**
 
-Office 365 およびその他のオンライン サービスの SOC 報告書は、12 か月連続の実行期間 (監査期間) に基づいており、半年ごとに新たな報告書が発行されます (期間は 3 月 31 日と 9 月 30 日に終了)。 *ブリッジ レター* は四半期ごとに発行され、過去 3 か月間をカバーします。 たとえば、1 月のレターは 10 月 1 日から 12 月 31 日まで、4 月のレターは 1 月 1 日から 3 月 31 日まで、7 月のレターは 4 月 1 日から 6 月 30 日まで、10 月のレターは 7 月 1 日から 9 月 30 日までをカバーします。
+Office 365 およびその他のオンライン サービスの SOC レポートは、12 か月毎の実行間隔 (監査期間) に基づいており、半年ごとに新たな報告書が発行されます (期限は 3 月 31 日と 9 月 30 日)。 *ブリッジ レター* は四半期ごとに発行され、過去 3 か月間をカバーします。 たとえば、1 月のレターは 10 月 1 日から 12 月 31 日まで、4 月のレターは 1 月 1 日から 3 月 31 日まで、7 月のレターは 4 月 1 日から 6 月 30 日まで、10 月のレターは 7 月 1 日から 9 月 30 日までをカバーします。
 
 **お客様は Office 365 SOC 1 Type 2 認証からどのように利益を得ることができますか?**
 

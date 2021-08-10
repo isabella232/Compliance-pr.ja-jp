@@ -1,7 +1,7 @@
 ---
 title: 国防総省 (DoD) 影響レベル 5 (IL5)
 description: Microsoft が国防総省 (DoD) の影響レベル 5 (IL5) 標準を満たす方法について説明します。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9f92ed19a22b7eff8a7e9988e66c51aea90d42ab
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294234"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>国防総省 (DoD) 影響レベル 5 (IL5)
 
@@ -51,11 +51,11 @@ DISA は、CSP の使用を計画および承認する DoD 機関および部門
 - DoD/非連邦政府機関以外のテナント (パブリック、地方/州政府のテナント) からの物理的な分離が必要です。
 - CSP は、DoD およびコミュニティの情報への潜在的なアクセスを、米国市民である CSP 従業員に制限します。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure
 - Dynamics 365 Customer Service
-- エンドポイント用 Microsoft Defender (旧 Microsoft Defender Advanced Threat Protection)
+- Microsoft Defender for Endpoint (以前の Microsoft Defender Advanced Threat Protection)
 - Microsoft Graph
 - Microsoft Stream
 - Office 365 米国防総省
@@ -68,15 +68,15 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-dod-il5"></a>Office 365 DoD IL5
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **DoD** | アクティビティ フィード サービス、Bing サービス、Exchange Online、Exchange Online Protection、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 

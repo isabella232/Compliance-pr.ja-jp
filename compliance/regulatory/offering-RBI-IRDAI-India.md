@@ -1,7 +1,7 @@
 ---
 title: インド準備銀行 (RBI) とインド保険規制開発局 (IRDAI)
 description: Microsoft は、インドの金融機関がクラウド導入に役立つガイダンスを公開しました。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: fbeb7cefc0096225b5de012f62da951ae41d7045
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: eb0e6498a516af763c36163733c6480c9531a584c3820e01701fdcf31089b8e3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54294224"
 ---
 # <a name="reserve-bank-of-india-rbi-and-insurance-regulatory-and-development-authority-of-india-irdai"></a>インド準備銀行 (RBI) とインド保険規制開発局 (IRDAI)
 
@@ -48,7 +48,7 @@ Microsoft チェックリストは、Microsoft ビジネス クラウド サー�
 - 条件に応じた規制状況の概要。
 - Microsoft Azure、Microsoft Dynamics 365、および Microsoft Office 365 サービスに対応する問題を示すチェックリスト。 チェックリストは、規制の枠組みを背景にしてコンプライアンスを測定したり、コンプライアンスを文書化するための内部構造を提供したり、顧客が Microsoft 法人向けクラウド サービスに対する独自のリスク評価を実施したりするのを支援するツールとして使用されます。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Dynamics 365](https://aka.ms/d365-compliance-list)

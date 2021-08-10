@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 29b4c3bf83d2fea147e2e7ce5294136040fa58ba
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 1b3fe749e2a1a493702f735878173c955498d5ceed796ac7c72d7599b4214ba6
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293844"
 ---
 # <a name="spanish-royal-decree-17202007-spanish-organic-law-151999-lopd"></a>スペインの Royal Decree (王室令) 1720/2007、スペインの基本法 15/1999 (LOPD)
 
@@ -50,9 +50,9 @@ Microsoft は、お客様のために、スペインの基本法 5/1999 (Ley Org
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **範囲内のサービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 

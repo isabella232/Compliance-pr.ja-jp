@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f9189b763824a144a72259643c252563bc6a349b
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: 764b56a0f950d0b933bb86bb86ad505481bce482cbed4d2a0b06a4969b1c6661
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292304"
 ---
 # <a name="microsoft-pre-employment-screening"></a>Microsoft 就職前スクリーニング
 

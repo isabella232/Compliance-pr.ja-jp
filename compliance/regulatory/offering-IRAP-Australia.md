@@ -1,7 +1,7 @@
 ---
 title: オーストラリア政府情報セキュリティ登録評価プログラム (IRAP)
 description: Microsoft は、オーストラリアのサイバーセキュリティ センター (ACSC) による IRAP 評価と認定に基づく未分類の普及制限マーカー (DLM) および PROTECTED データの両方について、オーストラリア認定クラウド サービス リストに含まれています。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 8fb98bfab57008cdee3c2fbb049c7f34af361c37
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384827"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293864"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>オーストラリア政府情報セキュリティ登録評価プログラム (IRAP)
 
@@ -58,7 +58,7 @@ ISM が使用するリスク管理フレームワークは、国立標準技術�
 
 Microsoft のサービスとクラウド運用に関する IRAP 評価は、政府とそのパートナーの公的部門のお客様に、保護されたレベルまで分類されたデータの処理、保存、および送信に適した効果的なセキュリティ管理を Microsoft が行っているという保証を提供するのに役立ちます。 この評価には、オーストラリアのほとんどの政府機関、医療、および教育データが含まれます。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -71,15 +71,15 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-irap"></a>Office 365および IRAP
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **Office 365** | Exchange Online、Exchange Online Protection、フォーム、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、OneDrive for Business、Planner、SharePoint Online、Skype for Business、ホワイトボード、Yammer |
 

@@ -1,7 +1,7 @@
 ---
 title: オーストラリアプルデンシャル規制当局 (APRA)
 description: 金融サービスクライアントがオーストラリアプルデンシャル規制当局のアウトソーシング基準に準拠するための Microsoft ガイダンス。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de14ca813334e575709b0c4546de95dcf3ef21be
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292624"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>オーストラリアプルデンシャル規制当局 (APRA)
 
@@ -72,7 +72,7 @@ Microsoft クラウド サービス[: APRA Prudential Standard CPS 234 Informati
 
 APRA 規制に準拠してデータとワークロードを Azure に移行するための実用的なサポートを受け取る: Microsoft クラウド サービスのダウンロード: オーストラリアの金融機関のコンプライアンス チェックリストを [ダウンロードします](https://www.microsoft.com/cms/api/am/binary/RE3ez0C)。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
@@ -80,23 +80,23 @@ APRA 規制に準拠してデータとワークロードを Azure に移行す�
 
 ## <a name="office-365-and-apra"></a>Office 365および APRA
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 カスタマー ポータル、Office Online、Office Services インフラストラクチャ、OneDrive for Business、SharePoint Online、Skype for Business |
+| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **金融機関は、重要なビジネス 活動をアウトソーシングする前に、APRA の承認を必要としますか?**
 
-いいえ。 ただし、規制対象のほとんどの金融機関は、オーストラリア内の重要なビジネス 活動をアウトソーシングする契約を締結した後、またはオーストラリア外でそれらの活動をアウトソーシングする前に APRA に相談する必要があります。
+ちがいます。 ただし、規制対象のほとんどの金融機関は、オーストラリア内の重要なビジネス 活動をアウトソーシングする契約を締結した後、またはオーストラリア外でそれらの活動をアウトソーシングする前に APRA に相談する必要があります。
 
 さらに、クラウド サービスが「APRA Information [Paper on Clouds」](https://www.apra.gov.au/sites/default/files/information_paper_-_outsourcing_involving_cloud_computing_services.pdf)に記載されている「高めまたは極端な固有のリスク」を伴うとみなされる場合、金融機関は、サービスがオーストラリア内またはオーストラリア外で提供されるかどうかに関係なく、APRA に相談するように奨励されます (ただし、必須ではありません)。
 

@@ -1,7 +1,7 @@
 ---
 title: 連邦情報処理標準 (FIPS) 文書 140-2
 description: Microsoft は、暗号化モジュールが米国連邦情報処理標準に準拠しているという認定を行います。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2c51979122aaedda90bac74740e95c9d1265de74
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: dc0ab3e03128e0c9f7feddd36305805c7d8108e4ea12fa5feb5095bdc183e7f1
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292514"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>連邦情報処理標準 (FIPS) 文書 140-2
 
@@ -37,13 +37,13 @@ Microsoft は、2001 年の標準の初めから暗号化モジュールを検�
 
 Microsoft Windows 暗号化モジュール、各モジュールのセキュリティ ポリシー、および CMVP 証明書の詳細のカタログに関する技術情報については、「Windows および[Windows Server FIPS 140-2](https://aka.ms/AA6ehud)コンテンツ」を参照してください。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
 
 現在の CMVP FIPS 140-2 実装ガイダンスでは、クラウド サービス自体に対する FIPS 140-2 の検証が行えなっています。クラウド サービス プロバイダーは、クラウド サービスを構成するコンピューティング要素の FIPS 140 検証済み暗号化モジュールを取得して運用できます。 FIPS 140-2 が検証されているコンポーネントを含む Microsoft オンライン サービスには、次のものが含まれます。
 
 - Azure および Azure Government
 - Dynamics 365 および Dynamics 365 Government
-- Office 365、Office 365 U.S. Government、Office 365 U.S. Government Defense
+- Office 365、Office 365 米国政府、Office 365 米国防総省
 
 ## <a name="azure-dynamics-365-and-fips-140-2"></a>Azure、Dynamics 365、および FIPS 140-2
 
@@ -51,15 +51,15 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-fips-140-2"></a>Office 365 FIPS 140-2
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | Office 365、GCC、GCC High、DoD | [「FIPS 140-2 検証」を参照してください。](/windows/security/threat-protection/fips-140-validation) |
 

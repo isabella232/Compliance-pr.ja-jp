@@ -1,7 +1,7 @@
 ---
 title: Federal Risk and Authorization Management Program (FedRAMP)
 description: Microsoft は、米国連邦リスクおよび承認管理プログラム P-ATOs と ATOs を付与されました。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d9b7988b2ab236a26aad0981879f9b49c9ed028a
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292774"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Federal Risk and Authorization Management Program (FedRAMP)
 
@@ -47,7 +47,7 @@ Azure Government、Dynamics 365 Government、および Office 365 米国政府�
 
 Microsoft Government クラウド サービスは、公的部門のお客様に、FedRAMP に準拠した豊富なサービスと [、FedRAMP High](https://aka.ms/fedrampblueprint)ブループリントを含む堅牢なガイダンスと実装ツールを提供し、FedRAMP High コントロールを実装する必要がある Azure が展開するアーキテクチャのコア セットを展開するのに役立ちます。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure および Azure Government
 - [Dynamics 365 米国政府機関](https://aka.ms/d365-compliance-list)
@@ -65,21 +65,21 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 - Office 365米国政府機関は、米国国防情報システム局 (DISA) の P-ATO を持っています。 米国政府機関への展開をOffice 365、DISA P-ATO を使用して機関 ATO を生成し、その受け入れを文書化できます。
 - Office 365 (エンタープライズおよびビジネス プラン) および Office 365 米国政府は、検査官の DHHS および Office からの中程度の影響レベルで FedRAMP Agency ATO を持っています。 Office 365米国政府は、この承認を取得した最初のクラウドベースの電子メールとコラボレーション サービスでした。
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **GCC** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online、Exchange Online Protection、インフラストラクチャ、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 | **GCC High** | アクティビティ フィード サービス、Bing サービス、Exchange Online、Exchange Online Protection、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 | **DoD** | アクティビティ フィード サービス、Bing サービス、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365、レポート、および証明書
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
 Microsoft は、P-ATO および ATO を維持するために、Microsoft のクラウド サービスを再認定する必要があります。 これを行うには、Microsoft はセキュリティ制御を継続的に監視および評価し、サービスのセキュリティがコンプライアンスに準拠している状態を示す必要があります。
 

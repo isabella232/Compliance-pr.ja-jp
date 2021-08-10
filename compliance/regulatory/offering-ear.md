@@ -1,7 +1,7 @@
 ---
 title: 米国輸出管理規則 (EAR)
 description: Microsoft クラウド サービスは、米国輸出管理規則 (EAR) の対象となるお客様がコンプライアンス要件を満たし、輸出管理リスクを管理するのに役立ちます。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: b3867c9d8c165c451813929d49dc5936e643e95c
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 2438db5a94871e60bb7181c3acfe250e8552e94aa9b127d5e800ab8d6edfcf93
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293594"
 ---
 # <a name="us-export-administration-regulations-ear"></a>米国輸出管理規則 (EAR)
 
@@ -51,7 +51,7 @@ EAR を適用する米国商務省は、Microsoft などのクラウド サー�
 - **エンドツーエンドの暗号化**。 EAR で指定された物理的な記憶域の場所に対してエンドツーエンドの暗号化セーフ ハーバーを利用することで、Microsoft のスコープ内クラウド サービスは、エクスポート制御リスクから保護するのに役立つ暗号化機能を提供します。 また、転送中および[](https://aka.ms/Azure-Encryption-Overview)保存中のデータを暗号化するための幅広いオプションと、暗号化オプションの中から柔軟に選択できるオプションも提供します。
 - **未承認のみなしエクスポートを防止するためのツールとプロトコル**。 また、暗号化を使用すると、米国以外のユーザーが暗号化されたデータにアクセスできる場合でも、暗号化されている間にデータを読み取りまたは理解できない場合は何も明らかにされません。したがって、制御されたデータの 'release" はありません。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure および Azure Government](https://aka.ms/AzureCompliance)
 - [Office 365 Government (GCC-High および DoD)](https://aka.ms/Office-365-Export-Controls)

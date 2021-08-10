@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 92e67729125916b1ec34f7e305468f7e07489d12
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 37b5fbaa0ba98bcf79be65a3eeebb0926339164c08bc720daff714476d0f1e2b
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293924"
 ---
 # <a name="my-number-act-japan"></a>マイ ナンバー法 (日本)
 
@@ -62,9 +62,9 @@ Microsoft はクラウド サービスに保存されているマイ ナンバ�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **範囲内のサービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
@@ -85,7 +85,7 @@ PPC Q\&Aの[セクション Q3-13](https://www.ppc.go.jp/legal/policy/faq/) (日
 ## <a name="resources"></a>リソース
 
 - [Azure コンプライアンスおよび日本のセキュリティとプライバシーの要件](https://gallery.technet.microsoft.com/Azure-Compliance-and-the-53409748)
-- [Microsoft におけるプライバシー](https://privacy.microsoft.com/ja-JP/)
+- [Microsoft におけるプライバシー](https://privacy.microsoft.com/en-US/)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

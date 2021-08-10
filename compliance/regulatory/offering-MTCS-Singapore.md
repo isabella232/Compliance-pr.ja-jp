@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 111a13f2b9d3e3988f8ae673d5ae9f0c053e2ec9
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 1754a102b87b68e36feb8bd18b4194c50cfd2622a9adacea75449cb8f624e441
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53384517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54293484"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>シンガポールの多階層クラウド セキュリティ (MTCS) 標準
 
@@ -66,9 +66,9 @@ Microsoft Azure サービス (IaaS および PaaS)、Microsoft Dynamics 365 サ�
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **範囲内のサービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **Office 365** | Delve、Exchange Online、Exchange Online Protection Loki、Microsoft Teams、Office 365 Customer Portal、Office Online、Office Service Infrastructure、SharePoint Online、Skype for Business |
 

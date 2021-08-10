@@ -1,7 +1,7 @@
 ---
 title: 刑事司法情報サービス (CJIS) セキュリティ ポリシー
 description: Microsoft Government クラウド サービスは、米国刑事司法情報サービスセキュリティ ポリシーに準拠しています。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 896202ea1f51d88d1871a2c7ff81f4ee1e620d17
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54292534"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>刑事司法情報サービス (CJIS) セキュリティ ポリシー
 
@@ -43,7 +43,7 @@ Microsoft は、Microsoft Azure Government、Microsoft Office 365 米国政府�
 
 Microsoft Cloud での CJIS セキュリティ ポリシーの利点について説明します。 Genetec が犯罪捜査をクリアした方法 [を読む](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
 
 - Azure Government
 - Dynamics 365 米国政府機関
@@ -56,19 +56,19 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-cjis"></a>Office 365 CJIS
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
 
-### <a name="office-365-audits-reports-and-certificates"></a>Office 365、レポート、および証明書
+### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
 FBI は、CJIS 要件に準拠した Microsoft の認定を提供していない。 代わりに、Microsoft の構成証明は、Microsoft と州の CJIS 機関との間、および Microsoft とその顧客間の契約に含まれています。
 
