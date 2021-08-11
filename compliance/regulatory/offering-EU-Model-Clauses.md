@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 456ce920d3327926541c78b1153577dcc6bb8e42
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 20dccebdb31eff3e502efe8fe6eba6fbdd4881c4ac864927566fc786dff09a15
+ms.sourcegitcommit: 07b748b28a7815fb5824be0dea3edba29353361d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385157"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57833894"
 ---
 # <a name="european-union-model-clauses"></a>欧州連合モデル条項
 
@@ -33,13 +33,9 @@ ms.locfileid: "53385157"
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft と欧州連合モデル条項
 
-Microsoft は、処理者への個人データの転送でモデル条項の厳格な要件を満たすために必要な運用プロセスを調査しました。 Microsoft は、対象となる Microsoft クラウド サービスに対して個人データの転送を具体的に保証するモデル契約条項として、標準契約条項を顧客に提供しています。 これによって、Microsoft の顧客は Microsoft のクラウドを使用して EEA から他の国にデータを自由に転送できます。
+欧州連合 (EU) の[一般データ保護規則](/compliance/regulatory/gdpr) (GDPR) では、顧客の個人データを、すべての EU 加盟国、アイスランド、リヒテンシュタイン、およびノルウェーが含まれる欧州経済領域 (EEA) 以外の国へ転送することは規制されています。 マイクロソフトは、対象となるサービスの個人データの転送に関する特定の保証を提供する EU [標準契約条項](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (SCC) (EU モデル条項とも呼ばれる) をお客様に提供しています。  EU モデル条項は、サービス プロバイダー (マイクロソフトなど) とその顧客との間の契約で使用され、EEA を離れる個人データが GDPR に準拠して確実に転送されることを保証します。
 
-ただし、そのデータを保護する一次義務は、個人データの管理者である Microsoft の法人顧客が負います。 したがって、EEA の法人顧客はクラウド サービス プロバイダーが EU データ保護法を順守していることに強い関心を持つ必要があり、順守されていない場合には、その顧客に賠償責任が発生する可能性があり、そのサービスを使用できなくなることもあります。
-
-Microsoft は、監査と承認のために標準契約条項を EU の第 29 条作業部会に提出しています。 第 29 条作業部会には、欧州データ保護監督者、欧州委員会、および 28 の EU データ保護機関 (DPA) の代表者が含まれています。
-
-同作業部会によって、Microsoft の契約条項を組み込むことで、EU の厳しい要件に適合すると判定されました  この承認は、モデル契約条項 2010/87/EU の契約書 (付属書類ではない) を対象としています。これは、データの転送と、データを取り込む側で実装するセキュリティ対策について規定しています。 この付録は、DPA 別に分析することができます。
+2020 年 7 月、欧州連合裁判所 (CJEU) は、EU から米国への個人データの転送について、EU と米国間のプライバシー シールド フレームワークを無効にしました。 ただし、EU モデル条項は、EU および EEA、およびスイスおよび英国から個人データを転送するための有効なメカニズムを引き続き提供しています。 マイクロソフトは、Microsoft オンライン サービス条件 (OST) [データ保護補遺](https://aka.ms/DPA) (DPA) に記載されているように、EU モデル条項をお客様が利用できるようにします。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
@@ -63,11 +59,11 @@ Microsoft は、監査と承認のために標準契約条項を EU の第 29 �
 
 ### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、Office 365 サービスとサブスクリプションの適用対象を判断します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **範囲内のサービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | 高度な脅威に対する保護、Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | 高度な脅威に対する保護、Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -103,5 +99,5 @@ Microsoft は EU 規格を継続的に調べ、必要に応じてサービスを
 - [欧州データ保護ボード](https://edpb.europa.eu/)
 - [Dynamics 365 および Office 365 の EU モデル条項に関する FAQ](https://products.office.com/business/office-365-trust-center-eu-model-clauses-faq)
 - [Microsoft Common Controls Hub コンプライアンス フレームワーク](https://www.microsoft.com/trustcenter/common-controls-hub)
-- [Microsoft  オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
