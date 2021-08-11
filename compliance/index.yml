@@ -20,7 +20,7 @@ highlightedContent:
     - title: Microsoft 365 コンプライアンスを開始するためのクイック タスク
       itemType: get-started
       url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: データ プライバシー規制用の情報保護を展開する
+    - title: データプライバシー規制のための情報の展開保護
       itemType: get-started
       url: /microsoft-365/solutions/information-protection-deploy
     - title: クラウドでの共有責任の詳細
@@ -42,8 +42,8 @@ highlightedContent:
       itemType: learn
       url: /learn/paths/compliance-discover/
 productDirectory:
-  title: 法令遵守
-  summary: 国際的および国内の標準および規制への準拠に関する Microsoft のガイダンス。
+  title: 業界&準拠に関する規制
+  summary: 国内の標準および規制に関する業界分野&準拠に関する Microsoft のガイダンス。
   items:
     - title: EU 一般データ保護規則 (GDPR)
       imageSrc: /office/media/icons/compliance-blue.svg
@@ -53,10 +53,10 @@ productDirectory:
       imageSrc: /office/media/icons/globe-internet.svg
       summary: Microsoft は、組織がデータの収集と使用を管理する国内、地域、業界固有の要件を遵守するのに役立つ包括的なコンプライアンスサービスを提供しています。
       url: /compliance/regulatory/offering-home
-    - title: 規制遵守とMicrosoft Azure
-      imageSrc: /media/logos/logo_azure.svg
-      summary: 規制コンプライアンスとコンプライアンスについてMicrosoft Azure。
-      url: /azure/compliance/
+    - title: 業界向け Microsoft Cloud
+      imageSrc: /office/media/icons/on-premises-blue.png
+      summary: 業界のMicrosoft Azure、Dynamics 365、Microsoft 365 Microsoft Power プラットフォームがコンプライアンスニーズをサポートする方法について説明します。
+      url: /industry/
 conceptualContent:
   title: サービス アシュアランス
   summary: Microsoft が顧客データを保護する方法を理解して、セキュリティとリスクの評価を開始します。
@@ -188,24 +188,15 @@ conceptualContent:
           text: 脆弱性管理の概要
 additionalContent:
   sections:
-    - title: コンプライアンスに関する情報のMicrosoft 365
-      summary: コンプライアンスを初め、どこからMicrosoft 365を開始する必要がある場合、このセクションでは主要なソリューションへのリンクを提供し、重要なコンプライアンス領域に優先順位を付ける。
+    - title: Microsoft オンライン サービスでのコンプライアンスの開始
+      summary: コンプライアンスを初め、Microsoft オンライン サービスの開始場所を確認する場合、このセクションでは、各サービスの主要なコンプライアンス領域へのリンクを提供します。
       items:
-        - title: コンプライアンスマネージャーの詳細
-          summary: コンプライアンス マネージャーとは何か、コンプライアンスの簡素化とリスクの軽減に役立つ方法、および重要なコンポーネントについて説明します。
-          url: /microsoft-365/compliance/compliance-manager
-        - title: インサイダー リスクを管理する
-          summary: 組織内の悪意のある不注意なアクティビティを検出、調査、および操作することにより、内部リスクを最小限に抑える。
-          url: /microsoft-365/compliance/insider-risk-solution-overview
-        - title: 情報保護の管理
-          summary: このMicrosoft Information Protection (MIP) を使用して、機密情報がどこに住んでいるか移動する場合でも、機密情報を検出、分類、保護するのに役立ちます。
-          url: /microsoft-365/compliance/protect-information
-        - title: 情報ガバナンスの管理
-          summary: Microsoft Information Governance (MIG) 機能を使用して、コンプライアンスまたは規制要件に関するデータを管理します。
-          url: /microsoft-365/compliance/manage-information-governance
-        - title: eDiscovery の管理
-          summary: 電子情報開示を使用して、法的ケースの証拠としてコンテンツを識別および分析します。
-          url: /microsoft-365/compliance/ediscovery
-        - title: データ プライバシー規制用の情報保護を展開する
-          summary: データ プライバシー規制の対象となる Microsoft 365 サービスに保存されている個人データのデータ プライバシー インシデントを特定、特定、保護、管理、および対応します。
-          url: /microsoft-365/solutions/information-protection-deploy
+        - title: Microsoft Azure
+          summary: Azure コンプライアンスは、コンプライアンスの提供、ブループリント、コンプライアンス ガイド、およびリソースを提供し、コンプライアンスの義務を満たすのに役立ちます。
+          url: /azure/compliance/
+        - title: Dynamics 365
+          summary: Business Central には機能が含まれているので、お客様がコンプライアンスと規制に関する法律を簡単に遵守できるプラットフォーム上に構築されています。
+          url: /dynamics365/business-central/compliance/compliance-overview
+        - title: Microsoft 365
+          summary: お客様の組織で、法律や規制の基準に準拠する必要がある場合は、こちらから Microsoft 365 のコンプライアンスについてご確認ください。
+          url: /microsoft-365/compliance/
