@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: bf17ec68648efbc5f149bad0671a4e035d27a307
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 953255f96acbc22349d9f00a83edff7d65106ec6360b42930fe5985fcb4df3f5
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291065"
 ---
 # <a name="governance-overview"></a>ガバナンスの概要
 
@@ -33,7 +33,7 @@ ms.locfileid: "53377474"
 
 Microsoft は、Microsoft の情報システムと顧客を保護するために、効果的なセキュリティ ポリシーを企業全体で一貫して実装する必要があります。 セキュリティポリシーは、ビジネス機能と情報システムのバリエーションを考慮して、普遍的に適用できるようにすることも必要です。 これらの要件を満たすために、Microsoft は Microsoft ポリシー フレームワークの一部として包括的なセキュリティ ガバナンス プログラムを実装しています。 セキュリティガバナンスは、Microsoft セキュリティポリシー (MSP) に含まれます。
 
-MSP は、Microsoft のセキュリティ ポリシー、標準、および要件を整理し、すべての Microsoft エンジニアリング グループとビジネス ユニットに実装できます。 個々のビジネス単位は、Microsoft セキュリティポリシーの特定の実装を担当します。 たとえば、Microsoft 365情報セキュリティ ポリシーと関連するコントロール フレームワークMicrosoft 365のセキュリティ実装をMicrosoft 365します。 Azure と Dynamics 365 は、セキュリティ実装を標準オペレーティング プロシージャ (SOP) と Azure Control Framework に文書化します。 これらのセキュリティ実装は、MSP の目標と目標に合わせて行います。
+MSP は、Microsoft のセキュリティポリシー、標準、および要件が組み込まれており、すべての Microsoft エンジニアリング グループやビジネス ユニットに実装できるようにします。 個々のビジネス単位は、Microsoft セキュリティ ポリシーの特定の実装を担当します。 たとえば、Microsoft 365情報セキュリティ ポリシーと関連するコントロール フレームワークMicrosoft 365のセキュリティ実装をMicrosoft 365します。 Azure と Dynamics 365 は、セキュリティ実装を標準オペレーティング プロシージャ (SOP) と Azure Control Framework に文書化します。 これらのセキュリティ実装は、MSP の目標と目標に合わせて行います。
 
 Microsoft のセキュリティ ガバナンス プログラムは、さまざまな規制およびコンプライアンス フレームワークによって通知され、対応します。 セキュリティ要件は、新しいテクノロジ、規制とコンプライアンスの要件、およびセキュリティの脅威を考慮して絶えず進化しています。 これらの変更により、Microsoft は Microsoft のシステムと顧客を保護し、コミットメントを満たし、顧客の信頼を維持するために、セキュリティ ポリシーとサポート ドキュメントを定期的に更新しています。
 

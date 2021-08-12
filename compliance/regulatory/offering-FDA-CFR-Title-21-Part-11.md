@@ -1,7 +1,7 @@
 ---
 title: 食品医薬品局 CFR タイトル 21 Part 11
 description: Microsoft は、お客様が米国食品医薬品局の規制に準拠するのに役立ちます。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f5710d392e1d2293bfee976873e5d7c603918e67
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 39c7e69ab980a7d75fced1d59474478df6f05c9ec9549db6e7fa72ba7f9278a8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287566"
 ---
 # <a name="food-and-drug-administration-cfr-title-21-part-11"></a>食品医薬品局 CFR タイトル 21 Part 11
 
@@ -47,7 +47,7 @@ Microsoft エンタープライズ クラウド サービスは、定期的に�
 
 FDA CFR タイトル 21 の展開を加速する方法について説明します [。Azure FDA 21 認定ガイドをダウンロードする](https://go.microsoft.com/fwlink/p/?linkid=2086604)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
 
 CFR Title 21 Part 11 に準拠するための認定はありませんが、次の Microsoft エンタープライズ クラウド サービスは独立したサード パーティ監査を受けているので、お客様がコンプライアンスに取り組む上で役立つ場合があります。 これらのサービスには、次のものが含まれます。
 

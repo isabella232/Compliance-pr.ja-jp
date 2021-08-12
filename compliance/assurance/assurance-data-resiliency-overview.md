@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 でのデータの回復性
-description: この記事では、Microsoft 365 でのデータの復元と回復の設計と原則について説明します。
+title: Microsoft 365 でのデータの復元性
+description: この記事では、データの復元と回復の設計と原則について説明Microsoft 365。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,14 +20,14 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6e990facde47b07d50f594afb55353a5ef81dd78
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: a0745cda440b2262f4b09764e71514aeab946a6e8e0adcd4cdbccaffd14c5fe3
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291335"
 ---
-# <a name="data-resiliency-in-microsoft-365"></a>Microsoft 365 でのデータの復元
+# <a name="data-resiliency-in-microsoft-365"></a>データの復元Microsoft 365
 
 クラウド コンピューティングの複雑な性質を考えると、Microsoft は問題が起きる場合ではなく、その場合に気を付けることができます。 クラウド サービスを設計して、信頼性を最大限に高め、問題が発生した場合のお客様への悪影響を最小限に抑えています。 複雑な物理インフラストラクチャに依存する従来の戦略を超えて、クラウド サービスに冗長性を直接組み込む必要があります。 複雑度の低い物理インフラストラクチャとインテリジェントなソフトウェアを組み合わせて使用し、データの復元性をサービスに組み込み、お客様に高可用性を提供します。
 
@@ -42,9 +42,9 @@ ms.locfileid: "51497623"
 
 今日、お客様は品質を損なうことなく Microsoft の継続的な技術革新を期待しています。これが、Microsoft のサービスとソフトウェアが回復性と回復性を念頭に置いて構築されている理由の 1 つです。
 
-## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365 データ復元の原則
+## <a name="microsoft-365-data-resiliency-principles"></a>Microsoft 365復元の原則
 
-復元とは、クラウド ベースのサービスが特定の種類の障害に耐え、お客様の観点から完全に機能し続け得る機能を指します。 データの復元とは、Microsoft 365 内で発生したエラーに関係なく、重要な顧客データはそのままであり、影響を受けないことを意味します。 この目的のために、Microsoft 365 サービスは、次の 5 つの具体的な復元原則について設計されています。
+復元とは、クラウド ベースのサービスが特定の種類の障害に耐え、お客様の観点から完全に機能し続け得る機能を指します。 データの復元とは、データの復元に関して、顧客の重要なデータMicrosoft 365、影響を受けずに残るという意味です。 この目的のために、Microsoft 365サービスは、次の 5 つの具体的な復元原則について設計されています。
 
 - 重要なデータと重要でないデータがあります。 重大でないデータ (メッセージが読み取ったかどうかなど) は、まれなエラー シナリオで削除できます。 重要なデータ (電子メール メッセージなどの顧客データなど) は、極端なコストで保護する必要があります。 設計上の目標として、配信されたメール メッセージは常に重要であり、メッセージが読み取ったかどうかは重要ではない。
 - 障害の分離を提供するには、顧客データのコピーを異なる障害領域または可能な限り多くの障害ドメイン (データセンターなど)に分け、単一の資格情報 (プロセス、サーバー、またはオペレーター) でアクセスできる必要があります。 
@@ -52,11 +52,11 @@ ms.locfileid: "51497623"
 - 顧客データは破損から保護する必要があります。 アクティブにスキャンまたは監視され、修復可能で、回復可能である必要があります。
 - ほとんどのデータ損失は顧客のアクションから生じるので、誤って削除されたアイテムを復元できる GUI を使用して、ユーザーが自分で回復できます。
 
-Microsoft 365 は、これらの原則に対するクラウド サービスを構築し、堅牢なテストと検証と組み合わせて、継続的な技術革新と改善のためのプラットフォームを確保しながら、お客様の要件を満たし、超過することができます。
+Microsoft 365 は、これらの原則に対するクラウド サービスを構築し、堅牢なテストと検証と組み合わせて、継続的な技術革新と改善のためのプラットフォームを確保しながら、お客様の要件を満たし、超え続けすることができます。
 
 ## <a name="related-articles"></a>関連記事
 
 - [データの破損への対処](assurance-dealing-with-data-corruption.md)
 - [マルウェアと ランサムウェアからの保護](assurance-malware-and-ransomware-protection.md)
 - [監視と自動修復](assurance-monitoring-and-self-healing.md)
-- [Exchange データの復元](assurance-exchange-data-resiliency.md)
+- [Exchangeデータの復元](assurance-exchange-data-resiliency.md)

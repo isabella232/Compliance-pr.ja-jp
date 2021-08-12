@@ -1,6 +1,6 @@
 ---
-title: Microsoft 365 データの破損に対処する
-description: この記事では、Microsoft 365 のデータ破損と、データの防止と回復に対する Microsoft の取り組みについて説明します。
+title: Microsoft 365データの破損に対処する
+description: この記事では、データの破損と、Microsoft 365を防止および回復するために Microsoft が行った取り組みについて説明します。
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -20,14 +20,14 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9e9f0951f7e349cc70bc96bb6a2d62275848cf04
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: cdfd17d9f9df5ecc8fc78c13069d5f4819d22dda7b7ff85a117fd77d0a46fda0
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291275"
 ---
-# <a name="dealing-with-data-corruption-in-microsoft-365"></a>Microsoft 365 でのデータ破損の処理
+# <a name="dealing-with-data-corruption-in-microsoft-365"></a>データ破損のMicrosoft 365
 
 大規模なクラウド サービスを実行する難しい側面の 1 つは、大量のデータと独立したシステムを考えると、データの破損を処理する方法です。 データの破損は、次の原因で発生する可能性があります。
 
@@ -37,7 +37,7 @@ ms.locfileid: "51497589"
 - 悪意のあるハッカーと不満を持つ従業員
 - データが失われる外部サービスのインシデント
 
-データの整合性に対する復元性が高いということは、データ破損インシデントが少なくなっていることを意味します。Microsoft は、破損の発生を防ぐための Microsoft 365 保護メカニズムと、破損が発生した場合にデータを回復できるシステムとプロセスを組み込み込み、 データの破損に対する復元性を高めるエンジニアリング リリース プロセスのさまざまな段階にチェックとプロセスが存在します。
+データの整合性に対する復元性が高いということは、データ破損インシデントの数が少ないので、破損を防ぐための Microsoft 365 保護メカニズムと、破損が発生した場合にデータを回復できるシステムとプロセスが組み込まれております。 データの破損に対する復元性を高めるエンジニアリング リリース プロセスのさまざまな段階にチェックとプロセスが存在します。
 
 - システム設計
 - コードの編成と構造
@@ -45,4 +45,4 @@ ms.locfileid: "51497589"
 - 単体テスト、統合テスト、およびシステム テスト
 - トリップ ワイヤーのテスト/ゲート
 
-Microsoft 365 の実稼働環境では、データセンター間のピア レプリケーションによって、データのライブ コピーが常に複数存在します。 標準のイメージとスクリプトを使用して、失われたサーバーを回復し、レプリケートされたデータを使用して顧客データを復元します。 組み込みのデータ復元チェックとプロセスにより、Microsoft は、SharePoint Online の組み込みレプリケーションと内部コード リポジトリ ツール Source Depot を使用して、Microsoft 365 情報システムのドキュメント (セキュリティ関連のドキュメントを含む) のバックアップのみを保持します。 システムドキュメントは SharePoint Online に保存され、Source Depot にはシステムイメージとアプリケーション イメージが含まれています。 SharePoint Online と Source Depot の両方がバージョン管理を使用し、ほぼリアルタイムでレプリケートされます。
+このMicrosoft 365環境では、データセンター間のピア レプリケーションによって、データのライブ コピーが常に複数存在します。 標準のイメージとスクリプトを使用して、失われたサーバーを回復し、レプリケートされたデータを使用して顧客データを復元します。 組み込みのデータ復元チェックとプロセスにより、Microsoft は SharePoint Online の組み込みレプリケーションと内部コード リポジトリ ツール Source Depot を使用して、Microsoft 365 情報システムのドキュメント (セキュリティ関連のドキュメントを含む) のバックアップのみを保持します。 システムドキュメントはオンラインSharePoint、Source Depot にはシステムイメージとアプリケーション イメージが含まれています。 オンラインSharePoint Source Depot の両方でバージョン管理が使用され、ほぼリアルタイムでレプリケートされます。

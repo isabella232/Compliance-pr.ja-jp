@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4a71ab3ddf6688df5480a8f260e004778aa6212b
-ms.sourcegitcommit: 07578a8e03b931f47c49f4e34b78cf8ba0605e8f
+ms.openlocfilehash: 8ff06dab5367ee8cf734384efd1e2f57b2d6499c4151b75bd335693852dead47
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53573362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287216"
 ---
 # <a name="microsoft-employee-transfer-and-termination"></a>Microsoft 従業員の異動と退職
 
@@ -41,4 +41,4 @@ Microsoft のオンライン サービスは、エンジニアの運用環境へ
 
 Microsoft は、明確に定義されたポリシーと手順を使用して、従業員の退職時に、Microsoft のシステムとリソースへの物理的および論理的アクセスを即座に取り消します。 従業員が通知を行った場合、従業員のマネージャーは終了日を HRIS に入力します。 従業員の最後の勤務日の後、HRIS は従業員を終了としてマークし、IDM に情報を共有し、すべてのサービス チーム アカウントと資格を自動的に削除します。
 
-不本意な終了の場合、人事担当者は従業員のマネージャーと一緒に適切な手順に従って従業員を終了およびオフボードします。 任意の終了と同様に、終了情報は、有効な日付調整、アクセスの削除などの必要な手順と共に HRIS に入力されます。 ロール外への移行に関連するその他の手順。
+不本意な終了の場合、人事担当者は従業員のマネージャーと一緒に適切な手順に従って従業員を終了およびオフボードします。 任意の終了と同様に、終了情報は HRIS に入力され、有効な日付調整、アクセスの削除、および役割外への移行に関連するその他の手順など、必要な手順が実行されます。

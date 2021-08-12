@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 28ffe8113d76d74b9cb5e81034535930f158d4ef
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d4bee24b66b565e1068d5aacd6c6c7833e230fd703186884bc53d5e378ecf44d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51497570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54287176"
 ---
 # <a name="enterprise-business-continuity-management-legal-disclaimer"></a>エンタープライズ ビジネス継続性管理法的免責事項
 
@@ -30,7 +30,7 @@ ms.locfileid: "51497570"
 
 これを読む! これは MICROSOFT CORPORATION (以下「マイクロソフト」) とこれらの資料の受取人である個人、法人、その他の事業体 (「お客様」) の間の法的合意です。 [同意します] をクリックし、資料をダウンロードするか、使用すると、次の規約に同意したものと見なされます。 この合意に資料が添付されている場合、その資料にアクセスするか、それを利用することで、次の規約に同意したことになります。
 
-1. 良好で貴重な検討のために、受領および十分性が認められ、お客様と Microsoft は、次のように同意します。(a) 法人または他の法人 ("Company") の承認された代表者であり、そのような会社が特定の主題またはイベント ("Microsoft NDA") に限定されない Microsoft Corporation の秘密保持契約を実行した場合、お客様は、会社の代理として行動し、機密情報に同意する権限を持っているものとします。は、Microsoft NDA で定義されている通り、Microsoft NDA の契約条件に従い、機密情報をその内容に応じて取り扱います。(b) お客様が個人であり、Microsoft NDA を実行した場合、お客様は、Microsoft NDA で定義されている機密情報が Microsoft NDA の条件の対象であり、それに応じて機密情報を取り扱うという点に同意するものとします。または (c) Microsoft NDA が実行されていない場合、お客様 (個人の場合)、または会社 (お客様が会社の承認された代表者である場合) は、該当する場合、次の条件に同意します。 
+1. 良好で価値のある検討のために、受領および十分性が認められ、お客様と Microsoft は次のように同意します。(a) 法人または他の法人 ("Company") の承認された代表者である場合、そのような会社は、特定の主題またはイベント ("Microsoft NDA") に限定されない Microsoft Corporation の非開示契約を実行しました。 お客様は、会社に代わって行動する権限を持ち、Microsoft NDA で定義されている機密情報が Microsoft NDA の条件に従い、会社が機密情報をそれに応じて処理することに同意するものとします。(b) お客様が個人であり、Microsoft NDA を実行した場合、お客様は、Microsoft NDA で定義されている機密情報が Microsoft NDA の条件の対象であり、それに応じて機密情報を取り扱うという点に同意するものとします。または (c) Microsoft NDA が実行されていない場合、お客様 (個人の場合)、または会社 (お客様が会社の承認された代表者である場合) は、該当する場合、次の条件に同意します。 
     - (a) Microsoft が会社/お客様に機密情報を開示した日から 5 年間、機密情報を第三者に開示または配布しなけ 
     - (b) 機密情報の複製または要約を控える。そして 
     - (c) 機密情報を秘密に保つために、少なくとも自身の機密情報を保護するために必要な予防措置と同じほど、合理的なセキュリティ対策を講じるために、合理的な注意を必要とします。 ただし、お客様/会社は、お客様または会社が、司法または他の政府の命令に従って機密情報を開示する場合があります。 

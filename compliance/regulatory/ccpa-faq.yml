@@ -15,12 +15,12 @@ metadata:
   ms.collection:
   - M365-security-compliance
   - MS-Compliance
-  ms.openlocfilehash: 2c0cbda2280ee8fad77dd5d879341b291bbe3aa2
-  ms.sourcegitcommit: 5d8e670e9d9968458047b51b6b2930f7bd14a011
+  ms.openlocfilehash: 9ed5d5c7062dcdbd2b572b32b4a9ef082d46bc764dc9e46a195a6677d4623a0d
+  ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
   ms.translationtype: MT
   ms.contentlocale: ja-JP
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "53142282"
+  ms.lasthandoff: 08/05/2021
+  ms.locfileid: "54290255"
 title: カリフォルニア州消費者プライバシー法 (CCPA) についてよく寄せられる質問
 summary: >
   > [!Note]
@@ -169,4 +169,4 @@ sections:
       2019 年 10 月に、CCPA に多くの修正が行われました。 修正の 1 つで、CCPA の義務は企業の従業員の個人情報には適用されないことが明確にされました。 ただし、この適用除外は 1 年間で終了します。 2020 年に、カリフォルニア州は従業員のために新しいデータ保護法を制定します。  
   - question: >
       Microsoft の利用者として、Microsoft への転送に対してオプトアウト管理を実行する必要がありますか?
-    answer: いいえ。 オンライン サービスのプロバイダーとして、CCPA の下で「サービス プロバイダー」として資格を取得するための手順を実行しています。 上記で説明したように、消費者が転送を無効にした場合でも、サービス プロバイダーへの個人情報の転送は許可されています。
+    answer: ちがいます。 オンライン サービスのプロバイダーとして、CCPA の下で「サービス プロバイダー」として資格を取得するための手順を実行しています。 上記で説明したように、消費者が転送を無効にした場合でも、サービス プロバイダーへの個人情報の転送は許可されています。

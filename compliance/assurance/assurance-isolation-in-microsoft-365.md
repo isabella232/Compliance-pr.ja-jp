@@ -20,12 +20,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ca0371d51bfe0b403805f259d87a8162e32bfd1e
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.openlocfilehash: 287611c897a14b87fdfcd280e1457291863cdba339b6281fe0755eda3f2a859a
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54290930"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>分離とアクセス制御 (Microsoft 365
 
@@ -47,7 +47,7 @@ Exchange Online内に顧客データを格納します。 メールボックス�
 - 予定表と空き時間情報
 - 連絡先
 - タスク
-- メモ
+- Notes
 - グループ
 - 推論データ
 

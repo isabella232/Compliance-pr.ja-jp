@@ -1,7 +1,7 @@
 ---
 title: 国防総省 (DoD) 影響レベル 2 (IL2)
 description: Microsoft が国防総省 (DoD) の影響レベル 2 (IL2) 標準を満たす方法について説明します。
-keywords: Microsoft 365、コンプライアンス、サービス
+keywords: Microsoft 365、コンプライアンス、オファリング
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 77e8cb50f815c167e50293d495b4a548a73d022e
-ms.sourcegitcommit: 9b0c8852e73e2be54a0f9c6570da67f4964f616c
+ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53385725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54288226"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>国防総省 (DoD) 影響レベル 2 (IL2)
 
@@ -35,7 +35,7 @@ DISA は、CSP の使用を計画および承認する DoD 機関および部門
 
 [SRG セクション 5.1.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5SECURITYREQUIREMENTS) *FedRAMP* セキュリティ コントロールの DoD の使用では、セクション 5.6.2 で説明されている人事セキュリティ要件に準拠した場合、FedRAMP モデレート PA と DoD レベル 2 PA を最小限に抑える CSP で IL2 情報がホストされる可能性があります。 ただし、この方法では、ミッション所有者の要求に応じて CSP が他のセキュリティ要件や統合要件を満たさないわけではありません。 [SRG セクション 5.2.2.1](https://dl.dod.cyber.mil/wp-content/uploads/cloud/SRG/index.html#5.2LegalConsiderations) *IL2 の* 場所と分離の要件に従って、DoD IL2 PA は FedRAMP モデレート PA で適切にカバーされ、IL2 PA の要件は追加的に評価されません。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft のスコープ内クラウド プラットフォームと&サービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure
 - Dynamics 365
@@ -45,7 +45,7 @@ DISA は、CSP の使用を計画および承認する DoD 機関および部門
 - Microsoft Intune
 - Microsoft Stream
 - Office 365米国政府、米国Office 365 - 高
-- Power アプリ
+- Power Apps
 - Power Automate
 - Power BI
 
@@ -55,15 +55,15 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-dod-il2"></a>Office 365 DoD IL2
 
-### <a name="office-365-cloud-environments"></a>Office 365クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
-### <a name="office-365-applicability-and-in-scope-services"></a>Office 365とスコープ内サービス
+### <a name="office-365-applicability-and-in-scope-services"></a>Office 365 の適用性と範囲内のサービス
 
-次の表を使用して、サービスとサブスクリプションOffice 365を決定します。
+以下の表を使用して、Office 365 サービスとサブスクリプションの適用性を決定します。
 
-| **適用対象** | **スコープ内サービス** |
+| **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
 | **GCC** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 | **GCC High** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |

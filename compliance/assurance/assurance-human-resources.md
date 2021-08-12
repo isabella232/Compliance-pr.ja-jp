@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 42f5677b923edc225833882bc3916e698fde369e
-ms.sourcegitcommit: 48b8ec2dd00e957508e5af82458bf697e1a97ebb
+ms.openlocfilehash: f732ccf412272ec7138ac24fcc1f89dcf9bacacf1e64865ebfb9ba4e9dc6daf8
+ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53395647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54291005"
 ---
 # <a name="human-resources-overview"></a>人事管理の概要
 
@@ -48,7 +48,7 @@ Microsoft は、すべての従業員、インターン、および派遣スタ�
 
 ## <a name="how-does-microsoft-ensure-employees-maintain-sufficient-skills-and-knowledge-to-perform-their-responsibilities-and-follow-microsoft-policies"></a>Microsoft では、従業員が自分の責任を果たして Microsoft ポリシーに従うのに十分なスキルと知識を維持する方法について説明します。
 
-Microsoft のすべての従業員は、基本的なセキュリティ認識トレーニングを完了する必要があります。 初任者研修は、新しい従業員が Microsoft で仕事を開始したときに実施され、その後毎年更新研修が行われます。 このトレーニングは、Microsoft のセキュリティに対する基本的なアプローチについて従業員に理解を提供するように設計されています。 該当する役割ベースのセキュリティ トレーニングは、個人の仕事の責任に必要な特定のアクセス権を付与する前に必要です。 Microsoft 従業員のセキュリティ トレーニングは毎年更新され、システムまたはポリシーの変更によって新しいトレーニングが保証されます。
+Microsoft のすべての従業員は、基本的なセキュリティ認識トレーニングを完了する必要があります。 初期トレーニングは、新しい従業員が Microsoft で仕事を開始したときに実施され、その後毎年、年一度の再トレーニングが行われます。 この研修は、従業員が Microsoft の基本的なセキュリティ アプローチを理解できるように設計されています。 該当する役割ベースのセキュリティ トレーニングは、個人の仕事の責任に必要な特定のアクセス権を付与する前に必要です。 Microsoft 従業員のセキュリティ トレーニングは毎年更新され、システムまたはポリシーの変更によって新しいトレーニングが保証されます。
 
 セキュリティ認識トレーニングに加えて、Microsoft の従業員は Standards of Business Conduct トレーニングを完了する必要があります。 このトレーニングには、ビジネス倫理、従業員の安全、プライバシー、ハラスメント防止、非倫理的な行動に対するゼロトレランスが含まれます。 コースの最後に、従業員は、組織レベルで追跡される Microsoft のビジネス行動規範を遵守することを証明する必要があります。 ビジネス行動基準のトレーニングは、毎年更新されます。
 
