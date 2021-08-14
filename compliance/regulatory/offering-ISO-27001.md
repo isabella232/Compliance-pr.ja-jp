@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 587b05960289bc64932c23db099238af7bf971d6063c9f6568d690ee77bb4c5d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a09374f9515e4c215da5d2f61d6d5e3996e15f84
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288655"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260533"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 
@@ -54,7 +54,7 @@ Microsoft Cloud における ISO/IEC 27001 のメリットをご確認くださ�
 - Office 365、Office 365 米国政府、Office 365 米国防総省
 - Office 365 Germany
 - OMS Service Map
-- PowerApps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランまたはスイートに搭載されているサービス)
+- Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - Power BI Embedded
 - Power Virtual Agents
@@ -79,7 +79,7 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online、Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Exchange Online Protection、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Customer Portal、Office 365 Microservices (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online Document Service、Query Annotation Service、School Data Sync、Siphon、Speech、StaffHub、eXtensible Application Program を含むがこれらに限定されない)、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、Office Services Infrastructure、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、カスタマー キーによるサービスの暗号化、SharePoint Online、Skype for Business、Stream |
+| **商用** | Access Online、Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Exchange Online Protection、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Customer Portal、Office 365 Microservices (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online Document Service、Query Annotation Service、School Data Sync、Siphon、Speech、StaffHub、eXtensible Application Program を含むがこれらに限定されない)、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、Office Services Infrastructure、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、カスタマー キーによるサービスの暗号化、SharePoint Online、Skype for Business、Stream |
 | **GCC** | Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
 | **GCC High** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
 | **DoD** | Azure Active Directory、Azure Communications Service、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、SharePoint Online、Skype for Business |
@@ -128,6 +128,7 @@ ISO/IEC 27001 を適用することは戦略的なコミットです。 まず�
 
 ### <a name="resources"></a>リソース
 
+- [Microsoft 365 ISO 27001 アクション プラン](iso-action-plan.md)
 - [Microsoft サイバー サービスのマッピング: NIST サイバーセキュリティ: (CSF)、CIS コントロール、ISO27001:2013 フレームワーク](https://download.microsoft.com/download/B/1/8/B18F4C7D-5CBA-4E68-A437-31F1E908ACBA/Microsoft_Cyber_Offerings_Mapped_to_Security_Frameworks_EN_US.pdf)
 - [ISO/IEC 27000 ディレクトリ](https://www.27000.org/index.htm)
 - [ISO/IEC 27001: 2013 基準](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=54534) (購入用)
