@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7550d81794162ace15441360a3175c0efcf03ddaf1fb94ccc27e683b8077a110
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2e3864912d214e6649425c9434e346a01d20c87e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288216"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260513"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Cloud Security Alliance (CSA) STAR Self-Assessment
 
@@ -66,7 +66,7 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** |Exchange Online、Exchange Online Protection、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
+| **商用** |Exchange Online、Exchange Online Protection、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
 

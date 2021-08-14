@@ -1,7 +1,7 @@
 ---
 title: 米国企業改革法 (SOX 法)
 description: 金融サービス会社は、Microsoft コンプライアンス レポートを使用して、法令遵守に対処Sarbanes-Oxleyできます。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ef436314bc6b9d49bea046b66cbfa44905943001e5c91dff2441dcd9fab55768
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 6fb3ec963487169e01c9a69eca3b76f9f21a46cf
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290055"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260435"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>米国企業改革法 (SOX 法)
 
@@ -55,7 +55,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-sox"></a>Office 365 SOX
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -65,7 +65,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | 拡張ループ、Auto Alt Text、Azure Information Protection、Binary Conversion Services、Bookings、Delve、Document Item、Editor、Exchange Online、Forms、Insert Online Media、インサイト、Kaizala、Microsoft Analytics、 Microsoft Booking、Microsoft Graph、Microsoft Teams、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、OneDrive for Business、プランナー、Power Apps、PowerApps、Power Automate、Power BI、PowerPoint デザイナー、PowerPoint PowerPoint Online ドキュメント サービス、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、To-Do、Yammer Enterprise レンダリング サービス、To-Do  |
+| **商用** | 拡張ループ、Auto Alt Text、Azure Information Protection、Binary Conversion Services、Bookings、Delve、Document Item、Editor、Exchange Online、Forms、Insert Online Media、インサイト、Kaizala、Microsoft Analytics、 Microsoft Booking、Microsoft Graph、Microsoft Teams、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、OneDrive for Business、プランナー、Power Apps、PowerApps、Power Automate、Power BI、PowerPoint デザイナー、PowerPoint PowerPoint Online ドキュメント サービス、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、To-Do、Yammer Enterprise レンダリング サービス、To-Do  |
 
 ### <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -86,4 +86,4 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 - [Microsoft 金融サービス コンプライアンス プログラム](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

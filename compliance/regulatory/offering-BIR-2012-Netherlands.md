@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3dd35bdfba174f82db40ef783c61c65e475b2ac01a6e2962556f6bef362f8173
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f82dcb1395823fbfe618537a9fc13f6d7106d56f
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292614"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261104"
 ---
 # <a name="baseline-informatiebeveiliging-rijksdienst-standard-bir-2012"></a>Baseline Informatiebeveiliging Rijksdienst 標準 (BIR 2012)
 
@@ -56,7 +56,7 @@ Microsoft は BIR 2012 の規制の対象外ですが、政府部門に関連す
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection、Bookings、Exchange Online Protection、Exchange Online、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、Office Delve、OneDrive for Business、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Information Protection、Bookings、Exchange Online Protection、Exchange Online、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、Office Delve、OneDrive for Business、Planner、Power Apps、Power Automate、Power BI for Office 365、PowerApps、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -90,4 +90,4 @@ Microsoft クラウド サービスでは、オランダ国内の組織が持つ
 - [Security prescription national 2013 (BVR)](https://wetten.overheid.nl/BWBR0033512/2013-06-01)
 - [Prescription information security national 2007 (VIR)](https://wetten.overheid.nl/BWBR0022141/2007-07-01)
 - [ベースライン情報のセキュリティ (BIR)](https://www.earonline.nl/index.php/BIR_2012)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

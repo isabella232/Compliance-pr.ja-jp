@@ -19,12 +19,12 @@ ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: bdbaccb58d80a2291abb5bc670e1e4cec730d95e0a5b3934683fb0e6bea3b469
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 070025ef72dede73a8d8281cc080ed6a66050b11
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288276"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259704"
 ---
 # <a name="gdpr-breach-notification"></a>GDPR 違反の通知
 
@@ -64,17 +64,17 @@ Microsoft では、一般データ保護規則 (GDPR) の下での義務を重�
 
     - *侵害の検出*: Microsoft とお客様の両方にセキュリティに関する義務があるため、Azure サービスでは、セキュリティと運用の説明責任を定義した共有責任モデルが導入されています。 Microsoft は、お客様の責任範囲内にあるセキュリティ インシデントの監視または対応は行いません。 適切なサービス契約であれば、お客様のインシデントの場合には、Azure [カスタマー サポート](https://azure.microsoft.com/support/options/)と共同で対応することができます。 また、Microsoft Azure には、お客様がセキュリティ インシデント対応の開発と管理に活用できる、さまざまなサービス ([Azure Security Center](https://azure.microsoft.com/services/security-center/) など) が用意されています。
 
-        Microsoft Azure で侵害の調査をトリガーするイベントの一覧については、「[潜在的なデータ侵害の検出](/microsoft-365/compliance/gdpr-breach-azure-dynamics#detection-of-potential-breaches)」を参照してください。 「[Azure と GDPR の下での違反の通知](gdpr-breach-azure-dynamics-windows.md)」では、Azure 内で発生するセキュリティ インシデントをどのように Microsoft が調査、管理、対応するかを詳しく述べています。
+        Microsoft Azure で侵害の調査をトリガーするイベントの一覧については、「[潜在的なデータ侵害の検出](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#detection-of-potential-breaches)」を参照してください。 「[Azure と GDPR の下での違反の通知](gdpr-breach-azure-dynamics-windows.md)」では、Azure 内で発生するセキュリティ インシデントをどのように Microsoft が調査、管理、対応するかを詳しく述べています。
 
     - *データ侵害への対応*: Microsoft は、インシデントの機能的影響、回復性、情報の影響を調査し、その侵害の適切な優先度と重大度を判別します。 優先度と重大度は、新しい調査結果と判定に基づき、調査の過程で変わる場合があります。
-    法的義務およびお客様へのコミットメントに基づいた調査が確実に行われるように、Microsoft のセキュリティ レスポンス チームが世界各国の法律顧問と緊密に連携します。 これらのプロセスの詳細については、「[Azure のデータ侵害対応](/microsoft-365/compliance/gdpr-breach-azure-dynamics#azures-data-breach-response)」を参照してください。
+    法的義務およびお客様へのコミットメントに基づいた調査が確実に行われるように、Microsoft のセキュリティ レスポンス チームが世界各国の法律顧問と緊密に連携します。 これらのプロセスの詳細については、「[Azure のデータ侵害対応](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#azures-data-breach-response)」を参照してください。
 
     - *お客様への通知*: Microsoft Azure は、必要に応じてデータ侵害をお客様と規制当局に通知します。 次の場合を除き、お客様への通知は、侵害の発生を認識してから 72 時間以内に行われます。
 
         - Microsoft が、通知を実行すると他のユーザーにとってリスクが増大する判断した場合。
         - 72 時間以内にインシデントの詳細がいくつか分かりそうな場合。 これらの詳細は、調査が進むにつれて入手できます。
 
-        詳細については、「[お客様への通知](/microsoft-365/compliance/gdpr-breach-azure-dynamics#customer-notification)」を参照してください。
+        詳細については、「[お客様への通知](/microsoft-365/compliance/gdpr-breach-azure-dynamics-windows#customer-notification)」を参照してください。
 
 3. **[Microsoft サポート/プロフェッショナル サービス](gdpr-breach-Microsoft-Support-Professional-Services.md)**  
     プロフェッショナル サービスの性質上、一部のデータ保護のインシデントについてはお客様の責任の範囲内に含まれる場合があります。 Microsoft Professional Services によってデータ保護のインシデントと判断された場合は、「[データ保護のインシデント対応プロセスの範囲と制限](/microsoft-365/compliance/gdpr-breach-microsoft-support-professional-services#scope--limits-of-data-protection-incident-response-process)」で説明されている文書化された業界標準対応計画に基づいて、インシデント対応が行われます。

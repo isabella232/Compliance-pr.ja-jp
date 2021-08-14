@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 37b5fbaa0ba98bcf79be65a3eeebb0926339164c08bc720daff714476d0f1e2b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: b42632e272946b13e2b4055ae3411f44a37c0f24
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293924"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260971"
 ---
 # <a name="my-number-act-japan"></a>マイ ナンバー法 (日本)
 
@@ -66,7 +66,7 @@ Microsoft はクラウド サービスに保存されているマイ ナンバ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -88,4 +88,4 @@ PPC Q\&Aの[セクション Q3-13](https://www.ppc.go.jp/legal/policy/faq/) (日
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com/en-US/)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

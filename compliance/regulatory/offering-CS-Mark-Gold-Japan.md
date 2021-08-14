@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9cf2029f96def2600eb31b6265c0d5f16559d29e72bbeb53073ec50dd3cbcb76
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bd3f8abd471e8c1587c24885a42c9443e9938a56
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287706"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260553"
 ---
 # <a name="cloud-security-mark-gold-cs-gold-mark"></a>クラウド セキュリティ ゴールド マーク (CS ゴールド マーク)
 
@@ -59,7 +59,7 @@ JASA 公認の監査人による厳格な評価を受けた結果、Microsoft �
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 

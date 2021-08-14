@@ -1,7 +1,7 @@
 ---
 title: Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 description: Azure と Office 365は、正常性情報信頼アライアンス (HITRUST) 共通セキュリティ フレームワーク (CSF) の認定を受けています。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 763f2f9d342692ea3cbed237b76fea841bd686487b61b22aad43ade42fec765f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288685"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260701"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
@@ -54,7 +54,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-hitrust"></a>Office 365 HITRUST
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,7 +64,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **商用** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
@@ -96,4 +96,4 @@ Microsoft は、他のクラウド サービス プロバイダーと比較し�
 - [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
 - [CSF の理解と活用](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [HITRUST 共有責任プログラムの詳細](https://go.microsoft.com/fwlink/p/?linkid=2100268)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

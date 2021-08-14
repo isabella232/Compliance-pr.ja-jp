@@ -1,7 +1,7 @@
 ---
 title: 金融業界規制当局 (FINRA) ルール 4511(c) 米国
 description: 独立した評価会社は、Azure と Office 365が FINRA Rule 4511 レコードの保持と不変のストレージ要件を満たすのに役立つ可能性を検証しました。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0b45e9e526ad95030eed1a6b7b1814ad4aee66e8b33651ee466d71795ba97f74
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 481b5e5890d404dc48d1354b83dc44b53cc6362e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287436"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260998"
 ---
 # <a name="financial-industry-regulatory-authority-finra-rule-4511c-united-states"></a>金融業界規制当局 (FINRA) ルール 4511(c) 米国
 
@@ -60,7 +60,7 @@ Cohasset は、時間ベースの BLOB を消去不可で書き換えできな�
 
 ### <a name="azure--finra-rule-4511c"></a>Azure & FINRA ルール 4511(c)
 
-[SEC 17a-4(f) & CFTC 1.31 (c-d) コンプライアンス評価のAzure Storage](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)
+- [SEC 17a-4(f) & CFTC 1.31 (c-d) コンプライアンス評価のAzure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
 
 ### <a name="office-365--finra-rule-4511c"></a>Office 365 & FINRA ルール 4511(c)
 
@@ -80,4 +80,4 @@ Cohasset は、時間ベースの BLOB を消去不可で書き換えできな�
 - [Azure 金融サービス クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
 - [Microsoft Office 365アイテム保持ポリシー](/office365/securitycompliance/retention-policies)
 - [Microsoft 金融サービスのブログ](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

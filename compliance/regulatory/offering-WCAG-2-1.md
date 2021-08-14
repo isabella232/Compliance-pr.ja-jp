@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: de5d4d46e49b5ceaba453e4bcfdef1891d15e080e881f9c450585bca1a1af88b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289355"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260900"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Web Content Accessibility Guidelines
 
@@ -62,7 +62,7 @@ Microsoft は、製品またはサービス全体を表す WCAG レポートを�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Excel、Exchange 管理センター、Office 365 管理センター (ポータル)、Office 365 および Azure AD ログイン エクスペリエンス、Office 365 Customer Portal、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Lens、Office.com、OneDrive 管理センター、OneDrive for Business、OneDrive 同期クライアント、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
+| **商用** | Excel、Exchange 管理センター、Office 365 管理センター (ポータル)、Office 365 および Azure AD ログイン エクスペリエンス、Office 365 Customer Portal、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Lens、Office.com、OneDrive 管理センター、OneDrive for Business、OneDrive 同期クライアント、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
 | **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
 | **GCC High** | Azure Active Directory、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
 | **DoD** | Azure Active Directory、Exchange Online、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Forms、Power BI、SharePoint Online、Skype for Business |
@@ -76,4 +76,4 @@ Microsoft は、製品またはサービス全体を表す WCAG レポートを�
 - [Microsoft アクセシビリティ サイト](https://www.microsoft.com/accessibility): アクセシビリティ機能の使用に関する情報を取得して、すべてのユーザーがもっと多くのことを達成するために Microsoft ではどのような革新が行われているのかを理解します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

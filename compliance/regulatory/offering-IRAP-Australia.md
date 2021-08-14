@@ -1,7 +1,7 @@
 ---
 title: オーストラリア政府情報セキュリティ登録評価プログラム (IRAP)
 description: Microsoft は、オーストラリアのサイバーセキュリティ センター (ACSC) による IRAP 評価と認定に基づく未分類の普及制限マーカー (DLM) および PROTECTED データの両方について、オーストラリア認定クラウド サービス リストに含まれています。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a9f621e31b2ea7c0becd528915e1377fcaa33c68940235a6b195139a61c824c0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: df88a1837b948f5f1dc31ad04244b5d9a84442bc
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293864"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260312"
 ---
 # <a name="australian-government-information-security-registered-assessor-program-irap"></a>オーストラリア政府情報セキュリティ登録評価プログラム (IRAP)
 
@@ -71,7 +71,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-irap"></a>Office 365および IRAP
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -81,7 +81,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online、Exchange Online Protection、フォーム、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、OneDrive for Business、Planner、SharePoint Online、Skype for Business、ホワイトボード、Yammer |
+| **商用** | Exchange Online、Exchange Online Protection、フォーム、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、OneDrive for Business、Planner、SharePoint Online、Skype for Business、ホワイトボード、Yammer |
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
 

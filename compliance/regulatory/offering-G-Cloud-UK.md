@@ -1,7 +1,7 @@
 ---
 title: イギリス Government-Cloud (G-Cloud)
 description: クラウン 商用サービスは、Microsoft クラウド サービスの分類を Government Cloud v.6 に更新しました。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9e441e8e1c5419eab741ceec370afe61815332e51115509dd5974e9ea2984c22
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292494"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260941"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>イギリス Government-Cloud (G-Cloud)
 
@@ -54,7 +54,7 @@ Microsoft は毎年、ドキュメントを準備し、スコープ内のエン�
 
 ## <a name="office-365-and-uk-g-cloud"></a>Office 365と英国の G-Cloud
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,7 +64,7 @@ Microsoft は毎年、ドキュメントを準備し、スコープ内のエン�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint, Skype for Business |
+| **商用** | Exchange Online, SharePoint, Skype for Business |
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
@@ -128,4 +128,4 @@ Microsoft クラウド サービスには、英国のデータセンターに加
 - [G-Cloud セキュリティの原則](https://aka.ms/UK-G-Cloud)
 - [デジタル マーケットプレース](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

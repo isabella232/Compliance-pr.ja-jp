@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 753d793d9024e766dcfda84c631744112b677229984226332517b911186b2679
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 78078698bbe5b69c02cb7a53d4affc4e58e8a0d3
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294004"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260302"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Payment Card Industry (PCI) Data Security Standard (DSS)
 
@@ -68,7 +68,7 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | OneDrive for Business (米国)、SharePoint Online |
+| **商用** | OneDrive for Business (米国)、SharePoint Online |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
@@ -109,4 +109,4 @@ PCI DSS は、規模や取引数に関係なく、カード会員データを受
 - [PCI Security Standards Council](https://www.pcisecuritystandards.org/)
 - [PCI データ セキュリティ基準](https://www.pcisecuritystandards.org/documents/PCI_DSS_v3-1.pdf)
 - [PCI DSS クイック レファレンス ガイド](https://www.pcisecuritystandards.org/documents/PCISSC%20QRG%20August%202014%20-print.pdf)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

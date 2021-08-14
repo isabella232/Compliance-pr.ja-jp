@@ -1,7 +1,7 @@
 ---
 title: ニュージーランド政府機関向けクラウド コンピューティングのセキュリティとプライバシーに関する考慮事項
 description: Microsoft NZ は、ニュージーランドのクラウド コンピューティング フレームワークで公開されている質問に対応します。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c333fc2d6bdb9889dafefd2571b8381edd15e5158a4783aa7a17cec7ce1bcc7c
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293384"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259816"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ニュージーランド政府機関の情報セキュリティとプライバシーに関する考慮事項 (ISPC)
 
@@ -47,7 +47,7 @@ NZ 政府機関が潜在的なクラウド ソリューションに関する一�
 
 ## <a name="office-365-and-ispc"></a>Office 365 ISPC
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -57,7 +57,7 @@ NZ 政府機関が潜在的なクラウド ソリューションに関する一�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online, SharePoint, Skype for Business |
+| **商用** | Exchange Online, SharePoint, Skype for Business |
 
 >[!Note]
 >Microsoft NZ は GCIO チームと連携して、「Office 365: SEEMail Integration and Reference Architecture」で説明されている Exchange Online と SEEMail を統合するリファレンス アーキテクチャを開発しました。
@@ -77,7 +77,7 @@ GCIO の義務に該当する組織、公的および非公的サービス部門
 - [オフショアホスト型生産性サービスのセキュリティ要件:Officeの準拠ガイドOffice 365](https://aka.ms/o365-gcio-conformance-guidance)
 - [NZ Government ICT Strategy 2015](https://www.ict.govt.nz/strategy-and-action-plan/strategy/)
 - [クラウド コンピューティング: 情報セキュリティとプライバシーに関する考慮事項 (ISPC)](https://www.digital.govt.nz/standards-and-guidance/technology-and-architecture/cloud-services/)
-- [マイクロソフト オンライン サービス条件](https://aka.ms/Online-Services-Terms)
+- [Microsoft オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 
 ## <a name="microsoft-responses-to-cloud-computing-ipsc"></a>クラウド コンピューティング IPSC に対する Microsoft の応答

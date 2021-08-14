@@ -1,7 +1,7 @@
 ---
 title: 国立標準技術研究所 (NIST) サイバーセキュリティ フレームワーク (CSF)
 description: Microsoft Cloud Services は、国立標準技術研究所 (NIST) のサイバーセキュリティ フレームワーク (CSF) を満たしています。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 49b18d0e758f0c83b2f56be2cd9bb1447c63349165e9cef868adbcf17adeb7f0
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294294"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259796"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>国立標準技術研究所 (NIST) サイバーセキュリティ フレームワーク (CSF)
 
@@ -42,7 +42,7 @@ NIST Cybersecurity Framework (CSF) は、サイバーセキュリティ関連の
 - [NIST SP 800-53 R4 ブループリント サンプルの概要](/azure/governance/blueprints/samples/nist-sp-800-53-rev4/)
 - [コンプライアンス スコアの NIST CSF 評価の詳細については、「Office 365」を参照してください。](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/New-NIST-CSF-and-CSA-CCM-assessments-available-in-Compliance/ba-p/218554)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure Government
 - Dynamics 365 for Government
@@ -54,7 +54,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-nist-csf"></a>Office 365 NIST CSF
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,7 +64,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **商用** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
 ### <a name="office-365-audit-cycle-and-certification"></a>Office 365監査サイクルと認定
 
@@ -110,4 +110,4 @@ Microsoft は、他のクラウド サービス プロバイダーと比較し�
 - [連邦ネットワークと重要なインフラストラクチャのサイバーセキュリティ強化に関する大統領執行命令](https://www.whitehouse.gov/the-press-office/2017/05/11/presidential-executive-order-strengthening-cybersecurity-federal)
 - [Microsoft Government クラウド](https://go.microsoft.com/fwlink/p/?linkid=2087246)
 - [オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

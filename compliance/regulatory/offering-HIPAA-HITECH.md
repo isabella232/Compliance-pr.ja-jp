@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: df9b502dcad818199de63de3585c902b0c60d2c0a13c0b582e64aa4fa93ced7b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293834"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260322"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 
@@ -69,7 +69,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-hipaa"></a>Office 365 HIPAA
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -79,7 +79,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online, Azure Active Directory, Azure Communications Service, コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 マイクロサービス (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online ドキュメント サービス、注釈サービスを含むがこれらに限定されません。学校データ同期、Siphon、Speech、StaffHub、eXtensible アプリケーション プログラム)、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、Office Services インフラストラクチャ、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、顧客キーによるサービス暗号化、SharePoint Online、Skype for Business、Stream |
+| **商用** | Access Online, Azure Active Directory, Azure Communications Service, コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 マイクロサービス (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online ドキュメント サービス、注釈サービスを含むがこれらに限定されません。学校データ同期、Siphon、Speech、StaffHub、eXtensible アプリケーション プログラム)、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、Office Services インフラストラクチャ、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、顧客キーによるサービス暗号化、SharePoint Online、Skype for Business、Stream |
 | **GCC** | Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
@@ -94,7 +94,7 @@ HIPAA Business Associate Agreement は、スコープ内の Microsoft Profession
 
 **Microsoft とビジネス アソシエイト契約を締結すると、組織が HIPAA および HITECH 法に準拠しているのですか?**
 
-ちがいます。 ビジネス アソシエイト契約を提供することで、Microsoft は HIPAA コンプライアンスをサポートします。 ただし、このMicrosoft サービスは、HIPAA コンプライアンスを達成するわけではありません。 組織は、適切なコンプライアンス プログラムと内部プロセスが実施され、Microsoft サービス の特定の使用が HIPAA および HITECH 法に基づくお客様の義務と一致する状態を確保する責任があります。
+いいえ。 ビジネス アソシエイト契約を提供することで、Microsoft は HIPAA コンプライアンスをサポートします。 ただし、このMicrosoft サービスは、HIPAA コンプライアンスを達成するわけではありません。 組織は、適切なコンプライアンス プログラムと内部プロセスが実施され、Microsoft サービス の特定の使用が HIPAA および HITECH 法に基づくお客様の義務と一致する状態を確保する責任があります。
 
 **Microsoft は組織のビジネス アソシエイト契約を使用できますか?**
 

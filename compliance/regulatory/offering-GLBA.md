@@ -1,7 +1,7 @@
 ---
 title: グラム リーチ ブライリー法 (GLBA)
 description: Microsoft は、金融サービスクライアントが Gramm-Leach-Bliley Act (GLBA) のプライバシー要件とセキュリティ要件を遵守するのに役立ちます。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3765100048d7f17afc27781775487574c6f5219d72e246c4670ccbe91f91f307
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 7d4e4066704e15354113709e480455db2c1c48a1
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293496"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58259806"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>グラム リーチ ブライリー法 (GLBA)
 
@@ -54,7 +54,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-glba"></a>Office 365 GLBA
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -64,7 +64,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 | **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365 Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business, Stream |
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問

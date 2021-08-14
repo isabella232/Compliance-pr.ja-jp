@@ -1,7 +1,7 @@
 ---
 title: コモディティ先物取引委員会 (CFTC) ルール 1.31(c-d) 米国
 description: 独立した評価会社は、Azure と Office 365が CFTC ルール 1.31 レコードの保持と不変のストレージ要件を満たすのに役立つ可能性を検証しました。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 903f4d3db8965fdcd8c96a8d474e5180430b4966e4adc6945315f283ddbc0d3f
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292584"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260619"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>コモディティ先物取引委員会 (CFTC) ルール 1.31(c-d) 米国
 
@@ -52,9 +52,8 @@ CfTC ルール 1.31(c-d) に対する Azure コンプライアンスを評価す
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-[Azure & CFTC ルール 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) コンプライアンス評価 Azure Storage
-
-[Office 365 & CFTC ルール 1.31: Office 365、データ保持、および SEC ルール 17a-4 準拠のアーカイブ
+- [Azure & CFTC ルール 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) コンプライアンス評価 Azure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+- Office 365 & CFTC ルール 1.31: Office 365、データ保持、および SEC ルール 17a-4 準拠のアーカイブ
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -69,4 +68,4 @@ CfTC ルール 1.31(c-d) に対する Azure コンプライアンスを評価す
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft Office 365アイテム保持ポリシー](/office365/securitycompliance/retention-policies)
 - [Microsoft 金融サービスのブログ](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

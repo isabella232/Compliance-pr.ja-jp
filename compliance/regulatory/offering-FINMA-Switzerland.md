@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 405a752b9a6d8e1bdb5d7d5c0ad937aba634806033ea87a36c92629bf458bf3a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: ff74580117a3ff1883b35331f2c9bed076d17bb8
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292504"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58261008"
 ---
 # <a name="financial-market-supervisory-authority-finma-switzerland"></a>金融市場監督当局 (FINMA) スイス
 
@@ -33,7 +33,7 @@ FINMA は「[2018 年 3 月期のアウトソーシング (Circular 2018/3 Outso
 
 ## <a name="microsoft-and-finma"></a>Microsoft と FINMA
 
-ビジネス機能をクラウドにアウトソーシングすることを検討しているスイスの金融機関の決定を支援するために、Microsoft では、「[スイスの金融機関向けコンプライアンスのチェックリスト](https://aka.ms/FinServ-Guide-Switzerland)」を発行しました。 チェックリストを確認して完了すると、金融機関では、適用される規制要件に従い、自信をもって Microsoft 法人向けクラウド サービスを導入することができます。
+ビジネス機能をクラウドにアウトソーシングすることを検討しているスイスの金融機関の決定を支援するために、Microsoft では、「[スイスの金融機関向けコンプライアンスのチェックリスト](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides)」を発行しました。 チェックリストを確認して完了すると、金融機関では、適用される規制要件に従い、自信をもって Microsoft 法人向けクラウド サービスを導入することができます。
 
 スイスの金融機関が事業活動をアウトソーシングする場合、スイスの金融市場監督当局 (FINMA) の要件を遵守し、スイス銀行法、スイス銀行条例、およびスイス保険監督法の要件を含むその他の要件とガイドラインを認識している必要があります。
 
@@ -50,7 +50,7 @@ Microsoft チェックリストでは、スイスの金融機関による Micros
 
 ## <a name="how-to-implement"></a>実装方法
 
-- [コンプライアンス チェックリスト: スイス](https://aka.ms/FinServ-Guide-Switzerland): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
+- [コンプライアンス チェックリスト: スイス](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=343ee8d6-db99-4e03-903c-1c24c9ce893c&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides): 金融機関は、Microsoft 法人向けクラウド サービスのリスク評価を実施するヘルプを取得できます。
 - [リスク評価およびコンプライアンス ガイド](https://aka.ms/RiskGovernanceGuide): Microsoft クラウド サービスのリスク評価および規制機関の通知のガバナンス モデルを作成します。
 - [金融ユース ケース](/azure/industry/financial/): 金融サービス向けの Azure ソリューションを構築するためのユース ケースの概要、チュートリアル、およびその他のリソース。
 

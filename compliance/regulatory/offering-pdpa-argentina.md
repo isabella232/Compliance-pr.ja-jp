@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 96e5fbeac64f0905dfa6cda98eb13d8ebb725aaed471b6adbb4fdadab9363ddd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 54401015273b24306cae58a2ca78ca1c91322b6e
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288206"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260352"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>アルゼンチン個人データ保護法 (PDPA)
 
@@ -59,7 +59,7 @@ Microsoft データ転送契約は、Microsoft のオンライン サービス�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Azure Information Protection、Bookings、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、Office Delve、OneDrive for Business、Planner、Power Apps、Power BI for Office 365、PowerApps、Power Automate、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Information Protection、Bookings、Exchange Online、Exchange Online Protection、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Graph、Microsoft Teams、Microsoft To Do for Web、MyAnalytics、Office 365 Cloud App Security、Office 365 グループ、Office 365 ビデオ、Office Delve、OneDrive for Business、Planner、Power Apps、Power BI for Office 365、PowerApps、Power Automate、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -81,4 +81,4 @@ Microsoft データ転送契約は、Microsoft のオンライン サービス�
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

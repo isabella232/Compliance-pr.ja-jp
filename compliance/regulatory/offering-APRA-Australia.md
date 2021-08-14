@@ -1,7 +1,7 @@
 ---
 title: オーストラリアプルデンシャル規制当局 (APRA)
 description: 金融サービスクライアントがオーストラリアプルデンシャル規制当局のアウトソーシング基準に準拠するための Microsoft ガイダンス。
-keywords: Microsoft 365、コンプライアンス、オファリング
+keywords: Microsoft 365、コンプライアンス、サービス
 localization_priority: None
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9bbec472f2f7f37e3e2f231343a6b59994e7e00e8f3f14c2e8d8de4e3e20931a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 912b9770f4b8afb54fb98455b313498d7ebf7af4
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292624"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260629"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>オーストラリアプルデンシャル規制当局 (APRA)
 
@@ -80,7 +80,7 @@ APRA 規制に準拠してデータとワークロードを Azure に移行す�
 
 ## <a name="office-365-and-apra"></a>Office 365および APRA
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -90,13 +90,13 @@ APRA 規制に準拠してデータとワークロードを Azure に移行す�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Exchange Online Protection、Exchange Online、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
+| **商用** | Exchange Online Protection、Exchange Online、Office 365 Customer Portal、Office Online、Office Services Infrastructure、OneDrive for Business、SharePoint Online、Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
 **金融機関は、重要なビジネス 活動をアウトソーシングする前に、APRA の承認を必要としますか?**
 
-ちがいます。 ただし、規制対象のほとんどの金融機関は、オーストラリア内の重要なビジネス 活動をアウトソーシングする契約を締結した後、またはオーストラリア外でそれらの活動をアウトソーシングする前に APRA に相談する必要があります。
+いいえ。 ただし、規制対象のほとんどの金融機関は、オーストラリア内の重要なビジネス 活動をアウトソーシングする契約を締結した後、またはオーストラリア外でそれらの活動をアウトソーシングする前に APRA に相談する必要があります。
 
 さらに、クラウド サービスが「APRA Information [Paper on Clouds」](https://www.apra.gov.au/sites/default/files/information_paper_-_outsourcing_involving_cloud_computing_services.pdf)に記載されている「高めまたは極端な固有のリスク」を伴うとみなされる場合、金融機関は、サービスがオーストラリア内またはオーストラリア外で提供されるかどうかに関係なく、APRA に相談するように奨励されます (ただし、必須ではありません)。
 
@@ -121,4 +121,4 @@ APRA 規制に準拠してデータとワークロードを Azure に移行す�
 - [Microsoft 金融サービス コンプライアンス プログラム](https://www.microsoft.com/download/details.aspx?id=55332)
 - [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
