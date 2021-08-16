@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 88a5e554fc2307dfa427ccb0023e7a00e006d536fc8cca276d550aa9510dbc29
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
+ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287301"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58260489"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融情報システム センター (FISC)
 
@@ -67,7 +67,7 @@ Microsoft は、外部評価機関と連携して、Microsoft Azure、Dynamics 3
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **Office 365** | Access Online、Azure Active Directory、Delve、Exchange Online、Exchange Online Protection、Microsoft Teams、Office 365 ProPlus、Office Online、OneDrive for Business、Power BI for Office 365、Project Online、SharePoint Online、Skype for Business |
+| **商用** | Access Online、Azure Active Directory、Delve、Exchange Online、Exchange Online Protection、Microsoft Teams、Office 365 ProPlus、Office Online、OneDrive for Business、Power BI for Office 365、Project Online、SharePoint Online、Skype for Business |
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
@@ -84,7 +84,7 @@ FISC は、有識者検討会より次の 2 つのレポートを発行してい
 
 **FISC フレームワークへの Microsoft の対応の詳細はどこで入手できますか?**
 
-Microsoft クラウド サービスの FISC 準拠を評価した第三者のセキュリティに関する参考情報 ([日本語](https://aka.ms/microsoftresponsetofiscguidancejapanese)) もご覧いただけます。
+Microsoft クラウド サービスの FISC 準拠を評価した第三者のセキュリティに関する参考情報については、Microsoft アカウントの担当者にお問い合わせください。
 
 **このフレームワークへの Microsoft の対応を自分の組織の資格認定プロセスで使用できますか?**
 
