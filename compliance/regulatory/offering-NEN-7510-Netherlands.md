@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f3012269f613d5b403882c1718c3fbdc1f745519
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9b0d5de71b670ccde9fa1b3961c844c23a7bc83a
+ms.sourcegitcommit: 85a756defdc87e3e6dedf4e2bbf68cd06fa2bd37
 ms.translationtype: HT
 ms.contentlocale: ja-JP
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259786"
+ms.locfileid: "58340007"
 ---
 # <a name="nen-7510"></a>NEN 7510
 
@@ -31,7 +31,7 @@ ms.locfileid: "58259786"
 
 ## <a name="microsoft-and-nen-75102011"></a>Microsoft と NEN 7510:2011
 
-Microsoft では現在の認証と保証声明を分析し、[NEN 7510 カバレッジ レポート](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=3285c45c-921c-49ad-b881-be43e0b70490&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Compliance_Guides) (Service Trust Platform でご利用いただけます)。それらの認証や保証声明は、Microsoft がクラウド サービス プロバイダーとして責任を負う NEN 7510 規制に対して対応付けられています。 この文書は、患者の医療情報の保管または処理に関連する Microsoft クラウド サービスの利用を NEN 7510 に準拠させるため、お客様がどの統制をさらに実施しなくてはならないか判断する上で役立ちます。
+Microsoft では現在の認証と保証声明を分析し、[NEN 7510 カバレッジ レポート](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=15d5a5fa-fbb6-4ea6-8126-2a2c684ae789&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_GRC_Assessment_Reports) (Service Trust Platform でご利用いただけます)。それらの認証や保証声明は、Microsoft がクラウド サービス プロバイダーとして責任を負う NEN 7510 規制に対して対応付けられています。 この文書は、患者の医療情報の保管または処理に関連する Microsoft クラウド サービスの利用を NEN 7510 に準拠させるため、お客様がどの統制をさらに実施しなくてはならないか判断する上で役立ちます。
 
 Azure セキュリティおよびコンプライアンス ブループリントを使用して NEN 7510 の展開を加速する方法を説明します。「[Microsoft クラウドをダウンロードする: Azure および Office 365 NEN7510-2011 標準範囲ユーザー ガイド](https://aka.ms/Azure-NEN7510-2011)」をダウンロードしてください。
 

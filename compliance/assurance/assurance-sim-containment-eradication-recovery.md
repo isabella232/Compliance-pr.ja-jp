@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 6614f3997310a227320865aa0f0da99b64420084534e47afd25bb15441ddb451
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 37de1f6a1b2735b444dc06228a411c0ef0c15f8b
+ms.sourcegitcommit: 35ca898d621a3e158b361c7dea3a33c4b1f9fe3a
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292055"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361259"
 ---
 # <a name="microsoft-security-incident-management-containment-eradication-and-recovery"></a>Microsoft セキュリティ インシデント管理: 格納、根絶、および回復
 
@@ -52,6 +52,8 @@ ms.locfileid: "54292055"
 ## <a name="customer-notification-of-security-incident"></a>セキュリティ インシデントの顧客通知
 
 Microsoft がセキュリティ インシデントが発生したと判断した場合、弊社は、契約要件およびコンプライアンス要件の範囲内で、遅延が発生した場合に通知します。 影響を受けるすべてのテナントを特定した後、対応するコミュニケーション チームは、影響を受けるテナントに適用される可能性のある関連する規制を特定します。 コミュニケーション チームは、該当する規制で定義されている適切な通信チャネルを使用して、適切なテナント連絡先に通知します。
+
+![インシデント対応プロセス](../media/assurance-incident-response-process.png)
 
 通知には、インシデントの説明、顧客データへの影響、Microsoft が実行したアクション、および/または問題の解決と再発防止のためにお客様が実行する推奨されるアクションなど、インシデントに関する詳細情報が含まれます。 通知は、Microsoft Online Services テナントの指定された管理者に配信されます。 通知を確実に受信するには、管理者がテナント プロファイルに正確な連絡先情報を提供し、維持する必要があります。 さらに、インシデントの性質に応じて、Microsoft 365サービス正常性ダッシュボードを介してMicrosoft 365[通知することもできます](http://status.yammer.com/)。
 
