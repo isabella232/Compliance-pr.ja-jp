@@ -2,7 +2,7 @@
 title: GDPR に関する Microsoft サポートおよびプロフェッショナル サービス アカウンタビリティ対応準備チェックリスト
 description: Microsoft プロフェッショナル サービスおよびサポート サービスを利用する際に、GDPR をサポートするために必要な情報にアクセスする便利な方法を提供します。
 keywords: ARC、アカウンタビリティ対応準備チェックリスト、Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 47f5508899933cd3f0293034c571824d36b7e95a485b96b1227dd1e0c43c63b2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 044631cd05dc25f126388f38e9d45675ce397d4f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290215"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480379"
 ---
 # <a name="microsoft-support-and-professional-services-accountability-readiness-checklist-for-the-gdpr"></a>GDPR に関する Microsoft サポートおよびプロフェッショナル サービス アカウンタビリティ対応準備チェックリスト
 
@@ -45,7 +45,7 @@ ms.locfileid: "54290215"
 |***同意の取得と記録 (7.2.4)***|同意が必要であると判明した場合、お客様は適切な仕方で同意を得る必要があります。また、お客様は、同意を求める提示方法および収集方法に関する要件を理解する必要があります。|Microsoft プロフェッショナル サービスでは、ユーザーの同意を得るための直接的なサポートは提供していません。|(7)(1)、(7)(2)、(9)(2)(a)|
 |***プライバシー影響評価 (7.2.5)***|お客様はプライバシー影響評価を実施するための要件 (どのような場合に実施すべきか、実施する必要があるデータのカテゴリ、評価を実施するタイミング) を理解しておく必要があります。|Microsoft プロフェッショナル サービスでは、DPIA を実施するタイミングを判断する時期と方法に関するガイダンス、および DPO の関与を含む Microsoft で実施される DPIA プログラムの概要を提供します。Service Trust Portal の「[データ保護影響評価 (DPIA)」ページ](https://servicetrust.microsoft.com/ViewPage/GDPRDPIA)をご覧ください。<p>DPIA のサポートについては、次をご覧ください。<br>- 顧客データ保護影響評価に関する Microsoft プロフェッショナル サービスからの重要な情報 [[9](gdpr-arc-prof-services.md#9)]</p>|条項 (35)|
 |***PII プロセッサに関する契約 (7.2.6)***|お客様は、プロセッサに関する契約に、個人データの取り扱いと保護に関連する法律や規制義務に準拠するための要件を含める必要があります。|GDPR に基づいてお客様が義務を遂行するうえで弊社が支援することを規定する Microsoft の契約 (データ主体の権利のサポートを含む)。<br>- Microsoft プロフェッショナル サービス データ保護に関する補遺 [[1](gdpr-arc-prof-services.md#1)]|(5)(2)、(28)(3)(e)、(28)(9)|
-|***PII の処理に関連する記録 (7.2.7)***|お客様は、個人データの取り扱いに関する必要な記録すべてを維持する必要があります (目的、セキュリティ対策など)。副次的なデータ処理者がこれらの記録の一部を提供する必要がある場合、お客様はこのような記録をそれらの処理者が取得できるようにしなければなりません。|Microsoft Professional Services では、GDPR に基づいて、コンプライアンスを示し、責任を果たすためのサポートに必要な記録を維持します。 Microsoft Professional Services のセキュリティに関するドキュメント [[2](gdpr-arc-prof-services.md#2)] を参照|(5)(2)、(24)(1)、(30)(1)(a)、(30)(1)(b)、(30)(1)(c)、(30)(1)(d)、(30)(1)(g)、(30)(1)(f)、(30)(3)、(30)(4)、(30)(5)|
+|***PII の処理に関連する記録 (7.2.7)***|お客様は、個人データの取り扱いに関する必要な記録すべてを維持する必要があります (目的、セキュリティ対策など)。副次的なデータ処理者がこれらの記録の一部を提供する必要がある場合、お客様はこのような記録をそれらの処理者が取得できるようにしなければなりません。|Microsoft Professional Services では、GDPR に基づいてアカウンタビリティを果たし、コンプライアンスとサポートを示すために必要な記録を維持します。Microsoft Professional Services のセキュリティに関するドキュメント [[2](gdpr-arc-prof-services.md#2)] をご覧ください。|(5)(2)、(24)(1)、(30)(1)(a)、(30)(1)(b)、(30)(1)(c)、(30)(1)(d)、(30)(1)(g)、(30)(1)(f)、(30)(3)、(30)(4)、(30)(5)|
 
 ## <a name="3-rights-of-data-subjects"></a>3. データ主体の権利
 

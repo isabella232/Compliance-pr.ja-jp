@@ -2,7 +2,7 @@
 title: 一般データ保護規則
 description: 一般データ保護規則 (GDPR) に役立つ情報を参照しながら、Microsoft 技術ガイダンスについて説明します。
 keywords: Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 1951b902549d0ab214e0a0c284349c30dfc714e4af54e442b8ef8a61b26e6c51
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: d0016ed24cec4797ff515efa5614d8016fe7f1c1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287939"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482772"
 ---
 # <a name="general-data-protection-regulation-summary"></a>一般データ保護規則の概要
 
@@ -268,7 +268,7 @@ GDPR では、EUにお住いの方は「データ主体の権利」のセット�
 
 **自分の組織が処理するデータが GDPR の対象になるかどうかは、どのようにして確認しますか?**
 
-GDPR は、「個人データ」の収集、保管、使用、共有を規制しています。 GDPR における個人データは、特定された自然人または特定可能な自然人に関連するすべてのデータとして広範囲に定義されています。
+GDPR は、「個人データ」の収集、保管、使用、共有を規制しています。GDPR における個人データは、特定された自然人または特定可能な自然人に関連するすべてのデータとして広範囲に定義されています。
 
 個人データには、オンライン識別子 (IP アドレスなど)、従業員情報、販売データベース、カスタマー サービス データ、カスタマー フィードバック フォーム、位置データ、生体認証データ、CCTV ビデオ映像、ロイヤルティ スキームの記録、医療情報および財務情報などが含まれますが、この限りではありません。 個人データとは見えない情報も含まれる場合があります。たとえば、人物を含まない風景写真であっても、識別可能な個人の口座番号や一意のコードに結び付く情報は個人データになります。 また、仮名化された個人データであっても、その仮名が特定の個人に結び付く場合は個人データになります。
 

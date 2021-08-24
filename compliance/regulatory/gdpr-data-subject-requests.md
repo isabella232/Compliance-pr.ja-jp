@@ -1,7 +1,7 @@
 ---
 title: GDPR および CCPA のためのデータ対象要求
 keywords: Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR、CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ titleSuffix: Microsoft GDPR
 description: Microsoft の製品とサービスを使用して、一般データ保護規則 (GPDR) およびカリフォルニア州消費者プライバシー法 (CCPA) に従って DSR を完了する方法について説明します。
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: 8e6b862de3e52b171d886613af8529c082bad56d
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: b5ef9464a686a5f2c8823f196408fd71026fa52d
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496261"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479839"
 ---
 # <a name="data-subject-requests-and-the-gdpr-and-ccpa"></a>データ対象要求と GDPR および CCPA
 
@@ -50,7 +50,7 @@ ms.locfileid: "51496261"
 
 ## <a name="what-is-a-dsr"></a>DSR とは?
 
-一般データ保護規則 (GDPR) は、規制においてデータ主体と呼ばれる人に、雇用主または他の種類の機関や組織 (データ コントローラーまたは単にコントローラーと呼ばれます) によって収集された個人データを管理する権限を与えます。 GDPR では、個人データに対するデータ主体固有の権限が付与されます。このような権限には、個人データのコピーの取得、個人データの変更の要求、個人データの処理の制限、個人データの削除、または別のコントローラーに移動できる電子的な形式での個人データの受け取りが含まれます。
+一般データ保護規則 (GDPR) は、雇用主またはその他の種類の機関または組織 (データ 管理者または単なる管理者と呼ばれます) によって収集された個人データを管理する権利をユーザーに与えます (当該規制では「データ主体」と呼ばれます)。GDPR は、データ主体に個人データに対する特定の権利を与えています。これらの権利には、コピーの取得、変更の要求、処理の制限、削除、または別のコントローラーに移動できるように電子形式で受け取ることが含まれます。
 
 カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。  
 
@@ -81,7 +81,7 @@ Microsoft によって生成されたログと関連データには、"個人デ
 
 ### <a name="yammer-and-kaizala"></a>Yammer と Kaizala
 
-ユーザーのアカウントを削除しても、システムで生成された Yammer および Kaizala のログは削除されません。 これらのアプリケーションからデータを削除するには、次のいずれかのリソースを参照してください。
+ユーザー アカウントを削除しても、Yammer と Kaizala でシステム生成されたログは削除されません。これらのアプリケーションからデータを削除するには、次のいずれかの資料を参照してください:
 
 - [Yammer Enterprise で GDPR データ主体の要求を管理する](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)
 - [Kaizala でユーザーの組織データをエクスポートまたは削除する](/office365/kaizala/export-or-delete-a-user-s-data)
