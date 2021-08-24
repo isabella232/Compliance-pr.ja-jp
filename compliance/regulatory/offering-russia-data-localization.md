@@ -1,8 +1,8 @@
 ---
 title: ロシアの個人データのローカライズ要件
 description: 個人データの収集、ロシア市民の個人データの記録、システム化、蓄積、ストレージ、明確化、および抽出が、Microsoft サービス およびロシアにあるデータベースでどのように実行されるのかについて説明します。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 559614554eb661be33a751c212080bea20d967565daf37de59a292851b9a28e8
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287146"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482802"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>ロシアの個人データのローカライズ要件
 

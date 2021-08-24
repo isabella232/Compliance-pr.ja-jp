@@ -2,7 +2,7 @@
 title: 医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 description: Microsoft は、医療保険の携行性と責任に関する法律のビジネス アソシエイト契約 (BAA) を提供しています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c809ebd43b66d51939a31b283e212b55d20f833a
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260322"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482470"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 

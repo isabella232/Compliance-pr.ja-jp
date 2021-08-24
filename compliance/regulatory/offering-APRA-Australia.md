@@ -2,7 +2,7 @@
 title: オーストラリアプルデンシャル規制当局 (APRA)
 description: 金融サービスクライアントがオーストラリアプルデンシャル規制当局のアウトソーシング基準に準拠するための Microsoft ガイダンス。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 912b9770f4b8afb54fb98455b313498d7ebf7af4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e8e6ca43cbce4755ab29f3ef7cadc06a5dda7e32
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260629"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482290"
 ---
 # <a name="australian-prudential-regulation-authority-apra"></a>オーストラリアプルデンシャル規制当局 (APRA)
 

@@ -2,7 +2,7 @@
 title: GDPR と CCPA のための Microsoft サポート/プロフェッショナル サービス データ サブジェクト要求
 description: Microsoft サポート/プロフェッショナルサービスが GDPR および CCPA のデータ サブジェクトの要求をどのように処理するかについて説明します。
 keywords: プロフェッショナル サービス、Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR、CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 165fd006f8cd5390b057d38e9972cf4ce4edda3d6ffe169fcdeb0508d319bc0b
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 06dbe8eeeddc32fb98b7b4bf0351834fb6a34944
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293174"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482632"
 ---
 # <a name="microsoft-support-and-professional-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR と CCPA のための Microsoft サポート/プロフェッショナル サービス データ サブジェクト要求
 

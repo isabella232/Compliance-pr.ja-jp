@@ -2,7 +2,7 @@
 title: Title 23 NYCRR Part 500
 description: Microsoft では、23 NYCRR 500 の要件を満たすために金融機関が Azure、Office 365、Power BI を役立てる方法を説明するガイドを作成しました。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 36d8bd6a0fa27056188b48fef4e1cc8d6e123372
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 717b3d7b024b0fddc4916fff3558d95fb2cedcc2
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261114"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482592"
 ---
 # <a name="title-23-nycrr-part-500"></a>Title 23 NYCRR Part 500
 

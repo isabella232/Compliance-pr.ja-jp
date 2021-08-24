@@ -2,7 +2,7 @@
 title: 欧州規格 EN 301 549
 description: Microsoft クラウドは多数のサービスから構成され、多数の個別の適合レポートに記載されています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 9fd5934030e83dc03326c66ea20e93c1c0472e3be1afe496120165f381404827
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: fe5f8ff2208fd2586ef2806aed73a5ee77cb5b97
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287606"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482260"
 ---
 # <a name="european-standards-en-301-549"></a>欧州規格 EN 301 549
 
@@ -54,4 +54,4 @@ Microsoft は、製品およびサービスの開発において EN 301 549 を�
 - [Microsoft アクセシビリティ サイト](https://www.microsoft.com/accessibility): アクセシビリティ機能の使用に関する情報を取得して、すべてのユーザーがもっと多くのことを達成するために Microsoft ではどのような革新が行われているのかを理解します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

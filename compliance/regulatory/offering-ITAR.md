@@ -1,8 +1,8 @@
 ---
 title: 国際武器規制 (ITAR)
 description: Azure Government は、Arms Regs 対応システムで米国の国際トラフィックを構築する顧客をサポートしています。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d5bebc4a270a11518989c548ef17ac48b8f79b5cc5720f09bc8677c40e422421
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293890"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482922"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>国際武器規制 (ITAR)
 
@@ -41,7 +41,7 @@ ITAR には違反を報告する特定の義務があります。これは、特
   
 ITAR で規制されたデータをホストする場合は、Microsoft アカウントとライセンス チームと一緒に作業し、詳細を確認し、適切な契約を取得し、関連するシステム アーキテクチャ情報にアクセスする必要があります。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure Government
 - Office 365米国政府 - 高、高、Office 365防衛
@@ -52,7 +52,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-itar"></a>Office 365 ITAR
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -76,4 +76,4 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR タイトル 22 CFR 120~130](https://aka.ms/itar)
 - [Office 365米国政府](https://products.office.com/government/office-365-web-services-for-government)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

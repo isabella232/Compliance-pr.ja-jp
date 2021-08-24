@@ -2,7 +2,7 @@
 title: 金融監督機関 (FSA) デンマーク
 description: クラウド導入によりデンマークの金融機関を支援するための Microsoft ガイダンスです。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4ba6e4160b14ff89f4e8afd57036c7817f2ad4a4bb262c6a032e4bdb3983723e
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: dbe94dfd4100da30248b093a068695d845096f63
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292474"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482872"
 ---
 # <a name="financial-supervisory-authority-fsa-denmark"></a>金融監督機関 (FSA) デンマーク
 

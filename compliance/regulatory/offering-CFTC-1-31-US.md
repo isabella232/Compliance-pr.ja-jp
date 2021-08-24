@@ -2,7 +2,7 @@
 title: コモディティ先物取引委員会 (CFTC) ルール 1.31(c-d) 米国
 description: 独立した評価会社は、Azure と Office 365が CFTC ルール 1.31 レコードの保持と不変のストレージ要件を満たすのに役立つ可能性を検証しました。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: bc2577e8841798543881b0431c130d1d9cc487af
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 86e3c24be220da0cf29f66fc87d4642fa5270303
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260619"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482742"
 ---
 # <a name="commodity-futures-trading-commission-cftc-rule-131c-d-united-states"></a>コモディティ先物取引委員会 (CFTC) ルール 1.31(c-d) 米国
 

@@ -15,7 +15,7 @@ metadata:
   author: robmazz
   ms.author: robmazz
   ms.date: 11/30/2020
-  localization_priority: Normal
+  ms.localizationpriority: medium
 conceptualContent:
   title: Azure、Dynamics 365、およびコンプライアンスMicrosoft 365提供
   summary: Azure、Dynamics 365、Microsoft 365、Power プラットフォーム、およびデータ収集と使用に関する国内、地域、および業界固有の規制に役立つその他のサービスに関する情報。

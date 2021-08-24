@@ -2,7 +2,7 @@
 title: 健康データ ホスティング (HDS) フランス
 description: Microsoft クラウド サービスは、健康データ ホスティング (Hébergeurs de Données de Santé) 規格への準拠が認定されています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4d69d75e99537e7087a4ddf880f1f26ee03af463d23738f548499f0c6b39daed
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293804"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482480"
 ---
 # <a name="health-data-hosting-hds-france"></a>健康データ ホスティング (HDS) フランス
 
@@ -75,4 +75,4 @@ HDS 認証は 3 年間有効です。
 - [Azure フランス](https://azure.microsoft.com/global-infrastructure/france/)
 - [保険向け Azure](https://azure.microsoft.com/industries/healthcare/)
 - [Microsoft のセキュリティ](https://www.microsoft.com/security)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

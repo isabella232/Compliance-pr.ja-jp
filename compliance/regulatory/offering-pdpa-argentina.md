@@ -2,7 +2,7 @@
 title: アルゼンチン個人データ保護法 (PDPA)
 description: Microsoft 法人向けクラウド サービスは、個人情報のプライバシーを保護するための PDPA 基準に準拠しています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 54401015273b24306cae58a2ca78ca1c91322b6e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 9802fd35cbb93386a42462c6ddd94ddce422ec7e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260352"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482652"
 ---
 # <a name="argentina-personal-data-protection-act-pdpa"></a>アルゼンチン個人データ保護法 (PDPA)
 

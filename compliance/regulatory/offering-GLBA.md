@@ -2,7 +2,7 @@
 title: グラム リーチ ブライリー法 (GLBA)
 description: Microsoft は、金融サービスクライアントが Gramm-Leach-Bliley Act (GLBA) のプライバシー要件とセキュリティ要件を遵守するのに役立ちます。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7d4e4066704e15354113709e480455db2c1c48a1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: b7b1e3ea3600023c2ec95d4db7f318d70183b197
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259806"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482682"
 ---
 # <a name="gramm-leach-bliley-act-glba"></a>グラム リーチ ブライリー法 (GLBA)
 

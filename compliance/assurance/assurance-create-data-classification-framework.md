@@ -8,7 +8,7 @@ ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 search.appverid:
 - MET150
 ms.collection:
@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 88a07e5c6d5e3e84260c5099d957ebf38745819e239f951df62a5d04886f3fa4
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 17aa73258f1ecc4db9cc13a5df08b1aa76a583a7
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288725"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482160"
 ---
 # <a name="create-a-well-designed-data-classification-framework"></a>十分に設計されたデータ分類フレームワークを作成する
 
@@ -102,10 +102,10 @@ ms.locfileid: "54288725"
 
 比較的合理化されたデータ分類フレームワークを持つ小規模な組織や組織では、データ分類レベルごとに 1 つの感度ラベルを作成すると十分です。 次の例は、感度ラベル マッピングに対する 1 対 1 のデータ分類レベルを示しています。
 
-|**分類ラベル**|**機密ラベル**|**ラベルの設定**|**発行済み**|
+|**分類ラベル**|**感度ラベル**|**ラベルの設定**|**発行済み**|
 |:-----------------------|:--------------------|:-----------------|:---------------|
 | Unrestricted | Unrestricted | '無制限' フッターを適用する | すべてのユーザー |
-| 一般 | 一般 | 'General' フッターを適用する | すべてのユーザー |
+| 全般 | 全般 | 'General' フッターを適用する | すべてのユーザー |
 
 >[!TIP]
 >Microsoft の内部情報保護パイロットの間、"個人用" ラベルの理解と使用に問題が発生しました。 ユーザーは、これが PII を意味するのか、それとも単に個人的な問題に関連するのかについて混乱していました。 ラベルは、より明確にするために '非ビジネス' に変更されました。 次の使用例は、分類が最初から完全である必要はないと示しています。 正しいと思う情報から始め、パイロットを行い、必要に応じてフィードバックに基づいてラベルを調整します。

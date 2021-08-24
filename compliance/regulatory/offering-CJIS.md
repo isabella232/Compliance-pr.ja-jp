@@ -1,8 +1,8 @@
 ---
 title: 刑事司法情報サービス (CJIS) セキュリティ ポリシー
 description: Microsoft Government クラウド サービスは、米国刑事司法情報サービスセキュリティ ポリシーに準拠しています。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: cdcf6bb91e7bd6b01a7a4372f33e2f52089d1f0c4fed3c327b85a3a13eafeac2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292534"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482732"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>刑事司法情報サービス (CJIS) セキュリティ ポリシー
 
@@ -43,12 +43,12 @@ Microsoft は、Microsoft Azure Government、Microsoft Office 365 米国政府�
 
 Microsoft Cloud での CJIS セキュリティ ポリシーの利点について説明します。 Genetec が犯罪捜査をクリアした方法 [を読む](https://customers.microsoft.com/story/genetec)
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure Government
 - Dynamics 365 米国政府機関
 - Office 365米国政府
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 
 ## <a name="azure-dynamics-365-and-cjis"></a>Azure、Dynamics 365、および CJIS
 
@@ -56,7 +56,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-cjis"></a>Office 365 CJIS
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

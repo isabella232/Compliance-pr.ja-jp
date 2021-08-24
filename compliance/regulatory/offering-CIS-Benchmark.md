@@ -2,7 +2,7 @@
 title: Center for Internet Security (CIS) ベンチマーク
 description: Center for Internet Security (CIS) は、Microsoft の製品とサービスに関する一連のベンチマークを公開しています
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 7af6dd77d4b67e6912d3b57c823820751b7fb8f6ab3e18c063555d14d1c916cd
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3084bc6e70bb1c2d9aa1e199a8e1bc4bde8fb2b5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287796"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482500"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Center for Internet Security (CIS) ベンチマーク
 
@@ -97,4 +97,4 @@ CIS は、"ベンチマークは内容領域専門家、テクノロジ ベン�
 - [Microsoft 365 を安全に使用するための CIS ベスト プラクティス](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
 - [Windows 10 のセキュリティ ポリシー設定](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
 - [Windows 10 Enterprise のセキュリティ](/windows/security/index)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

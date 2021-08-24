@@ -2,7 +2,7 @@
 title: 金融情報システム センター (FISC)
 description: Microsoft は日本の金融情報システム センターによる安全対策基準第 8 版の要件を満たしています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: c6f9a01ff954465240b74f9526c93b926fb08006
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: f1eba3e819ae351f1bdff2f8fbdd47c7fca7a1a1
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260489"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482230"
 ---
 # <a name="center-for-financial-industry-information-systems-fisc"></a>金融情報システム センター (FISC)
 

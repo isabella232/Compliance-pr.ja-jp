@@ -2,7 +2,7 @@
 title: Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 description: Azure と Office 365は、正常性情報信頼アライアンス (HITRUST) 共通セキュリティ フレームワーク (CSF) の認定を受けています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e910593e80c49acf7f1e94c9ade74fb51f225912
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260701"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482972"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 

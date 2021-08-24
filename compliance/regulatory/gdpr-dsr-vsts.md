@@ -2,7 +2,7 @@
 title: GDPR および CCPA のための Azure DevOps データ主体要求
 description: Microsoft のツールを使用して、認証済みの Azure DevOps サービスのセッション中に収集された個人データをエクスポートまたは削除する方法について説明します。
 keywords: Visual Studio Team Services、VSTS、Azure DevOps ドキュメント、プライバシー、GDPR、CCPA
-localization_priority: Priority
+ms.localizationpriority: high
 audience: itpro
 ms.prod: devops
 ms.topic: article
@@ -20,12 +20,12 @@ ms.workload:
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
 hideEdit: true
-ms.openlocfilehash: c159ea68bce536e0fcd273c6c1f8da721b2a863570c43c79c3678696641ea832
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c72fd7054a79a7498180e92e3c93e9ef15252ef5
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293064"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482390"
 ---
 # <a name="azure-devops-services-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Azure DevOps Services データ サブジェクト要求
 

@@ -2,7 +2,7 @@
 title: 連邦金融機関審査評議会 (FFIEC)
 description: Microsoft は、金融サービスクライアントが連邦金融機関審査評議会 (FFIEC) の監査要件に準拠するのに役立ちます。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 1830d0d61fe0787d7f8e8034af2e4ca64bdb0bc8
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 1c2d1167a68362be700a7cf39cf2cdd7bf61ca97
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261025"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482692"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>連邦金融機関審査評議会 (FFIEC)
 

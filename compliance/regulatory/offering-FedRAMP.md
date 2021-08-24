@@ -1,8 +1,8 @@
 ---
 title: Federal Risk and Authorization Management Program (FedRAMP)
 description: Microsoft は、米国連邦リスクおよび承認管理プログラム P-ATOs と ATOs を付与されました。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f613e35cfcfa6f15946572901cb0c9f3c7a5fa0407a970ccd3b4e19d8efc138a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54292774"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482942"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Federal Risk and Authorization Management Program (FedRAMP)
 
@@ -53,7 +53,7 @@ Microsoft Government クラウド サービスは、公的部門のお客様に�
 - [Dynamics 365 米国政府機関](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365米国政府、米国Office 365 - 高、米国Office 365国防
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 
 ## <a name="azure-dynamics-365-and-fedramp"></a>Azure、Dynamics 365、および FedRAMP
 
@@ -65,7 +65,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 - Office 365米国政府機関は、米国国防情報システム局 (DISA) の P-ATO を持っています。 米国政府機関への展開をOffice 365、DISA P-ATO を使用して機関 ATO を生成し、その受け入れを文書化できます。
 - Office 365 (エンタープライズおよびビジネス プラン) および Office 365 米国政府は、検査官の DHHS および Office からの中程度の影響レベルで FedRAMP Agency ATO を持っています。 Office 365米国政府は、この承認を取得した最初のクラウドベースの電子メールとコラボレーション サービスでした。
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

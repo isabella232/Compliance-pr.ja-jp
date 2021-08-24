@@ -2,7 +2,7 @@
 title: ISO/IEC 27001:2013 情報セキュリティ管理基準
 description: Microsoft はこれらの情報セキュリティ管理基準の実施に関する認証を取得しています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a09374f9515e4c215da5d2f61d6d5e3996e15f84
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 501f5059b3c7700f39dddbc4273831e8a4bd2e2e
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260533"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482962"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 

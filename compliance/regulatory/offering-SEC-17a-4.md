@@ -2,7 +2,7 @@
 title: 証券およびExchange委員会 (SEC) 規則 17a-4(f) 米国
 description: 独立した評価会社は、Azure と Office 365 が SEC Rule 17a-4(f) レコードの保持と不変のストレージ要件を満たすのに役立つ可能性を検証しました。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 39ab743755b949502d4f63c36a64d5785d85f6ab
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260684"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482460"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>証券およびExchange委員会 (SEC) 規則 17a-4(f) 米国
 

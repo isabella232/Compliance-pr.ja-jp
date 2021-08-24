@@ -10,7 +10,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.service: O365-seccomp
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ca26f1cb12fd7440b143ec27f7abfb1977acc0a2addc71baa3e265d262aeb57a
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54289245"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482200"
 ---
 # <a name="architecture-overview"></a>アーキテクチャの概要
 
@@ -43,7 +43,7 @@ Microsoft Azureは、Microsoft およびサード パーティの管理データ
 
 Dynamics 365 は、顧客関係管理 (CRM) 機能とその拡張機能を Enterprise リソース計画 (ERP) 機能と統合するオンライン ビジネス アプリケーション スイートです。 これらのエンドツーエンドのビジネス アプリケーションは、顧客が関係を収益に変え、顧客を獲得し、ビジネスの成長を加速するのに役立ちます。 Dynamics 365 は、Azure のインフラストラクチャ上に構築されたサービスとしてのソフトウェア (SaaS) スイートであり、グローバルに分散したデータセンターを通じて世界中のお客様が利用できます。
 
-## <a name="what-is-microsoft-365"></a>Microsoft 365 とは
+## <a name="what-is-microsoft-365"></a>Microsoft 365とは
 
 Microsoft 365は、クラウドベースのサブスクリプション ベースのバージョンの Office、Windows 10、Enterprise Mobility + Security、およびコンプライアンスです。 Microsoft 365顧客は Outlook や Windows などのクライアントを取得し、microsoft が代わりにホストするサービス (Exchange Online、Microsoft Teams、SharePoint Online など) を利用できます。 サービスのすべてのコンポーネントは、サブスクリプション モデルの一部として定期的に更新され、お客様に "常緑" 製品が提供されます。 Microsoft は、お客様に代わってサービス インフラストラクチャを管理します。つまり、Microsoft は顧客データを格納するインフラストラクチャをセキュリティ保護する責任を負います。
 

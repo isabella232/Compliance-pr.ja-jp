@@ -1,8 +1,8 @@
 ---
 title: 国防総省 (DoD) 影響レベル 2 (IL2)
 description: Microsoft が国防総省 (DoD) の影響レベル 2 (IL2) 標準を満たす方法について説明します。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0c44d77772eef6321d716aa87f34d0472401fb30092dde324120e2d9d82a1a3d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c57183a53c563fffa2bb3eb1cedb2fca23db26f4
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288226"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482450"
 ---
 # <a name="department-of-defense-dod-impact-level-2-il2"></a>国防総省 (DoD) 影響レベル 2 (IL2)
 
@@ -55,7 +55,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-dod-il2"></a>Office 365 DoD IL2
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

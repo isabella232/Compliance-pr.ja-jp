@@ -2,7 +2,7 @@
 title: 家族教育の権利とプライバシー法 (FERPA)
 description: Microsoft は、米国家族教育権利およびプライバシー法の要件に適合しています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: d41c5fea8e0f6f45703bfe25cae9dbaa491dcd2c
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 6957f3e1c93dd73821456bc45ef1d8e2e12681a0
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58261049"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482240"
 ---
 # <a name="family-educational-rights-and-privacy-act-ferpa"></a>家族教育の権利とプライバシー法 (FERPA)
 

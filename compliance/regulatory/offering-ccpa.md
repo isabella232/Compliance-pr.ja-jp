@@ -1,8 +1,8 @@
 ---
 title: カリフォルニア州消費者プライバシー法 (CCPA)
 description: Microsoft サービス消費者プライバシー法 (CCPA) を参照してください。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 75f814c49395e5b945d0b9092b1158fad3376ce684ea3a8fb43115d51fe6bba5
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 61b15a095dec310aac74bac10b2d062eb1011750
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288256"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482662"
 ---
 # <a name="california-consumer-privacy-act-ccpa"></a>カリフォルニア州消費者プライバシー法 (CCPA)
 
@@ -105,4 +105,4 @@ CCPA では、個人情報を収集、転送、および販売する規制対象
 - [CCPA ガイドの使用を開始する](https://info.microsoft.com/ww-landing-Five-tips-to-help-you-prepare-for-the-California-Consumer-Privacy-Act.html)
 - [データ主体要求と GDPR](gdpr-data-subject-requests.md)
 - [カリフォルニア州消費者プライバシー法 (CCPA) の FAQ](ccpa-faq.yml)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

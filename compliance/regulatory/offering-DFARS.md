@@ -1,8 +1,8 @@
 ---
 title: 国防連邦取得規則の補足 (DFARS)
 description: Microsoft Azure政府は、国防連邦取得規則 (DFARS) の要件をサポートしています。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11af1e745978358d401502da853640e8bd707249aa827fe30b62813ef44b99d2
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e190a98a475d6170e793e92e8052012048cc3d7f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54287696"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482270"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>国防連邦取得規則の補足 (DFARS)
 
@@ -35,7 +35,7 @@ ms.locfileid: "54287696"
 
 Microsoft Government Cloud Services は、米国の防衛産業基盤および防衛請負業者のお客様が、クラウド サービス プロバイダーに適用される 252.204-7012 の DFARS 条項に列挙されている DFARS 要件を満たすのに役立ちます。 防衛請負業者が契約で DFARS 条項 252.204-7012 に準拠する必要がある場合、Microsoft は Azure Government および Office 365 米国政府機関のクラウド サービス プロバイダーに適用される要件をサポートできます。 どちらのサービスも、L5 認定を通じて、お客様が DFARS 7012 条項に準拠するために必要な機能を国防総省セキュリティ要件ガイドに対するサポートを示しています。  
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 DoD 影響レベル 5 の対象サービス
 
@@ -48,7 +48,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 ## <a name="office-365-and-dfars"></a>Office 365 DFARS
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 
@@ -104,4 +104,4 @@ CDI は、技術的な情報または他の情報 (CUI レジストリに記載�
 - [Microsoft Cloud for Government](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
 - [オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
 - [制御された未分類情報 (CUI)](https://www.archives.gov/cui/registry/category-list)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

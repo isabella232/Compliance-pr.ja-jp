@@ -1,8 +1,8 @@
 ---
 title: 国防総省 (DoD) 影響レベル 5 (IL5)
 description: Microsoft が国防総省 (DoD) の影響レベル 5 (IL5) 標準を満たす方法について説明します。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 539a53888ec859bb3b6942b48288659f73fa4b69807ce19e063cbfe104b7072d
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294234"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482842"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>国防総省 (DoD) 影響レベル 5 (IL5)
 
@@ -68,7 +68,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-dod-il5"></a>Office 365 DoD IL5
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

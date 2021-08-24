@@ -2,7 +2,7 @@
 title: Windows 診断データ 処理の構成 GDPRとCCPAのためのデータ主体の要求
 description: Microsoft 製品、サービス、管理ツールを使用して、DSR に応じて個人データを検索して操作する方法について説明します。
 keywords: Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 365aa84ce2c88468b7f6689aa73507e458a435fd2d3bc58583114f37f50537ac
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293054"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482380"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Windows 診断データ 処理の構成 GDPRとCCPAのためのデータ主体の要求
 
