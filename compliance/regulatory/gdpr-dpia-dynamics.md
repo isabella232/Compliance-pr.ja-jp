@@ -3,7 +3,7 @@ title: 'DPIA: Dynamics での GDPR への対応'
 description: DPIA が必要であるかどうかと、含める詳細情報を判断する際に役立つ、Dynamics 365 に関する情報をデータ管理者に提供します。
 keywords: DPIA、Microsoft 365、Dynamics 365、Microsoft 365 ドキュメント、GDPR
 robots: NOINDEX,NOFOLLOW
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
-ms.openlocfilehash: 40e756f8f359189825a1474a9d8531a9a3d5891e
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377764"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482440"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>データ保護影響評価: Dynamics 365 を利用するデータ管理者向けガイダンス
 
@@ -32,7 +32,7 @@ ms.locfileid: "53377764"
 このドキュメントは、データ管理者に対し、DPIA が必要であるかどうかを判断し、必要な場合には DPIA に含める詳細情報を決定する上で役立つ、Dynamics 365 に関する情報を提供することを目的としています。
 
 >[!Note]
->Microsoft はこのドキュメントでいかなる法的助言も提供いたしません。 このドキュメントは、情報提供のみを目的として提供されています。 お客様は、プライバシー責任者 (指定されている場合はデータ保護責任者 (DPO)) や弁護士、法務アドバイザーと協力して、Microsoft Azure またはその他の Microsoft オンライン サービスの使用に関連する DPIA の必要性と内容を判断することをお勧めします。
+>Microsoft は、この記事でいかなる法的助言も提供していません。この記事は情報提供のみを目的として提供されています。お客様は、プライバシー責任者 (指定されている場合はデータ保護責任者 (DPO)) や弁護士、アドバイザーと協力して、Microsoft Azure またはその他の Microsoft オンライン サービスの使用に関連する DPIA の必要性と内容を決定することをお勧めします。
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>パート 1: DPIA が必要であるかどうかの判断
 

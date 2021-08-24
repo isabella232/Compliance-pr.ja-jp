@@ -2,7 +2,7 @@
 title: 'DPIA: Azure での GDPR への対応'
 description: Microsoft Azure を使用するときに、データ保護影響評価 (DPIA) が必要かどうかを判断する情報を見つけます。
 keywords: DPIA、Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: aa768844d5ba329662e0bedd877da6dcbe441712
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: a4b04fe9e72986b9fa706a81c61a781e46695599
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377454"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58479829"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-azure"></a>データ保護影響評価: Microsoft Azure を利用するデータ管理者向けガイダンス
 
@@ -32,7 +32,7 @@ ms.locfileid: "53377454"
 このドキュメントは、データ管理者に対し、DPIA が必要であるかどうかを判断し、必要な場合には DPIA に含める詳細情報を決定する上で役立つ、Microsoft Azure に関する情報を提供することを目的としています。
 
 >[!Note]
->Microsoft はこのドキュメントでいかなる法的助言も提供いたしません。 このドキュメントは、情報提供のみを目的として提供されています。 お客様は、プライバシー責任者 (指定されている場合はデータ保護責任者 (DPO)) や弁護士、法務アドバイザーと協力して、Microsoft Azure またはその他の Microsoft オンライン サービスの使用に関連する DPIA の必要性と内容を判断することをお勧めします。
+>Microsoft は、この記事でいかなる法的助言も提供していません。この記事は情報提供のみを目的として提供されています。お客様は、プライバシー責任者 (指定されている場合はデータ保護責任者 (DPO)) や弁護士、アドバイザーと協力して、Microsoft Azure またはその他の Microsoft オンライン サービスの使用に関連する DPIA の必要性と内容を決定することをお勧めします。
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>パート 1: DPIA が必要であるかどうかの判断
 
@@ -60,7 +60,7 @@ GDPR の第 35 条では、「特に新たな技術を用いるなどのある�
 | 処理される個人データのカテゴリ  | *顧客データ: お客様または代理者がエンタープライズ サービスの使用を通じて Microsoft に提供する、すべてのテキスト、サウンド、ビデオ、イメージ ファイル、ソフトウェアを含むすべてのデータを意味します。  顧客データには次の両方が含まれます: (1) エンド ユーザーを特定可能な個人情報 (たとえば Azure Active Directory でのユーザー名と連絡先情報)、特定のサービスでお客様がアップロードまたは作成したカスタマー コンテンツ (たとえば Azure Storage アカウント内のカスタマー コンテンツ、Azure SQL データベースのカスタマー コンテンツ、Azure Virtual Machines でのお客様の仮想マシン イメージ)。<br><br> *サービス生成データ - Microsoft がエンタープライズ サービスをユーザーに提供するのに役立てる、Microsoft によって生成されたログと関連データ。サービスによって生成されたログには、システムによって生成された一意の識別子に関連付けられた、主に仮名化されたデータが含まれます。このデータは、個別の個人を識別することはできませんが、エンタープライズ サービスをユーザーに配信するために使用されます。これらのサービス生成ログには、ユーザー名などのエンド ユーザーに関する識別可能な情報も含まれる場合があります。 <br><br> *サポート データ - 顧客または顧客の代理によって、オンライン サービスに関するテクニカル サポートを受ける際の Microsoft とのエンゲージメントを通して Microsoft に提供されるデータ (または Microsoft がオンライン サービスから取得することを顧客が承認するデータ) を指します。 <br><br> Azure で処理されるデータの詳細については、データ処理契約および [Microsoft トラスト センター](https://www.microsoft.com/trustcenter) を含む [オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)を参照してください。</p> |
 | データ保持 | Microsoft は、お客様がオンライン サービスを利用する権限を有している期間中、および OST の条件に基づきすべての顧客データが削除またはお客様により取得されるまで、顧客データを保存および処理します。 お客様のサブスクリプション期間中は、お客様は各オンライン サービスに保存されている顧客データにアクセスし、データを抽出できます。 Microsoft は、お客様がデータを取り出せるように、お客様のサブスクリプションの有効期限または終了後 90 日間は、無料試用版と LinkedIn サービスを除くオンライン サービスに保管されている顧客データを機能制限付きアカウントにて保持します。 90 日間の保持期間が終了すると、Microsoft はお客様のアカウントを無効にして顧客データを削除します。 お客様は、[Azure Data Subject Request GDPR Documentation](https://servicetrust.microsoft.com/ViewPage/GDPRDSR) で説明されている機能を使用して、データ主体要求に従い個人データを削除できます。 |
 | 個人データの保存場所と移転 | お客様は、OST で定められた特定の例外を条件として、特定の[地理的地域](https://azuredatacentermap.azurewebsites.net/)内で保管中の顧客データをプロビジョニングすることができます。 サービスの展開とデータの保存場所に関する追加の詳細は、オンライン サービスの使用条件 (OST) の [Microsoft データ保護補遺 (DPA)](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=67) および [Azure グローバル インフラストラクチャ](https://azure.microsoft.com/global-infrastructure/) Web ページにも記載されています。<br><br>欧州経済地域、スイス、およびイギリスからの個人データについては、Microsoft は、GDPR の第 46 条に記載されているように、第三国または国際組織への個人データの転送が適切な保護措置の対象であることを保証します。 プロセッサおよびその他のモデル契約に関する標準契約条項に基づく Microsoft のコミットメントに加えて、Microsoft は引き続き[プライバシー シールド フレームワーク](https://www.privacyshield.gov/)の条件を順守しますが、EU/EEA からアメリカ合衆国への個人データの転送の基礎としてこれに依存しなくなります。 |
-| 第三者の副処理者とのデータの共有 | Microsoft は、お客様サポートやテクニカル サポートなどのサポート機能、サービス メンテナンス、およびその他の作業のために、二次処理者として活動する第三者とデータを共有します。 Microsoft が顧客データ、サポート データまたは個人データを転送する協力会社は、Microsoft との間で書面による契約を締結しています。この契約による保護は、[オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)のデータ保護に関する条件と同等です。 Microsoft のコア オンライン サービスの顧客データを共有するすべての第三者の二次処理者は、オンライン サービス協力会社のリストに含まれています。 サポート データ (顧客がサポートのやり取り中に共有することを選択した顧客データを含む) にアクセスする可能性のあるすべての第三者の二次処理者は、[Microsoft 商用サポート協力会社](https://www.microsoft.com/trustcenter/privacy/who-can-access-your-data-and-on-what-terms#subcontractors)のリスト に含まれています。|
+| 第三者の副処理者とのデータの共有 | Microsoft は、お客様サポートやテクニカル サポートなどのサポート機能、サービス メンテナンス、およびその他の作業のために、二次処理者として活動する第三者とデータを共有します。Microsoft が顧客データ、サポート データまたは個人データを転送する協力会社は、Microsoft との間で、[オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46)のデータ保護に関する条件と同等の保護を既定する契約を書面により締結しています。Microsoft のコア オンライン サービスの顧客データを共有するすべての第三者の二次処理者は、オンライン サービス協力会社のリストに含まれています。サポート データ (顧客がサポートのやり取り中に共有することを選択した顧客データを含む) にアクセスする可能性のあるすべての第三者の二次処理者は、[Microsoft 商用サポート協力会社](https://www.microsoft.com/trustcenter/privacy/who-can-access-your-data-and-on-what-terms#subcontractors)のリストに含まれています。 |
 | データ主体の権利 | Microsoft はデータ処理者として、お客様 (データ管理者) に対し、データ主体の個人データを利用できるようにし、またデータ主体が GDPR に基づく権利を行使する際に、データ主体の要求を遂行できるようにします。Microsoft は、製品の機能性と、データ処理者としての役割に対応した方法でこの処理を行います。Microsoft がお客様のデータ主体から GDPR の権利を 1 つ以上行使する要請を受けた場合、その要請はデータ管理者に案内されます。<br><br> Azure Data Subject Requests Guide に、Azure の機能を使用してデータ主体の権利に対応する方法が説明されています。 <br><br> Microsoft プライバシー ステートメントに明記されているように、正当な業務をサポートするために処理された個人データに対して GDPR に基づき権利を行使するデータ主体からの要求は、Microsoft に転送する必要があります。 <br><br> Microsoft は、通常、正当な業務のために使用する前に個人データを集計するため、その集計内から特定の個人の個人データを特定することはできません。 これにより、個人に対するプライバシー リスクを大幅に軽減します。  Microsoft が個人を特定できない場合、データ主体のアクセス、消去、移植性、処理の制限または異議に対するデータ主体の権利をサポートできません。 <br><br> [Azure Data Subject Request GDPR Documentation](https://servicetrust.microsoft.com/ViewPage/GDPRDSR) に、Azure の機能を使用してデータ主体の権利に対応する方法が説明されています。 |
 | 目的に対する処理作業の必要性および比例性の評価 | このような評価は、データ管理者のニーズと処理の目的に応じて異なります。<br><br> Microsoft は、正当な業務をサポートするために Microsoft が使用する個人データの匿名化または集計などの手段を講じて、サービスのプロビジョニングをサポートし、データを使用するデータ主体に対するこのような処理のリスクを最小化します。 <br><br> Microsoft により実行される処理に関して、このような処理はサービスをデータ管理者に提供する目的のために必須であり、またこの目的に合致しています。Microsoft は OST にこの内容を明記しています。 |
 | データ主体の権利および自由に関するリスクの評価 | Microsoft Azure の使用に伴うデータ主体の権利および自由に関する主なリスクは、データ管理者が Microsoft Azure を導入、構成、使用する方法およびその文脈に対応します。<br><br> ただし、どのサービスでも言えることですが、サービスに保持される個人データには、不正なアクセスや不注意による漏洩のリスクがあります。このようなリスクに対する Microsoft の対策については OST に記載されており、この記事でも詳しく後述します。 |

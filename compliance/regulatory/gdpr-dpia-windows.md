@@ -2,7 +2,7 @@
 title: データ保護影響評価 (DPIA) - Windows 診断データ プロセッサ構成を使用するコントローラーのガイダンス
 description: Windows Enterprise 向けデータ プロセッサー サービス を使用するときに、データ保護影響評価 (DPIA) が必要かどうかを判断する情報を見つけます。
 keywords: DPIA、Microsoft 365、Microsoft 365 Education、Microsoft 365 ドキュメント、GDPR
-localization_priority: Priority
+ms.localizationpriority: high
 ROBOTS: NOINDEX, NOFOLLOW
 ms.prod: microsoft-365-enterprise
 ms.topic: article
@@ -18,12 +18,12 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 2dcfb419af60ae4d555ffb3686d107c3cd80808f
-ms.sourcegitcommit: 8bf2602d56eedee4447ddb374ef95b0587f254e7
+ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53377694"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482430"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>データ保護影響評価: Windows 診断データ プロセッサ構成を使用するコントローラーのガイダンス
 
@@ -62,11 +62,11 @@ GDPR の第 35 条では、「特に新たな技術を用いるなどのある�
 
 | DPIA の要素 | Windows 診断データ プロセッサ構成に関する関連情報 |
 |:---|:---|
-| 処理の目的 | Windows 診断データ プロセッサ構成に従って収集された診断データを処理する目的は、それを実装、構成、および使用する管理者により決定されます。 <br><br> Microsoft は、データ 処理者として、Microsoft 製品条項の条項に従って Windows 診断データを処理します。 <br><br> また、Microsoft では、以下により構成される限定的で正当な業務をサポートするために個人データを使用します。 (1) 課金およびアカウント管理。 (2) 報酬 (従業員の歩合の算出、パートナー インセンティブの算出など)。 (3) 内部レポートおよびモデリング (たとえば、予測、収益、キャパシティ プランニング、製品戦略)。 (4) 詐欺、サイバー犯罪、または Microsoft または Microsoft 製品に影響を与える可能性があるサイバー犯罪やサイバー攻撃に対する対処。 (5) アクセシビリティ、プライバシー、エネルギー効率のためのコア機能の強化。 (6) 財務報告および法的義務の遵守 （Windows 診断データの開示に関する制限の対象となる）。 <br><br> Microsoft は、これらの特定の正当な業務に対するWindows 診断データ処理の管理者です。 一般に、Microsoft は正当な業務に使用する前にWindows 診断データを集計し、Microsoft が特定の個人を特定できないようにし、正当な業務に必要な処理をサポートする最も識別ができない形式で Windows 診断データを使用します。 <br><br> Microsoft は、Windows 診断データ プロセッサ構成が有効になっている場合に収集されたWindows 診断データ、またはそこから派生した情報を広告または同様の商用目的のために使用しません。|
-| 処理される個人データのカテゴリ | **Windows 診断データ** - Windows デバイスから取得する、デバイスおよび Windows と関連ソフトウェアの実行方法に関する重要な技術データです。 これは、Windows を最新の状態に保ち、セキュリティで保護され、信頼性が高く、パフォーマンスを高め、製品の改善を行うために使用されます。 Windows 診断データの例としては、使用されているハードウェアの種類、それぞれの使用法でインストールされたアプリケーション、デバイス ドライバーの信頼性情報などがあります。 一部の Windows コンポーネントやアプリは Microsoft サービスに直接接続しますが、それらがやり取りするデータは Windows 診断データではありません。 たとえば、ユーザーの現在地を地域の天気やニュースに交換することは、Windows 診断データの一例ではありません。 <br><br> Windows 診断データ プロセッサ構成を使用する場合のデータ処理の詳細については、[組織の Windows 診断データの構成](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)と [Microsoft Trust Center](https://www.microsoft.com/trust-center) を参照してください。|
+| 処理の目的 | Windows 診断データ プロセッサ構成に従って収集された診断データを処理する目的は、それを実装、構成、および使用する管理者により決定されます。 <br><br> Microsoft は、データ 処理者として、Microsoft 製品条項の条項に従って Windows 診断データを処理します。 <br><br> また、Microsoft では、以下により構成される限定的で正当な業務をサポートするために個人データを使用します。 (1) 課金およびアカウント管理。 (2) 報酬 (従業員の歩合の算出、パートナー インセンティブの算出など)。 (3) 内部レポートおよびモデリング (たとえば、予測、収益、キャパシティ プランニング、製品戦略)。 (4) 詐欺、サイバー犯罪、または Microsoft または Microsoft 製品に影響を与える可能性があるサイバー犯罪やサイバー攻撃に対する対処。 (5) アクセシビリティ、プライバシー、エネルギー効率のためのコア機能の強化。 (6) 財務報告および法的義務の遵守 （Windows 診断データの開示に関する制限の対象となる）。 <br><br> Microsoft は、これらの特定の正当な業務に対する Windows 診断データの処理の管理者です。一般に、Microsoft は正当な業務に使用する前に Windows 診断データを集計し、特定の個人を特定する Microsoft の能力を排除し、正当な業務に必要な処理をサポートする最も識別可能性の低い形式で Windows 診断データを使用します。 <br><br> Microsoft は、Windows 診断データ プロセッサ構成が有効になっている場合に収集されたWindows 診断データ、またはそこから派生した情報を広告または同様の商用目的のために使用しません。|
+| 処理される個人データのカテゴリ | **Windows 診断データ** - Windows デバイスから取得する、デバイスおよび Windows と関連ソフトウェアの実行方法に関する重要な技術データです。 これは、Windows を最新の状態に保ち、セキュリティで保護され、信頼性が高く、パフォーマンスを高め、製品の改善を行うために使用されます。 Windows 診断データの例としては、使用されているハードウェアの種類、それぞれの使用法でインストールされたアプリケーション、デバイス ドライバーの信頼性情報などがあります。 一部の Windows コンポーネントやアプリは Microsoft サービス に直接接続しますが、それらが交換するデータは Windows 診断データ ではありません。 たとえば、ユーザーの現在地を地域の天気やニュースに交換することは、Windows 診断データの一例ではありません。 <br><br> Windows 診断データ プロセッサ構成を使用する場合のデータ処理の詳細については、[組織の Windows 診断データの構成](/windows/privacy/configure-windows-diagnostic-data-in-your-organization)と [Microsoft Trust Center](https://www.microsoft.com/trust-center) を参照してください。|
 | データ保存期間 | Microsoft は、Windows 診断データ プロセッサ構成が Microsoft 製品条項に従って有効になっているときに収集された Windows 診断データを保持し、処理します。 お客様は、「[GDPR および CCPA に関するプロセッサ構成のデータ主体要求に関する Windows 診断データ](gdpr-dsr-windows.md)」で説明されている機能を使用して、データ主体要求に従って Windows 診断データを削除およびエクスポートできます。|
 | 個人データの保存場所と移転 | Windows 診断データ プロセッサ構成が有効になっているときに収集される Windows 診断データは、米国の Microsoft データ センターに常駐します。 |
-| 第三者とのデータの共有 | Microsoft は、お客様とテクニカル サポート、サービス メンテナンス、その他の運用などの機能をサポートするために、Microsoft の二次処理者 (つまり、個人データを処理する下請業者) として機能する第三者とデータを共有する場合があります。 Microsoft が、Windows 診断データプロセッサ構成またはサポート データに従って収集 Windows 診断データを転送する下請業者は、Microsoft 製品条項の条項と同じように保護する書面による契約を Microsoft と締結します。 Windows 診断データまたはサポート データを共有するすべてのサード パーティの下請業者は、[下請業者のリスト](https://www.microsoft.com/ja-JP/trust-center/privacy/data-access#subcontractors)に含まれています (「サブプロセッサーによるアクセスを制限する」を参照してください)。 <br><br>Windows 診断データプロセッサ構成およびサポート データに従って収集されたWindows 診断データに対する法執行機関およびサード パーティの要求に対する Microsoft の対応に関する情報は、Microsoft 製品条項に記載されています。Microsoft が法的に禁止されている場合を除き、Microsoft は法執行機関または第三者をお客様に直接リダイレクトすることを試みます。 |
+| 第三者とのデータの共有 | Microsoft は、お客様とテクニカル サポート、サービス メンテナンス、その他の運用などの機能をサポートするために、Microsoft の二次処理者 (つまり、個人データを処理する下請業者) として機能する第三者とデータを共有する場合があります。 Microsoft が、Windows 診断データプロセッサ構成またはサポート データに従って収集 Windows 診断データを転送する下請業者は、Microsoft 製品条項の条項と同じように保護する書面による契約を Microsoft と締結します。 Windows 診断データまたはサポート データを共有するすべてのサード パーティの下請業者は、[下請業者のリスト](https://www.microsoft.com/en-us/trust-center/privacy/data-access#subcontractors)に含まれています (「サブプロセッサーによるアクセスを制限する」を参照してください)。 <br><br>Windows 診断データプロセッサ構成およびサポート データに従って収集されたWindows 診断データに対する法執行機関およびサード パーティの要求に対する Microsoft の対応に関する情報は、Microsoft 製品条項に記載されています。Microsoft が法的に禁止されている場合を除き、Microsoft は法執行機関または第三者をお客様に直接リダイレクトすることを試みます。 |
 | データ主体の権利 | マイクロソフトは処理者として、お客様 (データ管理者) に対し、データ主体の個人データを利用できるようにし、またデータ主体が GDPR の権利を行使する際に、データ主体の要求を遂行できるようにします。マイクロソフトは、製品の機能性と、データ処理者としての役割に対応した方法でこの処理を行います。マイクロソフトがお客様のデータ主体から GDPR の権利を 1 つ以上行使する要請を受けた場合、その要請はデータ管理者に案内されます。<br><br> [Windows 診断データプロセッサ構成の GDPR および CCPA のデータ主体要求](gdpr-dsr-windows.md)では、Windows 診断データプロセッサの構成に従って収集された Windows 診断データのデータ主体の権利をサポートする方法について説明します。 |
 | 目的に対する処理作業の必要性および比例性の評価 | このような評価は、データ管理者のニーズと処理の目的に応じて異なります。 <br><br> Microsoft によって実行される処理に関しては、このような処理が必要であり、Microsoft 製品条項に反映される処理の目的に比例します。 |
 | データ主体の権利および自由に関するリスクの評価 | Windows 診断データ プロセッサ構成に従って収集された Windows 診断データの使用によるデータ主体の権利と自由に対する主なリスクは、データ管理者が Windows 診断データを実装、構成、および使用する方法とそのコンテキストの関数です。 <br><br> Windows 診断データ プロセッサの構成に従って収集されたWindows 診断データは、不正アクセスや不注意による開示の危険にさらされる可能性があります。 このようなリスクに対処するために Microsoft が講じる対策については、Microsoft 製品条項に記載されています。 |

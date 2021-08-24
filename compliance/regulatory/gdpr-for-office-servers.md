@@ -9,17 +9,17 @@ manager: pamgreen
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
-localization_priority: Priority
+ms.localizationpriority: high
 titleSuffix: Microsoft GDPR
 ms.collection: MS-Compliance
 ms.custom: seo-marvel-apr2020
 hideEdit: true
-ms.openlocfilehash: 58f3d9108fe36175c2ce879054a35c2cc94d93c8
-ms.sourcegitcommit: 024137a15ab23d26cac5ec14c36f3577fd8a0cc4
+ms.openlocfilehash: d9a84e886fc81d760e249180c603432ca45c2e65
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "51496077"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58482340"
 ---
 # <a name="gdpr-for-office-on-premises-servers"></a>オンプレミス サーバー上の Office の GDPR
 
@@ -60,4 +60,4 @@ GDPR について、また Microsoft による支援方法の詳細について�
 |監視する|SIEM ツールとのログ統合|SIEM ツールとのログ統合|SIEM ツールとのログ統合|SIEM ツールとのログ統合|SIEM ツールとのログ統合|
 |
 
-<sup>\*</sup>保護機能によってファイルが暗号化されることに注意してください。 その結果、SharePoint Server では、保護されたファイルの機密情報の種類を検索できなくなります。
+<sup>\*</sup> 保護機能によってファイルが暗号化されることに注意してください。結果として、SharePoint Server では、保護されたファイルの機密情報の種類を検索できなくなります。
