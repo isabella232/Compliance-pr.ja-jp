@@ -2,7 +2,7 @@
 title: 国立標準技術研究所 (NIST) サイバーセキュリティ フレームワーク (CSF)
 description: Microsoft Cloud Services は、国立標準技術研究所 (NIST) のサイバーセキュリティ フレームワーク (CSF) を満たしています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 84a7515c8d23a3e224118bbf56175e6ec79f1ecb
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: aef50dc21274c863708c5b5d774b401e91407114
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259796"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480519"
 ---
 # <a name="national-institute-of-standards-and-technology-nist-cybersecurity-framework-csf"></a>国立標準技術研究所 (NIST) サイバーセキュリティ フレームワーク (CSF)
 

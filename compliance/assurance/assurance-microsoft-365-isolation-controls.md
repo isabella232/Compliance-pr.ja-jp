@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 2278a2475887e93733ce32b82a1d7d0b15cce91a1f1e70dbe72a6469bdd3e0b7
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 0139d8182cf9e662e9985faf4a7fd6025fea363a
+ms.sourcegitcommit: 61357661caf64eeb9143046b4dd66c83e1439ee3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54290604"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58470810"
 ---
 # <a name="microsoft-365-isolation-controls"></a>Microsoft 365 の分離コントロール
 
@@ -53,7 +53,7 @@ Microsoft 365 では、Microsoft 365 サービスやアプリケーションを�
 
 - 各テナント内の顧客コンテンツの論理的な分離は、Microsoft 365アクセス制御とロールベースAzure Active Directoryによって実現されます。
 - SharePointOnline は、ストレージ レベルでのデータ分離メカニズムを提供します。
-- Microsoft では、厳密な物理的セキュリティ、バックグラウンド スクリーニング、多層暗号化戦略を使用して、顧客コンテンツの機密性と整合性を保護します。 すべてのMicrosoft 365は生体認証アクセス制御を備え、ほとんどの場合、物理的なアクセスを得るために手のひらの印刷が必要です。 さらに、米国に拠点を置く Microsoft のすべての従業員は、採用プロセスの一環として標準のバックグラウンド チェックを正常に完了する必要があります。 管理アクセスに使用されるコントロールの詳細については、「Microsoft 365アクセス制御」を[参照Microsoft 365してください](assurance-administrative-access-controls-overview.md)。
+- Microsoft では、厳密な物理的セキュリティ、バックグラウンド スクリーニング、多層暗号化戦略を使用して、顧客コンテンツの機密性と整合性を保護します。 すべてのMicrosoft 365は生体認証アクセス制御を備え、ほとんどの場合、物理的なアクセスを得るために手のひらの印刷が必要です。 さらに、米国に拠点を置く Microsoft のすべての従業員は、採用プロセスの一環として標準のバックグラウンド チェックを正常に完了する必要があります。 管理アクセスに使用されるコントロールの詳細については、「Microsoft 365アカウント管理[」を参照Microsoft 365してください](assurance-microsoft-365-account-management.md)。
 - Microsoft 365は、BitLocker、ファイルごとの暗号化、トランスポート層セキュリティ (TLS)、インターネット プロトコル セキュリティ (IPsec) などの、保存中および転送中の顧客コンテンツを暗号化するサービス側テクノロジを使用します。 暗号化の詳細については、「Microsoft 365 のデータ暗号化テクノロジ」[を参照Microsoft 365。](/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview)
 
 上記の保護を組み合わせて、物理的な分離によって提供されるのと同等の脅威保護と軽減策を提供する堅牢な論理分離制御を提供します。

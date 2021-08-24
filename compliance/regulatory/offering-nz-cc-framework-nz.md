@@ -2,7 +2,7 @@
 title: ニュージーランド政府機関向けクラウド コンピューティングのセキュリティとプライバシーに関する考慮事項
 description: Microsoft NZ は、ニュージーランドのクラウド コンピューティング フレームワークで公開されている質問に対応します。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: f135cf64356a55ba3ed6c0010e8273d2854c005e
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 2e6dc7b7dcd59e3d82d6787b59f698c621f119bb
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259816"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480489"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ニュージーランド政府機関の情報セキュリティとプライバシーに関する考慮事項 (ISPC)
 
@@ -43,7 +43,7 @@ NZ 政府機関が潜在的なクラウド ソリューションに関する一�
 - [Dynamics 365](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 
 ## <a name="office-365-and-ispc"></a>Office 365 ISPC
 

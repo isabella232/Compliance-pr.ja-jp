@@ -2,7 +2,7 @@
 title: Web Content Accessibility Guidelines
 description: Microsoft は、完全な製品やサービス、または個別にインストールできる製品の一部を反映した WCAG AA レポートを発行しています。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: a8441c6ea20f5429a5e760cef307a132fab9559b
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260900"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481169"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Web Content Accessibility Guidelines
 

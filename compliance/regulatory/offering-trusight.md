@@ -2,7 +2,7 @@
 title: TruSight
 description: TruSight では、金融サービスの顧客についての厳しい要件を満たすために策定された Microsoft クラウド サービスの包括的なリスク評価を実施しました。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: Priority
+ms.localizationpriority: high
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 0e9a29d85fcf58b31c1ba14cd115741396be79fa3b42dc6ceb09e262845376fb
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: 812e64e9e66218abc402b012f57a18bb6bbf357f
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54293954"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58480429"
 ---
 # <a name="trusight"></a>TruSight
 
@@ -70,4 +70,4 @@ Microsoft の場合は、BPQ 要件に従って統制が計画され、実施さ
 - [Azure における金融サービス コンプライアンス](https://aka.ms/FinServ-Compliance-Azure)
 - [Microsoft 法人向けクラウド サービスおよび金融サービス](https://aka.ms/FinServ-Compliance)
 - [クラウド コンピューティングの共同責任](https://aka.ms/sharedresponsibility)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

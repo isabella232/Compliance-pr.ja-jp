@@ -2,7 +2,7 @@
 title: 米国内歳入サービス発行 1075
 description: Microsoft には、米国内歳入サービス文書 1075 の要件を満たすコントロールがあります。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 11fcdc23347500265e8eb46cf33195c66a4708d1
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260910"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481039"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>米国内歳入サービス発行 1075
 
@@ -52,7 +52,7 @@ FedRAMP 認証は、NIST ガイドライン (低、中、高) に基づいて 3 
 - Azure および Azure Government
 - Dynamics 365 米国政府機関
 - Office 365 Office 365米国政府
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 
 ## <a name="azure-dynamics-365-and-irs-1075"></a>Azure、Dynamics 365、IRS 1075
 

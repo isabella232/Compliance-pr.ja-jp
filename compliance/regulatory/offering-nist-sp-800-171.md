@@ -1,8 +1,8 @@
 ---
 title: NIST SP 800-171
 description: Microsoft クラウド サービスは NIST SP 800-171 ガイドラインに準拠し、非プラットフォーム情報システムで制御された未分類情報 (CUI) を保護します。
-keywords: Microsoft 365、コンプライアンス、オファリング
-localization_priority: None
+keywords: Microsoft 365、コンプライアンス、サービス
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 4b5f8bfd19193b3a05b5ffa6476271bc6da05c7ec1c669a2f1614535a54942e1
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: bce6847fe4c0cd1541348b70aadacc9c13238c31
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54294304"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481139"
 ---
 # <a name="nist-sp-800-171"></a>NIST SP 800-171
 
@@ -44,7 +44,7 @@ NIST SP 800-171 の要件は、FedRAMP が使用する標準である NIST SP 80
 
 米国政府の CUI (研究機関、コンサルティング会社、製造請負業者) を処理または保存するエンティティは、NIST SP 800-171 の厳しい要件に準拠する必要があります。 この構成証明により、Microsoft のスコープ内クラウド サービスは、Microsoft が完全に準拠しているという保証を受け、CUI ワークロードの展開を探しているお客様に対応できます。 たとえば、情報システムでスコープ内の Microsoft クラウド サービスを使用して「対象となる防御情報」を処理、保存、または送信するすべての DoD 請負業者は、NIST SP 800-171 のセキュリティ要件に準拠する必要がある米国国防総省 DFARS 条項を満たしています。
 
-## <a name="microsoft-in-scope-cloud-platforms--services"></a>Microsoft が提供範囲とするクラウド プラットフォームとサービス
+## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure Commercial, Azure Government
 - Dynamics 365 米国政府機関
@@ -57,7 +57,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 ## <a name="office-365-and-nist-sp-800-171"></a>Office 365 NIST SP 800-171
 
-### <a name="office-365-cloud-environments"></a>Office 365 クラウド環境
+### <a name="office-365-cloud-environments"></a>Office 365 のクラウド環境
 
 [!INCLUDE [Office 365 offering intro](../includes/o365-offering-introduction.md)]
 

@@ -2,7 +2,7 @@
 title: イギリス Government-Cloud (G-Cloud)
 description: クラウン 商用サービスは、Microsoft クラウド サービスの分類を Government Cloud v.6 に更新しました。
 keywords: Microsoft 365、コンプライアンス、サービス
-localization_priority: None
+ms.localizationpriority: medium
 ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 2ed9ba3e08dd75bd0d3209826497de80fc3781c4
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
+ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58260941"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58481049"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>イギリス Government-Cloud (G-Cloud)
 
