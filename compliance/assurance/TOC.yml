@@ -80,8 +80,8 @@
       href: assurance-identity-and-access-management.md
     - name: Azure のカスタマー ロックボックス
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Microsoft 365 の管理アクセス制御
-      href: assurance-administrative-access-controls-overview.md
+    - name: Microsoft 365 のアカウント管理
+      href: assurance-microsoft-365-account-management.md
     - name: Microsoft 365 のテクノロジ制御
       href: assurance-technology-controls.md
     - name: Office 365 のカスタマー ロックボックス
