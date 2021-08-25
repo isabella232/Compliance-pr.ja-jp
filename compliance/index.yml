@@ -28,7 +28,7 @@ highlightedContent:
       url: /learn/paths/compmgmt/
     - title: コンプライアンス ソリューション ガイドMicrosoft 365を開始する
       itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
+      url: /microsoft-365/solutions/
 productDirectory:
   title: 業界&準拠に関する規制
   summary: 国内の標準および規制に関する業界分野&準拠に関する Microsoft のガイダンス。

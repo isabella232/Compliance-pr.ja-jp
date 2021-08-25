@@ -16,20 +16,18 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: ad57ba94dbb79e1e8d5536598ef4e2fd3f0fbf55
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482250"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505910"
 ---
 # <a name="european-union-model-clauses"></a>欧州連合モデル条項
 
 ## <a name="european-union-model-clauses-overview"></a>欧州連合モデル条項の概要
 
-欧州連合 (EU) のデータ保護法では、EU の顧客の個人データを欧州経済領域) EEA (すべての EU 加盟国、アイスランド、リヒテンシュタイン、およびノルウェーが含まれる) の外部の国へ転送することは規制されています。 EU モデル契約条項は、EEA から出ていくすべての個人データが EU データ保護法に準拠して転送され、EUデータ保護指令 95/46/EC (EU データ保護条令 95/46/EC) の要件を満たすように、サービス プロバイダー (Microsoft など) とその顧客との間の契約に使用される標準化された契約条項です。
-
-実務上は、EU データ保護法に準拠していれば、個人データを EU 外に転送するための承認を顧客が個別の機関から取得する必要はほとんどありません。モデル条項に準拠している契約に基づいた転送である場合、ほとんどの EU 加盟国では追加の承認は要請されないためです。
+欧州連合 (EU) のデータ保護法では、EU の顧客の個人データを欧州経済領域) EEA (すべての EU 加盟国、アイスランド、リヒテンシュタイン、およびノルウェーが含まれる) の外部の国へ転送することは規制されています。 実務上は、EU データ保護法に準拠していれば、個人データを EU 外に転送するための承認を顧客が個別の機関から取得する必要はほとんどありません。モデル条項に準拠している契約に基づいた転送である場合、ほとんどの EU 加盟国では追加の承認は要請されないためです。
 
 ## <a name="microsoft-and-european-union-model-clauses"></a>Microsoft と欧州連合モデル条項
 
@@ -71,10 +69,6 @@ Microsoft は EU 規格を継続的に調べ、必要に応じてサービスを
 
 ## <a name="frequently-asked-questions"></a>よく寄せられる質問
 
-**EU データ保護条令 95/46/EC とは何ですか?**
-
-この条令では、EU での個人データの取り扱いに関する基本が設定されています。 Microsoft が個人データを EU から転送する際の規制の枠組みが提供されています。 この条令および契約上の同意の下で、Microsoft は顧客データのデータ処理者の役割を担います。 顧客は、データの最終的な所有権を持ちデータが EEA 外での処理用に Microsoft に合法的に提供されることを保証する責任があるデータ管理者の役割を担います。
-
 **モデル条項への準拠が重要なのはなぜですか?**
 
 モデル条項への契約責任を表明したサービス プロバイダーは、個人データが EU データ保護法に準拠して転送および処理されることを顧客に確約します。 モデル条項を使用していれば、個人データを EU 外に転送するための承認を顧客が個々のデータ保護機関から取得する必要はほとんどありません。
@@ -93,6 +87,7 @@ Microsoft は EU 規格を継続的に調べ、必要に応じてサービスを
 
 ## <a name="resources"></a>リソース
 
+- [Azure コンプライアンスのドキュメント](/azure/compliance/)
 - [EU 標準組織](https://eur-lex.europa.eu/)
 - [EU モデル条項](https://aka.ms/EU-model_clauses)
 - [EU データ保護条令](https://aka.ms/EU-DPD)

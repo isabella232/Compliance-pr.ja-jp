@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: aea00230d5f34c2e682aa278ab5dc6ca062fa803
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: f8c99a93cac767439d157a7d709c7ed1d706c113
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482480"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505940"
 ---
 # <a name="health-data-hosting-hds-france"></a>健康データ ホスティング (HDS) フランス
 
@@ -48,7 +48,11 @@ HDS 認定により、フランスの医療提供者は Microsoft クラウド �
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
-- [Azure](https://aka.ms/AzureCompliance)。 HDS 証明書は Azure コンプライアンス サービスの ISO/IEC 27001 規格に準拠しているものとしてリストされ、フランス中部、フランス南部、ヨーロッパ西部、ヨーロッパ北部の Azure リージョンからプロビジョニングされた Azure サービスに適用されます。
+- [Azure](https://aka.ms/AzureCompliance)。 HDS 証明書は、Azure コンプライアンス オファーの ISO/IEC 27001 標準に準拠しているものとしてリストされており、次のリージョンでプロビジョニングされている Azure サービスに適用されています。
+    - フランス セントラル (パリ)
+    - フランス南 (マルセイユ)
+    - 北ヨーロッパ (アイルランド)
+    - 西ヨーロッパ (オランダ)
 - Dynamics 365。 HDS 証明書は、フランスおよび欧州連合地域からプロビジョニングされた Dynamics 365 [コア オンライン サービス](https://aka.ms/Online-Services-Terms)に適用されます。
 - Intune
 - Microsoft 365。 HDS 証明書は、フランスおよび欧州連合地域からプロビジョニングされた Office 365 [コア オンライン サービス](https://aka.ms/Online-Services-Terms)に適用されます。
@@ -58,10 +62,7 @@ HDS 証明書は、プレビューまたはプレリリースの Microsoft オ�
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
-HDS 認証は 3 年間有効です。
-
-- HDS: 2018: [ASIP SANTÉ](https://esante.gouv.fr/)
-- [BSI グループ](https://www.bsigroup.com/fr-FR/Nos-services/Certification/Recherche-dans-le-repertoire-des-certificats-et-des-clients/Resultats-de-la-recherche-dans-le-repertoire-des-certificats-et-des-clients/?searchkey=licence%3dHDS%2b701569%26company%3dMicrosoft%2bCorp&licencenumber=HDS%20701569)
+[HDS 証明書](https://esante.gouv.fr/labels-certifications/hebergement-des-donnees-de-sante)では、機密性の高いデータの機密性と整合性を適切に保護するために、ホスティング サービスとクラウド プロバイダーに高度なセキュリティとプライバシー要件が課されています。 Microsoft クラウド サービス (Azure を含む) は、[HDS 認定ホスト](https://esante.gouv.fr/labels-certifications/hds/liste-des-herbergeurs-certifies)の ASIP Santé 一覧に示されているように、HDS 認定が付与されています。
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -70,6 +71,7 @@ HDS 認証は 3 年間有効です。
 
 ## <a name="resources"></a>リソース
 
+- [Azure コンプライアンスのドキュメント](/azure/compliance/)
 - [マイクロソフト オンライン サービス条件](https://aka.ms/Online-Services-Terms)
 - [Microsoft HDS 認証のブログ](https://news.microsoft.com/2018/11/06/microsoft-1er-acteur-majeur-du-cloud-public-a-etre-certifie-hebergeur-de-donnees-de-sante-en-france/)
 - [Azure フランス](https://azure.microsoft.com/global-infrastructure/france/)

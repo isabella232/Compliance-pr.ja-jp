@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3084bc6e70bb1c2d9aa1e199a8e1bc4bde8fb2b5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 18da1f6b422327f42dc517fa0f9c8abe9c91e253
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482500"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505920"
 ---
 # <a name="center-for-internet-security-cis-benchmarks"></a>Center for Internet Security (CIS) ベンチマーク
 
@@ -42,13 +42,17 @@ CIS ベンチマークは、2 つのレベルのセキュリティ設定を提�
 
 ## <a name="microsoft-and-the-cis-benchmarks"></a>Microsoft と CIS ベンチマーク
 
-Center for Internet Security (CIS) は、Microsoft Azure および Microsoft 365 基礎ベンチマーク、Windows 10 ベンチマーク、Windows Server 2016 ベンチマークなどを含む Microsoft 製品およびサービスのベンチマークを公開しています。  
+Center for Internet Security (CIS) は、Microsoft Azure および Microsoft 365 基礎ベンチマーク、Windows 10 ベンチマーク、Windows Server 2016 ベンチマークなどを含む Microsoft 製品およびサービスのベンチマークを公開しています。 [CIS Microsoft Azure 基礎ベンチマーク](https://www.cisecurity.org/benchmark/azure/)は、Azure を組み込んだソリューションの開発、展開、評価、またはセキュリティ保護を計画しているお客様を対象としています。 このドキュメントでは、Azure の安全なベースライン構成を確立するための規範的なガイダンスを提供します。
   
 CIS ベンチマークは、IT システムおよびデータをサイバー攻撃から守るためのセキュリティ規格として国際的に認められています。 何千もの企業で採用され、安全なベースライン構成を確立するための規範的なガイダンスを提供します。 システムおよびアプリケーションの管理者、セキュリティ スペシャリスト、および Microsoft 製品とサービスを使用してソリューションを開発するその他のユーザーは、これらのベスト プラクティスを使用してアプリケーションのセキュリティを評価および改善することができます。  
   
 すべての CIS ベンチマークと同様に Microsoft ベンチマークは、ソフトウェア開発、監査とコンプライアンス、セキュリティ研究、運用、政府、法律に及ぶさまざまなバックグラウンドを持つ内容領域専門家からの情報提供に基づくコンセンサス レビュー プロセスを使用して作成されました。 Microsoft は、これらの CIS の取り組みにおいて不可欠なパートナーでした。 たとえば、リストされたサービスに対して Office 365 がテストされ、その結果となる Microsoft 365 基礎ベンチマークは、アカウントと認証、データ管理、アプリケーションのアクセス許可、ストレージ、およびその他のセキュリティ ポリシー領域を対象とした適切なセキュリティ ポリシーを設定するための幅広い推奨事項をカバーしています。  
   
-CIS は、Microsoft 製品およびサービスのベンチマークに加えて、CIS ベンチマークを満たすように構成された [Azure 仮想マシンでの使用するための CIS ハードニング済みイメージ](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)も公開しています。 それらには、Azure 上での実行が保証された Microsoft Windows Server 2016 向け CIS ハードニング済みイメージが含まれます。 CIS は、[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=center%20for%20internet%20security) で利用可能なすべての CIS 強化されたイメージが、Azure で実行されることが認定されていることを示しています。 これらは、クラウド OS ネットワークを介してプロバイダによってホストされている Microsoft Cloud プラットフォーム、およびカスタマーによって管理されているオンプレミスのプライベート クラウド Windows Server Hyper-v 展開を介して、Azure パブリッククラウドとの変換準備と互換性を事前テスト済みです。
+CIS は、Microsoft 製品およびサービスのベンチマークに加えて、CIS ベンチマークを満たすように構成された [Azure での CIS ハードニング済みイメージ](https://www.cisecurity.org/cis-hardened-images/microsoft/)も公開しています。これは、Microsoft Azure Marketplace から入手できます。 これらのイメージには、Windows Server 2016、Windows Server 2019、Linux の多くのバージョンに対応する CIS ハードニング済みイメージが含まれます。 Azure Marketplace で利用可能なすべての CIS ハードニング済みイメージは、Microsoft Azure での実行が保証されています。 [CIS が述べているように](https://www.cisecurity.org/blog/cis-hardened-images-now-in-microsoft-azure-marketplace/)、Microsoft Azure パブリック クラウド、クラウド OS ネットワークを介してサービス プロバイダーがホストする Microsoft Cloud プラットフォーム、およびお客様が管理するオンプレミスのプライベート クラウド Windows Server Hyper-V 展開への用意および互換性は、事前テスト済みです。
+
+[CIS ハードニング済みイメージ](https://www.cisecurity.org/cis-hardened-images/)は、レベル 1 またはレベル 2 の CIS ベンチマーク プロファイルへとハードニングされた CIS ベンチマークに基づき、安全に構成された仮想マシン イメージです。 ハードニングとは、システムをサイバー攻撃に対して脆弱にする潜在的な脆弱性を制限することにより、不正アクセス、サービス拒否 (DoS 攻撃)、およびその他のサイバー脅威からの保護を支援するプロセスです。 CIS ハードニング済みイメージは、Azure と Azure Government の両方で利用できます。
+
+お客様をさらにサポートするため、Microsoft は [Azure Blueprints](https://azure.microsoft.com/services/blueprints/) を提供しています。これは、Azure Resource Manager テンプレートなどの構成可能な成果物を使用してリソース、役割ベースのアクセス制御、ポリシーをプロビジョニングすることで、クラウド環境を繰り返し展開および更新するのに役立つサービスです。 Azure Blueprints を通してプロビジョニングされたリソースは、組織の標準、パターン、コンプライアンス要件に準拠します。 Azure Blueprints の包括的な目標は、クラウド環境におけるコンプライアンスとサイバーセキュリティのリスク管理を自動化することです。 CIS Azure 基礎ベンチマークの推奨事項を実装する必要のある Azure ベースのアーキテクチャに主要なポリシーのセットを展開することをサポートするため、Microsoft は [CIS Microsoft Azure 基礎ベンチマークのための Azure Blueprint](/azure/governance/blueprints/samples/cis-azure-1-3-0) を公開しました。 アーキテクチャに割り当てられると、リソースが割り当てられたポリシー定義に準拠しているかどうかが Azure Policy によって評価されます。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
@@ -94,7 +98,15 @@ CIS は、"ベンチマークは内容領域専門家、テクノロジ ベン�
 
 ## <a name="resources"></a>リソース
 
-- [Microsoft 365 を安全に使用するための CIS ベスト プラクティス](https://www.microsoft.com/security/blog/2019/01/10/best-practices-for-securely-using-microsoft-365-the-cis-microsoft-365-foundations-benchmark-now-available/)
+- [Azure コンプライアンスのドキュメント](/azure/compliance/)
+- [Azure はコンプライアンスの世界を実現する](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365 コンプライアンスのサービス](/compliance/regulatory/offering-home)
+- [Microsoft トラスト センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [CIS Microsoft Azure 基礎ベンチマーク](https://www.cisecurity.org/benchmark/azure/)は、Azure のセキュリティ保護を順を追って説明するチェックリストを提供します。
+- [Microsoft Azure の CIS ハードニング済みイメージ](https://www.cisecurity.org/cis-hardened-images/microsoft/)は、Azure によって認定され、CIS ベンチマークのセキュリティ上の推奨事項を満たすように事前に設定されています。  これらは Azure と Azure Government の両方で利用できます。
+- [CIS Microsoft Azure 基礎ベンチマークのための Azure Blueprint](/azure/governance/blueprints/samples/cis-azure-1-3-0) は、お客様が CIS Azure 基礎ベンチマークの推奨事項を実装する必要のある Azure ベースのアーキテクチャに主要なポリシーのセットを展開するのに役立ちます。
+- [Azure Policy の推奨事項マッピング](/azure/governance/policy/samples/cis-azure-1-3-0)は、上記の Blueprint に含まれるポリシー定義の詳細と、これらのポリシー定義が CIS Microsoft Azure 基礎ベンチマークのコンプライアンス ドメインおよびコントロールにマップされる方法について説明します。 アーキテクチャに割り当てられると、リソースが割り当てられたポリシー定義に準拠しているかどうかが Azure Policy によって評価されます。
+- [CIS Controls クラウド コンパニオン ガイド](https://www.cisecurity.org/white-papers/cis-controls-cloud-companion-guide/)は、CIS Controls バージョン 7 のセキュリティ ベスト プラクティスをクラウド環境に適用するためのガイダンスを提供します。
+- [CIS Microsoft 365 基礎ベンチマーク](https://www.cisecurity.org/benchmark/microsoft_office/)は、Microsoft 365 の安全なベースライン構成を確立するための規範的なガイダンスを提供します。
 - [Windows 10 のセキュリティ ポリシー設定](/windows/security/threat-protection/security-policy-settings/security-policy-settings)
 - [Windows 10 Enterprise のセキュリティ](/windows/security/index)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
