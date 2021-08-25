@@ -17,30 +17,18 @@ metadata:
   ms.date: 11/30/2020
 highlightedContent:
   items:
-    - title: Microsoft 365 コンプライアンスを開始するためのクイック タスク
-      itemType: get-started
-      url: /microsoft-365/compliance/compliance-quick-tasks
-    - title: データプライバシー規制のための情報の展開保護
-      itemType: get-started
-      url: /microsoft-365/solutions/information-protection-deploy
-    - title: クラウドでの共有責任の詳細
-      itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility
     - title: Microsoft がお客様のデータを保護する方法について
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
+    - title: クラウドでの共有責任の詳細
+      itemType: overview
+      url: /azure/security/fundamentals/shared-responsibility
     - title: Microsoft コンプライアンス マネージャーの詳細
       itemType: learn
       url: /learn/paths/compmgmt/
-    - title: Microsoft 365 で insider リスクを管理する
-      itemType: learn
-      url: /learn/paths/m365-compliance-insider/
-    - title: 情報保護とガバナンスを管理する
-      itemType: learn
-      url: /learn/paths/m365-compliance-information/
-    - title: 詳細Advanced eDiscovery高度な監査について
-      itemType: learn
-      url: /learn/paths/compliance-discover/
+    - title: コンプライアンス ソリューション ガイドMicrosoft 365を開始する
+      itemType: get-started
+      url: /microsoft-365/solutions/information-protection-deploy
 productDirectory:
   title: 業界&準拠に関する規制
   summary: 国内の標準および規制に関する業界分野&準拠に関する Microsoft のガイダンス。

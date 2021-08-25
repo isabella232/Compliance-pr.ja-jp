@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e4fd87384f7be620ab755f29031b52e8877582ce
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
+ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482460"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505930"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>証券およびExchange委員会 (SEC) 規則 17a-4(f) 米国
 
@@ -39,21 +39,36 @@ SEC は、電子ストレージ メディア上の書籍やレコードを保持
 
 Microsoft Azureポリシー ロックStorageおよび保持ロック付き Microsoft Office 365 を使用した不変 Blob Microsoft Office 365 は、金融機関が SEC ルール 17a-4(f) の不変ストレージ要件を満たすのに役立ちます。
 
-Azure および Office 365 SEC Rule 17a-4(f) への準拠を評価するために、Microsoft はレコード管理と情報ガバナンスを専門とする独立した評価会社である Cohasset Associates を保持しました。 結果のレポートでは、次の情報を確認できます。
-
-- **Azure**: [SEC 17a-4(f)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=19b08fd4-d276-43e8-9461-715981d0ea20&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_GRC_Assessment_Reports)コンプライアンス評価: Microsoft Azure Storage 、 Cohasset は、時間ベースの BLOB を消去不可で書き換えできない (WORM) 形式で保持するために使用される場合、ポリシー ロック オプションを使用して [Azure Immutable Blob Storage](/azure/storage/blobs/storage-blob-immutable-storage)が SEC ルールの変更できないストレージ要件を満たしていることを検証しました。 各 BLOB (レコード) は、必要な保持期間が満了し、関連付けられた法的保持が解放されるまで、変更、上書き、または削除から保護されます。 機密性の高いワークロードを持つソフトウェア プロバイダーとパートナーは、レコード保持と不変ストレージの 1 つのショップ クラウド ソリューションとして Azure Immutable Blob Storage を利用できます。 金融機関は、コンプライアンスを維持しながら、これらの機能を利用して独自のアプリケーションを構築できます。
-- **Microsoft 365**: SEC [17a-4(f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)の要件に対して、Cohasset は Microsoft 365 に、ブローカー-ディーラを含む規制対象の顧客がレコード保持の SEC 要件に準拠する方法でデータを保存できるアーカイブ機能が含まれると検証しました。 メール、ボイスメールMicrosoft 365共有ドキュメント、インスタント メッセージ、サードパーティデータなど、さまざまなデータを保持するのに役立ちます。 特に、Microsoft 365 でのアーカイブを使用すると、ユーザーは、グローバルまたは詳細なメッセージング保持ポリシーを設定して、定義された期間以降のデータを書き換え不可の消去可能な形式で保存できます。
-
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - [Azure](https://gallery.technet.microsoft.com/Overview-of-Azure-c1be3942)
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
+
+## <a name="independent-assessments"></a>独立した評価
+
+Azure および Office 365 SEC Rule 17a-4(f) への準拠を評価するために、Microsoft はレコード管理と情報ガバナンスを専門とする独立した評価会社である Cohasset Associates を保持しました。
+
+### <a name="azure"></a>Azure
+
+[Azure BLOB ストレージの不変ストレージ](/azure/storage/blobs/storage-blob-immutable-storage) を使用すると、ユーザーは多くの (WORM) 状態を読み取った後に、ビジネスクリティカルなレコードを書き込みで保存できます。 この状態により、ユーザーが指定した間隔でデータを消去および変更できません。 保持期間の間は、BLOB を作成して読み取りできますが、変更または削除することはできません。 Azure 不変ストレージのこれらの機能は、お客様がレコード保持要件に対処するのに役立ちます。
+
+Microsoft は、レコード管理と情報ガバナンスを専門とする独立したサードパーティの評価会社を保持し、SEC Rule 17a-4(f) 要件に準拠した Azure BLOB ストレージの不変ストレージを評価しました。 結果のレポート *[Cohasset Assessment: Microsoft Azure WORM Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* 利用できます。
+
+*Azure Blobs* 機能の不変ストレージとロックされた時間ベースのポリシー オプションを持つ Azure Storageは、時間ベースの BLOB (レコード) を消去不可で書き換えできない形式で保持し、満たしているという評価者の意見です。 SEC ルール 17a-4(f)、FINRA [Rule 4511(c)](/azure/compliance/offering-finra-4511-us.md)の関連ストレージ要件、[および CFTC ルール 1.31(c)-(d)](offering-cftc-1-31-us.md)の原則に基づく要件を示します。
+
+要求に応じて、Microsoft は、電子ストレージ メディアを使用する少なくとも *90* 日前に指定された審査機関に通知するために、SEC 17a-4(f)(2) 要件を満たすために必要な 90 日間のレターを提供します。 規則に記載されている通り、「メンバー、ブローカー、またはディーラは、選択したストレージ メディアが、この段落 (f)(2)に記載されている条件を満たす適切な専門知識を持つ、ストレージ メディアベンダーまたは他の第三者から独自の表現または 1 つを提供する必要があります。 Microsoft *Attestation* of Electronic Storage Media Services for SEC Rule 17a-4 を取得するには [](https://azure.microsoft.com/support/create-ticket/)[、Azure](https://azure.microsoft.com/support/plans/)サポート プランをお持ちのお客様が Azure portal でサポート チケットを作成し、SEC ルール 17a-4 の構成証明レターを要求できます。 このドキュメントでは、Microsoft は SEC 17a-4(f)(2) の要件に関連する保証を提供します。
+
+### <a name="office-365"></a>Office 365
+
+[SEC 17a-4(f)](/microsoft-365/compliance/retention-regulatory-requirements#sec-17a-4f-finra-4511c-and-cftc-131c-d)の要件に対して、Cohasset は Microsoft 365 にアーカイブ機能が含まれており、ブローカー販売店を含む規制対象のお客様が、レコード保持の SEC 要件に準拠する方法でデータを保存できると検証しました。 メール、ボイスメールMicrosoft 365共有ドキュメント、インスタント メッセージ、サードパーティデータなど、さまざまなデータを保持するのに役立ちます。 特に、Microsoft 365 でのアーカイブを使用すると、ユーザーは、グローバルまたは詳細なメッセージング保持ポリシーを設定して、定義された期間以降のデータを書き換え不可の消去可能な形式で保存できます。
 
 ## <a name="audits-reports-and-certificates"></a>監査、レポート、証明書
 
 ### <a name="azure--sec-rule-17"></a>Azure & SEC ルール 17
 
 - [SEC 17a-4(f) & CFTC 1.31 (c-d) コンプライアンス評価のAzure Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)
+
+Microsoft *Attestation of electronic Storage Media Services* SEC Rule 17a-4 [](https://azure.microsoft.com/support/create-ticket/)は、Azure サポートを使用してサポート チケットを作成することで [要求できます](https://azure.microsoft.com/support/plans/)。 この構成証明書では、Microsoft は、お客様が SEC 17a-4(f)(2) の要件を遵守するのに役立つ保証を提供します。
 
 ### <a name="office-365--sec-rule-17"></a>Office 365 & SEC ルール 17
 
@@ -79,11 +94,12 @@ Microsoft クラウド サービスのリスク評価と規制当局の通知の
 
 ## <a name="resources"></a>リソース
 
+- [Azure コンプライアンスのドキュメント](/azure/compliance/)
+- [Azure でコンプライアンスの世界を有効にする](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [証券およびExchange委員会](https://www.sec.gov/)(SEC) ルール[17a-4](https://www.sec.gov/rules/final/34-38245.txt)
+- [Microsoft Cloud の金融サービス リソース](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
+- [Microsoft Cloud 金融サービスコンプライアンス プログラム](https://aka.ms/FSCP-Print)
+- [クラウド コンピューティングの規制原則と Microsoft オンライン サービスのコンプライアンス マップ](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=5b483567-00b0-4d86-96ae-ee887dadb61c&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_Compliance_Guides)
+- [Microsoft Cloud の金融機関のリスク評価とコンプライアンス ガイド](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)
+- [金融サービス業界の使用例](/azure/industry/financial/)
 - [アーカイブ、Microsoft Office 365保持、およびルール 17a-4 でのアーカイブ](https://www.microsoft.com/microsoft-365/blog/2015/11/10/office-365-exchange-online-archiving-now-meets-sec-rule-17a-4-requirements/)
-- [コンプライアンス Microsoft Financial Services](https://download.microsoft.com/download/6/4/7/64707E3E-6D3E-45D0-8207-A0EA3201B4A6/Microsoft%20Cloud%20-%20Financial%20Services%20Compliance%20Program%20\(Print\).pdf)
-- [コンプライアンス プログラム Microsoft ビジネス クラウド サービスと金融サービス](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
-- [Azure における金融サービス コンプライアンス](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure 金融サービス クラウド リスク評価ツール](https://servicetrust.microsoft.com/ViewPage/FFIECBlueprint?command=Download&downloadType=Document&downloadId=079a1973-711a-428f-9312-9ddd290cff7b&docTab=c726d5c0-2d1e-11e8-a485-57140ec19669_PaaS)
-- [Microsoft Office 365アイテム保持ポリシー](/office365/securitycompliance/retention-policies)
-- [Microsoft Financial Services Community](https://techcommunity.microsoft.com/t5/financial-services/ct-p/FinancialServices)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
