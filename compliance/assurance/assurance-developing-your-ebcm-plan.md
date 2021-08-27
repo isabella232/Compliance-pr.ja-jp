@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 71e84ad97c560cd90b8ba49a1c568dd70fd516f5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482070"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676786"
 ---
 # <a name="developing-your-business-continuity-plan"></a>ビジネス継続性計画の策定
 
@@ -83,7 +83,7 @@ ms.locfileid: "58482070"
 ビジネス プロセスのインベントリを作成し、他のプロセスやテクノロジとの関係のマッピングを行ったら、すべてのプロセスについて検証シナリオを作成する必要があります。 ビジネス プロセスの継続性計画を検証する方法を見つけることが中心になります。 おそらく、プロセスにより重要度が異なることが判明します。そのため、プロセスの優先順位付けを行う必要があります。
 計画の策定後は、インシデント対応および持続性対策に関して定期的に従業員のトレーニングを行うことが重要である点を忘れないでください。 各検証またはテストから得た内容を取り込んで復旧計画を強化するために、インシデント後のレビューを活用する必要があります。
 
-![visio の機能の検証](../media/capability-validation-visio.png)
+![機能検証 visio。](../media/capability-validation-visio.png)
 
 ## <a name="incident-coordination-and-communication"></a>インシデントの調整と通信
 

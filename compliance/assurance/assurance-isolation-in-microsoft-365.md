@@ -20,18 +20,18 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 9b152aedd872c43d58b248f846d5550117566442
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 82378b72d8dc17441a1ab92fc7ac222d7b9d4036
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481929"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678626"
 ---
 # <a name="isolation-and-access-control-in-microsoft-365"></a>分離とアクセス制御 (Microsoft 365
 
 Azure Active Directory (Azure AD) および Microsoft 365 では、数十のサービス、数百のエンティティ、数千のリレーションシップ、数万の属性を含む非常に複雑なデータ モデルを使用します。 Azure ADディレクトリとサービス ディレクトリは、状態ベースのレプリケーション プロトコルを使用して同期されたテナントと受信者のコンテナーです。 Azure AD内に保持されているディレクトリ情報に加えて、各サービス ワークロードには独自のディレクトリ サービス インフラストラクチャがあります。
  
-![Microsoft 365データ同期](../media/office-365-isolation-tenant-data-sync.png)
+![Microsoft 365データ同期を使用します。](../media/office-365-isolation-tenant-data-sync.png)
 
 このモデル内には、ディレクトリ データのソースは 1 つはありません。 特定のシステムは個々のデータを所有しますが、すべてのデータを保持する単一のシステムはありません。 Microsoft 365サービスは、このデータ モデルAD Azure と連携します。 Azure ADは、共有データの "真実のシステム" であり、通常、すべてのサービスで使用される小規模で静的なデータです。 このフェデレーション モデルは、Microsoft 365 Azure ADデータの共有ビューを提供します。
 

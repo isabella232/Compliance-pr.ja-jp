@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ae5177f524fd8f2025198aa5155821f4aa759050
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 8be83f6faa3d365e2cb91c996e2c87367797670f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481769"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678596"
 ---
 # <a name="risk-management-overview"></a>リスク管理の概要
 
@@ -35,7 +35,7 @@ ms.locfileid: "58481769"
 
 Microsoft のリスク管理は、Enterprise (ERM) フレームワークに合わせて調整されます。 ERM は、企業全体のリスク管理プロセスを可能にし、企業全体の管理者と連携して、Microsoft の最も重要なリスクの説明責任を特定し実現します。
 
-![リスク管理構造](../media/assurance-risk-management-structure.png)
+![リスク管理の構造。](../media/assurance-risk-management-structure.png)
 
 Microsoft ERM は、企業全体で一般的なリスク管理原則を有効にし、ビジネス ユニットが一貫性のある比較リスク評価を個別に促進できます。 この調整により、Microsoft は管理のための統合された方法でリスク情報を集計および報告できます。 ERMは、Microsoft のビジネス部門に、リスク管理プロセスの一般的な方法論、ツール、目標を提供します。 Microsoft 365その他のエンジニアリング グループおよびビジネス ユニットは、これらのツールを使用して、ERM の指導の下、独自のリスク管理プログラムの一部として個々のリスク評価を実施します。
 

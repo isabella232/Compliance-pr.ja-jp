@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 5da29f30c9f6886ce047f4e3fd51669a2f510ca8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 02df77f949cf1633017dd25f4cff17175c536d53
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481719"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676816"
 ---
 # <a name="sharepoint-and-onedrive-data-resiliency-in-microsoft-365"></a>Microsoft 365 での SharePoint と OneDrive のデータの復元性
 
@@ -43,7 +43,7 @@ SharePointには、顧客データをカスタムビルドで保存するソリ�
 
 SharePointストレージをAppend-Onlyします。 このプロセスにより、初期保存後にファイルを変更したり破損したりすることはできませんが、製品内バージョン管理を使用すると、以前のバージョンのファイルコンテンツを取得できます。
 
-![BLOB ストレージの復元](../media/assurance-blob-storage-resiliency-diagram.png)
+![BLOB ストレージの復元。](../media/assurance-blob-storage-resiliency-diagram.png)
 
 SharePointの環境では、両方の Azure リージョンのストレージ コンテナーにアクセスできます。 パフォーマンス上の理由から、同じローカル データセンター内のストレージ コンテナーが常に優先されます。ただし、目的のしきい値内に結果が表示されない読み取り要求は、データが常に使用可能なことを確認するために、リモート データセンターから要求されたコンテンツと同じになります。
 
@@ -53,7 +53,7 @@ SharePointメタデータは、ユーザー コンテンツに格納されてい
 
 SharePoint Azure SQL が提供するレプリケーション モデルを使用し、独自のオートメーション テクノロジを構築してフェールオーバーが必要かどうかを判断し、必要に応じて操作を開始します。 そのため、Azure の観点から見ると、"手動データベース フェールオーバー" カテゴリSQLされます。 データベースの回復性に関する Azure SQLの指標については、こちらを参照[してください](/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview#recover-a-database-to-the-existing-server)。
 
-![メタデータの復元](../media/assurance-metadata-resiliency-diagram.png)
+![メタデータの復元。](../media/assurance-metadata-resiliency-diagram.png)
 
 SharePoint Azure SQLのバックアップ システムを使用して、ポイント イン タイム 復元 (PITR) を最大 14 日間有効にしています。 PITR の詳細については、後のセクション [で説明します。](#deletion-backup-and-point-in-time-restore)
 

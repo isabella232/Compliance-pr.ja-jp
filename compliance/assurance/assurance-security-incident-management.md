@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a35e6757d64dd0c2bffc1b1cbc62e23f524b8ac9
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: cb9d27f02ec53c98e2f00d3106f8e4be8798d78f
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481739"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678586"
 ---
 # <a name="microsoft-security-incident-management"></a>Microsoft セキュリティ インシデント管理
 
@@ -63,7 +63,7 @@ Microsoft Online Services のセキュリティ チームとサービス チー�
 - **格納、根絶、回復**: 前のフェーズで行われた分析に基づいてセキュリティ インシデントを含む必要な適切なアクションを参照します。 セキュリティ インシデントから完全に復旧するために、このフェーズでさらに分析が必要になる場合があります。
 - **インシデント後のアクティビティ**: セキュリティ インシデントの復旧後に実行された事後分析を参照します。 プロセス中に実行される操作アクションがレビューされ、準備フェーズまたは検出および分析フェーズで変更が必要かどうかを判断します。
 
-![セキュリティ インシデント管理フェーズ](../media/assurance-sim-phases.png)
+![セキュリティ インシデント管理フェーズ。](../media/assurance-sim-phases.png)
 
 ## <a name="federated-security-response-model"></a>フェデレーション セキュリティ応答モデル
 

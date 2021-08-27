@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 51c917585c8138a476e9aacd349c6dd46c545d2c140696ebfc4d0aee6f0a67cc
-ms.sourcegitcommit: af1925730de60c3b698edc4e1355c38972bdd759
+ms.openlocfilehash: e340c0c21579bbae4294379bf2a2b3adae222cd5
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54288166"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676776"
 ---
 # <a name="overview"></a>概要
 
@@ -20,11 +20,11 @@ ms.locfileid: "54288166"
 2. ページで編集するページに移動 docs.microsoft.com。
 3. ページの右側で、[編集] (鉛筆 **アイコン)** をクリックします。
 
-   ![[編集] ボタン (docs.microsoft.com](compliance/media/quick-update-edit.png)
+   ![[編集] ボタンをクリック docs.microsoft.com。](compliance/media/quick-update-edit.png)
 
 4. [このファイルの編集] GitHubアイコンをクリックする必要がある場合は、このファイルの対応するトピック **ファイルが** 開きます。
 
-   ![[編集] ボタン (github.com](compliance/media/quick-update-github.png)
+   ![[編集] ボタンをクリック github.com。](compliance/media/quick-update-github.png)
 
 5. このトピックは行番号付き編集ページで開き、ファイルに変更を加えることができます。 アプリケーション内のGitHubは、Markdown 言語を使用して書き込みおよび編集されます。 Markdown の使用に関するヘルプについては [、「Mastering Markdown」を参照してください](https://guides.github.com/features/mastering-markdown/)。 [変更の **プレビュー] タブを** 選択して、変更を表示します。
 
@@ -35,15 +35,15 @@ ms.locfileid: "54288166"
 
    準備ができたら、緑色の [ファイルの変更の **提案] ボタンをクリック** します。
 
-   ![[ファイル変更の提案] セクション](compliance/media/propose-file-change.png)
+   ![[ファイルの変更] セクションを提案します。](compliance/media/propose-file-change.png)
 
 7. 表示される **[変更の比較]** ページで、緑色の [プル要求の作成 **] ボタンをクリック** します。
 
-   ![[変更の比較] ページ](compliance/media/comparing-changes-page.png)
+   ![[変更の比較] ページ。](compliance/media/comparing-changes-page.png)
 
 8. 表示される **[プル要求を開** く] ページで、緑色の [プル要求の作成 **] ボタンをクリック** します。
 
-   ![プル要求ページを開く](compliance/media/open-a-pull-request-page.png)
+   ![プル要求ページを開きます。](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > repo のアクセス許可によって、最後のいくつかの手順で表示されるアクセス許可が決まれます。 特別な権限を持つユーザーには、 **説明に従** って [ファイルの変更の提案] セクションとそれに続く確認ページが表示されます。 独自のプル要求を作成および承認するアクセス許可を持つユーザーには、同様の [変更のコミット] セクションが表示され、新しいブランチを作成するための追加オプションと確認ページの数が少なくなっています。<br/><br/>ポイントは、表示される緑色のボタンをクリックして、それ以上表示されなかるまでです。

@@ -20,12 +20,12 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 940e5a4aa0a1327da6d964d9babf0ae3fb897598
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: ff5860197375d6504bc85f257a442915dfff50cc
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481859"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678616"
 ---
 # <a name="attack-simulation-in-microsoft-365"></a>Microsoft 365 の攻撃シミュレータ
 
@@ -64,7 +64,7 @@ Red Team は、Microsoft のインフラストラクチャ、プラットフォ�
 
 Red Team の役割は、敵対者と同じ手順を使用して環境を攻撃して侵入する役割です。
 
-![違反ステージ](../media/office-365-isolation-breach-stages.png)
+![違反ステージ。](../media/office-365-isolation-breach-stages.png)
 
 他の機能の中でも、赤いチームは特にテナント分離の境界を破って、分離設計のバグやギャップを見つけ出します。
 
@@ -86,6 +86,6 @@ Blue Team は、セキュリティ インシデント対応組織、エンジニ
 
 次の手順は、以下に示すように、敵対者と並行して実行されるセキュリティ インシデント対応を形成します。
 
-![違反対応のステージ](../media/office-365-isolation-breach-response-stages.png)
+![違反対応の段階。](../media/office-365-isolation-breach-response-stages.png)
 
 レッド チームの違反により、Blue Team の実際の攻撃を検出し、エンドツーエンドで対応する能力を行使できます。 最も重要なのは、真の侵害の前にセキュリティ インシデント対応を実施できる点です。 さらに、レッド チームの違反により、Blue Team は状況認識を強化します。これは、将来の侵害 (レッド チームまたは他の敵対者からの違反) に対処する際に重要になる可能性があります。 検出および応答プロセスを通じて、Blue Team はアクション可能なインテリジェンスを生成し、防御しようとしている環境の実際の状況を可視化します。 多くの場合、これはデータ分析と法医学によって実行されます。ブルーチームは、レッドチームの攻撃に対応する場合、および侵害の指標などの脅威インジケーターを確立します。 レッド チームがセキュリティ ストーリーのギャップを特定する方法と同様に、青いチームは検出して対応する能力のギャップを特定します。 さらに、赤いチームは実際の攻撃をモデル化しますので、ブルー チームは、決定された永続的な敵対者に対処する能力(または能力が十分ではない)について正確に評価できます。 最後に、Red Team 違反は、侵害対応の準備と影響の両方を測定します。

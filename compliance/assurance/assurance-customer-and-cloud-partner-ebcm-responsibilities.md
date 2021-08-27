@@ -17,12 +17,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 4ebd8a02efc7bae74504cf22b1b927673e22e7de
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 5bc9f37cdf6d8f30ea71eddb612232b11844a4ba
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482150"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676823"
 ---
 # <a name="enterprise-business-continuity-management-customer-and-cloud-partner-responsibilities"></a>エンタープライズ ビジネス継続性管理の顧客とクラウド パートナーの責任
 
@@ -60,7 +60,7 @@ Microsoft は、顧客が使用できるサービス状態通信用の複数の�
 
 Microsoft 365 オンライン サービスへのアクセスを提供することは、組織と Microsoft とのパートナーシップです。 次の図は、サービス インシデントの発生時および通常の運用時の Microsoft と顧客の両方の責任のバランスについてまとめたものです。
 
-![顧客と Microsoft の責任のバランス](../media/responsibilities.png)
+![お客様と Microsoft の責任のバランスを保つ必要があります。](../media/responsibilities.png)
 
 ## <a name="your-environment---service-continuity"></a>環境 - サービス継続性
 
@@ -80,6 +80,6 @@ Microsoft は、クラウド リソースへのネットワーク接続を設定
 多くのコラボレーション ソリューションは、企業のワイド エリア ネットワーク (WAN) などのシステムに依存しています。 これらのシステムが利用できない場合、組織はどのように対応しますか?
 この図は、複数の領域に影響を与える可能性のある問題を表しています。 添付の表は、考慮すべき例を示す
 
-![システムのベン図](../media/venn-diagram.png)
+![システムのベン図。](../media/venn-diagram.png)
 
 継続計画では、これらの各領域を考慮する必要があります。 例: ユーザーを企業ネットワークに接続する必要があり、吹雪の場合、それらのユーザーはどのようにして主要なリソースにアクセスできますか? 雪がオフィスへの移動を妨げ、サービス エンジニアが企業ネットワークに接続する必要がある場合、自宅に会社のノートパソコンを持ち込むことを義務付けるポリシーがありますか?

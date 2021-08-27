@@ -19,12 +19,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: ba9d4c5f3e2781613ef3946e1089deff6e6266f7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b22c078715f2bbbf63ae5d6af8fb073aed1f1b48
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481689"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676796"
 ---
 # <a name="microsoft-security-incident-management-detection-and-analysis"></a>Microsoft セキュリティ インシデント管理: 検出と分析
 
@@ -36,7 +36,7 @@ Microsoft では、悪意のあるアクティビティを検出するための�
 
 Microsoft オンライン サービスのセキュリティ検出メカニズムには、さまざまなソースによって開始される通知とアラートも含まれます。 Microsoft Online Services のセキュリティ対応チームは、セキュリティ インシデントエスカレーション プロセスの主要なオーケストレーターです。 これらのチームは、すべてのエスカレーションを受け取り、セキュリティ インシデントの有効性を分析および確認する責任があります。
 
-![セキュリティ インシデント管理ワークフロー](../media/assurance-sim-workflow.png)
+![セキュリティ インシデント管理ワークフロー。](../media/assurance-sim-workflow.png)
 
 検出の主な柱の 1 つは通知です。
 
