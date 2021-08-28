@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: af81575c0f33e0266efee32792eed85fd9f39cd3
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 4398f120af9f051c0255b63e25c7534f15b03c0f
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58483002"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561365"
 ---
 # <a name="isoiec-27018-code-of-practice-for-protecting-personal-data-in-the-cloud"></a>クラウドで個人データを保護するための ISO/IEC 27018 実施基準
 
@@ -64,6 +64,7 @@ ISO/IEC 27001 基準と ISO/IEC 27018 の実施基準への準拠が、(この�
 - Power BI Embedded
 - Power Virtual Agents
 - Microsoft Defender for Endpoint: エンドポイントの検出と応答、自動の調査と修復、セキュリティ スコア
+- Windows 365 Business
 
 ## <a name="azure-dynamics-365-and-iso-isoiec-27018"></a>Azure、Dynamics 365、ISO ISO/IEC 27018
 

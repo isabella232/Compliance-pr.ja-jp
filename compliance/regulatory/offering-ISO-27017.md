@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: efd0e2c90018c8fb32e39f83bdafa7f02bf0f230
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: b17c7629918bdf4386ad24d28c6cb6687728603c
+ms.sourcegitcommit: deff41bc5085d0da42c33dd6d1672be0724a067c
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482932"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58561355"
 ---
 # <a name="isoiec-270172015-code-of-practice-for-information-security-controls"></a>ISO/IEC 27017:2015 情報セキュリティ コントロールの実施基準
 
@@ -58,6 +58,7 @@ ISO/IEC 27017 は、クラウド サービス プロバイダーとクラウド 
 - Power Apps クラウド サービス (スタンドアロン サービス、または Office 365 および Dynamics 365 ブランド プランあるいはスイートに搭載されているサービス)
 - Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
 - Power BI Embedded
+- Windows 365 Business
 
 ## <a name="azure-dynamics-365-and-iso-270172015"></a>Azure、Dynamics 365、ISO 27017:2015
 
