@@ -18,12 +18,12 @@ ms.collection:
 - MS-Compliance
 titleSuffix: Microsoft GDPR
 hideEdit: true
-ms.openlocfilehash: e7434613707cec900506e85c5e61b6cd45c98d3c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 42320db7a7f792e12cb255900c172083794d8070
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482370"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58678666"
 ---
 # <a name="fasttrack-migration-toolset-for-submitting-delete-request"></a>削除要求を送信するための FastTrack 移行ツールセット
 
@@ -41,17 +41,17 @@ Microsoft は、Windows プラットフォームと PowerShell コンソール�
 
 |PowerShell バージョン|Windows 7|Windows 8|Windows 10|Windows Server 2012|Windows Server 2016|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|5.0|サポート対象外|サポートされている|サポート|サポート|サポート|
-|5.1|サポート対象外|サポートされている|サポート|サポート|サポート済み|
+|5.0|サポート対象外|サポートされている|サポート済み|サポート済み|サポート|
+|5.1|サポート対象外|サポートされている|サポート済み|サポート済み|サポート済み|
 |
 
 ### <a name="obtaining-the-toolset"></a>ツールセットの取得
 
 このツールセットは、PowerShell コンソール アプリケーション上の PowerShell ギャラリーで入手できます。このコマンドレット モジュールを検索して読み込むには、まず、PowerShell を管理者モードで開いて、モジュールをインストールするための適切なアクセス許可が付与されるようにします。過去に PowerShell を使用したことがない場合は、Windows のタスク バーに移動して、検索ボックスに「PowerShell」と入力します。右クリックを使用してコンソール アプリケーションを選択し、**[管理者として実行]** を選択してから、**[はい]** をクリックして Windows PowerShell を実行します。
 
-![PowerShell - 管理者として実行](../media/fasttrack-powershell_image.png)
+![PowerShell - 管理者として実行。](../media/fasttrack-powershell_image.png)
 
-![PowerShell - アプリケーションに変更を許可する](../media/fasttrack-run-powershell_image.png)
+![PowerShell - アプリケーションに変更を許可する。](../media/fasttrack-run-powershell_image.png)
 
 これでコンソールが開くので、スクリプト実行のアクセス許可を設定する必要があります。次のコマンドを入力して、スクリプトの実行を許可します。
 
@@ -63,7 +63,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 
 ***実行ポリシーの設定***
 
-![PowerShell での実行ポリシー変更の設定](../media/powershell-set-execution-policy_image.png)
+![PowerShell での実行ポリシー変更の設定。](../media/powershell-set-execution-policy_image.png)
 
 これで、スクリプトを許可するようにコンソールが設定されたので、次のコマンドを実行してモジュールをインストールします。
 
