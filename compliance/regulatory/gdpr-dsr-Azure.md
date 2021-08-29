@@ -18,12 +18,12 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-mar2020
-ms.openlocfilehash: 2c016cb1d13654564dcbbc3a013e6bb52e1fbb2b
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 820197523e37958873853e00afdcff555408f423
+ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482420"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58676856"
 ---
 # <a name="azure-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Azure データ主体要求
 
@@ -97,15 +97,15 @@ DSR への対応の第一歩は、要求の対象となる個人データを見�
 
 2. [**Azure Active Directory**] を選択します。
 
-     ![[すべてのサービス] を選択します](../media/gdpr-azure-dsr-azure-portal.png)
+     ![[すべてのサービス] を選択します。](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. [**ユーザー**] を選択します。
 
-     ![ユーザーを選択します](../media/gdpr-azure-dsr-azure-all-users.png)
+     ![ユーザーを選択します。](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. [**すべてのユーザー**] ブレードで、リストからユーザーを選択し、そのユーザーのブレードの [**プロファイル**] を選択すると、ユーザー プロファイル情報が表示されます。そこには個人データが含まれる可能性があります。
 
-    ![プロファイルを選択します](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![プロファイルを選択します。](../media/gdpr-azure-dsr-azure-user-profile.png)
 
 5. ユーザー プロファイル情報を追加または変更する必要がある場合は、コマンド バーの [**編集**] を選択し、追加または変更を行った後に、[**保存**] を選択します。 
 
@@ -145,19 +145,19 @@ DSR に応答する可能性のある個人データを含む顧客データを�
 
 2. [**Azure Active Directory**] を選択します。
 
-    ![[すべてのサービス] を選択します](../media/gdpr-azure-dsr-azure-portal.png)
+    ![[すべてのサービス] を選択します。](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. [**ユーザー**] を選択します。
 
-    ![ユーザーを選択します](../media/gdpr-azure-dsr-azure-all-users.png)
+    ![ユーザーを選択します。](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. [**すべてのユーザー**] ブレードで、リストからユーザーを選択し、そのユーザーのブレードの [**プロファイル**] を選択して修正または更新が必要なユーザー プロファイル情報を表示します。
 
-    ![ユーザー プロファイルを選択する](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![ユーザー プロファイルを選択します。](../media/gdpr-azure-dsr-azure-user-profile.png)
 
-5. コマンド バーの [**編集**] を選択して勤務先情報を含むユーザー プロファイル情報を修正または更新し、更新が完了したら [ **保存**] を選択します。 
+5. コマンド バーの [**編集**] を選択して勤務先情報を含むユーザー プロファイル情報を修正または更新し、更新が完了したら [ **保存**] を選択します。
 
-    ![[編集] を選択する](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
+    ![編集を選択します。](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
 #### <a name="service-specific-interfaces"></a>サービス固有のインターフェイス
 
@@ -194,26 +194,26 @@ DSR に応答する可能性のある個人データを含む顧客データを�
 
 2. [**Azure Active Directory**] を選択します。
 
-    ![[すべてのサービス] を選択します](../media/gdpr-azure-dsr-azure-portal.png)
+    ![[すべてのサービス] を選択します。](../media/gdpr-azure-dsr-azure-portal.png)
 
 3. [**ユーザー**] を選択します。
 
-    ![ユーザーを選択します](../media/gdpr-azure-dsr-azure-all-users.png)
+    ![ユーザーを選択します。](../media/gdpr-azure-dsr-azure-all-users.png)
 
 4. 削除するユーザーの横にあるボックスをオンにして **[ユーザーの削除]** を選択し、ユーザー削除を確認するボックスで **[はい]** を選択します。
 
-    ![ユーザーの管理](../media/gdpr-azure-dsr-azure-selected-user.png)
+    ![ユーザーの管理。](../media/gdpr-azure-dsr-azure-selected-user.png)
 
 5. [ **すべてのユーザー**]  ブレードで、[ **削除済みユーザー**] を選択します。
 
-    ![ユーザー プロファイルを表示します](../media/gdpr-azure-dsr-azure-deleted-user.png)
+    ![ユーザー プロファイルを表示します。](../media/gdpr-azure-dsr-azure-deleted-user.png)
 
 4. 同じユーザーを再び選択し、コマンド バーで　 **[完全に削除する]** を選択して、確認を求めるボックスで  **[はい]**   を選択します。
 
 >[!IMPORTANT]  
 >**[はい]** をクリックすると、ユーザーおよび関連するすべてのデータとシステム生成ログが完全に削除され、この操作を元に戻せないことに注意してください。間違ってこの操作を行った場合、手動でユーザーをテナントに再び追加する必要があります。関連するデータとシステム生成ログは回復不能です。
 
-   ![ユーザー勤務先情報を表示します](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
+   ![ユーザー勤務先情報を表示します。](../media/gdpr-azure-dsr-azure-permanently-deleted-user.png)
 
 #### <a name="service-specific-interfaces"></a>サービス固有のインターフェイス
 
@@ -289,15 +289,15 @@ Azure ポータルを使用したり、特定のサービス用のプログラ�
 
 1. Azure Portal を開き、**[すべてのサービス]** を選択し、フィルターに「*policy*」と入力して **[ポリシー]** を選択します。
 
-     ![[すべてのサービス] フィルター ](../media/gdpr-azure-dsr-azure-policy.png)
+     ![[すべてのサービス] フィルター。](../media/gdpr-azure-dsr-azure-policy.png)
 
 2. **[ポリシー]** ブレードで **[ユーザー プライバシー]** を選択し、**[ユーザー要求の管理]** を選択して、**[エクスポート要求の追加]** を選択します。
 
-    ![エクスポート要求を追加します ](../media/gdpr-azure-dsr-azure-add-export-request.png)
+    ![エクスポート要求を追加します。](../media/gdpr-azure-dsr-azure-add-export-request.png)
 
 3. **[データ エクスポート要求]** に次のように入力します。
 
-    ![新しいデータ エクスポート要求](../media/gdpr-azure-dsr-azure-export-data-request.png)
+    ![新しいデータ エクスポート要求。](../media/gdpr-azure-dsr-azure-export-data-request.png)
 
 - **ユーザー**: エクスポートを要求した Azure Active Directory ユーザーの電子メール アドレスを入力します。
 - **サブスクリプション**: リソース使用状況の報告とサービス料金の請求に使用するアカウントを選択します。これは Azure ストレージ アカウントの場所でもあります。
