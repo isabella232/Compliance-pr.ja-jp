@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 57e5a9140c7a4aaff49bceb798bb6815e675f328
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.openlocfilehash: 50c44b6801e15af02bf4bfa4f4d46758b7a6c7a8
+ms.sourcegitcommit: 70efe7749db2c6dd4ae0faa8ac22da6e87109c79
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505930"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58707126"
 ---
 # <a name="securities-and-exchange-commission-sec-rule-17a-4f-united-states"></a>証券およびExchange委員会 (SEC) 規則 17a-4(f) 米国
 
@@ -54,7 +54,7 @@ Azure および Office 365 SEC Rule 17a-4(f) への準拠を評価するため�
 
 Microsoft は、レコード管理と情報ガバナンスを専門とする独立したサードパーティの評価会社を保持し、SEC Rule 17a-4(f) 要件に準拠した Azure BLOB ストレージの不変ストレージを評価しました。 結果のレポート *[Cohasset Assessment: Microsoft Azure WORM Storage](https://azure.microsoft.com/resources/azure-immutable-storage-assessment-for-sec-17a-4f-by-cohasset/)* 利用できます。
 
-*Azure Blobs* 機能の不変ストレージとロックされた時間ベースのポリシー オプションを持つ Azure Storageは、時間ベースの BLOB (レコード) を消去不可で書き換えできない形式で保持し、満たしているという評価者の意見です。 SEC ルール 17a-4(f)、FINRA [Rule 4511(c)](/azure/compliance/offering-finra-4511-us.md)の関連ストレージ要件、[および CFTC ルール 1.31(c)-(d)](offering-cftc-1-31-us.md)の原則に基づく要件を示します。
+*Azure Blobs* 機能の不変ストレージとロックされた時間ベースのポリシー オプションを持つ Azure Storageは、時間ベースの BLOB (レコード) を消去不可で書き換えできない形式で保持し、満たしているという評価者の意見です。 SEC ルール 17a-4(f)、FINRA [Rule 4511(c)](offering-FINRA-4511.md)の関連ストレージ要件、[および CFTC ルール 1.31(c)-(d)](offering-cftc-1-31-us.md)の原則に基づく要件を示します。
 
 要求に応じて、Microsoft は、電子ストレージ メディアを使用する少なくとも *90* 日前に指定された審査機関に通知するために、SEC 17a-4(f)(2) 要件を満たすために必要な 90 日間のレターを提供します。 規則に記載されている通り、「メンバー、ブローカー、またはディーラは、選択したストレージ メディアが、この段落 (f)(2)に記載されている条件を満たす適切な専門知識を持つ、ストレージ メディアベンダーまたは他の第三者から独自の表現または 1 つを提供する必要があります。 Microsoft *Attestation* of Electronic Storage Media Services for SEC Rule 17a-4 を取得するには [](https://azure.microsoft.com/support/create-ticket/)[、Azure](https://azure.microsoft.com/support/plans/)サポート プランをお持ちのお客様が Azure portal でサポート チケットを作成し、SEC ルール 17a-4 の構成証明レターを要求できます。 このドキュメントでは、Microsoft は SEC 17a-4(f)(2) の要件に関連する保証を提供します。
 
@@ -95,7 +95,7 @@ Microsoft クラウド サービスのリスク評価と規制当局の通知の
 ## <a name="resources"></a>リソース
 
 - [Azure コンプライアンスのドキュメント](/azure/compliance/)
-- [Azure でコンプライアンスの世界を有効にする](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure はコンプライアンスの世界を実現する](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [証券およびExchange委員会](https://www.sec.gov/)(SEC) ルール[17a-4](https://www.sec.gov/rules/final/34-38245.txt)
 - [Microsoft Cloud の金融サービス リソース](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Microsoft Cloud 金融サービスコンプライアンス プログラム](https://aka.ms/FSCP-Print)
