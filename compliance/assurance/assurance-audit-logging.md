@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3212ca2a42677dc27afda8a7598b39d7f24bf27c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 11695a941e5d5e6740833ab19bf2d68ac487c1c5
+ms.sourcegitcommit: 5e6e25ed264b248522ad49ea25490962db08e471
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482190"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58832260"
 ---
 # <a name="audit-logging-overview"></a>監査ログの概要
 
@@ -53,6 +53,8 @@ Microsoft Online Services の内部監査ログは、次のようなさまざま
 ログは、ルールベース、統計、および機械学習の方法を使用して NRT で処理され、システム パフォーマンス インジケーターと潜在的なセキュリティ イベントを検出します。 機械学習モデルは、検出機能を継続的に向上させるために、Cosmosまたは Kusto に格納されている受信ログ データと履歴ログ データを使用します。 セキュリティ関連の検出では、アラートが生成され、インシデントが発生する可能性がある場合はオンコール エンジニアに通知し、該当する場合は自動修復アクションをトリガーします。 サービス チームは、自動化されたセキュリティ監視に加えて、分析ツールとダッシュボードを使用して、データの相関関係、対話型クエリ、およびデータ分析を行います。 これらのレポートは、サービスの全体的なパフォーマンスを監視および改善するために使用されます。
 
 セキュリティ監視とアラートの詳細については、「セキュリティ監視の概要 [」を参照してください](assurance-security-monitoring.md)。
+
+![データ フローの監査。](../media/assurance-audit-data-flow.png)
 
 ## <a name="how-do-microsoft-online-services-protect-audit-logs"></a>Microsoft オンライン サービスで監査ログを保護する方法
 
