@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: f23dba6e215e9b4b8f890b05066bb693ed0e62e8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: c851b235a70104720457d08c51529ee7b25c65e4
+ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482100"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862357"
 ---
 # <a name="data-retention-deletion-and-destruction-in-microsoft-365"></a>データの保持、削除、およびデータの破棄Microsoft 365
 
@@ -57,7 +57,7 @@ Microsoft には、削除後に顧客データMicrosoft 365保持する期間を
 
 ## <a name="related-links"></a>関連リンク
 
-- [データの破棄](assurance-data-destruction.md)
+- [データを持つデバイスの破壊](assurance-data-bearing-device-destruction.md)
 - [Office 365 での不変性](assurance-data-immutability.md)
 - [Exchange Online でのデータ削除](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online でのデータ削除](assurance-sharepoint-online-data-deletion.md)
