@@ -30,6 +30,8 @@
       href: assurance-datacenter-security.md
     - name: データセンター TVRA
       href: assurance-threat-vulnerability-risk-assessment.md
+    - name: データを有するデバイスの破棄
+      href: assurance-data-bearing-device-destruction.md
     - name: サプライ チェーンのセキュリティ
       href: /azure/security/fundamentals/firmware?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
 - name: 暗号化とキー管理
@@ -126,8 +128,6 @@
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online のデータ削除
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Microsoft 365 のデータ破壊
-      href: assurance-data-destruction.md
     - name: Microsoft 365 のデータ不変性
       href: assurance-data-immutability.md
     - name: Microsoft 365 データの場所
