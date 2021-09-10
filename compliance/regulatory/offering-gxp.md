@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: d1420d65a5404a04e656e8f3ff03b2c4cf617cc5
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482822"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948303"
 ---
 # <a name="good-clinical-laboratory-and-manufacturing-practices-gxp"></a>Good Clinical, Laboratory, and Manufacturing Practices (GxP)
 
@@ -71,4 +71,4 @@ Azure にアプリケーションを展開するお客様は、使用目的に�
 - [Microsoft と FDA CFR Title 21 第 11 部](offering-fda-cfr-title-21-part-11.md)
 - [Microsoft と ISO/IEC 27001](offering-iso-27001.md)
 - [Microsoft と ISO 9001](offering-iso-9001.md)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

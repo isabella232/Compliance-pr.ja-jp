@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 375f7a58db675f3f14bd98ff580919ef40f603f1
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505890"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948436"
 ---
 # <a name="sarbanes-oxley-act-of-2002-sox"></a>米国企業改革法 (SOX 法)
 
@@ -93,8 +93,8 @@ AICPA SSAE 18 標準は SAS 70 に置き換え、財務報告に関するユー�
 ### <a name="resources"></a>リソース
 
 - [Azure コンプライアンスのドキュメント](/azure/compliance/)
-- [Azure でコンプライアンスの世界を有効にする](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
-- [Microsoft 365コンプライアンスの提供](/compliance/regulatory/offering-home)
+- [Azure はコンプライアンスの世界を実現する](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Microsoft 365 コンプライアンスのサービス](/compliance/regulatory/offering-home)
 - [Microsoft トラスト センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
 - [Sarbanes-Oxley Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763) (SOX)
 - [証券およびExchange委員会](https://www.sec.gov/)(SEC)

@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7cdc024d19ce0753d3d0c0e5cf45b6276939d6f2
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505900"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947964"
 ---
 # <a name="federal-financial-institutions-examination-council-ffiec"></a>連邦金融機関審査評議会 (FFIEC)
 
@@ -97,7 +97,7 @@ SOC 構成証明Office 365を参照してください。
 ## <a name="other-microsoft-resources-for-financial-services"></a>金融サービス向けのその他の Microsoft リソース
 
 - [Azure コンプライアンスのドキュメント](/azure/compliance/)
-- [Azure でコンプライアンスの世界を有効にする](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
+- [Azure はコンプライアンスの世界を実現する](https://azure.microsoft.com/resources/azure-enables-a-world-of-compliance/)
 - [Microsoft Cloud の金融サービス リソース](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Microsoft Cloud 金融サービスコンプライアンス プログラム](https://aka.ms/FSCP-Print)
 - [Microsoft Cloud の金融機関のリスク評価とコンプライアンス ガイド](https://azure.microsoft.com/resources/risk-assessment-and-compliance-guide-for-financial-institutions-in-the-microsoft-cloud-/)

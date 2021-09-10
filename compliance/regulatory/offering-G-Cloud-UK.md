@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 805820ac031cd1fc1e1216c5e000e4ee2ad10837
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481049"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947972"
 ---
 # <a name="united-kingdom-government-cloud-g-cloud"></a>イギリス Government-Cloud (G-Cloud)
 
@@ -128,4 +128,4 @@ Microsoft クラウド サービスには、英国のデータセンターに加
 - [G-Cloud セキュリティの原則](https://aka.ms/UK-G-Cloud)
 - [デジタル マーケットプレース](https://www.digitalmarketplace.service.gov.uk/)
 - [Microsoft Online Services](https://aka.ms/Online-Services-Terms)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

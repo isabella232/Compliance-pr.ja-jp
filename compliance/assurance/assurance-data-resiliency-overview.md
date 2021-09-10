@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 でのデータの復元性
+title: Microsoft 365 でのデータの回復性
 description: この記事では、データの復元と回復の設計と原則について説明Microsoft 365。
 ms.author: robmazz
 author: robmazz
@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 48fe50347e7e81c7e5f8552299c04a268b8b449c
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482110"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947255"
 ---
 # <a name="data-resiliency-in-microsoft-365"></a>データの復元Microsoft 365
 

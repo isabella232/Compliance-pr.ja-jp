@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 7f597f5267482868c472ed04fada2a2f73490ab7
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482952"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948356"
 ---
 # <a name="ministry-of-electronics-and-information-technology-meity"></a>電子情報技術省 (MeitY)
 
@@ -64,4 +64,4 @@ Microsoft の MeitY 認定は、MeghRaj Cloud Initiative の作業に基づく�
 - [電子情報技術省](https://meity.gov.in/)
 - [MeghRaj Cloud Initiative](https://meity.gov.in/content/gi-cloud-meghraj)
 - [認定クラウド サービス プロバイダー](https://meity.gov.in/content/gi-cloud-meghraj)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

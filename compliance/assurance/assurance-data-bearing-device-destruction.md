@@ -1,5 +1,5 @@
 ---
-title: データを持つデバイスの破壊
+title: データを有するデバイスの破棄
 description: この記事では、Microsoft データセンターのデータベアリング デバイス破棄プロセスの概要について説明します。
 ms.author: robmazz
 author: robmazz
@@ -21,13 +21,13 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6a26334b805be069298302d3ad1e8e5b9e728150
-ms.sourcegitcommit: 1fd50ef5f165228109a3f2f0aef4b0c2aa59b2ff
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/02/2021
-ms.locfileid: "58862401"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947199"
 ---
-# <a name="data-bearing-device-destruction"></a>データを持つデバイスの破壊
+# <a name="data-bearing-device-destruction"></a>データを有するデバイスの破棄
 
 ## <a name="data-destruction-overview"></a>データ破壊の概要
 

@@ -19,17 +19,17 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.openlocfilehash: 838f6bfbae65770071cfa1e07e668bb6641e89a8
-ms.sourcegitcommit: fb379d1110a9a86c7f9bab8c484dc3f4b3dfd6f0
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53088966"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948463"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-professional-services"></a>データ保護影響評価: Microsoft プロフェッショナル サービスを利用するデータ管理者向けガイダンス
 
 ## <a name="introduction-to-microsoft-professional-services"></a>Microsoft プロフェッショナル サービスの概要
 
-Microsoft プロフェッショナル サービスは、技術設計者、エンジニア、コンサルタント、サポート プロフェッショナルで構成されています。この多様性に溢れるグループが、お客様により多くの可能性を提供し、より多くの成果を達成していただくという Microsoft のミッションを果たすために取り組んでいます。 Microsoft Professional Services の詳細を確認するには、[Microsoft Professional Services の信頼ページ](https://aka.ms/pstrust)にアクセスしてください。
+Microsoft プロフェッショナル サービスは、技術設計者、エンジニア、コンサルタント、サポート プロフェッショナルで構成されています。この多様性に溢れるグループが、お客様により多くの可能性を提供し、より多くの成果を達成していただくという Microsoft のミッションを果たすために取り組んでいます。Microsoft Professional Services の詳細を確認するには、[Microsoft Professional Services の信頼ページ](https://aka.ms/pstrust)にアクセスしてください。
 
 Microsoft プロフェッショナル サービスは一般データ保護規則 (GDPR) の下で真摯に義務を果たします。このドキュメントに含まれる情報は、GDPR におけるデータ保護影響評価 (DPIA) の準備の際にお客様が Microsoft のサポートとコンサルティングのオファリングを利用する方法に関する情報を提供するように意図されています。
 
@@ -51,7 +51,7 @@ GDPR の第 35 条では、'特に新たな技術を用いるなどのある種�
 |||
 
 > [!Note]
-> <sup>1</sup> '大規模” な処理という条件に関して、GDPR の前文 91 では次のように説明しています。「個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。 その場合、データ保護影響評価は必須ではない」。
+> <sup>1</sup> '大規模な” 処理という条件に関して、GDPR の前文 91 では次のように説明しています。"個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。その場合、データ保護影響評価は必須ではない"。
   
 [カスタム開発の注記] プロフェッショナル サービスは、さまざまなコンサルティング ソリューションを提供しています。データ管理者は、上記の条件に従って、高リスクのソリューションになりえるソリューションを要求する可能性があります。たとえば、データ管理者はプロフェッショナル サービスに、雇用決定または信用状に関するビジネス インテリジェンス エンジンを開発するためのソリューションや、ユーザーの追跡、人工知能 (AI)/分析の特殊な使用法、または特別な種類の個人データの処理が関係するソリューションを作成することを要求する場合があります。
 

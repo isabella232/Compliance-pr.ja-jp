@@ -21,11 +21,11 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: e17685c7d927ab8188abe1ef4dae4d2cdf0f3764
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482120"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947254"
 ---
 # <a name="data-immutability-in-microsoft-365"></a>データの入力がMicrosoft 365
 
@@ -56,7 +56,7 @@ Microsoft 365 とそのサービスでのアーカイブの一元的な保持と
 
 ドキュメントのアーカイブMicrosoft 365は、証券Exchange委員会 (SEC) ルール 17a-4 に準拠したストレージを提供します。 Microsoft 365保持ポリシーと保存ポリシー (保存ロックを含む) を使用して、書き換え不可で消去できない形式で収集されたデータの永続的なファイルを保持します。
 
-具体的には次のとおりです。
+特に次のような場合です。
 
 - 上記の保持ポリシーを使用して保存されたレコードはすべて、通常のユーザーのビューから専用の記憶域に保持されます。 承認されたユーザーのみがこれらのレコードにアクセスして検索できますが、変更または消去することはできません。
 - 各アイテムのメタデータには、保持期間の計算で使用されるタイムスタンプが含まれます。 タイムスタンプは、新しいアイテムを受信または作成するときに適用され、メタデータから変更または削除することはできません。

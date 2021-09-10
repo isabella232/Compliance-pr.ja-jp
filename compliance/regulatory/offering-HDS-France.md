@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: f8c99a93cac767439d157a7d709c7ed1d706c113
-ms.sourcegitcommit: 16cec8f7ca799a415bfbae937b177a628a0f2987
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505940"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948308"
 ---
 # <a name="health-data-hosting-hds-france"></a>健康データ ホスティング (HDS) フランス
 
@@ -77,4 +77,4 @@ HDS 証明書は、プレビューまたはプレリリースの Microsoft オ�
 - [Azure フランス](https://azure.microsoft.com/global-infrastructure/france/)
 - [保険向け Azure](https://azure.microsoft.com/industries/healthcare/)
 - [Microsoft のセキュリティ](https://www.microsoft.com/security)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

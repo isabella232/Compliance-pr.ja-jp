@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: e190a98a475d6170e793e92e8052012048cc3d7f
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482270"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947901"
 ---
 # <a name="defense-federal-acquisition-regulation-supplement-dfars"></a>国防連邦取得規則の補足 (DFARS)
 
@@ -104,4 +104,4 @@ CDI は、技術的な情報または他の情報 (CUI レジストリに記載�
 - [Microsoft Cloud for Government](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
 - [オンライン サービスの使用条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)
 - [制御された未分類情報 (CUI)](https://www.archives.gov/cui/registry/category-list)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

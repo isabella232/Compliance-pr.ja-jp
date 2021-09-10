@@ -19,11 +19,11 @@ titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
 hideEdit: true
 ms.openlocfilehash: f5b0acae758e149f2bfde5683a0b9f2c45f0db29
-ms.sourcegitcommit: 9766d656d0e270f478437bd39c0546ad2e4d846f
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58676836"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947885"
 ---
 # <a name="office-365-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA のための Office 365 データ対象要求
 
@@ -1217,7 +1217,7 @@ Whiteboard ファイル (.wbx ファイル) は、ユーザーの OneDrive for B
 
 次の各セクションでは、Microsoft Yammer のアプリ内機能を使用して、個人データの検索、アクセス、エクスポート、および削除を実行する方法について説明します。
 
-#### <a name="discover"></a>検索
+#### <a name="discover"></a>検出
 
 Yammer 管理センターでは、Yammer 認証管理者 (全体管理者または Yammer で設定された認証管理者) が、特定のユーザーに関連するデータをエクスポートできます。 このエクスポートには、ユーザーが投稿したメッセージとファイルに加えて、ユーザーが作成したトピックとグループに関する情報も含まれます。 ユーザー固有のデータのエクスポートを実行すると、管理者には、ユーザーのアカウント アクティビティのデータが含まれる受信トレイ メッセージも送られてきます。管理者は、このデータをユーザーに提供することもできます。 詳細な手順については、「[Yammer Enterprise: プライバシー](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)」を参照してください。
 

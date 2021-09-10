@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3212e28e055629b3f2894e7887ffac03e94b9e3a
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.openlocfilehash: 94e032efec2fd10f1d352f4f1b610916abe23cf7
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481039"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948316"
 ---
 # <a name="us-internal-revenue-service-publication-1075"></a>米国内歳入サービス発行 1075
 
@@ -70,7 +70,6 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office 利用状況レポート、OneDrive for Business、People Card、Service Infrastructure、SharePoint Online、Skype for Business、Windows Ink |
 | **GCC** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書

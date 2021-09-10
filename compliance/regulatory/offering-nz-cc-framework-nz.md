@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 6785c459f8350714b8e4636a0f1a5dc9f4ff667d
-ms.sourcegitcommit: 9bb0e86b2fd4121a3a79a23dde95aa2584ce3167
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58744263"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948396"
 ---
 # <a name="new-zealand-government-information-security-and-privacy-considerations-ispc"></a>ニュージーランド政府機関の情報セキュリティとプライバシーに関する考慮事項 (ISPC)
 

@@ -22,11 +22,11 @@ ms.collection:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 480e7e03564075707c90e25ad5777631c1e68ed8
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482029"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947295"
 ---
 # <a name="encryption-for-skype-for-business-onedrive-for-business-sharepoint-online-microsoft-teams-and-exchange-online"></a>オンライン、Skype for Business、OneDrive for Business、SharePoint、およびMicrosoft Teamsの暗号化Exchange Online
 
@@ -36,7 +36,7 @@ Microsoft 365は、物理データ センター のセキュリティ、ネッ�
 
 Skype for Businessデータは、会議参加者によってアップロードされたファイルまたはプレゼンテーションの形式で保存される場合があります。 Web 会議サーバーは、256 ビット キーを使用して AES を使用して顧客データを暗号化します。 暗号化された顧客データはファイル共有に保存されます。 顧客データの各部分は、異なるランダムに生成された 256 ビット キーを使用して暗号化されます。 電話会議で顧客データの一部を共有すると、Web 会議サーバーは、HTTPS を介して暗号化された顧客データをダウンロードするように会議クライアントに指示します。 顧客データを復号化できるよう、対応するキーをクライアントに送信します。 また、Web 会議サーバーは、クライアントが電話会議の顧客データにアクセスできる前に、会議クライアントを認証します。 Web 会議に参加すると、各会議クライアントは、最初に TLS を使用してフロントエンド サーバー内で実行される会議フォーカス コンポーネントを使用して SIP ダイアログを確立します。 会議フォーカスは、Web 会議サーバーによって生成された認証 Cookie を会議クライアントに渡します。 その後、会議クライアントは、サーバーによって認証される認証 Cookie を提示する Web 会議サーバーに接続します。
 
-## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online と OneDrive for Business
+## <a name="sharepoint-online-and-onedrive-for-business"></a>Sharepoint Online と OneDrive for Business
 
 SharePoint Online のすべての顧客ファイルは、常に 1 つのテナントに排他的な一意のファイルごとのキーによって保護されます。 キーは、SharePoint Online サービスによって作成および管理される場合、または顧客がカスタマー キーを使用、作成、管理するときに行います。 ファイルがアップロードされると、Azure ストレージに送信される前に、SharePoint Online によってアップロード要求のコンテキスト内で暗号化が実行されます。 ファイルがダウンロードされると、SharePoint Online は一意のドキュメント識別子に基づいて Azure ストレージから暗号化された顧客データを取得し、ユーザーに送信する前に顧客データを復号化します。 Azure ストレージには、顧客データを解読したり、識別したり理解したりする機能はありません。 すべての暗号化と暗号化解除は、テナントの分離を強制する同じシステムで行Azure Active DirectoryオンラインSharePointです。
 

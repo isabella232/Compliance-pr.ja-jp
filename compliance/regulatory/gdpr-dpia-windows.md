@@ -19,11 +19,11 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482430"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948476"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>データ保護影響評価: Windows 診断データ プロセッサ構成を使用するコントローラーのガイダンス
 
@@ -35,7 +35,7 @@ ms.locfileid: "58482430"
 このドキュメントは、DPIA が必要であるかどうかを判断し、必要な場合には DPIA に含める詳細情報を決定する上で役立つ、Windows 診断データ プロセッサー構成に関する情報をデータ管理者に提供することを目的としています。
 
 >[!Note]
->Microsoft はこのドキュメントでいかなる法的助言も提供いたしません。 このドキュメントは、情報提供のみを目的として提供されています。 Windows 診断データ プロセッサ構成またはその他の Microsoft オンラインサービスの使用に関連する DPIA の必要性および内容を判断するにあたり、お客様はプライバシー責任者または弁護士と連携することをお勧めします。
+>Microsoft はこのドキュメントでいかなる法的助言も提供いたしません。Windows 診断データ プロセッサ構成またはその他の Microsoft オンラインサービスの使用に関しての DPIA の必要性および内容を判断するにあたり、お客様はプライバシー責任者または弁護士と連携することをお勧めします。
 
 ## <a name="part-1-determining-whether-a-dpia-is-needed"></a>パート 1: DPIA が必要であるかどうかの判断
 

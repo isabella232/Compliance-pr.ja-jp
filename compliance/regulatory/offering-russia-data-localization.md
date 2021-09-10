@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 093ec578cd83dc6c52485101d232d9ccff88489e
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482802"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58948399"
 ---
 # <a name="russian-personal-data-localization-requirements"></a>ロシアの個人データのローカライズ要件
 

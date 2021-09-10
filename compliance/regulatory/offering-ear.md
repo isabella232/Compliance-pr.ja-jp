@@ -17,11 +17,11 @@ ms.collection:
 hideEdit: true
 titleSuffix: Microsoft Compliance
 ms.openlocfilehash: 859067495b6811b2264ab3a379f305d428771bce
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58482982"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947908"
 ---
 # <a name="us-export-administration-regulations-ear"></a>米国輸出管理規則 (EAR)
 
@@ -93,4 +93,4 @@ EAR では、データが Microsoft クラウドなどのクラウド サーバ�
 - [暗号化に関するエクスポートの制限](/windows/uwp/security/export-restrictions-on-cryptography)
 - [Microsoft および FIPS 140-2](offering-fips-140-2.md)
 - [Microsoft と ITAR](offering-itar.md)
-- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

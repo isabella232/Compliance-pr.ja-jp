@@ -21,11 +21,11 @@ search.appverid:
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
 ms.openlocfilehash: 6c20c62feb1ff3ab23eeb97d5ad11abb5ad85a07
-ms.sourcegitcommit: 4c00fd65d418065d7f53216c91f455ccb3891c77
+ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58481759"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "58947382"
 ---
 # <a name="securing-the-microsoft-365-infrastructure"></a>Microsoft 365 インフラストラクチャのセキュリティ保護
 
@@ -83,7 +83,7 @@ Microsoft の大規模な規模でのセキュリティ監視は、自動化さ�
 
 セキュリティ監視の詳細については、「Microsoft 365の概要[」を参照してください](assurance-security-monitoring.md)。
 
-## <a name="assessment"></a>評価
+## <a name="assessment"></a>料金の考え方の案内
 
 ### <a name="automated-assessments"></a>自動評価
 
