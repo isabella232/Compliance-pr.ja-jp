@@ -25,8 +25,8 @@ ms.openlocfilehash: d4188448038a3b47c2cf7a0a8193f1772740eb7f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947262"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160527"
 ---
 # <a name="data-monitoring-and-self-healing-in-microsoft-365"></a>データの監視と自己修復を行Microsoft 365
 

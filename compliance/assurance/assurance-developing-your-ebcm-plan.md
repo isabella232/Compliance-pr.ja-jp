@@ -21,8 +21,8 @@ ms.openlocfilehash: 6a44866d5c82ffa93e6c3c0d9c0ece3946651bd2
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947287"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160292"
 ---
 # <a name="developing-your-business-continuity-plan"></a>ビジネス継続性計画の策定
 

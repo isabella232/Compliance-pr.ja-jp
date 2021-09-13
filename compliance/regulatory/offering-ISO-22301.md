@@ -20,8 +20,8 @@ ms.openlocfilehash: 6a1d3069cd1876316705aebdb6136245c5f3a50f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948332"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160471"
 ---
 # <a name="iso-223012012-business-continuity-management-standard"></a>ISO 22301:2012 ビジネス継続性管理標準
 

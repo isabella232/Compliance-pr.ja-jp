@@ -20,8 +20,8 @@ ms.openlocfilehash: c0c987dc5fbe2bee60508f0fab7dbdb8dce97857
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947893"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161039"
 ---
 # <a name="department-of-defense-dod-impact-level-5-il5"></a>国防総省 (DoD) 影響レベル 5 (IL5)
 

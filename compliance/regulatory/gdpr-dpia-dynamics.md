@@ -22,8 +22,8 @@ ms.openlocfilehash: ed23af0982dd5ce066c78963f108c2b7eaa2403a
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948447"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158966"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-dynamics-365"></a>データ保護影響評価: Dynamics 365 を利用するデータ管理者向けガイダンス
 
@@ -45,7 +45,7 @@ GDPR の第 35 条では、「特に新たな技術を用いるなどのある�
 | 誰でも立ち入ることのできる場所において大規模な体系的監視を行う場合 | Dynamics 365 は、このような監視を実施するようには設計されていません。 <br><br> ただし、データ管理者が Office 365 を使用して、このような監視から得られたデータを処理する可能性があります。 |
 
 >[!Note]
-><sup>1</sup>「大規模」な処理という条件に関して、GDPR の前文 91 では次のように説明しています。「個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。 その場合、データ保護影響評価は必須ではない」。
+><sup>1</sup> 処理が '大規模' であるかどうかという基準に関して、GDPR の前文 91 で次のように明確化されています。"個人データの処理が、個々の医師その他の医療従事者の患者の個人情報、または弁護士の依頼主の個人情報に関するものである場合、大規模な処理とはみなされない。その場合、データ保護影響評価は必須ではない。"
 
 ## <a name="part-2-contents-of-a-dpia"></a>パート 2: DPIA の内容
 

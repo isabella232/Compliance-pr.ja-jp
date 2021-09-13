@@ -24,8 +24,8 @@ ms.openlocfilehash: 4a3119ad93c0de5de96e748f7692ba6ddef42c80
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947861"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158948"
 ---
 # <a name="visual-studio-family-data-subject-requests-for-the-gdpr-and-ccpa"></a>GDPR および CCPA に関する Visual Studio ファミリ データ主体要求
 

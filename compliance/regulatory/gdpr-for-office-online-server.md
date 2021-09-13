@@ -19,8 +19,8 @@ ms.openlocfilehash: f27986532de16c4a674f69148a662df20f1ac77f
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948503"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59158949"
 ---
 # <a name="gdpr-for-office-web-apps-server-and-office-online-server"></a>Office Web Apps Server および Office Online Server の GDPR 対応
 

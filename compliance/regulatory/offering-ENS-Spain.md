@@ -20,8 +20,8 @@ ms.openlocfilehash: bfdaaab4cc119460b5dc44124b8f92ab9ea070cd
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947940"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160927"
 ---
 # <a name="spain-esquema-nacional-de-seguridad-ens-high-level-security-measures"></a>スペインの Esquema Nacional de Seguridad (ENS) のハイ レベルなセキュリティ対策
 

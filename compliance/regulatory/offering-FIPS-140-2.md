@@ -20,8 +20,8 @@ ms.openlocfilehash: 0e087393901b76a798c4a4ea3bef25fad8dcda84
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947916"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161020"
 ---
 # <a name="federal-information-processing-standard-fips-publication-140-2"></a>連邦情報処理標準 (FIPS) 文書 140-2
 

@@ -20,8 +20,8 @@ ms.openlocfilehash: e57b10527b5eb1bd1baefebb36c9a8f37a97f59e
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947941"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160940"
 ---
 # <a name="european-union-model-clauses"></a>欧州連合モデル条項
 

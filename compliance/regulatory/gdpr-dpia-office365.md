@@ -21,8 +21,8 @@ ms.openlocfilehash: 9b7a88bd84ccd39d0d4cd9572a250ba4a8a0a773
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948452"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160676"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-office-365"></a>データ保護影響評価: Microsoft Office 365 を利用するデータ管理者向けガイダンス 
 
@@ -44,7 +44,7 @@ GDPR の第 35 条では、「特に新たな技術を用いるなどのある�
 |||
 
 >[!Note]
-><sup>1</sup>「大規模」な処理という条件に関して、GDPR の前文 91 では次のように説明しています。「個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。 その場合、データ保護影響評価は必須ではない」。
+><sup>1</sup> 「大規模」な処理という条件に関して、GDPR の前文 91 では次のように説明しています。"個人データの処理は、処理が個々の医師、他の医療専門家、または弁護士の患者または依頼主に関するものである場合、大規模な処理とはみなされない。その場合、データ保護影響評価は必須ではない"。
 
 ## <a name="part-2-contents-of-a-dpia"></a>パート 2: DPIA の内容
 

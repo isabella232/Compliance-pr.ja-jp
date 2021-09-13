@@ -22,8 +22,8 @@ ms.openlocfilehash: 325dc91f1d3480414236abfde38eb48d372f3e69
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948476"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59161183"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-controllers-using-windows-diagnostic-data-processor-configuration"></a>データ保護影響評価: Windows 診断データ プロセッサ構成を使用するコントローラーのガイダンス
 

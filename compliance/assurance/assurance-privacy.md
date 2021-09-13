@@ -24,8 +24,8 @@ ms.openlocfilehash: 29d0c6633c67d65c6bef27a9768fa213a9e50ac4
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947402"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160460"
 ---
 # <a name="privacy-overview"></a>プライバシーの概要
 

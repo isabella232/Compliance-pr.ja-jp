@@ -20,8 +20,8 @@ ms.openlocfilehash: 5f51e0eb46550734a3906e6011a67323fe67fc78
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948311"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160572"
 ---
 # <a name="information-system-security-management-and-assessment-program-ismap"></a>情報システム セキュリティ管理および評価プログラム (ISMAP)
 

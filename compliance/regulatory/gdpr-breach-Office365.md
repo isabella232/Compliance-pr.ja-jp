@@ -21,8 +21,8 @@ ms.openlocfilehash: cf7ee9a248c53ec6ab9748dbb86cbff5d7efa17c
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948439"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160975"
 ---
 # <a name="breach-notification-under-the-gdpr"></a>GDPR に基づく違反の通知
 

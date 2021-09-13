@@ -20,8 +20,8 @@ ms.openlocfilehash: 17f63068139d35f1fee74c2d6e299f9ea0acc4c3
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58947846"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59160636"
 ---
 # <a name="isoiec-270012013-information-security-management-standards"></a>ISO/IEC 27001:2013 情報セキュリティ管理基準
 

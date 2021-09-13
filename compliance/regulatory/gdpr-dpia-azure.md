@@ -22,8 +22,8 @@ ms.openlocfilehash: a4b04fe9e72986b9fa706a81c61a781e46695599
 ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "58948444"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59159001"
 ---
 # <a name="data-protection-impact-assessments-guidance-for-data-controllers-using-microsoft-azure"></a>データ保護影響評価: Microsoft Azure を利用するデータ管理者向けガイダンス
 
