@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 09c18fce6544984a7e9d639e68d0f0201c584768
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 63303389fc8fae69b9a6803a513efeb1281f781e
+ms.sourcegitcommit: 4afc3ca7f8c18ae7136b4c82c572531947e82daa
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161151"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349961"
 ---
 # <a name="payment-card-industry-pci-data-security-standard-dss"></a>Payment Card Industry (PCI) Data Security Standard (DSS)
 
@@ -68,11 +68,11 @@ Azure、Dynamics 365、およびその他のオンライン サービス コン�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | OneDrive for Business (米国)、SharePoint Online |
+| **商用** | OneDrive for Business (米国)、SharePoint Online (米国) |
 
 ### <a name="office-365-audit-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
-- [OneDrive for Business および SharePoint Online の PCI DSS Attestation of Compliance (AoC)](https://aka.ms/spo-pci)
+- [OneDrive for Business および SharePoint Online の PCI DSS Attestation of Compliance (AoC)](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=f1962237-32ea-4123-939e-1c8f04d13c16&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_PCI_DSS)
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
 
