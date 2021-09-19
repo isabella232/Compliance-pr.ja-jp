@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 81de800d437427d77c5004f20e0cdf672db3a533
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 67830f9abd3fb81048fdcb327dd99c208d9fc713
+ms.sourcegitcommit: 0ba64300a1e172c84af37978bbf04514636b3acd
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161007"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59438398"
 ---
 # <a name="multi-tier-cloud-security-mtcs-standard-for-singapore"></a>シンガポールの多階層クラウド セキュリティ (MTCS) 標準
 
@@ -47,7 +47,7 @@ Microsoft Azure サービス (IaaS および PaaS)、Microsoft Dynamics 365 サ�
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
 - Azure
-- [Dynamics 365](https://aka.ms/d365-compliance-list)
+- Dynamics 365 オンライン サービス (ビジネス セントラル、コマース、カスタマー サービス、フィールド サービス、ファイナンス、不正防止、マーケティング、販売、サプライ チェーン管理)
 - Genomics
 - Intune
 - Microsoft Cloud App Security
