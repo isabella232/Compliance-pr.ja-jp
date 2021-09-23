@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 79f4efec9c7e441405228de88e68916f8de3f754
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 3208fab9675c02ec1e7af0824a05f9a062b311b2
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161055"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486434"
 ---
 # <a name="web-content-accessibility-guidelines"></a>Web Content Accessibility Guidelines
 
@@ -62,10 +62,11 @@ Microsoft は、製品またはサービス全体を表す WCAG レポートを�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | Excel、Exchange 管理センター、Office 365 管理センター (ポータル)、Office 365 および Azure AD ログイン エクスペリエンス、Office 365 Customer Portal、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Lens、Office.com、OneDrive 管理センター、OneDrive for Business、OneDrive 同期クライアント、OneNote、Orcas、Outlook Groups、Outlook、PowerPoint、Project、Word  |
-| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
-| **GCC High** | Azure Active Directory、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
-| **DoD** | Azure Active Directory、Exchange Online、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Forms、Power BI、SharePoint Online、Skype for Business |
+| **クライアント** | Android 版 Access、Excel、Office 365 管理ポータル、iOS 版 Office 365 管理ポータル、Office 構成ツール、Office Lens、OneNote、Outlook、PowerPoint、Project、SharePoint、To-Do、Visio、Word |
+| **商用** | Exchange 管理センター、Office 365 カスタマー ポータル、Office 365 セキュリティ/コンプライアンス センター、Office.com、OneDrive 管理センター、OneDrive for Business、OneDrive 同期クライアント、Orcas、Outlook Groups |
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、Skype for Business、Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、Skype for Business |
+| **DoD** | Azure Active Directory、Exchange Online、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Forms、Power BI、Skype for Business |
 
 ## <a name="microsoft-accessibility-conformance-reports"></a>Microsoft アクセシビリティ適合レポート
 
@@ -76,4 +77,4 @@ Microsoft は、製品またはサービス全体を表す WCAG レポートを�
 - [Microsoft アクセシビリティ サイト](https://www.microsoft.com/accessibility): アクセシビリティ機能の使用に関する情報を取得して、すべてのユーザーがもっと多くのことを達成するために Microsoft ではどのような革新が行われているのかを理解します。
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
