@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 728050d20babd819c2153cd04b3eae849120eeee
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 08e57873bb1664ce7cafc9aa1c193f6976651faf
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161175"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486454"
 ---
 # <a name="us-section-508"></a>米国セクション 508
 
@@ -56,10 +56,11 @@ Microsoft は、米国連邦政府および州政府の主要なソフトウェ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | Access、Azure Active Directory、Bookings、Compliance Manager、Delve、Excel、Exchange Online、Forms、Kaizala、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Office 365 管理ポータル for iOS、Office 365 管理ポータル、Office 365 Advanced Compliance アドオン、Office 365、Azure AD サインイン、Office 365 Business Office 365 セキュリティ & コンプライアンス センター、Office 365 ビデオ、Office 365 Web スイート、Office 構成ツール、Office Lens、Office Online、Office Pro Plus、OneDrive for Business、OneDrive、OneNote、Outlook グループ、Outlook、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、SharePoint、SharePoint、Skype for Business Hub、、Stream、To-Do、Visio、Word、Yammer  |
-| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
-| **GCC High** | Azure Active Directory、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business |
-| **DoD** | Azure Active Directory、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、SharePoint Online、Skype for Business |
+| **クライアント** | Android 用アクセス、Excel、Office 365 管理ポータル、Office 365 管理ポータル for iOS、Office 構成ツール、Office Lens、OneNote、Outlook、PowerPoint、Project、SharePoint、To-Do、Visio、Word |
+| **商用** | Azure Active Directory、Bookings、Compliance Manager、Delve、Exchange Online、Forms、Kaizala、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、 Office 365 および Azure AD Office 365 サインイン、Office 365 Business カスタマー ポータル、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、OneDrive、Outlook グループ、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Yammer |
+| **GCC** | Azure Active Directory、コンプライアンス マネージャー、Delve、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Complianceアドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、Skype for Business, Stream |
+| **GCC High** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、Skype for Business |
+| **DoD** | Azure Active Directory、Exchange Online、フォーム、Microsoft Defender for Office 365、Microsoft Teams、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、Power BI、Skype for Business |
 
 ### <a name="microsoft-accessibility-conformance-reports"></a>Microsoft アクセシビリティ適合レポート
 
@@ -71,4 +72,4 @@ Microsoft は、米国連邦政府および州政府の主要なソフトウェ�
 - [Office 365 アクセシビリティ センター](https://go.microsoft.com/fwlink/p/?linkid=2051801): 障碍のある方のための Office 365 のリソースです。
 - [Enterprise Disability Answer Desk](https://go.microsoft.com/fwlink/p/?linkid=2050890): 製品およびサービス、またはコンプライアンスについて、アクセシビリティに関する質問のあるエンタープライズのお客様専用のサポートです。
 - [DHS 信頼できるテスター プログラム](https://go.microsoft.com/fwlink/?linkid=2052171): Microsoft が参加する米国の米国家庭セキュリティ省 (DHS) 信頼できるテスター プログラムに関する情報を取得します。
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 3f178689655662272fc8149259cf769ce122a18a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 36e3ddb58a61bc3a0a14a300e15f22262027fc92
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161076"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486344"
 ---
 # <a name="federal-risk-and-authorization-management-program-fedramp"></a>Federal Risk and Authorization Management Program (FedRAMP)
 
@@ -53,7 +53,7 @@ Microsoft Government クラウド サービスは、公的部門のお客様に�
 - [Dynamics 365 米国政府機関](https://aka.ms/d365-compliance-list)
 - Intune
 - Office 365米国政府、米国Office 365 - 高、米国Office 365国防
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
 ## <a name="azure-dynamics-365-and-fedramp"></a>Azure、Dynamics 365、および FedRAMP
 
@@ -75,9 +75,9 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **GCC** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online、Exchange Online Protection、インフラストラクチャ、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
-| **GCC High** | アクティビティ フィード サービス、Bing サービス、Exchange Online、Exchange Online Protection、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
-| **DoD** | アクティビティ フィード サービス、Bing サービス、Exchange Online Protection、Exchange Online、インテリジェント サービス、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **GCC** | Activity Feed Service, Bing Services, Bookings, Delve, Exchange Online, Exchange Online Protection, Infrastructure, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Officeオンライン、Office サービス、Office利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **GCC High** | Activity Feed Service, Bing Services, Bookings, Exchange Online, Exchange Online Protection, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Serviceインフラストラクチャ、Office利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **DoD** | Activity Feed Service, Bing Services, Bookings, Exchange Online Protection, Exchange Online, Intelligent Services, Microsoft Teams, Office 365 Customer Portal, Office Online, Office Serviceインフラストラクチャ、Office利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
