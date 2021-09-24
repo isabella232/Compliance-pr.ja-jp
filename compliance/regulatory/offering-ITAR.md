@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 5f3a17ca4f06f61b62bcc13e44b74ad4d436a6da
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e91675de1f8f974b643b46a5367d9d3754d32e96
+ms.sourcegitcommit: 3fac638ed9a54411d113dd2db1c942b77657b96d
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160615"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59501322"
 ---
 # <a name="international-traffic-in-arms-regulations-itar"></a>国際武器規制 (ITAR)
 
@@ -43,7 +43,9 @@ ITAR で規制されたデータをホストする場合は、Microsoft アカ�
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
+- Azure
 - Azure Government
+- Azure Government Secret
 - Office 365米国政府 - 高、高、Office 365防衛
 
 ## <a name="azure-dynamics-365-and-itar"></a>Azure、Dynamics 365、ITAR
@@ -76,4 +78,4 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 - [DDTC ITAR](https://www.pmddtc.state.gov/?id=ddtc_kb_article_page&sys_id=24d528fddbfc930044f9ff621f961987)
 - [ITAR タイトル 22 CFR 120~130](https://aka.ms/itar)
 - [Office 365米国政府](https://products.office.com/government/office-365-web-services-for-government)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)

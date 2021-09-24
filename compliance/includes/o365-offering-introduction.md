@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: b42797a1987251ab34dc8ee44e654667992f0ee3
-ms.sourcegitcommit: 01938022a292c07e98041dc6ae1312a1b8c617db
+ms.openlocfilehash: dc958775342570cc15a2549bb83e22a2b53db8fe
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58259740"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486217"
 ---
 <!-- This file is a part of all Office 365 compliance offering topics. Please coordinate with Robert Mazzoli (robmazz) for any changes.-->
 
@@ -12,8 +12,9 @@ Microsoft Office 365 は、マルチテナント ハイパースケール クラ
 
 このセクションでは、次の Office 365 クラウド環境について説明します。
 
+- **クライアント ソフトウェア (クライアント)**: 顧客デバイスで実行されている商用クライアント ソフトウェア。
 - **Office 365 (商用)**: グローバルに利用可能な商用パブリックな Office 365 クラウド サービス。
-- **Office 365 Government Community Cloud (GCC)**: [Office 365 GCC クラウド サービス](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc) は、米国の連邦、州、地方、および部族政府、および米国政府の代わりにデータを保持または処理する請負業者が利用できます。
+- **Office 365 Government Community Cloud (GCC)**: [Office 365 GCC クラウド サービス](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc)は、米国の連邦、州、地方、および部族政府、および米国政府の代わりにデータを保持または処理する請負業者が利用できます。
 - **Office 365 Government Community Cloud - 高 (GCC High)**: [Office 365 GCC High クラウド サービス](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) は、国防総省 (DoD) セキュリティ要件ガイドライン レベル 4 のコントロールに従って設計されており、厳しく規制された連邦および国防の情報をサポートします。 この環境は、連邦政府機関、国防産業基盤 (DIB)、政府機関の請負業者によって使用されます。
 - **Office 365 DoD (DoD)**: [Office 365 DoD クラウド サービス](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) は、DoD セキュリティ要件ガイドライン レベル 5 のコントロールに従って設計されており、厳格な連邦および防衛規制をサポートしています。 この環境は、米国国防総省が排他的に使用するためのものです。
 

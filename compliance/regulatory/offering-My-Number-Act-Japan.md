@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: e38e5f2c370692a60d07ac25491ae457e0ed34c0
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: a770f37d778d56116050adefa03f2b27a1241792
+ms.sourcegitcommit: cb0b058800d3a8f04921066b4c59fb427eb9c268
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160420"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59486274"
 ---
 # <a name="my-number-act-japan"></a>マイ ナンバー法 (日本)
 
@@ -39,13 +39,13 @@ ms.locfileid: "59160420"
 
 Microsoft ビジネス クラウド サービスは、[Microsoft オンライン サービス条件](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31)でこれらの要件に対処します。これは、マイ ナンバー データを含む顧客データの所有権と責任は、Microsoft ではなく顧客にあることを規定しています。 したがって、顧客は、顧客データに含まれるマイ ナンバー データを保護するために適切な管理を行う必要があります。
 
-Microsoft はクラウド サービスに保存されているマイ ナンバー データに永続的にアクセスできないため、マイ ナンバー データを処理するための 「アウトソーシング」 契約は必要ありません。 顧客が Microsoft にマイ ナンバー データを含む顧客データへのアクセスを希望する場合、そのような要求を行う前に、顧客はすべてのケースについて Microsoft と追加のアウトソーシング契約を作成する必要があります。
+Microsoft はクラウド サービスに保存されているマイ ナンバー データに永続的にアクセスできないため、マイ ナンバー データを処理するための 「アウトソーシング」 契約は必要ありません。 顧客が Microsoft にマイ ナンバー データを含む顧客データへのアクセスを希望する場合、そのような要求を行う前に、顧客はすべてのケースについて Microsoft とその他のアウトソーシング契約を作成する必要があります。
 
 また、Microsoft は、顧客データを使用して、広告や同様の商業目的ではなく、顧客にサービスを提供することのみを約束し、堅牢なアクセス制御システムを導入していることも明記しています。
 
 セキュリティに関する懸念については、Microsoft のビジネス クラウド サービスは、クラウド サービス プロバイダー向けの日本初のセキュリティ認定である[クラウド セキュリティ マーク (ゴールド)](offering-cs-mark-gold-japan.md) 標準を満たしています。
 
-したがって、Microsoft ビジネス クラウド サービスはマイ ナンバー法の要件をサポートし、個人データの個々の所有者からの同意など、顧客に対する法律の下で追加の義務を作成しません。
+したがって、Microsoft ビジネス クラウド サービスはマイ ナンバー法の要件をサポートし、個人データの個々の所有者からの同意など、顧客に対する法律の下でその他の義務を作成しません。
 
 ## <a name="microsoft-in-scope-cloud-platforms--services"></a>対象となる Microsoft のクラウド プラットフォームとサービス
 
@@ -66,7 +66,7 @@ Microsoft はクラウド サービスに保存されているマイ ナンバ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office 365 Video、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
+| **商用** | Azure Active Directory、Azure Information Protection、Bookings、Compliance Manager、Exchange Online、Exchange Online Protection、Forms、Kaizala、Microsoft Analytics、Microsoft Booking、Microsoft Defender for Office 365、Microsoft Graph、Microsoft Teams、Microsoft To-Do for Web、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 Cloud App Security、Office 365 Groups、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、StaffHub、Stream、Sway、Yammer Enterprise |
 
 ## <a name="how-to-implement"></a>実装方法
 
@@ -88,4 +88,4 @@ PPC Q\&Aの[セクション Q3-13](https://www.ppc.go.jp/legal/policy/faq/) (日
 - [Microsoft におけるプライバシー](https://privacy.microsoft.com/en-US/)
 - [Microsoft のプライバシーに関する声明](https://privacy.microsoft.com/privacystatement)
 - [クラウドでのプライバシーに関する考慮事項](https://download.microsoft.com/download/0/9/D/09DE47F6-F9E5-4C14-B9E8-E8119A130ACC/Privacy_considerations_in_the_cloud.pdf)
-- [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
+- [Microsoft セキュリティ センターのコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
