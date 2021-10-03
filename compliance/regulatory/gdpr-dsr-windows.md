@@ -18,21 +18,22 @@ ms.collection:
 - M365-security-compliance
 - MS-Compliance
 hideEdit: true
-ms.openlocfilehash: 202b8aa75d3dd6fc94025a1a30f922563fc73e7b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 52db464f30ac518cb60fcb62ad908e0fb3de31eb
+ms.sourcegitcommit: 0777355cfb73c07d2b7e11d95a5996be8913b2af
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59158954"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050571"
 ---
 # <a name="windows-diagnostic-data-processor-configuration-data-subject-requests-for-the-gdpr-and-ccpa"></a>Windows 診断データ 処理の構成 GDPRとCCPAのためのデータ主体の要求
 
->[!NOTE]
->このトピックは、Windows 10 Enterprise、Pro と Education エディション バージョン 1809 2021 年 7 月の更新プログラム 以降に適用されます。
+**適用対象:**
+-   2021 年 7 月の更新プログラム以降の Windows 10 Enterprise、Pro および Education エディション バージョン 1809
+-   Windows 11 Enterprise、Pro、Education エディション
 
 ## <a name="introduction-to-data-subject-requests-dsrs"></a>データ主体要求 (DSR) の概要
 
-EU 一般データ保護規則 (GDPR) は、規制において _データ主体_ と呼ばれる人に、雇用主または他の種類の機関や組織 (_データ コントローラー_ または単に _コントローラー_ と呼ばれます) によって収集された個人データを管理する権限を与えます。 GDPR における個人データは、特定された自然人または特定可能な自然人に関連するすべてのデータとして広範囲に定義されています。 GDPR では、個人データに対するデータ主体固有の権限が付与されます。このような権限には、個人データのコピーの取得、個人データの修正の要求、個人データの処理の制限、個人データの削除、または別のコントローラーに移動できる電子的な形式での個人データの受け取りが含まれます。 データ主体がコントローラーに対して個人データへのアクションを実行するよう正式に要求することを、_データ主体の要求_ または DSR と呼びます。
+EU 一般データ保護規則 (GDPR) では、ユーザー (規則では _データ主体_ と呼ばれる) に対して、雇用主やその他の会社または組織 (_データ管理者_ または単に _管理者_ と呼ばれる) が収集した個人データを管理する権利を与えます。GDPR の下で個人データは広範な定義がなされ、識別された、または識別可能な自然人と関連するあらゆるデータのことです。GDPR は個人データに対するデータ サブジェクト固有の権利を与えます。この権利には、個人データのコピーの取得、修正の要求、処理の制限、削除、または、別の管理者に移動できるようにするための電子形式での受信が含まれます。データ主体から管理者に個人データへのアクション実行を求める正式な要求は、_データ主体の要求_ (DSR) と呼ばれます。
 
 同様に、カリフォルニア州消費者プライバシー法 (CCPA) では、個人情報の削除、アクセスおよび受信 (移植性) など、GDPR のデータ主体の権利に類似している権利を含む、カリフォルニア州の消費者のプライバシーの権利および義務を規定します。 また、CCPA は、確実な情報開示、権利の行使を選択する際の差別に対する保護や、"売上" として分類されたある種のデータ転送の "オプトアウト/オプトイン" 要件を提供します。 「販売」は広く定義されており、有価約因に関するデータの共有を含みます。 CCPA の詳細については、「[カリフォルニア州消費者プライバシー法](/microsoft-365/compliance/offering-ccpa)」と「[カリフォルニア州消費者プライバシー法に関する FAQ](/microsoft-365/compliance/ccpa-faq)」を参照してください。
 
@@ -72,7 +73,7 @@ Microsoft は、Windows 診断データ 処理の構成が有効化されたデ�
 > 一部の Windows 診断データ はデバイス識別子にのみ関連付けられ、特定のユーザーには関連付けられません。 この種類のデバイス レベルのデータはエクスポートされず、30 日以内にシステムから削除されます。<br><br>
 > Windows 診断データ を修正する機能はサポートされていません。 Windows 診断データ は、Windows 内で行われる実際の操作記録によって構成され、そのようなデータの変更は、操作の履歴を危険にさらし、セキュリティのリスクを高め、信頼性を損ないます。
 
-次のセクションでは、Azure Active Directory (AAD) ユーザー ID に関連付けられている Windows 診断データ に対して、データ主体要求を実行する手順について説明します。 詳細情報は、 [Windows 10 & プライバシー コンプライアンス: ITとコンプライアンス プロフェッショナルのためのガイド](/windows/privacy/windows-10-and-privacy-compliance)をご覧ください。
+次のセクションでは、Azure Active Directory (AAD) ユーザー ID に関連付けられている Windows 診断データ に対して、データ主体要求を実行する手順について説明します。 詳細情報は、「[Windows 10 と Windows 11 のプライバシー コンプライアンス: IT とコンプライアンス プロフェッショナルのためのガイド](/windows/privacy/windows-10-and-privacy-compliance)」をご覧ください。
 
 ## <a name="executing-dsrs-against-windows-diagnostic-data"></a>Windows 診断データ に関する DSR の実務
 
@@ -90,16 +91,16 @@ Microsoft は、特定のユーザーの Azure Active Directory オブジェク�
 
 ユーザーベースの削除要求の場合、Microsoft は 2 つのソリューションを提供します。  DSR 削除要求を管理できる機能を企業のテナント管理者に提供するポータル エクスペリエンスがあります。 「[Azure DSR、パート 1、手順 5: 削除](/microsoft-365/compliance/gdpr-dsr-azure#step-5-delete)」では、Windows 診断データ への DSR 削除要求への対応について、Azure portal 上でユーザー及び関連するデータを削除する方法を説明します。
 
-Microsoft はまた、ユーザーを削除する機能を提供します。それは実際には、既存のアプリケーション プログラミング インターフェイス (API) を介して直接 Windows 診断データ を削除するものです。 詳細については、「[API リファレンス ドキュメント](/graph/api/directory-deleteditems-delete)」に説明されています。
+マイクロソフトは、ユーザーを削除する機能も提供しています。これにより、既存のアプリケーション プログラミング インターフェイス (API) を介して、直接 Windows 診断データが削除されます。詳細については、「[API 参照ドキュメンテーション](/graph/api/directory-deleteditems-delete)」をご覧ください。
 
 >[!IMPORTANT]
 >収集したデータを削除しても、デバイスからの収集は停止しません。 データ収集を無効に設定するためには、「[各サービスのリファレンス ドキュメント](/windows/privacy/configure-windows-diagnostic-data-in-your-organization#enterprise-management)」に記載されている手順に従ってください。
 
 ### <a name="step-3-export"></a>手順 3: エクスポート
 
-テナント管理者は組織内で唯一、Windows 診断データ 処理の構成が有効化されたデバイスの使用状況に関する Windows 診断データにアクセスできます。 エクスポート要求に対して取得されるデータは、コンピューターが読み取り可能な形式で提供され、ユーザーがデータに関連付けられているデバイスとサービスを認識できるファイルで提供されます。 上記で説明したように、取得されるデータには Windows デバイスのセキュリティまたは安定性を損なう可能性があるデータは含まれません。 「[Azure DSR、パート 2、手順 3: エクスポート](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure portal で Windows 診断データ の DSR エクスポート要求に対応する方法について説明します。
+テナント管理者は、特定のユーザーによる Windows 診断データ プロセッサ構成が有効になっているデバイスの使用に関連する Windows 診断データにアクセスできる組織内の唯一の人物です。エクスポート要求に対して取得されるデータは、コンピューターが読み取り可能な形式で提供され、ユーザーがデータに関連付けられているデバイスとサービスを認識できるファイルで提供されます。上記で説明したように、取得されるデータには Windows デバイスのセキュリティまたは安定性を損なう可能性があるデータは含まれません。「[Azure DSR、パート 2、手順 3: エクスポート](/microsoft-365/compliance/gdpr-dsr-azure#step-3-export)」では、Azure ポータルを介して、Windows 診断データの DSR エクスポート要求を実行する方法について説明します。
 
-Microsoft はまた、既存のアプリケーション プログラミング インターフェイス (API) を介して直接 Windows 診断データ をエクスポートする機能を提供します。 詳細については、「[API リファレンス ドキュメント](/graph/api/user-exportpersonaldata)」に説明されています。
+マイクロソフトは、既存のアプリケーション プログラミング インターフェイス (API) を介して直接 Windows 診断データをエクスポートする機能も提供します。詳細については、「[API 参照ドキュメンテーション](/graph/api/user-exportpersonaldata)」に記載されています。
 
 ## <a name="notify-us-about-exporting-or-deleting-issues"></a>問題のエクスポートまたは削除について通知する
 
