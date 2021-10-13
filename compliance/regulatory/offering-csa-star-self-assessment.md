@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 6ff20d9ac81562353a5971386d0d498b44edfd3b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 632c8c40348e155d4acefb0c2ed66f1e1a2500b1
+ms.sourcegitcommit: 963eeffcf34f2696a1530ef95154adc2fa3a1941
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160596"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60266707"
 ---
 # <a name="cloud-security-alliance-csa-star-self-assessment"></a>Cloud Security Alliance (CSA) STAR Self-Assessment
 
@@ -80,11 +80,11 @@ CSP は CSA STAR Self-Assessment を使用すると、透明性の高い方法�
 
 **Office 365 が達成した CSA STAR の保証レベルは?**
 
-- **レベル 1**: **CSA STAR 自己評価**: クラウド サービス プロバイダーにより提供される無償のサービスで、顧客がサービスのセキュリティを評価できるよう、プロバイダーが自社のセキュリティ制御を文書化したものです。
+- **レベル 1**: **CSA STAR 自己評価**: クラウド サービス プロバイダーにより提供される [無償のサービス](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365)で、顧客がサービスのセキュリティを評価できるよう、プロバイダーが自社のセキュリティ制御を文書化したものです。
 
 ### <a name="office-365-resources"></a>Office 365 のリソース
 
-- [Cloud Security Alliance](https://cloudsecurityalliance.org/)
+- [クラウド セキュリティ アライアンス](https://cloudsecurityalliance.org/star/registry/services/microsoft-office-365) - Microsoft 365
 - [Cloud Controls Matrix (CCM)](https://cloudsecurityalliance.org/group/cloud-controls-matrix/)
 - [Consensus Assessments Initiative Questionnaire (CAIQ)](https://cloudsecurityalliance.org/group/consensus-assessments/)
 - [CSA Security, Trust & Assurance Registry (STAR)](https://cloudsecurityalliance.org/star/)
