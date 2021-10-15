@@ -36,6 +36,8 @@
       href: assurance-datacenter-environmental-safeguards.md
     - name: 物理的アクセスのセキュリティ
       href: assurance-datacenter-physical-access-security.md
+    - name: 資産管理
+      href: assurance-datacenter-asset-management.md
     - name: データを有するデバイスの破棄
       href: assurance-data-bearing-device-destruction.md
     - name: ビジネスの継続性と障害復旧

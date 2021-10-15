@@ -328,3 +328,7 @@
   items:
     - name: CCPA - その他のよく寄せられる質問
       href: ccpa-faq.yml
+- name: バージニア州消費者データ保護法 (VCDPA)
+  items:
+    - name: VCDPA - その他のよく寄せられる質問
+      href: vcdpa-faq.yml
