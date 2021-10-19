@@ -19,12 +19,12 @@ f1.keywords:
 - NOCSH
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 44876abef95f269d454139fd721194ef3d48dcd4
-ms.sourcegitcommit: cf424cb1e7c12048120977f294f780b776119a96
+ms.openlocfilehash: 6d9304cd0099ba95da8c58432802a3b1c836b1d4
+ms.sourcegitcommit: 02b7aa81f950037d3c959a522336a7d7af579e86
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/11/2021
-ms.locfileid: "60265117"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477952"
 ---
 # <a name="datacenter-architecture-and-infrastructure"></a>データセンターのアーキテクチャとインフラストラクチャ
 
@@ -35,6 +35,10 @@ Microsoft は、世界中に分散データセンター インフラストラク
 地域は、大規模で回復力のあるネットワークを介して相互接続されるデータセンターのセットです。 地域は地域に整理され、特定のデータ常駐とコンプライアンスを持つ顧客にデータとアプリケーションを近い状態に保つ能力が必要です。 組み込みのフォールト トレランスにより、地域の完全な障害に対して、専用の大容量ネットワーク インフラストラクチャへの接続を通じて地域の完全な障害に耐えることができる。
 
 領域内の物理的に分離された場所は可用性ゾーンと呼ばれます。それぞれが独立した電力、冷却、およびネットワークを備えた 1 つ以上のデータセンターで構成されます。 可用性ゾーンを使用すると、ミッション クリティカルなアプリケーションを高可用性と低遅延レプリケーションで実行できます。
+
+次の図は、グローバル インフラストラクチャが、高可用性、障害復旧、およびバックアップのために同じデータ常駐境界内の地域と可用性ゾーンをペアにしている方法を示しています。
+
+![データ常駐の境界。](../media/assurance-data-residency-boundary.png)
 
 地理的に分散したデータセンターを使用すると、Microsoft はサービスを顧客に近づけ、ネットワークの待機時間を短縮し、地理的冗長なバックアップとフェールオーバーを可能にします。
 
