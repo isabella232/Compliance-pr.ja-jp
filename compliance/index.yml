@@ -20,9 +20,9 @@ highlightedContent:
     - title: Microsoft がお客様のデータを保護する方法について
       itemType: learn
       url: /learn/paths/audit-safeguard-customer-data/
-    - title: クラウドでの共有責任の詳細
+    - title: Microsoft Cloud のリスク評価ガイド
       itemType: overview
-      url: /azure/security/fundamentals/shared-responsibility?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
+      url: /compliance/assurance/assurance-risk-assessment-guide
     - title: Microsoft コンプライアンス マネージャーの詳細
       itemType: learn
       url: /learn/paths/compmgmt/

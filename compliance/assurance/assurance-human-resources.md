@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 1cecf95d167e75f1c31360bca831184dee3e322e
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 95b1f2eedd9123ba9f6d2d8f8c175ed773bbd5ce
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59159018"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582650"
 ---
 # <a name="human-resources-overview"></a>人事管理の概要
 
@@ -80,6 +80,6 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AT-2: セキュリティの認識 <br> AT-3: 役割ベースのセキュリティ トレーニング <br> AT-4: セキュリティ トレーニング レコード <br> PS-3: 人事審査 <br> PS-4: 人員の終了 <br> PS-5: 人事異動 <br> PS-7: サードパーティの人事セキュリティ | 2020 年 9 月 24 日 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2021 年 4 月 20 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.7: 人事のセキュリティ | 2021 年 4 月 20 日 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 | 2020 年 12 月 24 日 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-07: Standards of Business Conduct (SBC) <br> CA-08: バックグラウンド チェック <br> CA-43: アカウントの失効 <br> ELC-08/13/14: 雇用契約 | 2020 年 12 月 24 日 |

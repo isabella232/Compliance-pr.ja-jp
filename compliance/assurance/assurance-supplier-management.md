@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 3b0a4c7f12eba49c252f71e47eda1685fd4d41a4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 8367f147e9d0e02ad76d97c665ad66559a743d06
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160719"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582507"
 ---
 # <a name="supplier-management-overview"></a>サプライヤー管理の概要
 
@@ -58,7 +58,7 @@ Microsoft のデータ保護要件 (DPR) に準拠してアクセス制御を実
 
 ## <a name="how-does-microsoft-notify-customers-of-changes-to-suppliers-who-process-their-data"></a>Microsoft は、データを処理するサプライヤーに対する変更を顧客に通知する方法を説明します。
 
-Microsoft Online Service Data Protection Addendum (DPA) に基づき、Microsoft はサブプロセッサの追加に関する通知期間に関して追加のコミットメントを行います。 通知のタイム フレームは、サブプロセッサが Microsoft に代わって処理するデータの種類によって異なります。 DPA に記載されている通り、Microsoft は顧客データを処理する新しいサブプロセッサの少なくとも 6 か月前にお客様に通知を提供します。 その他の個人データに関して、Microsoft は少なくとも 30 日間の通知を提供します。 通知は、サブプロセッサ リストのMicrosoft Online Services [によって提供されます](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=926b2cf5-6b6e-43ca-9bc3-f73e961aad5f&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List)。
+Microsoft Online Service Data Protection Addendum (DPA) に基づき、Microsoft はサブプロセッサの追加に関する通知期間に関して追加のコミットメントを行います。 通知のタイム フレームは、サブプロセッサが Microsoft に代わって処理するデータの種類によって異なります。 DPA に記載されている通り、Microsoft は顧客データを処理する新しいサブプロセッサの少なくとも 6 か月前にお客様に通知を提供します。 その他の個人データに関して、Microsoft は少なくとも 30 日間の通知を提供します。 通知は、サブプロセッサ リストのMicrosoft Online Services [によって提供されます](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=ede6342e-d641-4a9b-9162-7d66025003b0&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Subprocessor_List)。
 
 ## <a name="related-external-regulations--certifications"></a>関連する外部規制&認定
 
@@ -78,8 +78,8 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | CA-3: システム相互接続 <br> IA-4: 識別子の管理 <br> PS-6: アクセス契約 <br> PS-7: サードパーティの人事セキュリティ <br> SA-4: 取得プロセス <br> SA-9: 外部情報システム サービス <br> SA-12: サプライ チェーン保護 | 2020 年 9 月 24 日 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2021 年 4 月 20 日 |
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) |  A.8.1: 外注 PII 処理の開示 | 2020 年 12 月 24 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.15.1: サプライヤー関係の情報セキュリティ | 2021 年 4 月 20 日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.8.1: 外注 PII 処理の開示 | 2020 年 12 月 24 日 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-53: サードパーティの監視 | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース

@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 29d0c6633c67d65c6bef27a9768fa213a9e50ac4
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: cc886e0a0aec4d2fdfd9b0bc1568ca2d6f4537d3
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160460"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582590"
 ---
 # <a name="privacy-overview"></a>プライバシーの概要
 
@@ -69,7 +69,7 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|  
-| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2021 年 4 月 20 日 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A-2.1: パブリック クラウド PII プロセッサの目的 | 2021 年 4 月 20 日 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-12: サービス レベル契約 (SLA) <br> CA-17: Microsoft セキュリティ ポリシー <br> CA-25: コントロール フレームワークの更新 | 2020 年 12 月 24 日 |
 
 ## <a name="resources"></a>リソース

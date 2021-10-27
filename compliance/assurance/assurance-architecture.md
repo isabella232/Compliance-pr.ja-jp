@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: 97fe615296f03c8f72dbf23d886501988686b53a
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 513fe8b9f9a4ed5db71606704738cb46a6af8ed1
+ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160388"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60582670"
 ---
 # <a name="architecture-overview"></a>アーキテクチャの概要
 
@@ -43,7 +43,7 @@ Microsoft Azureは、Microsoft およびサード パーティの管理データ
 
 Dynamics 365 は、顧客関係管理 (CRM) 機能とその拡張機能を Enterprise リソース計画 (ERP) 機能と統合するオンライン ビジネス アプリケーション スイートです。 これらのエンドツーエンドのビジネス アプリケーションは、顧客が関係を収益に変え、顧客を獲得し、ビジネスの成長を加速するのに役立ちます。 Dynamics 365 は、Azure のインフラストラクチャ上に構築されたサービスとしてのソフトウェア (SaaS) スイートであり、グローバルに分散したデータセンターを通じて世界中のお客様が利用できます。
 
-## <a name="what-is-microsoft-365"></a>Microsoft 365とは
+## <a name="what-is-microsoft-365"></a>Microsoft 365 とは
 
 Microsoft 365は、クラウドベースのサブスクリプション ベースのバージョンの Office、Windows 10、Enterprise Mobility + Security、およびコンプライアンスです。 Microsoft 365顧客は Outlook や Windows などのクライアントを取得し、microsoft が代わりにホストするサービス (Exchange Online、Microsoft Teams、SharePoint Online など) を利用できます。 サービスのすべてのコンポーネントは、サブスクリプション モデルの一部として定期的に更新され、お客様に "常緑" 製品が提供されます。 Microsoft は、お客様に代わってサービス インフラストラクチャを管理します。つまり、Microsoft は顧客データを格納するインフラストラクチャをセキュリティ保護する責任を負います。
 
@@ -53,7 +53,7 @@ Microsoft 365は、クラウドベースのサブスクリプション ベース
 
 Microsoft のクラウド サービスは、すべてのテナントが他のすべてのテナントに対して敵対的である可能性があるという前提で構築されています。 テナントを適切に分離するために、Microsoft はさまざまな分離テクノロジとコントロールを実装しています。 これらのコントロールは、テナント間の情報漏洩や顧客データへの不正アクセスを防止し、あるテナントのアクションが別のテナントのサービスに悪影響を及ぼすのを防ぐために設計されています。
 
-顧客コンテンツは、テナント内で論理的に分離され、Azure Active Directory (Azure AD) を使用します。 Microsoft Online Services のユーザー認証では、ユーザー ID だけでなく、ユーザー アカウントが含むテナント ID も検証され、ユーザーはテナント環境外のデータにアクセスできません。 Azure コンテンツの論理的な分離をAD、顧客コンテンツは常に保存時および転送中に暗号化されます。 個々のサービスでは、個別の暗号化されたデータベース内のテナント データSharePointのオンライン分離など、テナント分離の層が追加される場合があります。
+顧客のコンテンツは、テナント内で論理的に分離され、Azure Active Directory (Azure AD)。 Microsoft Online Services のユーザー認証では、ユーザー ID だけでなく、ユーザー アカウントが含むテナント ID も検証され、ユーザーはテナント環境外のデータにアクセスできません。 ユーザーの論理的な分離をAzure AD、顧客コンテンツは常に保存時と転送時に暗号化されます。 個々のサービスでは、個別の暗号化されたデータベース内のテナント データSharePointのオンライン分離など、テナント分離の層が追加される場合があります。
 
 ## <a name="how-do-microsoft-online-services-engineer-resilient-services-that-avoid-single-points-of-failure"></a>Microsoft オンライン サービスは、単一障害点を回避する回復力のあるサービスを設計する方法を説明します。
 
@@ -86,6 +86,6 @@ Microsoft のオンライン サービスは、定期的に外部の規制と認
 | **外部監査** | **Section** | **最新のレポート日付** |
 |:--------------------|:------------|:-----------------------|
 | [FedRAMP](https://compliance.microsoft.com/compliancemanager) | AC-4: 情報フローの適用 <br> CP-9: 情報システムのバックアップ <br> PL-8: 情報セキュリティ アーキテクチャ <br> SC-7: 境界保護 <br> SC-22: アーキテクチャとプロビジョニング | 2020 年 9 月 24 日 |
-| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: 情報セキュリティの組織 <br> A.13.1: ネットワーク セキュリティ管理 <br> A.17.2: 冗長性 | 2021 年 4 月 20 日 |
+| [ISO 27001/27002/27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=8d625374-4f2d-49f8-9d37-a4281ba98222&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [適用性のステートメント](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=c0df4ce8-c77e-4183-84eb-c8688470d8b1&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br> [認定](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.6: 情報セキュリティの組織 <br> A.13.1: ネットワーク セキュリティ管理 <br> A.17.2: 冗長性 | 2021 年 4 月 20 日 |
 | [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=90df3f9c-3aaf-4dbf-99d0-ca9f2991721b&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-37: テナントの分離 <br> CA-49: バックアップ ポリシー <br> CA-51: データ レプリケーション | 2020 年 12 月 24 日 |
 | [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=a73c1738-7892-42b7-acd3-87b6371c53f6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_%2F_SSAE_16_Reports) | CA-05: データ フロー図 <br> CA-37: テナントの分離 <br> CA-49: バックアップ ポリシー <br> CA-51: データ レプリケーション | 2020 年 12 月 24 日 |
