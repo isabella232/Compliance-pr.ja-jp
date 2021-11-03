@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 97875374c58bf174090a9dd34f26d3e22b2b50b3
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: e95b5c2b73f6b48cbab40bbc5d8d3aff6375cc48
+ms.sourcegitcommit: 9843c6a0318dfea189b07f9cd80e33c3e8f6d676
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160500"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60725664"
 ---
 # <a name="health-information-trust-alliance-hitrust-common-security-framework-csf"></a>Health Information Trust Alliance (HITRUST) Common Security Framework (CSF)
 
@@ -64,7 +64,7 @@ Azure、Dynamics 365、その他のオンライン サービスコンプライ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | アクティビティ フィード サービス、Bing サービス、Delve、Exchange Online Protection、Exchange Online、Microsoft Teams、Office 365 カスタマー ポータル、Office Online、Office サービス インフラストラクチャ、Office 利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
+| **商用** | Activity Feed Service, Bing Services, Delve, Exchange Online Protection, Exchange Online, Microsoft Teams, Office 365 カスタマー ポータル, Office Online, Officeサービス インフラストラクチャ、Office利用状況レポート、OneDrive for Business、People Card、SharePoint Online、Skype for Business、Windows Ink |
 
 ### <a name="office-365-audits-reports-and-certificates"></a>Office 365 監査、レポート、証明書
 
@@ -93,7 +93,7 @@ Microsoft は、他のクラウド サービス プロバイダーと比較し�
 ### <a name="resources"></a>リソース
 
 - [HITRUST Alliance](https://hitrustalliance.net/)
-- [HITRUST CSF 9.3](https://hitrustalliance.net/csf-license-agreement/)
+- [HITRUST CSF 9.5](https://hitrustalliance.net/csf-license-agreement/)
 - [CSF の理解と活用](https://hitrustalliance.net/understanding-leveraging-csf/)
 - [HITRUST 共有責任プログラムの詳細](https://go.microsoft.com/fwlink/p/?linkid=2100268)
 - [Microsoft Trust Center のコンプライアンス](https://www.microsoft.com/trust-center/compliance/compliance-overview)
