@@ -20,12 +20,12 @@ search.appverid:
 - MOE150
 titleSuffix: Microsoft Service Assurance
 hideEdit: true
-ms.openlocfilehash: a7b6e345afa49d82f96d9eb9e5c804fc7cbf5ffe
-ms.sourcegitcommit: 1f30616328d7deb04e41dcbd44a330ea937fe94f
+ms.openlocfilehash: df4b98f90c70bab3bd7f09e6312833d8a7ea768b
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60584871"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678434"
 ---
 # <a name="risk-assessment-guide-for-microsoft-cloud"></a>Microsoft Cloud のリスク評価ガイド
 
@@ -41,7 +41,7 @@ ms.locfileid: "60584871"
 
 クラウド展開は、サービスとしてのインフラストラクチャ (IaaS)、サービスとしてのプラットフォーム (PaaS)、またはサービスとしてのソフトウェア (SaaS) として分類できます。 該当するクラウド サービス モデルに応じて、ソリューションのセキュリティ制御に対する責任のレベルは、CSP と顧客の間で変化します。 従来のオンプレミス モデルでは、顧客はスタック全体を担当します。 クラウドに移行すると、すべての物理的なセキュリティ責任が CSP に転送されます。 組織のクラウド サービス モデルに応じて、追加の責任が CSP に移行します。 ただし、ほとんどのサービス モデルでは、クラウド、ネットワーク接続、アカウントと ID、およびデータへのアクセスに使用されるデバイスに対して、組織が引き続き責任を負います。 Microsoft は、顧客がライフサイクル全体にわたってデータを管理できるサービスの作成に多額の投資を行っています。
 
-Microsoft Cloud は、DevSecOps とオートメーションを組み合わせて運用モデルを標準化することにより、ハイパースケールで動作します。 Microsoft の運用モデルは、従来のオンプレミスの運用モデルと比較してリスクにアプローチする方法を変更し、リスクを管理するための異なる、時には見慣れないコントロールを実装します。 クラウド リスク評価を実施する場合、Microsoft の目標は、すべてのリスクに対処し、必ずしも組織が行うのと同じコントロールを実装するわけではないことを念頭に置いておきます。 Microsoft は、異なる一連のコントロールで同じリスクに対処し、クラウド リスク評価に反映する必要があります。 強力な予防制御を設計および実装すると、探偵コントロールと修正コントロールに必要な作業の多くを削減できます。
+Microsoft Cloud は、DevSecOps とオートメーションを組み合わせて運用モデルを標準化することにより、ハイパースケールで動作します。 Microsoft の運用モデルは、従来のオンプレミスの運用モデルと比較してリスクにアプローチする方法を変更し、リスクを管理するための異なる、時には見慣れないコントロールを実装します。 クラウド リスク評価を実施する場合、Microsoft の目標は、すべてのリスクに対処し、必ずしも組織が行うのと同じコントロールを実装するわけではないことを念頭に置いておきます。 Microsoft は、異なる一連のコントロールで同じリスクに対処し、クラウド リスク評価に反映する必要があります。 強力な予防制御を設計および実装すると、探偵コントロールと修正コントロールに必要な作業の多くを削減できます。 この例は、ゼロ スタンディング アクセス [(ZSA)](assurance-microsoft-365-service-engineer-access-control.md)の Microsoft の実装です。
 
 ## <a name="adopt-a-framework"></a>フレームワークの採用
 

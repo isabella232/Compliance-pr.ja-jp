@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 313905ec68c7d730cd2372ebd4679943ff124993
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 4b255918c3bb46757d5bd12ae33d907200dd37b0
+ms.sourcegitcommit: 85b36ce8c79fb111980cc6462f2addb44a924065
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59161023"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60678454"
 ---
 # <a name="criminal-justice-information-services-cjis-security-policy"></a>刑事司法情報サービス (CJIS) セキュリティ ポリシー
 
@@ -48,7 +48,7 @@ Microsoft Cloud での CJIS セキュリティ ポリシーの利点について
 - Azure Government
 - Dynamics 365 米国政府機関
 - Office 365米国政府
-- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに組み込まれているサービス)
+- Power BI クラウド サービス (スタンドアロン サービス、または Office 365 ブランド プランあるいはスイートに搭載されているサービス)
 
 ## <a name="azure-dynamics-365-and-cjis"></a>Azure、Dynamics 365、および CJIS
 
@@ -76,7 +76,7 @@ FBI は、CJIS 要件に準拠した Microsoft の認定を提供していない
 
 ### <a name="cjis-status-in-the-united-states-current-as-of-1152020"></a>米国の CJIS ステータス (2020 年 11 月 5 日現在)
 
-45 の州とコロンビア特別区と管理契約が締結され、緑色のマップで強調表示されます。
+44 の州とコロンビア特別区と管理契約が緑色でマップに強調表示されています。
 
 アラバマ州、アラスカ州、アリゾナ州、アーカンソー州、カリフォルニア州、コロラド州、コネチカット州、フロリダ州、ジョージア州、ハワイ州、アイダホ州、イリノイ州、インディアナ州、アイオワ州、 カンザス州、ケンタッキー州、メイン州、マサチューセッツ州、ミシガン州、ミネソタ州、ミネソタ州、ミシシッピ州、ミズーリ州、モンタナ州、ネブラスカ州、ネバダ州、ニューハンプシャー州、ニューハンプシャー州、ニューメキシコ州、ニューヨーク州、ノースカロライナ州、ノースダコタ州、オクラホマ州、オレゴン州、ペンシルベニア州、ロードアイランド州、サウスカロライナ州、テネシー州、テキサス州、ユタ州、バージニア州、ワシントン州、ウェストバージニア州、ウィスコンシン州、コロンビア州
 
