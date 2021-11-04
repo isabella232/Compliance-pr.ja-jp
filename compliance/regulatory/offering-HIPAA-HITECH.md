@@ -16,12 +16,12 @@ ms.collection:
 - MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft Compliance
-ms.openlocfilehash: 31fcc11280e8026bc962136c271713cd5e26078b
-ms.sourcegitcommit: 997dd3f66f65686c2e38b7e30e67add426dce5f3
+ms.openlocfilehash: 373d9c36d67324a1d3792786c45731b3da21686a
+ms.sourcegitcommit: 444a58b28f8611323e16d28b4c63a0f68eaaafa6
 ms.translationtype: MT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59160844"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60780133"
 ---
 # <a name="health-insurance-portability-and-accountability-act-hipaa--health-information-technology-for-economic-and-clinical-health-hitech-act"></a>医療保険の移植性と説明責任法 (HIPAA) &医療情報技術 (HITECH) 法
 
@@ -54,7 +54,6 @@ Microsoft クラウドがお客様の HIPAA および HITECH 要件への準拠�
 - Dynamics 365、Dynamics 365 米国政府
 - Intune
 - Microsoft Cloud App Security
-- [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
 - Microsoft Healthcare Bot Service
 - [Microsoft マネージド デスクトップ](/microsoft-365/managed-desktop/intro/compliance)
 - Microsoft Professional Services: Azure、Dynamics 365、Intune と、Microsoft 365 for business の Medium Business および Enterprise のお客様への Premier およびオンプレミス サポート
@@ -79,7 +78,7 @@ Azure、Dynamics 365、その他のオンライン サービスのコンプラ�
 
 | **適用性** | **範囲内のサービス** |
 |:------------------|:----------------------|
-| **商用** | Access Online, Azure Active Directory, Azure Communications Service, コンプライアンス マネージャー、カスタマー ロックボックス、Delve、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 マイクロサービス (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online ドキュメント サービス、注釈サービスを含むがこれらに限定されません。学校データ同期、Siphon、Speech、StaffHub、eXtensible アプリケーション プログラム)、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、Office Services インフラストラクチャ、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、顧客キーによるサービス暗号化、SharePoint Online、Skype for Business、Stream |
+| **商用** | Access Online, Azure Active Directory, Azure Communications Service、Compliance Manager、Customer Lockbox、Delve、Exchange Online、Forms、Griffin、Identity Manager、Lockbox (Torus)、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 カスタマー ポータル、Office 365 Microservices (Kaizala、ObjectStore、Sway、Power Automate、PowerPoint Online ドキュメント の注釈を含むがこれらに限定されない)サービス、学校データ同期、Siphon、Speech、StaffHub、eXtensible アプリケーション プログラム)、Office 365 セキュリティ & コンプライアンス センター、Office Online、Office Pro Plus、Office Services インフラストラクチャ、OneDrive for Business、Planner、PowerApps、Power BI、Project Online、顧客キーによるサービス暗号化、SharePoint オンライン、Skype for Business、Stream |
 | **GCC** | Azure Active Directory、Azure Communications Service、コンプライアンス マネージャー、Delve、Exchange Online、Forms、Microsoft Defender for Office 365、Microsoft Teams、MyAnalytics、Office 365 Advanced Compliance アドオン、Office 365 セキュリティ/コンプライアンス センター、Office Online、Office Pro Plus、OneDrive for Business、Planner、PowerApps、Power Automate、Power BI、SharePoint Online、Skype for Business、Stream |
 
 ### <a name="frequently-asked-questions"></a>よく寄せられる質問
