@@ -96,12 +96,10 @@
       href: /azure/security/fundamentals/customer-lockbox-overview?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Microsoft 365 のアカウント管理
       href: assurance-microsoft-365-account-management.md
-    - name: Microsoft 365 のテクノロジ制御
-      href: assurance-technology-controls.md
+    - name: Microsoft 365 サービス エンジニアのアクセスの制御
+      href: assurance-microsoft-365-service-engineer-access-control.md
     - name: Office 365 のカスタマー ロックボックス
       href: /microsoft-365/compliance/customer-lockbox-requests?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
-    - name: Yammer Enterprise でのアクセス制御
-      href: assurance-yammer-enterprise-access-controls.md
 - name: インシデント管理
   items:
     - name: ドキュメント管理の概要
